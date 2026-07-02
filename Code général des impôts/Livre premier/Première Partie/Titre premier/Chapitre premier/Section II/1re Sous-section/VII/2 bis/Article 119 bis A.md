@@ -10,7 +10,7 @@ b) Le versement ou le transfert de valeur est lié, directement ou indirectement
 
 -ou à une opération donnant le droit ou faisant obligation à la personne qui est établie ou a sa résidence en France de revendre ou de restituer, directement ou indirectement, lesdites actions ou parts à la personne qui n'est pas établie ou n'a pas sa résidence en France ;
 
--ou à un accord ou instrument financier ayant, directement ou indirectement, pour la personne qui n'est pas établie ou n'a pas sa résidence en France, un effet économique similaire à la possession desdites actions ou parts ;
+-ou à un accord ou instrument financier ayant, directement ou indirectement, pour la personne qui n'est pas établie ou n'a pas sa résidence en France, un effet économique similaire à la possession desdites actions ou parts.
 
 1 bis. Le transfert de valeur mentionné au 1 du présent I s'entend de la part du produit d'actions ou du revenu assimilé effectivement appréhendée par la personne qui n'est pas établie ou n'a pas son domicile fiscal en France, sous quelque forme que ce soit et de manière directe ou indirecte, au moyen notamment d'une combinaison d'opérations.
 

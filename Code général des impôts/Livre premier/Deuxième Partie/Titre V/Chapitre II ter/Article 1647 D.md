@@ -4,12 +4,12 @@ I. – 1. Les redevables de la cotisation foncière des entreprises sont assujet
 
 | MONTANT DU CHIFFRE D'AFFAIRES OU DES RECETTES (en euros) | MONTANT DE LA BASE MINIMUM (en euros) |
 | --- | --- |
-| Inférieur ou égal à 10 000 | Entre 247 et 589 |
-| Supérieur à 10 000 et inférieur ou égal à 32 600 | Entre 247 et 1 179 |
-| Supérieur à 32 600 et inférieur ou égal à 100 000 | Entre 247 et 2 477 |
-| Supérieur à 100 000 et inférieur ou égal à 250 000 | Entre 247 et 4 129 |
-| Supérieur à 250 000 et inférieur ou égal à 500 000 | Entre 247 et 5 897 |
-| Supérieur à 500 000 | Entre 247 et 7 669 |
+| Inférieur ou égal à 10 000 | Entre 250 et 597 |
+| Supérieur à 10 000 et inférieur ou égal à 32 600 | Entre 250 et 1 194 |
+| Supérieur à 32 600 et inférieur ou égal à 100 000 | Entre 250 et 2 509 |
+| Supérieur à 100 000 et inférieur ou égal à 250 000 | Entre 250 et 4 183 |
+| Supérieur à 250 000 et inférieur ou égal à 500 000 | Entre 250 et 5 974 |
+| Supérieur à 500 000 | Entre 250 et 7 769 |
 
 Toutefois, les redevables réalisant un montant de chiffre d'affaires ou de recettes inférieur ou égal à 5 000 € sont exonérés de la cotisation minimum. Le bénéfice de l'exonération est subordonné au respect du règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
@@ -53,7 +53,7 @@ c) Aux établissements publics de coopération intercommunale faisant applicatio
 
 I bis. – Dans le Département-Région de Mayotte :
 
-1° Les montants mentionnés au premier alinéa du 1 du I, à l'exception des montants de 250 000 €, 100 000 € et 10 000 €, sont réduits de moitié ;
+1° Les montants mentionnés au tableau du deuxième alinéa du 1 du I, à l'exception des montants de 250 000 €, 100 000 € et 10 000 €, sont réduits de moitié ;
 
 2° A défaut de délibération et par exception aux dispositions du 2 du I, le montant de la base minimum est égal à la moitié du premier montant mentionné au 1 du I.
 
@@ -70,4 +70,4 @@ II. – Quand ils ne disposent d'aucun local ou terrain :
 1. Les redevables domiciliés fiscalement au lieu de leur habitation sont redevables de la cotisation minimum à ce lieu.
 
 NOTA:
-Conformément au VII de l'article 52 de la loi n° 2025-797 du 11 août 2025, ces dispositions, dans leur rédaction résultant du titre VI de ladite loi, entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2026.
+Modification effectuée en conséquence de l'article 2-6.1.31 de la loi n° 2009-1673 du 30 décembre 2009, article 51-I-2° de la loi n° 2011-1978 du 28 décembre 2011 et article 76-I E 1° de la loi n° 2013-1278 du 29 décembre 2013.

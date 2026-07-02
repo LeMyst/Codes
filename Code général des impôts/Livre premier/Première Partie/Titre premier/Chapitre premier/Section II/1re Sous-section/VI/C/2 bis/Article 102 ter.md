@@ -1,6 +1,6 @@
 # Article 102 ter
 
-1. Le bénéfice imposable des contribuables qui perçoivent des revenus non commerciaux dont le montant hors taxes de l'année civile précédente ou de la pénultième année, ajusté s'il y a lieu au prorata du temps d'activité au cours de l'année de référence, n'excède pas 77 700 € est égal au montant brut des recettes annuelles diminué d'un abattement forfaitaire de 34 %. Cet abattement ne peut être inférieur à 305 €.
+1. Le bénéfice imposable des contribuables qui perçoivent des revenus non commerciaux dont le montant hors taxes de l'année civile précédente ou de la pénultième année, ajusté s'il y a lieu au prorata du temps d'activité au cours de l'année de référence, n'excède pas 83 600 € est égal au montant brut des recettes annuelles diminué d'un abattement forfaitaire de 34 %. Cet abattement ne peut être inférieur à 305 €.
 
 Les plus ou moins-values provenant de la cession des biens affectés à l'exploitation sont prises en compte distinctement pour l'assiette de l'impôt sur le revenu dans les conditions prévues à l'article 93 quater, sous réserve des dispositions de l'article 151 septies. Pour l'application de la phrase précédente, l'abattement mentionné au premier alinéa est réputé tenir compte des amortissements pratiqués selon le mode linéaire.
 

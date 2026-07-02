@@ -14,7 +14,7 @@ Cette actualisation est réalisée :
 
 1° Tous les douze ans, à partir des données de loyer portées à la connaissance de l'administration fiscale en application de l'article 1498 bis. Elle est réalisée sur la base des données correspondant à la situation au 1er janvier de l'année précédant celle de l'actualisation ;
 
-2° Tous les douze ans, six ans après l'actualisation mentionnée au 1° du présent A, à partir des données issues d'une campagne déclarative. Cette actualisation consiste également, le cas échéant, en la création, la suppression, la scission ou le regroupement de sous-groupes et catégories de locaux prévus au second alinéa du I de l'article 1498.
+2° Tous les douze ans, six ans après l'actualisation mentionnée au 1° du présent A, à partir des données issues d'une campagne déclarative. Cette actualisation consiste également, le cas échéant, en la création, la suppression, la scission ou le regroupement de sous-groupes et catégories de locaux prévus au deuxième alinéa du I de l'article 1498.
 
 Pour la réalisation de l'actualisation prévue au 2° du présent A, les propriétaires des biens évalués conformément au II et, le cas échéant, au III de l'article 1498 souscrivent, avant le 1er juillet de l'année précédant celle de l'actualisation, une déclaration précisant les informations relatives à chacune de ces propriétés au 1er janvier de cette même année. La liste des informations demandées est fixée par arrêté des ministres chargés de l'économie et du budget.
 

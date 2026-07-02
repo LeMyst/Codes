@@ -12,7 +12,7 @@ En cas de changement d'exploitant au cours d'une période d'exonération, celle-
 
 L'exonération porte sur la totalité de la part revenant à chaque commune ou établissement public de coopération intercommunale doté d'une fiscalité propre.
 
-Lorsque les conditions requises pour bénéficier de l'une des exonérations prévues aux articles 1383 A, 1383 D, 1383 H ou 1383 K et de celle prévue au présent article sont satisfaites, le contribuable doit opter pour l'un ou l'autre de ces régimes avant le 1er janvier de l'année au titre de laquelle l'exonération prend effet. L'option est irrévocable et vaut pour l'ensemble des communes et établissements publics de coopération intercommunale.
+Lorsque les conditions requises pour bénéficier de l'une des exonérations prévues aux articles 1383 A, 1383 D, 1383 H ou 1383 K et de celle prévue au présent article sont satisfaites le contribuable doit opter pour l'un ou l'autre de ces régimes avant le 1er janvier de l'année au titre de laquelle l'exonération prend effet. L'option est irrévocable et vaut pour l'ensemble des communes et établissements publics de coopération intercommunale.
 
 Le bénéfice de l'exonération est subordonné au respect du règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis. Toutefois, sur option des entreprises propriétaires d'un immeuble dans une zone d'aide à finalité régionale, le bénéfice de l'exonération est subordonné au respect de l'article 14 du règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité.
 

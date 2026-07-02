@@ -6,7 +6,7 @@ I. – Du déficit constaté pour une année dans une catégorie de revenus ; si
 
 Toutefois, n'est pas autorisée l'imputation :
 
-1° des déficits provenant d'exploitations agricoles lorsque le total des revenus nets d'autres sources excède 127 677 € ; ces déficits peuvent cependant être admis en déduction des bénéfices de même nature des années suivantes jusqu'à la sixième inclusivement.
+1° des déficits provenant d'exploitations agricoles lorsque le total des revenus nets d'autres sources excède 128 826 € ; ces déficits peuvent cependant être admis en déduction des bénéfices de même nature des années suivantes jusqu'à la sixième inclusivement.
 
 Le montant mentionné au premier alinéa est révisé chaque année selon les mêmes modalités que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
 
@@ -74,7 +74,7 @@ Un contribuable ne peut, au titre d'une même année et pour un même enfant, b�
 
 2° bis (Abrogé) ;
 
-2° ter. Avantages en nature consentis en l'absence d'obligation alimentaire résultant des articles 205 à 211 du code civil à des personnes agées de plus de 75 ans vivant sous le toit du contribuable et dont le revenu imposable n'excède pas le plafond de ressources mentionné à l'article L. 815-9 du code de la sécurité sociale pour l'octroi de l'allocation de solidarité aux personnes âgées mentionnée à l'article L. 815-1 du même code et de l'allocation supplémentaire d'invalidité mentionnée à l'article L. 815-24 du même code. La déduction opérée par le contribuable ne peut excéder, par bénéficiaire, la somme de 4 039 €.
+2° ter. Avantages en nature consentis en l'absence d'obligation alimentaire résultant des articles 205 à 211 du code civil à des personnes agées de plus de 75 ans vivant sous le toit du contribuable et dont le revenu imposable n'excède pas le plafond de ressources mentionné à l'article L. 815-9 du code de la sécurité sociale pour l'octroi de l'allocation de solidarité aux personnes âgées mentionnée à l'article L. 815-1 du même code et de l'allocation supplémentaire d'invalidité mentionnée à l'article L. 815-24 du même code. La déduction opérée par le contribuable ne peut excéder, par bénéficiaire, la somme de 4 075 €.
 
 Le montant de la déduction mentionnée au premier alinéa est relevé chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu ;
 
@@ -109,4 +109,4 @@ d. (sans objet).
 13° Les cotisations versées par les chefs d'exploitation ou d'entreprise agricole au titre des contrats d'assurance de groupe mentionnés au 2° de l'article L. 144-1 du code des assurances, dans les limites prévues par l'article 154 bis-0 A.
 
 NOTA:
-Conformément au II de l'article 47 de la loi n° 2026--103 du 19 février 2026 de finances pour 2026, ces dispositions, dans leur rédaction issue du 4° du I dudit article, s'appliquent aux dépenses de rénovation énergétique payées entre le 1er janvier 2026 et le 31 décembre 2027.
+Modification effectuée en conséquence de l'article 4-I B 1° a de la loi n° 2026-103 du 19 février 2026.

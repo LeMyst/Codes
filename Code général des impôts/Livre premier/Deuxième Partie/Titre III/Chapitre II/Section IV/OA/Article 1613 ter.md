@@ -22,9 +22,9 @@ II. - Le tarif de la contribution mentionnée au I est le suivant :
 
 | Quantité de sucre (en kilogrammes de sucre ajouté par hectolitre de boisson) | Tarif applicable (en euros par hectolitre de boisson) |
 | --- | --- |
-| Inférieure à 5 | 4 |
-| Entre 5 et 8 | 21 |
-| Au-delà de 8 | 35 |
+| Inférieure à 5 | 4,07 |
+| Entre 5 et 8 | 21,38 |
+| Au-delà de 8 | 35,63 |
 
 Les tarifs mentionnés dans le tableau du deuxième alinéa du présent II sont relevés au 1er janvier de chaque année, à compter du 1er janvier 2019, dans une proportion égale au taux de croissance de l'indice des prix à la consommation hors tabac de l'avant-dernière année. Ces montants sont exprimés avec deux chiffres après la virgule, le deuxième chiffre étant augmenté d'une unité si le chiffre suivant est égal ou supérieur à cinq.
 

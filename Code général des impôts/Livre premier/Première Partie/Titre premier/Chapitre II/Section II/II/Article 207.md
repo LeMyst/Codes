@@ -96,7 +96,7 @@ a) Les subventions mentionnées au c du 2° du I de l'article L. 313-19-1 du mê
 
 b) La quote-part de bénéfices provenant des activités réalisées au titre du service d'intérêt général défini aux neuvième à treizième alinéas de l'article L. 411-2 du code de la construction et de l'habitation par des sociétés imposées dans les conditions de l'article 8.
 
-16° La société mentionnée au I de l'article L. 2111-3 du code des transports pour le produit de la majoration prévue à l'article L. 422-26-1 du code des impositions des biens et services qui lui est affecté selon les modalités prévues à l'article L. 2111-3-2 du code des transports.
+16° La société mentionnée au I de l'article L. 2111-3 du code des transports pour le produit de la majoration prévue à l'article L. 422-26-1 du code des impositions sur les biens et services qui lui est affecté selon les modalités prévues à l'article L. 2111-3-2 du code des transports.
 
 17° Les communautés professionnelles territoriales de santé dont le projet de santé est validé dans les conditions prévues à l'article L. 1434-12 du code de la santé publique, pour leurs ressources perçues au titre de leurs missions de service public en application de la convention prévue à l'article L. 1434-12-2 du même code.
 

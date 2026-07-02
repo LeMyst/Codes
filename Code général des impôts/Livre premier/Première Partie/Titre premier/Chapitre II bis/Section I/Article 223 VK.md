@@ -2,13 +2,13 @@
 
 Pour l'application du présent chapitre, est entendu par :
 
-1° A Accord de titrisation : l'opération financière qui a pour objet :
+1°-0 Accord de titrisation : l'opération financière qui a pour objet :
 
 a) De regrouper des actifs financiers ou non financiers ou les risques auxquels sont exposés ces actifs ;
 
 b) De les répartir en compartiments à destination de tiers ou de créanciers d'un véhicule de titrisation, défini au 49°, qui ne sont pas des entités constitutives du groupe d'entreprise dudit véhicule ;
 
-c) De limiter l'exposition de ces tiers ou de ces créanciers au seul risque d'insolvabilité de l'entité détenant les actifs mentionnés au a du présent 1° A ;
+c) De limiter l'exposition de ces tiers ou de ces créanciers au seul risque d'insolvabilité de l'entité détenant les actifs mentionnés au a du présent 1°-0 ;
 
 1° Bénéfice qualifié net ou perte qualifiée nette des entités constitutives : la somme, respectivement positive ou négative, des résultats qualifiés de toutes les entités constitutives situées dans un même Etat ou territoire ;
 

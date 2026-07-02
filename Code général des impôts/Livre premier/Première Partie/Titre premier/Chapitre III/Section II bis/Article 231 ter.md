@@ -66,7 +66,7 @@ Dans chaque circonscription, pour le calcul de la taxe relative aux locaux à us
 
 b. (Abrogé)
 
-2. Les tarifs au mètre carré sont fixés, pour l'année 2025, conformément aux dispositions ci-dessous :
+2. Les tarifs au mètre carré sont fixés, pour l'année 2026, conformément aux dispositions ci-dessous :
 
 a) Pour les locaux à usage de bureaux :
 
@@ -75,7 +75,7 @@ a) Pour les locaux à usage de bureaux :
 | 1re CIRCONSCRIPTION | 2e CIRCONSCRIPTION | 3e CIRCONSCRIPTION | 4e CIRCONSCRIPTION |
 | --- | --- | --- | --- |
 | Tarif normal | Tarif réduit | Tarif normal | Tarif réduit | Tarif normal | Tarif réduit | Tarif normal | Tarif réduit |
-| 25,77 € | 12,81 € | 21,70 € | 10,79 € | 11,87 € | 7,15 € | 5,74 € | 5,19 € |
+| 26,11 € | 12,98 € | 21,99 € | 10,94 € | 12,03 € | 7,25 € | 5,82 € | 5,26 € |
 
 b) Pour les locaux commerciaux :
 
@@ -83,7 +83,7 @@ b) Pour les locaux commerciaux :
 
 | 1re et 2e CIRCONSCRIPTIONS | 3e CIRCONSCRIPTION | 4e CIRCONSCRIPTION |
 | --- | --- | --- |
-| 8,84 € | 4,60 € | 2,35 € |
+| 8,96 € | 4,66 € | 2,39 € |
 
 c) Pour les locaux de stockage :
 
@@ -91,7 +91,7 @@ c) Pour les locaux de stockage :
 
 | 1re et 2e CIRCONSCRIPTIONS | 3e CIRCONSCRIPTION | 4e CIRCONSCRIPTION |
 | --- | --- | --- |
-| 4,62 € | 2,35 € | 1,21 € |
+| 4,69 € | 2,39 € | 1,23 € |
 
 d) Pour les surfaces de stationnement :
 
@@ -99,7 +99,7 @@ d) Pour les surfaces de stationnement :
 
 | 1re et 2e CIRCONSCRIPTIONS | 3e CIRCONSCRIPTION | 4e CIRCONSCRIPTION |
 | --- | --- | --- |
-| 2,92 € | 1,58 € | 0,83 € |
+| 2,96 € | 1,61 € | 0,85 € |
 
 e) Ces tarifs sont actualisés au 1er janvier de chaque année en fonction de la prévision de l'indice des prix à la consommation, hors tabac, retenue dans le projet de loi de finances de l'année. Les valeurs sont arrondies, s'il y a lieu, au centime d'euro supérieur.
 
@@ -112,4 +112,4 @@ VIII. – Le contrôle, le recouvrement, le contentieux, les garanties et les sa
 IX. – La taxe n'est pas déductible de l'assiette de l'impôt sur le revenu ou de l'impôt sur les sociétés.
 
 NOTA:
-Conformément au XI de l’article 42 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I de ce même article 42, entrent en vigueur le 1er janvier 2026.
+Modification effectuée en conséquence de l'article 165-I A 5° et II de la loi n° 2018-1317 du 28 décembre 2018.

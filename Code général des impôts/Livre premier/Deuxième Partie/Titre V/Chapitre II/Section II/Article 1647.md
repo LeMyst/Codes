@@ -30,7 +30,7 @@ VII.-Pour frais d'assiette et de recouvrement, l'Etat prélève 2,5 % des sommes
 
 1° (Abrogé) ;
 
-2° La taxe annuelle sur les engins maritimes à usage personnel mentionnée à l'article L. 423-4 du même code ;
+2° La taxe annuelle sur les engins maritimes à usage personnel mentionnée à l'article L. 423-4 du code des impositions sur les biens et services ;
 
 3° La taxe sur le transport maritime de passagers à destination d'espaces naturels protégés mentionnée à l'article L. 423-47 du même code ;
 

@@ -54,7 +54,7 @@ b) D'une fraction correspondant à un taux de 13,3 % du produit de la taxe au ta
 
 c) Du produit de la taxe afférente aux contrats d'assurance en cas de décès souscrits en garantie du remboursement d'un prêt mentionnés au 5° de l'article 995, qui est affecté au budget général de l'Etat.
 
-Les tarifs mentionnés aux 1° à 6° du présent article sont réduits de moitié pour les primes afférentes à des risques situés dans le Département-Région de Mayotte.
+Les tarifs mentionnés aux 1° à 6° du I du présent article sont réduits de moitié pour les primes afférentes à des risques situés dans le Département-Région de Mayotte.
 
 NOTA:
-Conformément au VII de l'article 52 de la loi n° 2025-797 du 11 août 2025, ces dispositions, dans leur rédaction résultant du titre VI de ladite loi, entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2026.
+Modification effectuée en conséquence de l'article 38-III de la loi n° 2025-1403 du 30 décembre 2025.

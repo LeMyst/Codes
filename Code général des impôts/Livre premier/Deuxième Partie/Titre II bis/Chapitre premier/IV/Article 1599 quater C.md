@@ -22,11 +22,11 @@ V. – 1. – Un tarif au mètre carré est appliqué par circonscription, défi
 
 3° Troisième circonscription : les autres communes de la région d'Ile-de-France.
 
-2. – Les tarifs au mètre carré sont fixés, pour l'année 2025, en application du tableau ci-dessous :
+2. – Les tarifs au mètre carré sont fixés, pour l'année 2026, en application du tableau ci-dessous :
 
-| 1re CIRCONSCRIPTION | 2e CIRCONSCRIPTION | 3e CIRCONSCRIPTION |
+| 1re circonscription | 2e circonscription | 3e circonscription |
 | --- | --- | --- |
-| 4,98 € | 2,89 € | 1,47 € |
+| 5,05 € | 2,93 € | 1,49 € |
 
 Par dérogation, pour les surfaces de stationnement faisant l'objet d'une exploitation commerciale, les tarifs sont réduits de 75 % pour l'année 2019, de 50 % pour l'année 2020 et de 25 % pour l'année 2021.
 
@@ -43,4 +43,4 @@ VIII. – Le contrôle, le recouvrement, le contentieux, les garanties et les sa
 IX.-Le produit annuel de la taxe est affectée à la région d'Ile-de-France, retracée dans la section d'investissement de son budget, en vue de financer les dépenses d'investissement en faveur des transports en commun, dans la limite du montant prévu à l'article L. 4414-5 du code général des collectivités territoriales. Le solde de ce produit est affecté à l'établissement public Société des grands projets mentionné à l'article 7 de la loi n° 2010-597 du 3 juin 2010 relative au Grand Paris, dans la limite d'un plafond annuel.
 
 NOTA:
-Conformément au XI de l’article 42 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I de ce même article 42, entrent en vigueur le 1er janvier 2026.
+Modification effectuée en conséquence de l’article 165-I B et II de la loi n° n° 2018-1317 du 28 décembre 2018.

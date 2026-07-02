@@ -2,15 +2,15 @@
 
 I. - 1. Les exploitants agricoles soumis à un régime réel d'imposition peuvent pratiquer une déduction pour épargne de précaution dont le montant est plafonné, par exercice de douze mois :
 
-a) A 100 % du bénéfice imposable, s'il est inférieur à 32 990 € ;
+a) A 100 % du bénéfice imposable, s'il est inférieur à 33 287 € ;
 
-b) A la somme de 32 990 € majorée de 30 % du bénéfice excédant cette limite, lorsqu'il est supérieur ou égal à 32 990 € et inférieur à 61 092 € ;
+b) A la somme de 33 287 € majorée de 30 % du bénéfice excédant cette limite, lorsqu'il est supérieur ou égal à 33 287 € et inférieur à 61 642 € ;
 
-c) A la somme de 41 421 € majorée de 20 % du bénéfice excédant 61 092 €, lorsqu'il est supérieur ou égal à 61 092 € et inférieur à 91 639 € ;
+c) A la somme de 41 794 € majorée de 20 % du bénéfice excédant 61 642 €, lorsqu'il est supérieur ou égal à 61 642 € et inférieur à 92 464 € ;
 
-d) A la somme de 47 529 € majorée de 10 % du bénéfice excédant 91 639 €, lorsqu'il est supérieur ou égal à 91 639 € et inférieur à 122 184 € ;
+d) A la somme de 47 957 € majorée de 10 % du bénéfice excédant 92 464 €, lorsqu'il est supérieur ou égal à 92 464 € et inférieur à 123 284 € ;
 
-e) A la somme de 50 585 €, lorsque le bénéfice imposable est supérieur ou égal à 122 184 €.
+e) A la somme de 51 040 €, lorsque le bénéfice imposable est supérieur ou égal à 123 284 €.
 
 Pour les groupements agricoles d'exploitation en commun et les exploitations agricoles à responsabilité limitée qui n'ont pas opté pour le régime fiscal des sociétés de capitaux, les plafonds mentionnés aux a à e sont multipliés par le nombre des associés exploitants, dans la limite de quatre, sans pouvoir excéder le montant du bénéfice imposable.
 

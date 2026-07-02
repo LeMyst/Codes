@@ -16,7 +16,7 @@ IV. - Les personnes morales passibles de l'impôt sur les sociétés dont le chi
 
 V. - Un décret en Conseil d'Etat fixe les conditions dans lesquelles les entreprises mentionnées au b du III et au IV peuvent renoncer au bénéfice du présent article, ainsi que les conditions d'exercice de l'option prévue au a du III.
 
-VI. - Il n'est pas exigé de bilan des exploitants individuels et des sociétés visées à l'article 239 quater A soumis à l'impôt sur le revenu selon le régime d'imposition prévu au I, lorsque leur chiffre d'affaires de l'année civile précédente n'excède pas 176 000 € hors taxes s'il s'agit d'entreprises dont le commerce principal est de vendre des marchandises, objets, fournitures et denrées à emporter ou à consommer sur place, ou de fournir le logement, ou 61 000 € hors taxes s'il s'agit d'autres entreprises.
+VI. - Il n'est pas exigé de bilan des exploitants individuels et des sociétés visées à l'article 239 quater A soumis à l'impôt sur le revenu selon le régime d'imposition prévu au I, lorsque leur chiffre d'affaires de l'année civile précédente n'excède pas 189 000 € hors taxes s'il s'agit d'entreprises dont le commerce principal est de vendre des marchandises, objets, fournitures et denrées à emporter ou à consommer sur place, ou de fournir le logement, ou 66 000 € hors taxes s'il s'agit d'autres entreprises.
 
 Ces seuils sont calculés dans les conditions prévues au 1 de l'article 50-0. Ils sont actualisés tous les trois ans dans la même proportion que l'évolution triennale de la limite supérieure de la première tranche du barème de l'impôt sur le revenu et arrondis au millier d'euros le plus proche.
 

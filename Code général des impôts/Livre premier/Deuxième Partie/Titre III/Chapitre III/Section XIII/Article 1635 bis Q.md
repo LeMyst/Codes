@@ -1,6 +1,6 @@
 # Article 1635 bis Q
 
-I. - Une contribution pour l'aide juridique de 50 euros est perçue par instance introduite en matière civile et prud'homale devant un tribunal judiciaire ou un conseil des prud'hommes.
+I. - Une contribution pour l'aide juridique de 50 euros est perçue par instance introduite en matière civile et prud'homale devant un tribunal judiciaire ou un conseil de prud'hommes.
 
 II. - La contribution pour l'aide juridique est due par la partie qui introduit l'instance.
 

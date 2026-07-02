@@ -2,7 +2,7 @@
 
 En Guyane et à Mayotte, il est institué une taxe spéciale d'équipement au profit des établissements publics créés en application de l'article L. 321-36-1 et de l'article L. 321-36-8 du code de l'urbanisme.
 
-Cette taxe est destinée au financement des missions de ces établissements définies aux articles L. 321-36-1, L. 321-36-2, pour la Guyane, et L. 321-36-8 et L. 321-36-9 pour Mayotte du même code.
+Cette taxe est destinée au financement des missions de ces établissements définies aux articles L. 321-36-1, L. 321-36-2, pour la Guyane, et L. 321-36-8 et L. 321-36-9, pour Mayotte, du même code.
 
 Le montant de cette taxe est arrêté, en Guyane et à Mayotte, avant le 31 décembre de chaque année, pour l'année suivante, par le conseil d'administration de l'établissement public dans la limite d'un plafond annuel. Pour la première année au titre de laquelle l'établissement public perçoit la taxe, le montant de celle-ci est arrêté avant le 31 mars de la même année.
 

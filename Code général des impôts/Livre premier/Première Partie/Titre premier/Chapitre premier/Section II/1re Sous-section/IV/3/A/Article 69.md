@@ -1,12 +1,12 @@
 # Article 69
 
-I. Lorsque la moyenne des recettes d'un exploitant agricole, pour l'ensemble de ses exploitations, dépasse 120 000 €, hors taxes, sur trois années consécutives, l'intéressé est obligatoirement imposé d'après un régime réel d'imposition à compter de l'imposition des revenus de la première année suivant la période triennale considérée.
+I. Lorsque la moyenne des recettes d'un exploitant agricole, pour l'ensemble de ses exploitations, dépasse 129 200 €, hors taxes, sur trois années consécutives, l'intéressé est obligatoirement imposé d'après un régime réel d'imposition à compter de l'imposition des revenus de la première année suivant la période triennale considérée.
 
 II. Un régime simplifié d'imposition s'applique aux petits et moyens exploitants agricoles relevant de l'impôt sur le revenu :
 
 a. Sur option, aux exploitants normalement placés sous le régime prévu à l'article 64 bis ;
 
-b. De plein droit, aux autres exploitants dont la moyenne des recettes, mesurée sur trois années consécutives, n'excède pas 391 000 €, hors taxes.
+b. De plein droit, aux autres exploitants dont la moyenne des recettes, mesurée sur trois années consécutives, n'excède pas 421 000 €, hors taxes.
 
 III. En cas de dépassement de la limite mentionnée au b du II, les intéressés sont soumis de plein droit au régime réel normal d'imposition à compter du premier exercice suivant la période triennale considérée.
 

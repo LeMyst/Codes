@@ -2,11 +2,11 @@
 
 1. Sont soumises au régime défini au présent article pour l'imposition de leurs bénéfices les entreprises dont le chiffre d'affaires hors taxes, ajusté s'il y a lieu au prorata du temps d'exploitation au cours de l'année de référence, n'excède pas, l'année civile précédente ou la pénultième année :
 
-1° 188 700 € s'il s'agit d'entreprises dont le commerce principal est de vendre des marchandises, objets, fournitures et denrées à emporter ou à consommer sur place ou de fournir le logement, à l'exclusion de la location directe ou indirecte de locaux d'habitation meublés ou destinés à être loués meublés ;
+1° 203 100 € s'il s'agit d'entreprises dont le commerce principal est de vendre des marchandises, objets, fournitures et denrées à emporter ou à consommer sur place ou de fournir le logement, à l'exclusion de la location directe ou indirecte de locaux d'habitation meublés ou destinés à être loués meublés ;
 
 1° bis 15 000 € s'il s'agit d'entreprises dont l'activité principale est de louer directement ou indirectement des meublés de tourisme, au sens du I de l'article L. 324-1-1 du code du tourisme, autres que ceux mentionnés aux 1° et 2° du I de l'article 1414 bis du présent code ;
 
-2° 77 700 € s'il s'agit d'autres entreprises.
+2° 83 600 € s'il s'agit d'autres entreprises.
 
 Lorsque l'activité d'une entreprise se rattache à plusieurs catégories définies aux 1°, 1° bis et 2°, le régime défini au présent article n'est applicable que si le chiffre d'affaires hors taxes global de l'entreprise respecte la limite mentionnée au 1° et si le chiffre d'affaires hors taxes afférent aux activités mentionnées aux 1° bis et 2° est inférieur ou égal aux limites respectives mentionnées aux mêmes 1° bis et 2°.
 

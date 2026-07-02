@@ -37,7 +37,7 @@ L'entreprise qui donne le bien en crédit-bail ou en location avec option d'acha
 
 2° l'avantage en impôt procuré par les déductions pratiquées en application du présent article est intégralement rétrocédé à l'entreprise locataire ou crédit-preneuse sous forme de diminution de loyers accordée en même temps et au même rythme que celui auquel la déduction est pratiquée.
 
-III bis A. - Les taux mentionnés aux 1° à 5° du I et au premier alinéa du III sont majorés :
+III-0 bis. - Les taux mentionnés aux 1° à 5° du I et au premier alinéa du III sont majorés :
 
 1° De 20 % pour les moyennes entreprises au sens de l'annexe I au règlement (UE) n° 651/2014 de la Commission du 17 juin 2014 déclarant certaines catégories d'aides compatibles avec le marché intérieur en application des articles 107 et 108 du traité ;
 

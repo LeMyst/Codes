@@ -2,7 +2,7 @@
 
 Pour les groupements agricoles d'exploitation en commun dont tous les associés participent effectivement et régulièrement à l'activité du groupement par leur travail personnel :
 
-1° La moyenne des recettes au-delà de laquelle ces groupements sont soumis à un régime d'imposition d'après le bénéfice réel est égale à 60 % de la limite prévue pour les exploitants individuels multipliée par le nombre d'associés. Toutefois, elle est égale à la limite prévue pour les exploitants individuels multipliée par le nombre d'associés, lorsque la moyenne des recettes du groupement est inférieure ou égale à 480 000 €.
+1° La moyenne des recettes au-delà de laquelle ces groupements sont soumis à un régime d'imposition d'après le bénéfice réel est égale à 60 % de la limite prévue pour les exploitants individuels multipliée par le nombre d'associés. Toutefois, elle est égale à la limite prévue pour les exploitants individuels multipliée par le nombre d'associés, lorsque la moyenne des recettes du groupement est inférieure ou égale à 517 000€.
 
 Le seuil mentionné au premier alinéa du présent 1° est actualisé tous les trois ans, dans la même proportion que l'évolution triennale de la limite supérieure de la première tranche du barème de l'impôt sur le revenu, et est arrondi au millier d'euros le plus proche ;
 

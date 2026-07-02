@@ -1,6 +1,6 @@
 # Article 1635 quater K
 
-Les établissements publics de coopération intercommunale à fiscalité propre compétents en matière de plan local d'urbanisme ou de plan d'occupation des sols et les communes peuvent, par une délibération prise dans les conditions prévues au VI de l'article 1639 A bis, porter jusqu'à 6 105 € la valeur forfaitaire mentionnée au 6° de l'article 1635 quater J.
+Les établissements publics de coopération intercommunale à fiscalité propre compétents en matière de plan local d'urbanisme ou de plan d'occupation des sols et les communes peuvent, par une délibération prise dans les conditions prévues au VI de l'article 1639 A bis, porter jusqu'à 5 857 € la valeur forfaitaire mentionnée au 6° de l'article 1635 quater J.
 
 La valeur forfaitaire ainsi déterminée sert également d'assiette de la taxe d'aménagement pour la part versée au profit des départements ou de la région d'Ile-de-France.
 

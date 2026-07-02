@@ -98,11 +98,11 @@ Ces dispositions sont également applicables aux unions d'associations qui répo
 
 b. les opérations faites au bénéfice de toutes personnes par des oeuvres sans but lucratif qui présentent un caractère social ou philanthropique et dont la gestion est désintéressée, lorsque les prix pratiqués ont été homologués par l'autorité publique ou que des opérations analogues ne sont pas couramment réalisées à des prix comparables par des entreprises commerciales, en raison notamment du concours désintéressé des membres de ces organismes ou des contributions publiques ou privées dont ils bénéficient.
 
-Les organismes mentionnés au premier alinéa du 1 bis de l'article 206 et qui en remplissent les conditions, sont également exonérés pour leurs autres opérations lorsque les recettes encaissées afférentes à ces opérations n'ont pas excédé au cours de l'année civile précédente le montant de 80 011 €.
+Les organismes mentionnés au premier alinéa du 1 bis de l'article 206 et qui en remplissent les conditions, sont également exonérés pour leurs autres opérations lorsque les recettes encaissées afférentes à ces opérations n'ont pas excédé au cours de l'année civile précédente le montant de 81 051 €.
 
-Les opérations mentionnées au I de l'article 257 et les opérations donnant lieu à la perception de revenus patrimoniaux soumis aux dispositions de l'article 219 bis ne bénéficient pas de l'exonération et ne sont pas prises en compte pour le calcul de la limite de 80 011 €.
+Les opérations mentionnées au I de l'article 257 et les opérations donnant lieu à la perception de revenus patrimoniaux soumis aux dispositions de l'article 219 bis ne bénéficient pas de l'exonération et ne sont pas prises en compte pour le calcul de la limite de 81 051 €.
 
-Lorsque la limite de 80 011 € est atteinte en cours d'année, l'organisme ne peut plus bénéficier de l'exonération prévue au deuxième alinéa à compter du premier jour du mois suivant celui au cours duquel cette limite a été dépassée ;
+Lorsque la limite de 81 051 € est atteinte en cours d'année, l'organisme ne peut plus bénéficier de l'exonération prévue au deuxième alinéa à compter du premier jour du mois suivant celui au cours duquel cette limite a été dépassée ;
 
 Les limites mentionnées aux deuxième à avant-dernier alinéas du présent b sont indexées, chaque année, sur la prévision de l'indice des prix à la consommation, hors tabac, retenue dans le projet de loi de finances de l'année ;
 

@@ -2,7 +2,7 @@
 
 Pour la perception des droits de mutation à titre gratuit, il n'est pas tenu compte du lien de parenté résultant de l'adoption simple.
 
-Cette disposition n'est pas applicable aux transmissions entrant dans les prévisions du premier alinéa de l'article 368-1 du code civil, ainsi qu'à celles faites en faveur :
+Cette disposition n'est pas applicable aux transmissions entrant dans les prévisions du premier alinéa de l'article 366 du code civil, ainsi qu'à celles faites en faveur :
 
 1° D'enfants issus d'un premier mariage du conjoint de l'adoptant ;
 
@@ -19,3 +19,6 @@ Cette disposition n'est pas applicable aux transmissions entrant dans les prévi
 6° Des successibles en ligne directe descendante des personnes visées aux 1° à 5° ;
 
 7° D'adoptés, anciens déportés politiques ou enfants de déportés n'ayant pas de famille naturelle en ligne directe.
+
+NOTA:
+Modification effectuée en conséquence de l'article 12-3° de l'ordonnance n° 2022-1292 du 5 octobre 2022.

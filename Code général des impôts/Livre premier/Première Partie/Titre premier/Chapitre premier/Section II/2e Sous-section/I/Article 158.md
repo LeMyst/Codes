@@ -54,9 +54,9 @@ Dans le cas des entreprises industrielles, commerciales, artisanales ou agricole
 
 5. a. Les revenus provenant de traitements publics et privés, indemnités, émoluments, salaires et pensions ainsi que de rentes viagères autres que celles mentionnées au 6 sont déterminés conformément aux dispositions des articles 79 à 90.
 
-Les pensions et retraites font l'objet d'un abattement de 10 % qui ne peut excéder 4 399 €. Ce plafond s'applique au montant total des pensions et retraites perçues par l'ensemble des membres du foyer fiscal. Chaque année, il est révisé selon les mêmes modalités que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
+Les pensions et retraites font l'objet d'un abattement de 10 % qui ne peut excéder 4 439 €. Ce plafond s'applique au montant total des pensions et retraites perçues par l'ensemble des membres du foyer fiscal. Chaque année, il est révisé selon les mêmes modalités que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
 
-L'abattement indiqué au deuxième alinéa ne peut être inférieur à 450 €, sans pouvoir excéder le montant brut des pensions et retraites. Cette disposition s'applique au montant des pensions ou retraites perçu par chaque retraité ou pensionné membre du foyer fiscal. La somme de 450 € est révisée chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
+L'abattement indiqué au deuxième alinéa ne peut être inférieur à 454 €, sans pouvoir excéder le montant brut des pensions et retraites. Cette disposition s'applique au montant des pensions ou retraites perçu par chaque retraité ou pensionné membre du foyer fiscal. La somme de 454 € est révisée chaque année dans la même proportion que la limite supérieure de la première tranche du barème de l'impôt sur le revenu.
 
 b. Les dispositions du a sont applicables aux allocations et indemnités mentionnées aux articles L. 3232-6, L. 5122-1, L. 5122-2, L. 5123-2, L. 5422-1 et L. 5423-1 du code du travail, aux participations en espèces et, à compter du 1er janvier 1991, aux dividendes des actions de travail, alloués aux travailleurs mentionnés au 18° bis de l'article 81, lorsque ces sommes sont imposables.
 
@@ -125,4 +125,4 @@ Ces dispositions ne sont pas applicables aux rentes correspondant aux cotisation
 4° (Abrogé).
 
 NOTA:
-Conformément au II de l'article 9 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent à compter du 1er janvier 2026.
+Modification effectuée en conséquence de l'article 4-I B 1° a de la loi n° 2026-103 du 19 février 2026.

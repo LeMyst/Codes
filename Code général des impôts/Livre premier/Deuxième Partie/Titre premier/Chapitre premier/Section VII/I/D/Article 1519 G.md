@@ -10,9 +10,9 @@ III. – Le montant de l'imposition est fixé en fonction de la tension en amont
 
 | TENSION EN AMONT (en kilovolts) | TARIF PAR TRANSFORMATEUR (en euros) |
 | --- | --- |
-| Supérieure à 350 | 168 398 |
-| Supérieure à 130 et inférieure ou égale à 350 | 57 147 |
-| Supérieure à 50 et inférieure ou égale à 130 | 16 414 |
+| Supérieure à 350 | 170 587 |
+| Supérieure à 130 et inférieure ou égale à 350 | 57 890 |
+| Supérieure à 50 et inférieure ou égale à 130 | 16 627 |
 
 La tension en amont s'entend de la tension électrique en entrée du transformateur.
 

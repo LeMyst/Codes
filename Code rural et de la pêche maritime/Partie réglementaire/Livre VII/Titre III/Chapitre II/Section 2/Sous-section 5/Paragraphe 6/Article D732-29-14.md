@@ -1,6 +1,14 @@
-# Article D732-28-1
+# Article D732-29-14
 
-La durée maximale d'attribution de l'allocation de remplacement, prévue par le troisième alinéa de l'article L. 732-12-1, est celle fixée à l'article D. 331-6 du code de la sécurité sociale.
+Les prestations supplémentaires de naissance mentionnées à l'article L. 732-12-1-1 ne peuvent être cumulées avec les dispositifs suivants :
+
+1° L'indemnité journalière mentionnée à l'article L. 732-4 ;
+
+2° Les prestations mentionnées aux articles L. 732-10 à L. 732-12-1 et L. 732-12-2 à L. 732-12-3 ;
+
+3° Les indemnités journalières versées en cas d'accident du travail et de maladies professionnelles mentionnées à l'article L. 752-6 ;
+
+4° Le revenu de remplacement prévu à l'article L. 5421-2 du code du travail.
 
 NOTA:
 Conformément aux I et II de l'article 5 du décret n° 2026-426 du 30 mai 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le 1er juillet 2026 pour les parents d'enfants nés ou adoptés à compter de cette date.

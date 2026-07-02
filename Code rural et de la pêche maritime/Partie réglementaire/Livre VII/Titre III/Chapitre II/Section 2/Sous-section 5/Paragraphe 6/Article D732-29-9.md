@@ -1,6 +1,10 @@
-# Article D732-28-1
+# Article D732-29-9
 
-La durée maximale d'attribution de l'allocation de remplacement, prévue par le troisième alinéa de l'article L. 732-12-1, est celle fixée à l'article D. 331-6 du code de la sécurité sociale.
+L'allocation de remplacement est allouée pour une durée maximale d'un ou de deux mois, déterminée de date à date pour chacun des mois. Elle est fractionnable en deux périodes d'un mois chacune.
+
+La ou les périodes de cessation d'activité donnant lieu au versement de l'allocation de remplacement mentionnée à l'alinéa précédent débutent dans les neuf mois suivant la naissance de l'enfant ou, pour les parents adoptants, suivant l'arrivée de l'enfant au foyer.
+
+Lorsque la durée maximale du bénéfice de l'allocation de remplacement est augmentée en application des dispositions prévues aux articles L. 732-10-1 et L. 732-12-2, ainsi qu'aux articles R. 732-19, R. 732-19-1 et D. 732-27, le délai mentionné à l'alinéa précédent est augmenté d'autant.
 
 NOTA:
 Conformément aux I et II de l'article 5 du décret n° 2026-426 du 30 mai 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le 1er juillet 2026 pour les parents d'enfants nés ou adoptés à compter de cette date.

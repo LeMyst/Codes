@@ -1,6 +1,6 @@
-# Article D732-28-1
+# Article D732-29-12
 
-La durée maximale d'attribution de l'allocation de remplacement, prévue par le troisième alinéa de l'article L. 732-12-1, est celle fixée à l'article D. 331-6 du code de la sécurité sociale.
+A défaut de remplacement effectif, les assurés bénéficient d'indemnités journalières mentionnées au troisième alinéa de l'article L. 732-12-1-1, dans les mêmes conditions que celles prévues à l'article D. 732-29-9, sous réserve de remplir, à la date de début du congé, les conditions mentionnées au 1° à 3° de l'article R. 732-29-6 et pour une durée identique à celle prévue à l'article D. 732-29-9.
 
 NOTA:
 Conformément aux I et II de l'article 5 du décret n° 2026-426 du 30 mai 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le 1er juillet 2026 pour les parents d'enfants nés ou adoptés à compter de cette date.

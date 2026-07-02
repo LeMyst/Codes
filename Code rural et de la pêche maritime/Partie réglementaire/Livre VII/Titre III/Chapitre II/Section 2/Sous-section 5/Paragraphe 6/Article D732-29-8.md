@@ -1,6 +1,6 @@
-# Article D732-28-1
+# Article D732-29-8
 
-La durée maximale d'attribution de l'allocation de remplacement, prévue par le troisième alinéa de l'article L. 732-12-1, est celle fixée à l'article D. 331-6 du code de la sécurité sociale.
+Pour les personnes qui relèvent également du régime des travailleurs salariés et perçoivent de ce régime le remboursement des frais de santé, l'activité salariée ne doit pas avoir dépassé 60 % de la durée légale du travail pendant les douze mois précédant la date du début du congé mentionné à l'article L. 732-12-1-1.
 
 NOTA:
 Conformément aux I et II de l'article 5 du décret n° 2026-426 du 30 mai 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le 1er juillet 2026 pour les parents d'enfants nés ou adoptés à compter de cette date.

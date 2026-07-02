@@ -1,6 +1,6 @@
-# Article D732-28-1
+# Article D732-29-13
 
-La durée maximale d'attribution de l'allocation de remplacement, prévue par le troisième alinéa de l'article L. 732-12-1, est celle fixée à l'article D. 331-6 du code de la sécurité sociale.
+Le montant de l'indemnité journalière forfaitaire mentionnée au troisième alinéa de l'article L. 732-12-1-1 est égale à 1/730 de la valeur annuelle du plafond mentionné à l'article L. 241-3 du code de la sécurité sociale en vigueur à la date prévue du premier versement, affecté d'un coefficient de 0,7 au titre du premier mois et de 0,6, le cas échéant, au titre du second.
 
 NOTA:
 Conformément aux I et II de l'article 5 du décret n° 2026-426 du 30 mai 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le 1er juillet 2026 pour les parents d'enfants nés ou adoptés à compter de cette date.

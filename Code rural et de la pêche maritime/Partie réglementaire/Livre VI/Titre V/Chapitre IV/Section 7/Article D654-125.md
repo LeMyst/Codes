@@ -4,7 +4,11 @@ I.-Pour la viande de veau sous signe de qualité “ Label Rouge ” sont mis en
 
 1° Types d'interventions relatifs aux investissements dans des actifs corporels et incorporels, dans la recherche et les méthodes de production expérimentales et innovantes ;
 
-2° Types d'interventions relatifs à la mise en œuvre des systèmes de qualité nationaux et de l'Union européenne.
+2° Types d'interventions relatifs à la mise en œuvre des systèmes de qualité nationaux et de l'Union européenne ;
+
+3° Types d'interventions relatifs à la formation, y compris celle concernant l'accompagnement et l'échange de bonnes pratiques, en particulier en ce qui concerne les techniques de lutte durable contre les organismes nuisibles et les maladies, l'utilisation durable des produits phytopharmaceutiques et zoosanitaires, l'adaptation au changement climatique et l'atténuation de celui-ci, ainsi que l'utilisation de plateformes de négociation organisées et de bourses de marchandises au comptant et à terme ;
+
+4° Types d'interventions relatifs à la promotion, à la communication et à la commercialisation, y compris des actions et activités visant en particulier à mieux sensibiliser les consommateurs aux systèmes de qualité de l'Union européenne et à l'importance d'une alimentation saine, et à diversifier et consolider les marchés.
 
 II.-Ces types d'interventions sont mis en œuvre au moyen de programmes opérationnels dans les conditions prévues à la section 7 du chapitre III du titre III du règlement (UE) 2021/2115 du Parlement européen et du Conseil du 2 décembre 2021.
 

@@ -1,0 +1,7 @@
+# Article R631-4-28
+
+Lorsque le comité constate que des mesures mentionnées aux II et III de l'article L. 631-28-3 qu'il a décidées ne sont pas respectées, son président désigne un rapporteur pour instruire l'affaire en toute indépendance.
+
+Les auditions auxquelles le rapporteur procède, le cas échéant, donnent lieu à l'établissement d'un procès-verbal signé par les personnes entendues. En cas de refus de signature du procès-verbal, il en est fait mention par le rapporteur. Les personnes entendues peuvent être assistées d'un conseil de leur choix. Elles sont informées de leur droit de se taire.
+
+Le rapporteur établit un rapport écrit comprenant un exposé des éléments du dossier, auquel sont annexées l'ensemble des pièces de l'instruction. Il adresse ce rapport au responsable de l'inexécution des mesures mentionnées aux articles II et III de l'article L. 631-28-3, par lettre recommandée avec demande d'avis de réception ou par tout autre moyen permettant d'attester de la date de réception de cette notification, accompagné d'un courrier informant celui-ci des griefs susceptibles d'être retenus contre lui et pouvant donner lieu au prononcé d'une sanction, de la possibilité pour lui de se faire assister d'un conseil de son choix, de son droit de présenter des observations écrites dans un délai d'un mois à compter de la réception de cette notification et de son droit à garder le silence.

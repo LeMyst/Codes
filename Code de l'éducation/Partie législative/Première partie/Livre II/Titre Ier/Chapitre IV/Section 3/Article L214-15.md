@@ -2,7 +2,7 @@
 
 Le fonds régional de la formation professionnelle continue est régi par les dispositions de l'article L. 4332-1 du code général des collectivités territoriales ci-après reproduites :
 
-" Art. L. 4332-1-Les charges en matière de formation professionnelle et d'apprentissage sont compensées selon la procédure prévue aux articles L. 1614-1, L. 1614-2 et L. 1614-3. Il est créé dans chaque région un fonds régional de l'apprentissage et de la formation professionnelle continue, qui est géré par le conseil régional.
+" Art. L. 4332-1. - Les charges en matière de formation professionnelle et d'apprentissage sont compensées selon la procédure prévue aux articles L. 1614-1, L. 1614-2 et L. 1614-3. Il est créé dans chaque région un fonds régional de l'apprentissage et de la formation professionnelle continue, qui est géré par le conseil régional.
 
 Ce fonds est alimenté chaque année par :
 

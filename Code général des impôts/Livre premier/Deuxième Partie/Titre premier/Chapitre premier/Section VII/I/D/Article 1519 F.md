@@ -17,3 +17,6 @@ En cas de création de centrale de production d'énergie électrique d'origine p
 En cas de cessation définitive d'exploitation d'une centrale de production d'énergie électrique d'origine photovoltaïque ou hydraulique, l'exploitant est tenu d'en faire la déclaration au service des impôts dont dépend la centrale de production avant le 1er janvier de l'année suivant celle de la cessation lorsque la cessation intervient en cours d'année, ou avant le 1er janvier de l'année de la cessation lorsque celle-ci prend effet au 1er janvier.
 
 Le contrôle, le recouvrement, le contentieux, les garanties, sûretés et privilèges sont régis comme en matière de cotisation foncière des entreprises.
+
+NOTA:
+Modification effectuée en conséquence de l'article 37-VI B 4° de la loi n° 2012-1510 du 29 décembre 2012.

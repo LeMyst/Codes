@@ -61,3 +61,6 @@ XIII. – Le défaut de transmission dans les délais prescrits des informations
 XIV.-Le manquement, par une institution financière soumise aux obligations prévues au I de l'article 1649 AC qui ne relève ni du contrôle de l'Autorité de contrôle prudentiel et de résolution prévu au 7° du II de l'article L. 612-1 du code monétaire et financier, ni du contrôle de l'Autorité des marchés financiers prévu à l'article L. 621-20-6 du même code, à l'obligation prévue au premier alinéa de l'article L. 564-2 dudit code entraîne l'application d'une amende fiscale qui ne peut excéder 50 000 euros.
 
 XV.-Le non-respect par un prestataire de services des obligations de diligence prévues au I de l'article 1649 AC quinquies entraîne l'application d'une amende fiscale qui ne peut excéder 50 000 euros.
+
+NOTA:
+Modifications effectuées en conséquence de l'article 26-4° de l'ordonnance n° 2024-936 du 15 octobre 2024.

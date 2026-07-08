@@ -61,3 +61,6 @@ E. - Les A à C du présent V s'appliquent également à toute personne acquéra
 F. - Lorsque le redevable, ou la personne mentionnée au E, n'est pas établi dans un Etat membre de l'Union européenne ou dans l'un des Etats mentionnés au 1° du I de l'article 289 A, il fait accréditer auprès du service des impôts compétent, dans les conditions prévues au IV du même article, un représentant assujetti à la taxe sur la valeur ajoutée établi en France qui s'engage à remplir les formalités au nom et pour le compte du représenté et, le cas échéant, à acquitter la contribution à sa place.
 
 VI. - Le produit de la contribution régie par le présent article est affecté à la branche mentionnée au 2° de l'article L. 722-8 du code rural et de la pêche maritime.
+
+NOTA:
+Modifications effectuées en conséquence de l'article 31-I-1° a, b et c et II de la loi n° 2025-199 du 28 février 2025.

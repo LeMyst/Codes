@@ -79,4 +79,4 @@ XXI.-Pour frais d'assiette et de recouvrement, l'Etat effectue un prélèvement 
 XXII.-Le présent article est applicable dans les collectivités régies par l'article 74 de la Constitution et en Nouvelle-Calédonie dans la mesure où les impositions formant la base imposable des frais y sont applicables.
 
 NOTA:
-Conformément au A du XII de l'article 81 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant de l'article précité, entrent en vigueur le 1er mars 2026.
+Modifications effectuées en conséquence de l'article 111-I-3° et VIII B de la loi n° 2023-1322 du 29 décembre 2023.

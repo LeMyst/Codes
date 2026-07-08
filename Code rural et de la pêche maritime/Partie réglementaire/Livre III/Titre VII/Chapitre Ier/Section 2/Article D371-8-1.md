@@ -26,4 +26,4 @@ Pour leur application en Guadeloupe, en Guyane, en Martinique, à La Réunion et
 
 “ Art. D. 341-6-6-II.-Un arrêté du préfet fixe la liste des mesures ouvertes à la souscription. Le préfet peut fixer des critères de priorisation des demandes d'aides des mesures agroenvironnementales et climatiques et de l'aide au maintien de l'agriculture biologique.
 
-“ III.-Les aides et mesures mentionnées à l'article D. 341-6-2 font l'objet d'un engagement pris par le bénéficiaire pour une durée d'un ou cinq ans. ”
+“ III.-Les aides et mesures mentionnées à l'article D. 341-6-2 font l'objet d'un engagement pris par le bénéficiaire pour une durée comprise entre un et cinq ans. ”

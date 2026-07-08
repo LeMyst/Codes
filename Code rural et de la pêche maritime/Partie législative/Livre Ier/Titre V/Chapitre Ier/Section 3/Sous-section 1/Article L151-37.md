@@ -12,7 +12,7 @@ Sont également dispensés d'enquête publique, sous réserve qu'ils n'entraîne
 
 Sont également dispensés d'enquête publique, sous réserve qu'ils n'entraînent aucune expropriation et que le maître d'ouvrage ne prévoie pas de demander une participation financière aux personnes intéressées, les travaux d'entretien et de restauration des milieux aquatiques. Il est cependant procédé comme indiqué à l'article 3 de la loi du 29 décembre 1892 précitée.
 
-Sont également dispensés d'enquête publique, sous réserve qu'ils n'entraînent aucune expropriation, que le maître d'ouvrage ne prévoie pas de demander une participation financière aux personnes intéressées et qu'ils ne soient pas soumis à évaluation environnementale au titre de l'article L. 122-1 du code de l'environnement, les travaux de restauration des fonctionnalités naturelles des milieux aquatiques :
+Sont également dispensés d'enquête publique, sous réserve qu'ils n'entraînent aucune expropriation, que le maître d'ouvrage ne prévoie pas de demander une participation financière aux personnes intéressées et qu'ils ne soient pas soumis à évaluation environnementale au titre de l'article L. 122-1 du code de l'environnement, les travaux de restauration des fonctionnalités naturelles des cours d'eau prévus aux articles L. 215-14 à L. 215-18 du code de l'environnement. Il est cependant procédé comme indiqué au deuxième alinéa de l'article 3 de la loi du 29 décembre 1892 précitée.
 
 1° A réaliser dans la bande de six mètres couverte par la servitude prévue à l'article L. 215-18 du même code ;
 

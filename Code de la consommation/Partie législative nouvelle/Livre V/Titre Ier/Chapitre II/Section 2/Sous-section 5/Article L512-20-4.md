@@ -1,0 +1,3 @@
+# Article L512-20-4
+
+Les agents de la concurrence, de la consommation et de la répression des fraudes et les agents de la Commission nationale de l'informatique et des libertés sont autorisés à se communiquer, spontanément ou sur demande, tous les renseignements et les documents détenus ou recueillis dans le cadre de leurs missions respectives et nécessaires à la recherche et à la constatation des infractions et des manquements à la réglementation relevant de leurs champs de compétences respectifs, sans que l'article 11 du code de procédure pénale ou les dispositions relatives au secret professionnel fassent obstacle à une telle communication.

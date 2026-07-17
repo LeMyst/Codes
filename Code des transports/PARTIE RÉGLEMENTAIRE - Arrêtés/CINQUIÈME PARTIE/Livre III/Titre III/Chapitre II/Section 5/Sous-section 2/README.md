@@ -1,1 +1,1 @@
-Sous-section 2 : Réalisation des contrôles de sûreté
+Sous-section 2 : Obligations liées aux contrôles de sûreté

@@ -35,5 +35,3 @@ L'agent de sûreté du port établit et conserve une fiche de retour d'expérien
 3° Est tenue à la disposition du président du comité local de sûreté portuaire.
 
 Lorsqu'un exercice de sûreté est organisé conjointement par l'agent de sûreté du port et un ou plusieurs agents de sûreté de l'installation portuaire, il est pris en compte à la fois au titre du présent article et de l'article A. 5332-413.
-
-2° Après l'article A. 5332-412, est inséré un article A. 5332-413 ainsi rédigé :

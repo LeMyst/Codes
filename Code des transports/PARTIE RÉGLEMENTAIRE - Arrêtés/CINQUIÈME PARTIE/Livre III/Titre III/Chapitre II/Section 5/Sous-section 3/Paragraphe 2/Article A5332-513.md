@@ -1,0 +1,5 @@
+# Article A5332-513
+
+En application du 3° de l'article R. 5332-53, l'exploitant assure une surveillance adaptée de l'installation portuaire au moyen de rondes ou d'un système de vidéosurveillance.
+
+Lorsque l'évaluation de sûreté de l'installation portuaire conclut que les dispositions précédentes sont disproportionnées au regard des risques ou inadaptées au regard des circonstances locales, elle peut prévoir que la surveillance soit assurée à l'intérieur de l'installation portuaire, notamment par le personnel présent sur les terre-pleins. Ce personnel est alors formé au risque d'intrusion et doit être capable de détecter toute personne suspecte ou non autorisée. En cas de doute, ce personnel peut vérifier le besoin de toute personne de pénétrer dans l'installation portuaire ou à bord du navire et, le cas échéant, lui empêcher l'accès au navire. Des tests d'intrusion sont régulièrement réalisés afin de maintenir vigilance du personnel et mettre à l'épreuve les procédures d'alerte et de réaction. Sauf dispositions contraires justifiées par l'évaluation de sûreté de l'installation portuaire, ces mesures particulières ne s'appliquent qu'au niveau de sûreté 1.

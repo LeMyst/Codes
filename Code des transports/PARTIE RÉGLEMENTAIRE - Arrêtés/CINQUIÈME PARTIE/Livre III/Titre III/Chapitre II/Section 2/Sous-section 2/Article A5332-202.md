@@ -1,6 +1,6 @@
 # Article A5332-202
 
-La sensibilisation mentionnée à l'article A. 5332-200 donne lieu à la délivrance par l'exploitant de l'installation portuaire ou, pour son compte, par l'autorité portuaire ou par l'organisme de formation en sûreté portuaire agréé d'une attestation de formation à tout personnel de l'installation portuaire qui justifie du suivi de la formation mentionnée audit article.
+La sensibilisation mentionnée à l'article A. 5332-201 donne lieu à la délivrance par l'exploitant de l'installation portuaire ou, pour son compte, par l'autorité portuaire ou par l'organisme de formation en sûreté portuaire agréé d'une attestation de formation à tout personnel de l'installation portuaire qui justifie du suivi de la formation mentionnée audit article.
 
 L'attestation de formation, établie en langue française, comporte les mentions suivantes dans cet ordre :
 
@@ -8,7 +8,7 @@ L'attestation de formation, établie en langue française, comporte les mentions
 
 -Attestation de formation “ Personnel de l'installation portuaire non chargé de tâches de sûreté ” ;
 
--Vu l'article L. 5332-3 et les articles A. 5332-200 et suivants du code des transports ;
+-Vu l'article L. 5332-3 et les articles A. 5332-201 et suivants du code des transports ;
 
 -Vu la circulaire de l'Organisation maritime internationale MSC. 1 n° 1341 du 27 mai 2010 portant directives sur la formation et la familiarisation en matière de sûreté du personnel des installations portuaires et son annexe (tableau 1) ;
 

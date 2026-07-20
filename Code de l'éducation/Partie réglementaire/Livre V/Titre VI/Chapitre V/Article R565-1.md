@@ -7,14 +7,15 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 | R. 511-1 et R. 511-2 R. 511-6 à R. 511-11 | Résultant du décret n° 2009-553 du 15 mai 2009 |
 | R. 511-12 | Résultant du décret n° 2011-728 du 24 juin 2011 |
 | R. 511-12-1 | Résultant du décret n° 2025-609 du 1er juillet 2025 |
-| R. 511-13 et R. 511-13-1 | Résultant du décret n° 2019-906 du 30 août 2019 |
+| R. 511-13 | Résultant du décret n° 2026-637 du 16 juillet 2026 |
+| R. 511-13-1 | Résultant du décret n° 2019-906 du 30 août 2019 |
 | R. 511-14 | Résultant du décret n° 2023-782 du 16 août 2023 |
 | R. 511-19-1 | Résultant du décret n° 2011-728 du 24 juin 2011 |
 | R. 511-20 | Résultant du décret n° 2009-553 du 15 mai 2009 |
 | R. 511-20-1 | Résultant du décret n° 2023-782 du 16 août 2023 |
 | R. 511-21 et R. 511-22 | Résultant du décret n° 2016-1228 du 16 septembre 2016 |
 | R. 511-26 | Résultant du décret n° 2023-782 du 16 août 2023 |
-| R. 511-27 R. 511-49 R. 511-53 R. 511-74 et R. 511-75 R. 552-2 | Résultant du décret n° 2009-553 du 15 mai 2009 |
+| R. 511-27 R. 511-49R. 511-53R. 511-74 et R. 511-75R. 552-2 | Résultant du décret n° 2009-553 du 15 mai 2009 |
 
 II.-Pour l'application du I :
 
@@ -43,3 +44,6 @@ c) Le 4° est complété par les mots : “ ou, à défaut, pour les collèges, 
 6° La dernière phrase de l'article R. 511-49 est remplacée par une phrase ainsi rédigée : “ Le vice-recteur décide après avis de la commission d'appel constituée auprès de lui, réunie sous sa présidence ou celle de son représentant. ” ;
 
 7° Aux articles R. 511-74 et R. 511-75, les mots : “ et privés sous contrat ” sont supprimés.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2026-637 du 16 juillet 2026, ces dispositions, dans leur rédaction issue du décret précité, s'appliquent aux procédures disciplinaires engagées à raison de faits commis à compter de la prochaine rentrée scolaire.

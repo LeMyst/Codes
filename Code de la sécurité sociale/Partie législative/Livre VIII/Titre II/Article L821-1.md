@@ -1,6 +1,6 @@
 # Article L821-1
 
-Toute personne résidant sur le territoire métropolitain ou dans les collectivités mentionnées à l'article L. 751-1 ou à Saint-Pierre-et-Miquelon ayant dépassé l'âge d'ouverture du droit à l'allocation prévue à l'article L. 541-1 et dont l'incapacité permanente est au moins égale à un pourcentage fixé par décret perçoit, dans les conditions prévues au présent titre, une allocation aux adultes handicapés.
+Toute personne résidant sur le territoire métropolitain ou dans les collectivités mentionnées à l'article L. 111-2 ayant dépassé l'âge d'ouverture du droit à l'allocation prévue à l'article L. 541-1 et dont l'incapacité permanente est au moins égale à un pourcentage fixé par décret perçoit, dans les conditions prévues au présent titre, une allocation aux adultes handicapés.
 
 Les personnes de nationalité étrangère, hors les ressortissants des Etats membres de l'Union européenne ou parties à l'accord sur l'Espace économique européen, ne peuvent bénéficier de l'allocation aux adultes handicapés que si elles sont en situation régulière au regard de la législation sur le séjour ou si elles sont titulaires d'une attestation de demande de renouvellement de titre de séjour. Un décret fixe la liste des titres ou documents attestant la régularité de leur situation.
 
@@ -25,4 +25,4 @@ Lorsqu'une personne bénéficiaire de l'allocation aux adultes handicapés se vo
 Lorsque l'allocation aux adultes handicapés est versée en complément de la rémunération garantie visée à l'article L. 243-4 du code de l'action sociale et des familles, le cumul de cet avantage avec la rémunération garantie mentionnée ci-dessus est limité à des montants fixés par décret qui varient notamment selon que le bénéficiaire a une ou plusieurs personnes à charge. Ces montants varient en fonction du salaire minimum de croissance prévu à l'article L. 141-4 du code du travail.
 
 NOTA:
-Conformément au B du VIII de l'article 87 de la loi n° 2025-199 du 28 février 2025, les B à E, G, H, J et K et les 3°, 4°, 6° et 7°, les trois premiers alinéas du 8° et les 10°, 11°, 13° à 16° et 18° à 32° du L du I, les 2°, 7°, 8°, 11°, 15°, 16°, 20° à 22°, 24° et 25° du II et le III de l'article précité entrent en vigueur le 1er janvier 2026.
+Conformément à l’article 7 de l’ordonnance n° 2026-648 du 22 juillet 2026, ces dispositions, dans leur rédaction résultant de ladite ordonnance, entrent en vigueur immédiatement, soit le 23 juillet 2026.

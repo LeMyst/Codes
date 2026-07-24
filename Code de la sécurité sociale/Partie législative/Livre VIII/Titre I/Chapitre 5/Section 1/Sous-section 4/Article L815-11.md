@@ -4,7 +4,7 @@ L'allocation peut être révisée, suspendue ou supprimée à tout moment lorsqu
 
 Un décret en Conseil d'Etat fixe les conditions dans lesquelles l'allocation peut être révisée, suspendue ou supprimée par les services ou organismes mentionnés à l'article L. 815-7.
 
-Dans tous les cas, les arrérages versés sont acquis aux bénéficiaires sauf lorsqu'il y a fraude, absence de déclaration du transfert de leur résidence hors du territoire métropolitain ou des collectivités mentionnées à l'article L. 751-1, absence de déclaration des ressources ou omission de ressources dans les déclarations.
+Dans tous les cas, les arrérages versés sont acquis aux bénéficiaires sauf lorsqu'il y a fraude, absence de déclaration du transfert de leur résidence hors du territoire métropolitain ou des collectivités mentionnées à l'article L. 111-2, absence de déclaration des ressources ou omission de ressources dans les déclarations.
 
 Toute demande de remboursement de trop-perçu se prescrit par deux ans à compter de la date du paiement de l'allocation entre les mains du bénéficiaire, sauf en cas de fraude ou de fausse déclaration.
 
@@ -13,4 +13,4 @@ Lorsque l'indu notifié ne peut être recouvré sur l'allocation mentionnée au 
 Les dispositions des quatrième à dernier alinéas de l'article L. 133-4-1 sont applicables au recouvrement des indus mentionnés au présent article.
 
 NOTA:
-Conformément à l’article 3 de l’ordonnance n° 2019-765 du 24 juillet 2019, ces dispositions entrent en vigueur à une date fixée par décret en Conseil d'Etat, au plus tôt le 1er janvier 2020 et au plus tard le 1er juillet 2020.
+Conformément à l’article 7 de l’ordonnance n° 2026-648 du 22 juillet 2026, ces dispositions, dans leur rédaction résultant de ladite ordonnance, entrent en vigueur immédiatement, soit le 23 juillet 2026.

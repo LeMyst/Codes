@@ -216,7 +216,7 @@ Pour l'application du présent code, les termes ci-après ont le sens qui leur e
 
 6.5. Véhicule d'intérêt général prioritaire :
 
-a) Véhicule des services de police, de gendarmerie, des douanes, de lutte contre l'incendie, d'intervention des services de déminage de l'Etat, d'intervention des unités mobiles hospitalières ou, à la demande du service d'aide médicale urgente, affecté exclusivement à l'intervention de ces unités ;
+a) Véhicule des services de police, de gendarmerie, des douanes, des services d'incendie et de secours et des formations militaires de la sécurité civile, d'intervention des services de déminage de l'Etat, d'intervention des unités mobiles hospitalières ou, à la demande du service d'aide médicale urgente, affecté exclusivement à l'intervention de ces unités ;
 
 b) Véhicule du ministère de la justice affecté soit au transport des détenus ou au rétablissement de l'ordre dans les établissements pénitentiaires, soit à l'exercice des missions relevant de la permanence liée à la conduite de l'action publique par le procureur de la République ou l'un de ses substituts ;
 

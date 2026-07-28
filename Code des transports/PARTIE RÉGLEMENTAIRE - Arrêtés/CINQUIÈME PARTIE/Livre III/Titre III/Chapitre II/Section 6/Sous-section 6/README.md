@@ -1,1 +1,1 @@
-Sous-section 6 : Suivi des décisions
+Sous-section 6 : Matérialisation de l'autorisation

@@ -77,10 +77,9 @@ Sont applicables en Nouvelle-Calédonie les dispositions du présent livre menti
 | R. 242-8 à R. 242-14 | Résultant du décret n° 2023-283 du 19 avril 2023 |
 | R. 243-1 à R. 243-8 | Résultant du décret n° 2024-238 du 18 mars 2024 |
 | Au titre V | |
-| R. 251-1 à R. 252-12 | Résultant du décret n° 2023-1102 du 27 novembre 2023 |
+| R. 251-1 à R. 252-9 | Résultant du décret n° 2023-1102 du 27 novembre 2023 |
+| R. 252-10 | Résultant du décret n° 2026-674 du 27 juillet 2026 |
+| R. 252-11 et R. 252-12 | Résultant du décret n° 2023-1102 du 27 novembre 2023 |
 | R. 252-14 à R. 254-2 | Résultant du décret n° 2023-1102 du 27 novembre 2023 |
 | Au titre V bis | |
 | R. 256-1 à R. 256-7 | Résultant du décret n° 2023-1330 du 28 décembre 2023 |
-
-NOTA:
-Conformément à l’article 10 du décret n° 2024-302 du 2 avril 2024, ces dispositions entrent en vigueur le 1er mai 2024.

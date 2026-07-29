@@ -56,6 +56,7 @@ Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues 
 | R. 613-3-6 à R. 613-3-7 | Résultant du décret n° 2017-1844 du 29 décembre 2017 |
 | R. 613-4 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
 | R. 613-5 | Résultant du décret n° 2017-1844 du 29 décembre 2017 |
+| R. 613-6 à R. 613-9 | Résultant du décret n° 2026-670 du 27 juillet 2026 |
 | R. 613-10 | Résultant du décret n° 2022-209 du 18 février 2022 |
 | R. 613-11 à R. 613-13 | Résultant du décret n° 2022-449 du 30 mars 2022 |
 | R. 613-14 à R. 613-16 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
@@ -140,6 +141,3 @@ Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues 
 | R. 634-15 | Résultant du décret n° 2023-50 du 1er février 2023 |
 | R. 634-16 | Résultant du décret n° 2024-311 du 4 avril 2024 |
 | R. 634-17 à R. 634-19 | Résultant du décret n° 2022-449 du 30 mars 2022 |
-
-NOTA:
-Conformément au 3° de l'article 10 du décret n° 2025-1344 du 26 décembre 2025, ces dispositions, dans leur rédaction résultant de l’article 7 du décret précité, entrent en vigueur à une date fixée par un arrêté conjoint du ministre de l'intérieur et de la ministre des outre-mer et au plus tard le 31 décembre 2026.

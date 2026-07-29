@@ -56,8 +56,7 @@ Sont applicables dans les Terres australes et antarctiques françaises les dispo
 | R. 236-50 | Résultant du décret n° 2023-1013 du 2 novembre 2023 |
 | R. 236-51 à R. 236-53 | Résultant du décret n° 2016-1045 du 29 juillet 2016 |
 | Au titre V | |
-| R. 251-1 à R. 252-12 | Résultant du décret n° 2023-1102 du 27 novembre 2023 |
+| R. 251-1 à R. 252-9 | Résultant du décret n° 2023-1102 du 27 novembre 2023 |
+| R. 252-10 | Résultant du décret n° 2026-674 du 27 juillet 2026 |
+| R. 252-11 et R. 252-12 | Résultant du décret n° 2023-1102 du 27 novembre 2023 |
 | R. 252-14 à R. 254-2 | Résultant du décret n° 2023-1102 du 27 novembre 2023 |
-
-NOTA:
-Conformément à l’article 10 du décret n° 2024-302 du 2 avril 2024, ces dispositions entrent en vigueur le 1er mai 2024.

@@ -55,6 +55,7 @@ Sont applicables en Polynésie française, sous réserve des adaptations prévue
 | R. 613-3-6 à R. 613-3-7 | Résultant du décret n° 2017-1844 du 29 décembre 2017 |
 | R. 613-4 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
 | R. 613-5 | Résultant du décret n° 2017-1844 du 29 décembre 2017 |
+| R. 613-6 à R. 613-9 | Résultant du décret n° 2026-670 du 27 juillet 2026 |
 | R. 613-10 | Résultant du décret n° 2022-209 du 28 février 2022 |
 | R. 613-11 à R. 613-13 | Résultant du décret n° 2022-449 du 30 mars 2022 |
 | R. 613-14 à R. 613-16 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |

@@ -1,8 +1,8 @@
 # Article L121-4-1
 
-I.-Au titre de sa mission d'éducation à la citoyenneté, le service public de l'éducation prépare les élèves à vivre en société et à devenir des citoyens responsables et libres, conscients des principes et des règles qui fondent la démocratie. Les enseignements mentionnés à l'article L. 312-15 et les actions engagées dans le cadre du comité prévu à l'article L. 421-8 relèvent de cette mission.
+I. - Au titre de sa mission d'éducation à la citoyenneté, le service public de l'éducation prépare les élèves à vivre en société et à devenir des citoyens responsables et libres, conscients des principes et des règles qui fondent la démocratie. Les enseignements mentionnés à l'article L. 312-15 et les actions engagées dans le cadre du comité prévu à l'article L. 421-8 relèvent de cette mission.
 
-II.-Le champ de la mission de promotion de la santé à l'école comprend :
+II. - Le champ de la mission de promotion de la santé à l'école comprend :
 
 1° La mise en place d'un environnement scolaire favorable à la santé ;
 
@@ -24,4 +24,4 @@ La promotion de la santé à l'école telle que définie aux 1° à 7° du prés
 
 Elle est conduite, dans tous les établissements d'enseignement, y compris les instituts médico-éducatifs, conformément aux priorités de la politique de santé et dans les conditions prévues à l'article L. 1411-1-1 du code de la santé publique, par les autorités académiques en lien avec les agences régionales de santé, les collectivités territoriales et les organismes d'assurance maladie concernés. Elle veille également à sensibiliser l'environnement familial des élèves afin d'assurer une appropriation large des problématiques de santé publique.
 
-Des acteurs de proximité non professionnels de santé concourent également à la promotion de la santé à l'école. Des actions tendant à rendre les publics cibles acteurs de leur propre santé sont favorisées. Elles visent, dans une démarche de responsabilisation, à permettre l'appropriation des outils de prévention et d'éducation à la santé.
+Les actions de promotion de la santé à l'école peuvent être réalisées en partenariat avec une association de prévention en santé agréée dans des conditions définies par voie réglementaire, avec une communauté professionnelle territoriale de santé mentionnée à l'article L. 1434-12 du même code et avec des acteurs de proximité non professionnels de santé. Des actions tendant à rendre les publics cibles acteurs de leur propre santé sont favorisées. Elles visent, dans une démarche de responsabilisation, à permettre l'appropriation des outils de prévention et d'éducation à la santé.

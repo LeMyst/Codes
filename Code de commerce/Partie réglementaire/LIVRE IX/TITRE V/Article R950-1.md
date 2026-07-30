@@ -208,21 +208,21 @@ Les articles R. 123-220 à R. 123-234-2 sont applicables en ce qu'ils concernent
 
 2° Le livre II, à l'exception des articles R. 229-1 à R. 229-26 et R. 252-1 ;
 
-L'article R. 210-3 est applicable dans sa rédaction résultant du décret n° 2020-106 du 10 février 2020 ;
+L'article R. 210-3 est applicable dans sa rédaction résultant du décret n° 2020-106 du 10 février 2020;
 
-Les articles R. 210-6 et R. 210-7 sont applicables dans leur rédaction résultant du décret n° 2019-1097 du 28 octobre 2019 ;
+Les articles R. 210-6 et R. 210-7 sont applicables dans leur rédaction résultant du décret n° 2019-1097 du 28 octobre 2019;
 
 Les articles R. 210-11 et R. 210-16 sont applicables dans leur rédaction résultant du décret n° 2020-106 du 10 février 2020 ;
 
-Les articles R. 221-3 et R. 221-4 sont applicables dans leur rédaction résultant du décret n° 2019-1118 du 31 octobre 2019 ;
+Les articles R. 221-3 et R. 221-4 sont applicables dans leur rédaction résultant du décret n° 2019-1118 du 31 octobre 2019;
 
-L'article R. 221-5 est applicable dans sa rédaction résultant du décret n° 2019-1419 du 20 décembre 2019 ;
+L'article R. 221-5 est applicable dans sa rédaction résultant du décret n° 2019-1419 du 20 décembre 2019;
 
 L'article R. 221-7 est applicable dans sa rédaction résultant du décret n° 2023-1394 du 30 décembre 2023 ;
 
-L'article R. 223-10 est applicable dans sa rédaction résultant du décret n° 2017-1165 du 12 juillet 2017 ;
+L'article R. 223-10 est applicable dans sa rédaction résultant du décret n° 2017-1165 du 12 juillet 2017;
 
-L'article R. 223-11 est applicable dans sa rédaction résultant du décret n° 2019-1419 du 20 décembre 2019 ;
+L'article R. 223-11 est applicable dans sa rédaction résultant du décret n° 2019-1419 du 20 décembre 2019;
 
 L'article R. 223-18 est applicable dans sa rédaction résultant du décret n° 2023-1394 du 30 décembre 2023 ;
 
@@ -232,29 +232,29 @@ L'article R. 223-20-1-1 est applicable dans sa rédaction résultant du décret 
 
 Les articles R. 223-20-2 et R. 223-20-3 sont applicables dans leur rédaction résultant du décret n° 2018-146 du 28 février 2018 ;
 
-L'article R. 223-26 est applicable dans sa rédaction résultant du décret n° 2019-1118 du 31 octobre 2019 ;
+L'article R. 223-26 est applicable dans sa rédaction résultant du décret n° 2019-1118 du 31 octobre 2019;
 
-L'article R. 223-30 est applicable dans sa rédaction résultant du décret n° 2019-1419 du 20 décembre 2019 ;
+L'article R. 223-30 est applicable dans sa rédaction résultant du décret n° 2019-1419 du 20 décembre 2019;
 
-L'article R. 223-36 est applicable dans sa rédaction résultant du décret n° 2020-106 du 10 février 2020 ;
+L'article R. 223-36 est applicable dans sa rédaction résultant du décret n° 2020-106 du 10 février 2020;
 
 L'article R. 223-37 est applicable dans sa rédaction résultant du décret n° 2023-657 du 25 juillet 2023 ;
 
-L'article R. 224-3 est applicable dans sa rédaction résultant du décret n° 2020-1742 du 29 décembre 2020 ;
+L'article R. 224-3 est applicable dans sa rédaction résultant du décret n° 2020-1742 du 29 décembre 2020;
 
-L'article R. 225-13 est applicable dans sa rédaction résultant du décret n° 2020-1742 du 29 décembre 2020 ;
+L'article R. 225-13 est applicable dans sa rédaction résultant du décret n° 2020-1742 du 29 décembre 2020;
 
-Les articles R. 225-20, R. 225-22 et R. 225-24 sont applicables dans leur rédaction résultant du décret n° 2019-1118 du 31 octobre 2019 ;
+Les articles R. 225-20, R. 225-22 et R. 225-24 sont applicables dans leur rédaction résultant du décret n° 2019-1118 du 31 octobre 2019;
 
 L'article R. 225-21 est applicable dans sa rédaction résultant du décret n° 2024-904 du 8 octobre 2024 ;
 
-L'article R. 225-27 est applicable dans sa rédaction résultant du décret n° 2020-106 du 10 février 2020 ;
+L'article R. 225-27 est applicable dans sa rédaction résultant du décret n° 2020-106 du 10 février 2020;
 
-L'article R. 225-30 est applicable dans sa rédaction résultant du décret n° 2017-630 du 25 avril 2017 ;
+L'article R. 225-30 est applicable dans sa rédaction résultant du décret n° 2017-630 du 25 avril 2017;
 
-Les articles R. 225-33 et R. 225-34 sont applicables dans leur rédaction résultant du décret n° 2020-1742 du 29 décembre 2020 ;
+Les articles R. 225-33 et R. 225-34 sont applicables dans leur rédaction résultant du décret n° 2020-1742 du 29 décembre 2020;
 
-Les articles R. 225-34-2, R. 225-34-3 et R. 225-34-4 sont applicables dans leur rédaction résultant du décret n° 2019-1308 du 6 décembre 2019 ;
+Les articles R. 225-34-2, R. 225-34-3 et R. 225-34-4 sont applicables dans leur rédaction résultant du décret n° 2019-1308 du 6 décembre 2019;
 
 L'article R. 225-47 est applicable dans sa rédaction résultant du décret n° 2019-1118 du 31 octobre 2019 ;
 
@@ -262,21 +262,21 @@ L'article R. 225-48 est applicable dans sa rédaction résultant du décret n° 
 
 Les articles R. 225-49 et R. 225-51 sont applicables dans leur rédaction résultant du décret n° 2019-1118 du 31 octobre 2019 ;
 
-L'article R. 225-57 est applicable dans sa rédaction résultant du décret n° 2017-630 du 25 avril 2017 ;
+L'article R. 225-57 est applicable dans sa rédaction résultant du décret n° 2017-630 du 25 avril 2017;
 
-L'article R. 225-60 est applicable dans sa rédaction résultant du décret n° 2020-1742 du 29 décembre 2020 ;
+L'article R. 225-60 est applicable dans sa rédaction résultant du décret n° 2020-1742 du 29 décembre 2020;
 
-L'article R. 225-60-2 est applicable dans sa rédaction résultant du décret n° 2019-1308 du 6 décembre 2019 ;
+L'article R. 225-60-2 est applicable dans sa rédaction résultant du décret n° 2019-1308 du 6 décembre 2019;
 
 L'article R. 225-61-1 est applicable dans sa rédaction résultant du décret n° 2026-94 du 13 février 2026 ;
 
-Les articles R. 225-61-2 et R. 225-61-3 sont applicables dans leur rédaction résultant du décret n° 2018-146 du 28 février 2018 ;
+Les articles R. 225-61-2 et R. 225-61-3 sont applicables dans leur rédaction résultant du décret n° 2018-146 du 28 février 2018;
 
 L'article R. 225-63 est applicable dans sa rédaction résultant du décret n° 2026-94 du 13 février 2026 ;
 
 L'article R. 225-66 est applicable dans sa rédaction résultant du décret n° 2018-146 du 28 février 2018 ;
 
-Les articles R. 225-67 et R. 225-70 sont applicables dans leur rédaction résultant du décret n° 2020-1742 du 29 décembre 2020 ;
+Les articles R. 225-67 et R. 225-70 sont applicables dans leur rédaction résultant du décret n° 2020-1742 du 29 décembre 2020;
 
 L'article R. 225-71 est applicable dans sa rédaction résultant du décret n° 2026-94 du 13 février 2026 ;
 
@@ -290,33 +290,33 @@ L'article R. 225-83 est applicable dans sa rédaction résultant du décret n° 
 
 Les articles R. 225-86 et R. 225-88 sont applicables dans leur rédaction résultant du décret n° 2026-94 du 13 février 2026 ;
 
-Les articles R. 225-95, R. 225-97 et R. 225-99 sont applicables dans leur rédaction résultant du décret n° 2018-146 du 28 février 2018 ;
+Les articles R. 225-95, R. 225-97 et R. 225-99 sont applicables dans leur rédaction résultant du décret n° 2018-146 du 28 février 2018;
 
-L'article R. 225-102 est applicable dans sa rédaction résultant du décret n° 2017-1174 du 18 juillet 2017 ;
+L'article R. 225-102 est applicable dans sa rédaction résultant du décret n° 2017-1174 du 18 juillet 2017;
 
-L'article R. 225-103 est applicable dans sa rédaction résultant du décret n° 2020-1742 du 29 décembre 2020 ;
+L'article R. 225-103 est applicable dans sa rédaction résultant du décret n° 2020-1742 du 29 décembre 2020;
 
-L'article R. 225-104 est applicable dans sa rédaction résultant du décret n° 2020-1742 du 29 décembre 2020 ;
+L'article R. 225-104 est applicable dans sa rédaction résultant du décret n° 2020-1742 du 29 décembre 2020;
 
-L'article D. 225-104-1 est applicable dans sa rédaction résultant du décret n° 2017-1174 du 18 juillet 2017 ;
+L'article D. 225-104-1 est applicable dans sa rédaction résultant du décret n° 2017-1174 du 18 juillet 2017;
 
-L'article R. 225-105 est applicable dans sa rédaction résultant du décret n° 2020-1742 du 29 décembre 2020 ;
+L'article R. 225-105 est applicable dans sa rédaction résultant du décret n° 2020-1742 du 29 décembre 2020;
 
-Les articles R. 225-105-1 et R. 225-105-2 sont applicables dans leur rédaction résultant du décret n° 2017-1265 du 9 août 2017 ;
+Les articles R. 225-105-1 et R. 225-105-2 sont applicables dans leur rédaction résultant du décret n° 2017-1265 du 9 août 2017;
 
-L'article R. 225-106 est applicable dans sa rédaction résultant du décret n° 2019-1118 du 31 octobre 2019 ;
+L'article R. 225-106 est applicable dans sa rédaction résultant du décret n° 2019-1118 du 31 octobre 2019;
 
-Les articles R. 225-114, R. 225-115, R. 225-116 et R. 225-117 sont applicables dans leur rédaction résultant du décret n° 2020-1742 du 29 décembre 2020 ;
+Les articles R. 225-114, R. 225-115, R. 225-116 et R. 225-117 sont applicables dans leur rédaction résultant du décret n° 2020-1742 du 29 décembre 2020;
 
-Les articles R. 225-120, R. 225-122, R. 225-129, R. 225-130, R. 225-133, R. 225-136, R. 225-136-1, R. 225-140, R. 225-143, R. 225-145, R. 225-150, R. 225-151 et R. 225-153 sont applicables dans leur rédaction résultant du décret n° 2020-1742 du 29 décembre 2020 ;
+Les articles R. 225-120, R. 225-122, R. 225-129, R. 225-130, R. 225-133, R. 225-136, R. 225-136-1, R. 225-140, R. 225-143, R. 225-145, R. 225-150, R. 225-151 et R. 225-153 sont applicables dans leur rédaction résultant du décret n° 2020-1742 du 29 décembre 2020;
 
-L'article R. 225-160 est applicable dans sa rédaction résultant du décret n° 2020-1742 du 29 décembre 2020 ;
+L'article R. 225-160 est applicable dans sa rédaction résultant du décret n° 2020-1742 du 29 décembre 2020;
 
-L'article R. 225-160-4 est applicable dans sa rédaction résultant du décret n° 2017-1253 du 9 août 2017 ;
+L'article R. 225-160-4 est applicable dans sa rédaction résultant du décret n° 2017-1253 du 9 août 2017;
 
-Les articles R. 225-163 et R. 225-164-1 sont applicables dans leur rédaction résultant du décret n° 2019-1419 du 20 décembre 2019 ;
+Les articles R. 225-163 et R. 225-164-1 sont applicables dans leur rédaction résultant du décret n° 2019-1419 du 20 décembre 2019;
 
-L'article R. 225-166 est applicable dans sa rédaction résultant du décret n° 2020-106 du 10 février 2020 ;
+L'article R. 225-166 est applicable dans sa rédaction résultant du décret n° 2020-106 du 10 février 2020;
 
 L'article R. 225-166-1 est applicable dans sa rédaction résultant du décret n° 2023-657 du 25 juillet 2023 ;
 
@@ -324,61 +324,61 @@ L'article R. 226-1 est applicable dans sa rédaction résultant du décret n° 2
 
 L'article R. 226-2 est applicable dans sa rédaction résultant du décret n° 2020-1742 du 29 décembre 2020 ;
 
-L'article R. 227-1 est applicable dans sa rédaction résultant du décret n° 2019-1419 du 20 décembre 2019 ;
+L'article R. 227-1 est applicable dans sa rédaction résultant du décret n° 2019-1419 du 20 décembre 2019;
 
-L'article R. 227-1-1 est applicable dans sa rédaction résultant du décret n° 2019-1118 du 31 octobre 2019 ;
+L'article R. 227-1-1 est applicable dans sa rédaction résultant du décret n° 2019-1118 du 31 octobre 2019;
 
-L'article R. 227-2 est applicable dans sa rédaction résultant du décret n° 2019-1097 du 28 octobre 2019 ;
+L'article R. 227-2 est applicable dans sa rédaction résultant du décret n° 2019-1097 du 28 octobre 2019;
 
 Les articles R. 228-3 et R. 228-4 sont applicables dans leur rédaction résultant du décret n° 2022-888 du 14 juin 2022 ;
 
 L'article R. 228-6 est applicable dans sa rédaction résultant du décret n° 2026-94 du 13 février 2026 ;
 
-Les articles R. 228-7, R. 228-8 et R. 228-10 sont applicables dans leur rédaction résultant du décret n° 2018-1226 du 24 décembre 2018 ;
+Les articles R. 228-7, R. 228-8 et R. 228-10 sont applicables dans leur rédaction résultant du décret n° 2018-1226 du 24 décembre 2018;
 
-L'article R. 228-12 est applicable dans sa rédaction résultant du décret n° 2017-1253 du 9 août 2017 ;
+L'article R. 228-12 est applicable dans sa rédaction résultant du décret n° 2017-1253 du 9 août 2017;
 
-L'article R. 228-17 est applicable dans sa rédaction résultant du décret n° 2020-1742 du 29 décembre 2020 ;
+L'article R. 228-17 est applicable dans sa rédaction résultant du décret n° 2020-1742 du 29 décembre 2020;
 
-L'article R. 228-24 est applicable dans sa rédaction résultant du décret n° 2020-106 du 10 février 2020 ;
+L'article R. 228-24 est applicable dans sa rédaction résultant du décret n° 2020-106 du 10 février 2020;
 
 Les articles R. 228-32-1 à R. 228-32-3 sont applicables dans leur rédaction résultant du décret n° 2022-888 du 14 juin 2022 ;
 
-L'article R. 228-46 est applicable dans sa rédaction résultant du décret n° 2020-1742 du 29 décembre 2020 ;
+L'article R. 228-46 est applicable dans sa rédaction résultant du décret n° 2020-1742 du 29 décembre 2020;
 
-L'article R. 228-51 est applicable dans sa rédaction résultant du décret n° 2019-1097 du 28 octobre 2019 ;
+L'article R. 228-51 est applicable dans sa rédaction résultant du décret n° 2019-1097 du 28 octobre 2019;
 
-L'article R. 228-60 est applicable dans sa rédaction résultant du décret n° 2017-1165 du 12 juillet 2017 ;
+L'article R. 228-60 est applicable dans sa rédaction résultant du décret n° 2017-1165 du 12 juillet 2017;
 
-L'article R. 228-61 est applicable dans sa rédaction résultant du décret n° 2020-106 du 10 février 2020 ;
+L'article R. 228-61 est applicable dans sa rédaction résultant du décret n° 2020-106 du 10 février 2020;
 
-L'article R. 228-67 est applicable dans sa rédaction résultant du décret n° 2020-106 du 10 février 2020 ;
+L'article R. 228-67 est applicable dans sa rédaction résultant du décret n° 2020-106 du 10 février 2020;
 
-L'article R. 228-79 est applicable dans sa rédaction résultant du décret n° 2020-106 du 10 février 2020 ;
+L'article R. 228-79 est applicable dans sa rédaction résultant du décret n° 2020-106 du 10 février 2020;
 
-L'article R. 228-83 est applicable dans sa rédaction résultant du décret n° 2017-1165 du 12 juillet 2017 ;
+L'article R. 228-83 est applicable dans sa rédaction résultant du décret n° 2017-1165 du 12 juillet 2017;
 
-Les articles R. 229-16, R. 229-21 et R. 229-25 sont applicables dans leur rédaction résultant du décret n° 2020-1742 du 29 décembre 2020 ;
+Les articles R. 229-16, R. 229-21 et R. 229-25 sont applicables dans leur rédaction résultant du décret n° 2020-1742 du 29 décembre 2020;
 
-L'article R. 232-2 est applicable dans sa rédaction résultant du décret n° 2020-100 du 7 février 2020 ;
+L'article R. 232-2 est applicable dans sa rédaction résultant du décret n° 2020-100 du 7 février 2020;
 
 Les articles D. 232-8-1 et R. 232-8-2 sont applicables dans leur rédaction résultant du décret n° 2023-493 du 22 juin 2023.
 
-L'article R. 232-22 est applicable dans sa rédaction résultant du décret n° 2019-1207 du 20 novembre 2019 ;
+L'article R. 232-22 est applicable dans sa rédaction résultant du décret n° 2019-1207 du 20 novembre 2019;
 
-L'article R. 233-2 est applicable dans sa rédaction résultant du décret n° 2020-106 du 10 février 2020 ;
+L'article R. 233-2 est applicable dans sa rédaction résultant du décret n° 2020-106 du 10 février 2020;
 
-L'article R. 233-16 est applicable dans sa rédaction résultant du décret n° 2020-100 du 7 février 2020 ;
+L'article R. 233-16 est applicable dans sa rédaction résultant du décret n° 2020-100 du 7 février 2020;
 
 Les articles D. 233-16-1 et R. 233-16-2 sont applicables dans leur rédaction résultant du décret n° 2023-493 du 22 juin 2023.
 
 Les articles R. 236-1 à R. 236-40 sont applicables dans leur rédaction résultant du décret n° 2023-430 du 2 juin 2023 portant réforme du régime des fusions, scission, apports partiels d'actifs et opérations transfrontalières de sociétés commerciales.
 
-Les articles R. 237-2, R. 237-8 et R. 237-16 sont applicables dans leur rédaction résultant du décret n° 2020-106 du 10 février 2020 ;
+Les articles R. 237-2, R. 237-8 et R. 237-16 sont applicables dans leur rédaction résultant du décret n° 2020-106 du 10 février 2020;
 
-L'article R. 247-2 est applicable dans sa rédaction résultant du décret n° 2020-1742 du 29 décembre 2020 ;
+L'article R. 247-2 est applicable dans sa rédaction résultant du décret n° 2020-1742 du 29 décembre 2020;
 
-L'article R. 210-21 est applicable dans sa rédaction résultant du décret n° 2021-669 du 27 mai 2021 .
+L'article R. 210-21 est applicable dans sa rédaction résultant du décret n° 2021-669 du 27 mai 2021.
 
 Les articles R. 22-10-1 à R. 22-10-17, R. 22-10-18, R. 22-10-19, R. 22-10-20 à R. 22-10-22, R. 22-10-24 à R. 22-10-29, R. 22-10-30, R. 22-10-31, R. 22-10-33 à R. 22-10-40 sont applicables dans leur rédaction résultant du décret n° 2020-1742 du 29 décembre 2020.
 
@@ -520,7 +520,7 @@ c) Les dispositions du chapitre VI du titre II mentionnées dans la colonne de g
 | Article R. 526-23 | Décret n° 2022-709 du 26 avril 2022 |
 | Article R. 526-24 | Décret n° 2015-417 du 14 avril 2015 |
 
-L'article R. 527-16 est applicable dans sa rédaction issue du décret n° 2008-484 du 22 mai 2008 .
+L'article R. 527-16 est applicable dans sa rédaction issue du décret n° 2008-484 du 22 mai 2008.
 
 6° Le livre VI dans les conditions suivantes :
 
@@ -650,7 +650,7 @@ b) Les dispositions des chapitres Ier, IV et VI du titre II mentionnées dans la
 | R. 626-50 et R. 626-51 | Décret n° 2007-431 du 25 mars 2007 |
 | R. 626-52 à R. 626-64 | Décret n° 2021-1218 du 23 septembre 2021 |
 
-Les articles R. 622-5-1, R. 622-7, R. 622-23, R. 628-2, R. 628-4, R. 628-5, R. 628-8, R. 628-10, R. 628-11 et R. 628-13 sont applicables dans les îles Wallis et Futuna dans leur rédaction issue du décret n° 2021-1218 du 23 septembre 2021 et l'article R. 622-14 est applicable dans sa rédaction issue du décret n° 2021-1887 du 29 décembre 2021 ;
+Les articles R. 622-5-1, R. 622-7, R. 622-23, R. 628-2, R. 628-4, R. 628-5, R. 628-8, R. 628-10, R. 628-11 et R. 628-13 sont applicables dans les îles Wallis et Futuna dans leur rédaction issue du décret n° 2021-1218 du 23 septembre 2021et l'article R. 622-14 est applicable dans sa rédaction issue du décret n° 2021-1887 du 29 décembre 2021 ;
 
 L'article R. 622-16 est applicable dans sa rédaction issue du décret n° 2022-890 du 14 juin 2022 ;
 
@@ -752,7 +752,7 @@ d) Les dispositions du chapitre préliminaire et des chapitres Ier, II, III et V
 | Article R. 645-19 | Décret n° 2020-106 du 10 février 2020 |
 | Articles R. 645-20 à R. 645-25 | Décret n° 2014-736 du 30 juin 2014 |
 
-L'article R. 644-2 est applicable dans les îles Wallis et Futuna dans sa rédaction résultant du décret n° 2021-1218 du 23 septembre 2021 ;
+L'article R. 644-2 est applicable dans les îles Wallis et Futuna dans sa rédaction résultant du décret n° 2021-1218 du 23 septembre 2021;
 
 e) Le titre V ;
 
@@ -817,7 +817,7 @@ f) Les dispositions des chapitres I à III du titre VI mentionnées dans la colo
 
 ;
 
-L'article R. 661-2 est applicable dans les îles Wallis et Futuna dans sa rédaction résultant du décret n° 2020-106 du 10 février 2020 ;
+L'article R. 661-2 est applicable dans les îles Wallis et Futuna dans sa rédaction résultant du décret n° 2020-106 du 10 février 2020;
 
 g) Le titre VIII ;
 
@@ -829,9 +829,9 @@ h) Les dispositions du titre VIII bis mentionnées dans la colonne de gauche du 
 
 7° Le titre II du livre VII, à l'exception des articles R. 721-2 à R. 721-4 et R. 721-7 à R. 724-22 ;
 
-L'article R. 721-6 est applicable dans sa rédaction résultant du décret n° 2019-1333 du 11 décembre 2019 ;
+L'article R. 721-6 est applicable dans sa rédaction résultant du décret n° 2019-1333 du 11 décembre 2019;
 
-Les articles R. 743-89, R. 743-142-6 et R. 743-142-7 sont applicables dans leur rédaction résultant du décret n° 2020-106 du 10 février 2020 ;
+Les articles R. 743-89, R. 743-142-6 et R. 743-142-7 sont applicables dans leur rédaction résultant du décret n° 2020-106 du 10 février 2020;
 
 8° Le titre Ier du livre VIII dans les conditions suivantes :
 
@@ -914,25 +914,25 @@ b) Les dispositions des sections 1 à 4 du chapitre IV mentionnées dans la colo
 | R. 814-55 à R. 814-58 | Décret n° 2016-109 du 3 février 2016 relatif à la Commission nationale d'inscription et de discipline des administrateurs judiciaires et des mandataires judiciaires |
 | R. 814-58-1 à R. 814-58-9 | Décret n° 2015-1009 du 18 août 2015 relatif à la mise en œuvre du portail électronique prévu aux articles L. 814-2 et L. 814-13 du code de commerce |
 
-L'article R. 814-117 est applicable dans les îles Wallis et Futuna dans sa rédaction résultant du décret n° 2020-106 du 10 février 2020 ;
+L'article R. 814-117 est applicable dans les îles Wallis et Futuna dans sa rédaction résultant du décret n° 2020-106 du 10 février 2020;
 
 9° Le titre II du livre VIII, à l'exception des articles R. 821-158 à R. 821-170, dans sa rédaction issue du décret n° 2025-791 du 8 août 2025.
 
-Toutefois, les articles R. 821-1, R. 821-3, et R. 822-20 sont applicables dans leur rédaction résultant du décret n° 2017-540 du 12 avril 2017 ;
+Toutefois, les articles R. 821-1, R. 821-3, et R. 822-20 sont applicables dans leur rédaction résultant du décret n° 2017-540 du 12 avril 2017;
 
 L'article R. 823-5 est applicable dans sa rédaction résultant du décret n° 2023-1391 du 29 décembre 2023 ;
 
-Sont applicables dans leur rédaction résultant du décret n° 2020-292 du 21 mars 2020 les articles R. 820-1-1, R. 821-5, R. 821-7, R. 821-14, R. 821-14-1, R. 821-14-2, R. 821-14-7, R. 821-14-14, R. 821-17, R. 821-48, R. 821-64, R. 821-71, R. 821-72, R. 821-75, R. 822-13, R. 822-14, R. 822-22, R. 822-23, R. 822-26, R. 822-30, R. 822-52, R. 822-62, R. 822-63, R. 822-89, R. 823-7-2, R. 823-10, R. 823-11, R. 823-14, R. 823-15, R. 823-17-1, R. 823-18, R. 823-19, R. 823-21, R. 824-4, R. 824-5, R. 824-6, R. 824-7, R. 824-11, R. 824-13, R. 824-16, R. 824-17, R. 824-18, R. 824-19, R. 824-22, R. 824-24 et R. 824-27 ;
+Sont applicables dans leur rédaction résultant du décret n° 2020-292 du 21 mars 2020les articles R. 820-1-1, R. 821-5, R. 821-7, R. 821-14, R. 821-14-1, R. 821-14-2, R. 821-14-7, R. 821-14-14, R. 821-17, R. 821-48, R. 821-64, R. 821-71, R. 821-72, R. 821-75, R. 822-13, R. 822-14, R. 822-22, R. 822-23, R. 822-26, R. 822-30, R. 822-52, R. 822-62, R. 822-63, R. 822-89, R. 823-7-2, R. 823-10, R. 823-11, R. 823-14, R. 823-15, R. 823-17-1, R. 823-18, R. 823-19, R. 823-21, R. 824-4, R. 824-5, R. 824-6, R. 824-7, R. 824-11, R. 824-13, R. 824-16, R. 824-17, R. 824-18, R. 824-19, R. 824-22, R. 824-24 et R. 824-27 ;
 
-L'article D. 823-7-1 est applicable dans sa rédaction résultant du décret n° 2021-211 du 24 février 2021 ;
+L'article D. 823-7-1 est applicable dans sa rédaction résultant du décret n° 2021-211 du 24 février 2021;
 
-Les articles R. 821-24, R. 821-25, R. 821-26, R. 821-31, R. 821-33, R. 821-35, R. 821-37, R. 821-38, R. 821-39, R. 821-40, R. 821-50, R. 821-51, R. 821-52, R. 821-54, R. 821-55, R. 821-58, R. 821-62, R. 821-63, R. 822-1, R. 822-27, R. 822-36, R. 822-54, R. 822-93, R. 823-7 sont applicables dans leur rédaction résultant du décret n° 2020-667 du 2 juin 2020 ;
+Les articles R. 821-24, R. 821-25, R. 821-26, R. 821-31, R. 821-33, R. 821-35, R. 821-37, R. 821-38, R. 821-39, R. 821-40, R. 821-50, R. 821-51, R. 821-52, R. 821-54, R. 821-55, R. 821-58, R. 821-62, R. 821-63, R. 822-1, R. 822-27, R. 822-36, R. 822-54, R. 822-93, R. 823-7 sont applicables dans leur rédaction résultant du décret n° 2020-667 du 2 juin 2020;
 
-Les articles R. 824-6 et R. 824-14 sont applicables dans leur rédaction résultant du décret n° 2017-540 du 12 avril 2017 ;
+Les articles R. 824-6 et R. 824-14 sont applicables dans leur rédaction résultant du décret n° 2017-540 du 12 avril 2017;
 
-Les articles R. 236-5, R. 236-5-1 et R. 236-5-2 sont applicables dans leur rédaction issue du décret n° 2019-1486 du 27 décembre 2019 ;
+Les articles R. 236-5, R. 236-5-1 et R. 236-5-2 sont applicables dans leur rédaction issue du décret n° 2019-1486 du 27 décembre 2019;
 
-Les articles R. 822-77 et R. 822-108 sont applicables dans les îles Wallis et Futuna dans leur rédaction résultant du décret n° 2020-106 du 10 février 2020 .
+Les articles R. 822-77 et R. 822-108 sont applicables dans les îles Wallis et Futuna dans leur rédaction résultant du décret n° 2020-106 du 10 février 2020.
 
 NOTA:
 Conformément au I de l'article 9 du décret n° 2026-96 du 16 février 2026, ces dispositions dans leur rédaction issue dudit décret, entrent en vigueur le 1er avril 2026.

@@ -4,7 +4,7 @@ Les activités ouvrant droit à autorisation d'absence du sapeur-pompier volonta
 
 1° Les missions opérationnelles concernant les secours d'urgence aux personnes victimes d'accidents, de sinistres ou de catastrophes et leur évacuation, ainsi que la protection des personnes, des biens et de l'environnement, en cas de péril ;
 
-2° Les actions de formation, dans les conditions fixées par l'article L. 723-13;
+2° Les actions de formation, dans les conditions fixées par l'article L. 723-13 ;
 
 3° La participation aux réunions des instances dont il est membre et, pour le sapeur-pompier volontaire exerçant des responsabilités, aux réunions d'encadrement aux niveaux départemental ou de groupement organisées par le service d'incendie et de secours.
 

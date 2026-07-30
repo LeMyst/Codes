@@ -79,4 +79,4 @@ III. - (Abrogé).
 IV. - (Abrogé).
 
 NOTA:
-Conformément au IV de l'article 21 de l'ordonnance n° 2025-1247 du 17 décembre 2025, ces dispositions, dans leur rédaction issue de ladite ordonnance, entrent en vigueur le 31 mars 2026.
+Conformément au IV de l'article 21 de l'ordonnance n° 2025-1247 du 17 décembre 2025 ainsi qu'au 3° de l'article 9 de l'ordonnance n° 2025-1247 du 17 décembre dans sa rédaction résultant du 5° de l'article 2 de l'ordonnance n° 2026-671 du 27 juillet 2026, ces dispositions, dans leur rédaction issue de ladite ordonnance, entrent en vigueur le 31 mars 2026.

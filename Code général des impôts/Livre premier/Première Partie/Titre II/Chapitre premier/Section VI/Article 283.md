@@ -50,3 +50,7 @@ Ils sont applicables à l'électricité produite, fournie ou consommée à compt
 Les dispositions relatives à la contribution des fournisseurs d'électricité prévue à l'article L. 335-1 du code de l'énergie qui sont en vigueur avant cette date demeurent applicables à compter de cette date en tant qu'elles se rapportent à des garanties de capacités ou des consommations intervenant avant cette date.
 
 Conformément à l'article 1 du Décret n° 2026-177 du 11 mars 2026 relatif à l'entrée en vigueur du mécanisme de capacité, ces dispositions entrent en vigueur le lendemain de la publication dudit décret, soit le 14 mars 2026.
+
+Conformément au 27° de l’article 9, à l'article 15 et à l’article 49 de l’ordonnance n° 2025-1247 du 17 décembre 2025, ces dispositions, à l’exception de celles mentionnées à la première colonne du tableau de l’article 15, sont abrogées à compter du 1er septembre 2026.
+
+Conformément à la première colonne de l’article 15 de l’ordonnance précitée, les dispositions du 2 septies du présent article sont maintenues en vigueur jusqu'à leur reprise par les mesures réglementaires mentionnées à l'article L. 215-9 du code des impositions sur les biens et services figurant dans la deuxième colonne du tableau précit

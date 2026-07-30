@@ -63,4 +63,4 @@ F. - Lorsque le redevable, ou la personne mentionnée au E, n'est pas établi da
 VI. - Le produit de la contribution régie par le présent article est affecté à la branche mentionnée au 2° de l'article L. 722-8 du code rural et de la pêche maritime.
 
 NOTA:
-Modifications effectuées en conséquence de l'article 31-I-1° a, b et c et II de la loi n° 2025-199 du 28 février 2025.
+Conformément à l'article 49 de l'ordonnance n° 2025-1247 du 17 décembre 2025 dans sa rédaction résultant de l'article 17 de l'ordonnance n° 2026-671 du 27 juillet 2026, ces dispositions, dans leur rédaction issue de ladite ordonnance n° 2025-1247, entrent en vigueur le 1*er* janvier 2027.

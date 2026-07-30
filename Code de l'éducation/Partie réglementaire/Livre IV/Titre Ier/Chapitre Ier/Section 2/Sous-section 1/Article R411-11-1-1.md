@@ -1,0 +1,7 @@
+# Article R411-11-1-1
+
+Lorsque le comportement d'un membre de la famille d'un élève, en lien avec sa scolarité, fait peser un risque caractérisé sur la sécurité ou la santé d'un membre de la communauté éducative ou compromet gravement le déroulement des activités d'enseignement ou le fonctionnement normal de l'école, le directeur académique des services de l'éducation nationale, saisi par le directeur de l'école, peut, à l'issue d'un dialogue avec les parents de l'élève, demander au maire de procéder à la radiation de cet élève de l'école et à son inscription dans une autre école de la commune ou, lorsque les compétences relatives au fonctionnement des écoles publiques ont été transférées à un établissement public de coopération intercommunale, dans une école du territoire de cet établissement. Lorsque la commune ne compte qu'une seule école publique, la radiation de l'élève ne peut intervenir que si le maire d'une autre commune accepte de procéder à son inscription dans une école de cette commune.
+
+Dans l'intérêt supérieur de l'enfant, l'élève fait l'objet, dans sa nouvelle école, d'un suivi pédagogique, éducatif et social renforcé jusqu'à la fin de l'année scolaire en cours.
+
+Lorsque le directeur d'école saisit le directeur académique des services de l'éducation nationale pour mettre en œuvre la procédure de radiation prévue au premier alinéa, il peut, à titre conservatoire, suspendre l'accès à l'école de l'élève ou du membre de la famille concerné pendant la durée de cette procédure, dans la limite de cinq jours.

@@ -14,7 +14,20 @@ Les services de prévention et de santé au travail ont pour mission principale 
 
 4° Participent au suivi et contribuent à la traçabilité des expositions professionnelles et à la veille sanitaire ;
 
-5° Participent à des actions de promotion de la santé sur le lieu de travail, dont des campagnes de vaccination et de dépistage, des actions de sensibilisation aux bénéfices de la pratique sportive et des actions d'information et de sensibilisation aux situations de handicap au travail, dans le cadre de la stratégie nationale de santé prévue à l'article L. 1411-1-1 du code de la santé publique.
+5° Participent à des actions de promotion de la santé sur le lieu de travail, dont des campagnes de vaccination et de dépistage, notamment des campagnes de dépistage des maladies cardio-neuro-vasculaires, des actions de sensibilisation annuelles aux facteurs de risques mentionnés à l'article L. 1411-6-2 du code de la santé publique, des actions de sensibilisation aux bénéfices de la pratique sportive et des actions d'information et de sensibilisation aux situations de handicap au travail, dans le cadre de la stratégie nationale de santé prévue à l'article L. 1411-1-1 du code de la santé publique.
 
-NOTA:
-Conformément au I de l’article 40 de la loi n° 2021-1018 du 2 août 2021, ces dispositions entrent en vigueur le 31 mars 2022. Se reporter aux conditions d’application prévues par le II de l’article susmentionné.
+Les actions d'information et de sensibilisation peuvent notamment être réalisées en partenariat avec :
+
+a) Une association de prévention en santé agréée dans les conditions prévues à l'article L. 1114-1 du même code ;
+
+b) Une communauté professionnelle territoriale de santé mentionnée à l'article L. 1434-12 dudit code ;
+
+c) Les étudiants en santé, dans le cadre des activités de prévention auxquelles ceux-ci participent au titre du service sanitaire ;
+
+d) Une mutuelle mentionnée à l'article L. 111-1 du code de la mutualité ;
+
+e) Une institution de prévoyance mentionnée à l'article L. 931-1 du code de la sécurité sociale ;
+
+f) Une entreprise mentionnée à l'article L. 310-1 du code des assurances ;
+
+g) Tout organisme, y compris une personne morale de droit privé, dont l'objet comprend la promotion de la santé et la prévention.

@@ -1,6 +1,6 @@
 # Article L4624-2-2
 
-I.-Le travailleur est examiné par le médecin du travail au cours d'une visite médicale de mi-carrière organisée à une échéance déterminée par accord de branche ou, à défaut, durant l'année civile du quarante-cinquième anniversaire du travailleur.
+I. - Le travailleur est examiné par le médecin du travail au cours d'une visite médicale de mi-carrière organisée à une échéance déterminée par accord de branche ou, à défaut, durant l'année civile du quarante-cinquième anniversaire du travailleur.
 
 Cet examen médical peut être anticipé et organisé conjointement avec une autre visite médicale lorsque le travailleur doit être examiné par le médecin du travail deux ans avant l'échéance prévue au premier alinéa du présent I. Il peut être réalisé dès le retour à l'emploi du travailleur dès lors qu'il satisfait aux conditions déterminées par l'accord de branche prévu au même premier alinéa ou, à défaut, qu'il est âgé d'au moins quarante-cinq ans.
 
@@ -10,11 +10,10 @@ L'examen médical vise à :
 
 2° Evaluer les risques de désinsertion professionnelle, en prenant en compte l'évolution des capacités du travailleur en fonction de son parcours professionnel, de son âge et de son état de santé ;
 
-3° Sensibiliser le travailleur aux enjeux du vieillissement au travail et sur la prévention des risques professionnels.
+3° Sensibiliser le travailleur aux enjeux du vieillissement au travail et sur la prévention des risques professionnels ;
+
+4° Sensibiliser le travailleur à certains enjeux de santé publique susceptibles d'affecter sa santé au travail, notamment aux facteurs de risques cardio-neuro-vasculaires mentionnés à l'article L. 1411-6-2 du code de la santé publique. Un dépistage précoce des maladies cardio-neuro-vasculaires et des maladies cardiaques structurelles est proposé au travailleur lors de cet examen.
 
 Le médecin du travail peut proposer, par écrit et après échange avec le travailleur et l'employeur, les mesures prévues à l'article L. 4624-3.
 
-II.-La visite médicale de mi-carrière peut être réalisée par un infirmier de santé au travail exerçant en pratique avancée. Celui-ci ne peut proposer les mesures mentionnées au dernier alinéa du I. A l'issue de la visite, l'infirmier peut, s'il l'estime nécessaire, orienter sans délai le travailleur vers le médecin du travail.
-
-NOTA:
-Conformément au I de l’article 40 de la loi n° 2021-1018 du 2 août 2021, ces dispositions entrent en vigueur le 31 mars 2022. Se reporter aux conditions d’application prévues par le II de l’article susmentionné.
+II. - La visite médicale de mi-carrière peut être réalisée par un infirmier de santé au travail exerçant en pratique avancée. Celui-ci ne peut proposer les mesures mentionnées au dernier alinéa du I. A l'issue de la visite, l'infirmier peut, s'il l'estime nécessaire, orienter sans délai le travailleur vers le médecin du travail.

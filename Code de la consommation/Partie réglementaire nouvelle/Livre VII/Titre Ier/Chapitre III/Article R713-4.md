@@ -6,7 +6,7 @@ Les convocations et demandes d'observations sont régulièrement faites à l'adr
 
 Une copie du recours ou de la contestation formé est jointe aux convocations ou aux demandes d'observations.
 
-L' article 762 du code de procédure civile est applicable.
+L'article 762 du code de procédure civileest applicable.
 
 Lorsque les parties sont convoquées, la procédure est orale. En cours d'instance, toute partie peut aussi exposer ses moyens par lettre adressée au juge à condition de justifier que l'adversaire en a eu connaissance avant l'audience par lettre recommandée avec demande d'avis de réception. La partie qui use de cette faculté peut ne pas se présenter à l'audience, conformément au second alinéa de l'article 446-1 du code de procédure civile.
 

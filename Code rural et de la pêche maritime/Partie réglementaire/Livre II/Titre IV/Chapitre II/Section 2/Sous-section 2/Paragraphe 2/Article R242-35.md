@@ -24,4 +24,6 @@ Le vétérinaire tient à disposition des personnes ayant recours à ses service
 
 - les éléments permettant au demandeur d'accéder au code de déontologie ;
 
+- les modalités, dans l'organisation des soins, de la délégation d'actes de médecine ou de chirurgie des animaux aux personnes mentionnées aux 14° et 15° de l'article L. 243-3 ;
+
 - les informations relatives à la prise en charge de sa responsabilité civile professionnelle et les coordonnées de son assureur.

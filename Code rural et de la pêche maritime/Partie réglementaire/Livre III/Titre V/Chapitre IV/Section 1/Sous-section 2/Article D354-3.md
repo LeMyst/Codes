@@ -6,7 +6,4 @@ Pour bénéficier des aides prévues à l'article D. 354-1, l'exploitation du de
 
 2° Employer au moins une unité de travail non salariée. Une personne travaillant sur l'exploitation ne peut être prise en compte pour plus d'une unité de travail. Les membres de la famille de l'exploitant ne peuvent être pris en compte que si leur participation aux travaux de l'exploitation représente au moins une demi-unité de travail. Ils sont pris en compte au prorata de leur activité ;
 
-3° Ne pas employer annuellement une main-d'œuvre salariée permanente ou saisonnière supérieure à dix unités de travail équivalent temps plein.
-
-NOTA:
-Conformément à l'article 2 du décret n° 2022-1131 du 5 août 2022, ces dispositions sont applicables aux demandes d'aides en cours d'instruction à la date de son entrée en vigueur.
+3° Ne pas employer annuellement une main-d'œuvre salariée permanente ou saisonnière supérieure à cinquante unités de travail équivalent temps plein.

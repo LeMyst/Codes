@@ -6,7 +6,7 @@ Toutefois, n'ouvrent pas droit à la réduction d'impôt les investissements don
 
 a) Commerce ;
 
-b) Les cafés, débits de tabac et débits de boisson ainsi que la restauration, à l'exception des restaurants dont le dirigeant ou un salarié est titulaire du titre de maître-restaurateur défini à l'article L. 122-21 du code de la consommation et qui ont été contrôlés dans le cadre de la délivrance de ce titre ainsi que, le cas échéant, des restaurants de tourisme classés à la date de publication de la loi n° 2009-888 du 22 juillet 2009 de développement et de modernisation des services touristiques ;
+b) Les cafés, débits de tabac et débits de boisson ainsi que la restauration, à l'exception des restaurants dont le dirigeant ou un salarié est titulaire du titre de maître-restaurateur défini à l'article L. 122-21 du code de la consommation et qui ont été contrôlés dans le cadre de la délivrance de ce titre ainsi que, le cas échéant, des restaurants de tourisme classés à la date de publication de la loi n° 2009-888 du 22 juillet 2009de développement et de modernisation des services touristiques ;
 
 c) Conseils ou expertise ;
 

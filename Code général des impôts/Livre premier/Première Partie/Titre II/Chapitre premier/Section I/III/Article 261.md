@@ -140,7 +140,7 @@ Tous les organismes concernés par les a, b et c sont placés sous le régime du
 
 1° ter Les prestations de services mentionnées au D de l'article 278-0 bis et au i de l'article 279, réalisées par des associations agréées en application de l'article L. 7232-1 du code du travail ou autorisées en application de l'article L. 313-1 du code de l'action sociale et des familles, et dont la gestion est désintéressée au sens du d du 1° du présent 7, au profit des personnes physiques ou des familles mentionnées aux 1°, 6°, 7° et 16° du I de l'article L. 312-1 du code de l'action sociale et des familles, ainsi qu'au profit des personnes mentionnées au 1° de l'article L. 7232-1 du code du travail ;
 
-1° quater Les prestations de services et les livraisons de biens qui leur sont étroitement liées, effectuées dans les lieux de vie et d'accueil mentionnés au III de l'article L. 312-1 du code de l'action sociale et des familles , conformément à leur objet ;
+1° quater Les prestations de services et les livraisons de biens qui leur sont étroitement liées, effectuées dans les lieux de vie et d'accueil mentionnés au III de l'article L. 312-1 du code de l'action sociale et des familles, conformément à leur objet ;
 
 2° (Abrogé) ;
 

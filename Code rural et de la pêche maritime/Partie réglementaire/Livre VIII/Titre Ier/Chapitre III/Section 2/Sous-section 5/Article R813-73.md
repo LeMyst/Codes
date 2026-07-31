@@ -16,9 +16,9 @@ Dans les huit jours qui suivent la publication, les électeurs peuvent vérifier
 
 Le ministre chargé de l'agriculture statue sans délai sur ces réclamations.
 
-Aucune modification n'est alors admise sauf si un événement postérieur et prenant effet au plus tard la veille du scrutin entraîne, pour un agent, l'acquisition ou la perte de la qualité d'électeur. Dans ce cas, l'inscription ou la radiation est prononcée au plus tard la veille du scrutin soit à l'initiative de l'administration, soit à la demande de l'intéressé, et immédiatement portée à la connaissance des personnels par voie d'affichage.
+Aucune modification n'est alors admise sauf si un événement prenant effet au plus tard la veille du scrutin entraîne, pour un agent, l'acquisition ou la perte de la qualité d'électeur. Dans ce cas, l'inscription ou la radiation est prononcée au plus tard la veille du scrutin soit à l'initiative de l'administration, soit à la demande de l'intéressé, et immédiatement portée à la connaissance des personnels par voie d'affichage.
 
-Le bureau de vote central et les bureaux de vote spéciaux comprennent un président et un secrétaire désignés par le ministre chargé de l'agriculture ainsi qu'un délégué de chaque liste en présence.
+Le bureau de vote central et les bureaux de vote spéciaux comprennent un président et un secrétaire désignés par le ministre chargé de l'agriculture ainsi qu'un délégué de chaque liste en présence. Chaque organisation syndicale ayant présenté sa candidature peut en outre désigner un délégué suppléant appelé à remplacer le délégué en cas d'empêchement.
 
 Les bureaux de vote spéciaux procèdent au dépouillement du scrutin dans un délai qui ne peut être supérieur, sauf circonstances particulières, à trois jours ouvrables à compter de la date du scrutin.
 
@@ -29,3 +29,6 @@ A l'issue du dépouillement et sans délai, le bureau de vote central procède �
 III.-Pour la mesure de la représentativité, lorsqu'une liste a été établie par des organisations syndicales pour l'élection des représentants du personnel, la répartition entre elles des suffrages exprimés se fait conformément à la règle de répartition et est rendue publique par les organisations syndicales concernées lors du dépôt de leur liste commune.
 
 A défaut d'indication, la répartition des suffrages se fait à part égale entre les organisations concernées. Cette répartition est mentionnée sur les listes affichées sur les lieux de vote.
+
+NOTA:
+Conformément au deuxième alinéa de l'article 11 du décret n° 2026-695 du 29 juillet 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur en vue du prochain renouvellement général des instances de dialogue social dans l'enseignement agricole privé.

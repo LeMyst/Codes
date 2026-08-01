@@ -6,13 +6,13 @@
 
 Toutefois les rémunérations ne sont admises en déduction des résultats que dans la mesure où elles correspondent à un travail effectif et ne sont pas excessives eu égard à l'importance du service rendu. Cette disposition s'applique à toutes les rémunérations directes ou indirectes, y compris les indemnités, allocations, avantages en nature et remboursements de frais.
 
-Une entreprise mettant à disposition de manière temporaire un salarié dans les conditions prévues à l'article L. 8241-3 du code du travail peut déduire les salaires, charges sociales afférentes et frais professionnels remboursés au salarié mis à disposition, même lorsqu'elle ne refacture que partiellement ces coûts à l'entreprise bénéficiaire de la mise à disposition. Le bénéfice de la déduction, pour la part excédant la refacturation, est subordonné au respect du règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
+Une entreprise mettant à disposition de manière temporaire un salarié dans les conditions prévues à l'article L. 8241-3 du code du travailpeut déduire les salaires, charges sociales afférentes et frais professionnels remboursés au salarié mis à disposition, même lorsqu'elle ne refacture que partiellement ces coûts à l'entreprise bénéficiaire de la mise à disposition. Le bénéfice de la déduction, pour la part excédant la refacturation, est subordonné au respect du règlement (UE) 2023/2831 de la Commission du 13 décembre 2023 relatif à l'application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne aux aides de minimis.
 
-1° bis Pour les exercices clos à compter du 31 décembre 1987 et sous réserve des dispositions du 9, l'indemnité de congé payé calculée dans les conditions prévues aux articles L. 3141-24 à L. 3141-27 du code du travail , y compris les charges sociales et fiscales afférentes à cette indemnité.
+1° bis Pour les exercices clos à compter du 31 décembre 1987 et sous réserve des dispositions du 9, l'indemnité de congé payé calculée dans les conditions prévues aux articles L. 3141-24 à L. 3141-27 du code du travail, y compris les charges sociales et fiscales afférentes à cette indemnité.
 
 Par exception aux dispositions du premier alinéa et sur option irrévocable de l'entreprise, cette indemnité ainsi que les charges sociales et fiscales y afférentes revêtent du point de vue fiscal le caractère d'un salaire de substitution qui constitue une charge normale de l'exercice au cours duquel le salarié prend le congé correspondant. Cette option ne peut pas être exercée par les entreprises créées après le 31 décembre 1986. Elle est exercée avant l'expiration du délai de dépôt de la déclaration des résultats du premier exercice clos à compter du 31 décembre 1987.
 
-Pour les exercices clos avant le 31 décembre 1987, l'indemnité de congé payé calculée dans les conditions prévues aux articles L. 3141-24 à L. 3141-27 du code du travail revêt du point de vue fiscal le caractère d'un salaire de substitution qui constitue une charge normale de l'exercice au cours duquel le salarié prend le congé correspondant. Pour la détermination des résultats imposables des exercices clos du 1er janvier 1986 au 30 décembre 1987, il en est de même des charges sociales et fiscales afférentes à cette indemnité.
+Pour les exercices clos avant le 31 décembre 1987, l'indemnité de congé payé calculée dans les conditions prévues aux articles L. 3141-24 à L. 3141-27 du code du travailrevêt du point de vue fiscal le caractère d'un salaire de substitution qui constitue une charge normale de l'exercice au cours duquel le salarié prend le congé correspondant. Pour la détermination des résultats imposables des exercices clos du 1er janvier 1986 au 30 décembre 1987, il en est de même des charges sociales et fiscales afférentes à cette indemnité.
 
 Un décret fixe les modalités d'application de ces dispositions.
 
@@ -102,9 +102,9 @@ Toutefois, les dotations aux provisions pour dépréciation comptabilisées au t
 
 Les dotations aux provisions non admises en déduction au titre d'un exercice et affectées à un titre de participation en application de l'alinéa précédent viennent minorer le montant des provisions pour dépréciation sur ce titre rapporté au résultat des exercices ultérieurs.
 
-La dépréciation de titres prêtés dans les conditions prévues à l'article L. 211-22 du code monétaire et financier ne peut donner lieu, de la part du prêteur ou de l'emprunteur, à la constitution d'une provision. De même le prêteur ne peut constituer de provision pour dépréciation de la créance représentative de ces titres ;
+La dépréciation de titres prêtés dans les conditions prévues à l'article L. 211-22 du code monétaire et financierne peut donner lieu, de la part du prêteur ou de l'emprunteur, à la constitution d'une provision. De même le prêteur ne peut constituer de provision pour dépréciation de la créance représentative de ces titres ;
 
-La dépréciation des titres financiers qui sont l'objet d'une pension dans les conditions prévues par les articles L. 211-27 à L. 211-34 du code monétaire et financier, ne peut donner lieu, de la part du cessionnaire, à la constitution d'une provision déductible sur le plan fiscal.
+La dépréciation des titres financiers qui sont l'objet d'une pension dans les conditions prévues par les articles L. 211-27 à L. 211-34du code monétaire et financier, ne peut donner lieu, de la part du cessionnaire, à la constitution d'une provision déductible sur le plan fiscal.
 
 La dépréciation des titres qui font l'objet d'une remise en garantie dans les conditions prévues à l'article 38 bis-0 A bis ne peut donner lieu à la constitution d'une provision déductible sur le plan fiscal. De même, le constituant ne peut déduire de provision pour dépréciation de la créance représentative de ces titres.
 
@@ -132,7 +132,7 @@ Les dotations aux provisions pour dépréciation comptabilisées au titre de l'e
 
 Le montant total des dotations aux provisions non admises en déduction au titre de l'exercice en application de l'alinéa précédent vient minorer le montant total des provisions pour dépréciation des immeubles de placement rapporté au résultat des exercices ultérieurs.
 
-6° La contribution sociale de solidarité mentionnée à l'article L. 137-30 du code de la sécurité sociale et la taxe d'aide au commerce et à l'artisanat issue de l'article 3 modifié de la loi n° 72-657 du 13 juillet 1972 instituant des mesures en faveur de certaines catégories de commerçants et artisans âgés ;
+6° La contribution sociale de solidarité mentionnée à l'article L. 137-30 du code de la sécurité sociale et la taxe d'aide au commerce et à l'artisanat issue de l'article 3 modifié de la loi n° 72-657 du 13 juillet 1972instituant des mesures en faveur de certaines catégories de commerçants et artisans âgés ;
 
 6° bis La taxe sur les vidéogrammes mentionnée à l'article L. 452-28 du code des impositions sur les biens et services, la taxe sur les services d'accès à des contenus audiovisuels à la demande mentionnée à l'article L. 453-25 du même code et la taxe sur la publicité diffusée au moyen de services de contenus audiovisuels à la demande mentionnée à l'article L. 454-16 du même code ;
 
@@ -144,7 +144,7 @@ Le montant total des dotations aux provisions non admises en déduction au titre
 
 2. Les sanctions pécuniaires et pénalités de toute nature mises à la charge des contrevenants à des obligations légales ne sont pas admises en déduction des bénéfices soumis à l'impôt.
 
-Il en est de même du versement libératoire prévu à l'article L. 221-4 du code de l'énergie.
+Il en est de même du versement libératoire prévu à l'article L. 221-4du code de l'énergie.
 
 2 bis. A compter de l'entrée en vigueur sur le territoire de la République de la convention sur la lutte contre la corruption d'agents publics étrangers dans les transactions commerciales internationales, les sommes versées ou les avantages octroyés, directement ou par des intermédiaires, au profit d'un agent public au sens du 4 de l'article 1er de ladite convention ou d'un tiers pour que cet agent agisse ou s'abstienne d'agir dans l'exécution de fonctions officielles, en vue d'obtenir ou conserver un marché ou un autre avantage indu dans des transactions commerciales internationales, ne sont pas admis en déduction des bénéfices soumis à l'impôt.
 
@@ -156,9 +156,9 @@ Pour l'application de cette disposition, les dirigeants s'entendent, dans les so
 
 Sauf justifications, les dispositions du premier alinéa sont applicables :
 
-1° A l'amortissement des véhicules de tourisme au sens de l'article L. 421-2 du code des impositions sur les biens et services pour la fraction de leur prix d'acquisition qui dépasse 18 300 € :
+1° A l'amortissement des véhicules de tourisme au sens de l'article L. 421-2 du code des impositions sur les biens et servicespour la fraction de leur prix d'acquisition qui dépasse 18 300 € :
 
-a) Pour les véhicules immatriculés en recourant à la méthode de détermination des émissions de dioxyde de carbone dite WLTP au sens de l'article L. 421-6 du code des impositions sur les biens et services , la somme mentionnée au premier alinéa du présent 1° est de :
+a) Pour les véhicules immatriculés en recourant à la méthode de détermination des émissions de dioxyde de carbone dite WLTP au sens de l'article L. 421-6 du code des impositions sur les biens et services, la somme mentionnée au premier alinéa du présent 1° est de :
 
 -30 000 € si leurs émissions de dioxyde de carbone sont inférieures à 20 grammes par kilomètre ;
 
@@ -186,7 +186,7 @@ Elle est ramenée à 9 900 € lorsque les émissions de dioxyde de carbone sont
 
 La fraction de l'amortissement des véhicules de tourisme au sens de l'article L. 421-2 du code des impositions sur les biens et services exclue des charges déductibles par les limitations ci-dessus est néanmoins retenue pour la détermination des plus-values ou moins-values résultant de la vente ultérieure des véhicules ainsi amortis.
 
-Les dispositions du premier alinéa ne sont pas applicables aux charges exposées pour les besoins de l'exploitation et résultant de l'achat, de la location ou de l'entretien des demeures historiques classées ou inscrites au titre des monuments historiques, des résidences servant d'adresse ou de siège de l'entreprise en application des articles L. 123-10 et L. 123-11-1 du code de commerce , ou des résidences faisant partie intégrante d'un établissement de production et servant à l'accueil de la clientèle.
+Les dispositions du premier alinéa ne sont pas applicables aux charges exposées pour les besoins de l'exploitation et résultant de l'achat, de la location ou de l'entretien des demeures historiques classées ou inscrites au titre des monuments historiques, des résidences servant d'adresse ou de siège de l'entreprise en application des articles L. 123-10 et L. 123-11-1 du code de commerce, ou des résidences faisant partie intégrante d'un établissement de production et servant à l'accueil de la clientèle.
 
 5. Sont également déductibles les dépenses suivantes :
 
@@ -208,13 +208,13 @@ Les dépenses ci-dessus énumérées peuvent également être réintégrées dan
 
 Lorsqu'elles augmentent dans une proportion supérieure à celle des bénéfices imposables ou que leur montant excède celui de ces bénéfices, l'administration peut demander à l'entreprise de justifier qu'elles sont nécessitées par sa gestion.
 
-5 bis. Les rémunérations différées visées au 4° du I de l'article L. 22-10-9 du code de commerce sont admises en déduction du bénéfice net dans la limite de trois fois le plafond annuel de la sécurité sociale par bénéficiaire.
+5 bis. Les rémunérations différées visées au 4° du I de l'article L. 22-10-9 du code de commercesont admises en déduction du bénéfice net dans la limite de trois fois le plafond annuel de la sécurité sociale par bénéficiaire.
 
 6. (périmé).
 
 1. (Abrogé).
 
-1. Si un fonds de commerce, un fonds artisanal ou l'un de leurs éléments incorporels non amortissables ou des parts sociales ou des actions de sociétés commerciales non négociables sur un marché réglementé sont loués dans les conditions prévues au 3 ou au 4 de l'article L. 313-7 du code monétaire et financier , la quote-part de loyers prise en compte pour la fixation du prix de vente convenu pour l'acceptation de la promesse unilatérale de vente n'est pas déductible pour l'assiette de l'impôt sur les bénéfices dû par le locataire. Elle doit être indiquée distinctement dans le contrat de crédit-bail.
+1. Si un fonds de commerce, un fonds artisanal ou l'un de leurs éléments incorporels non amortissables ou des parts sociales ou des actions de sociétés commerciales non négociables sur un marché réglementé sont loués dans les conditions prévues au 3 ou au 4 de l'article L. 313-7 du code monétaire et financier, la quote-part de loyers prise en compte pour la fixation du prix de vente convenu pour l'acceptation de la promesse unilatérale de vente n'est pas déductible pour l'assiette de l'impôt sur les bénéfices dû par le locataire. Elle doit être indiquée distinctement dans le contrat de crédit-bail.
 
 Un décret fixe les modalités d'application de ces dispositions, notamment les obligations déclaratives.
 
@@ -224,9 +224,9 @@ Ces dispositions s'appliquent aux charges sociales et fiscales attachées à ces
 
 Un décret fixe les modalités d'application du présent 9.
 
-10. Si un immeuble est loué dans les conditions prévues au 2 de l'article L. 313-7 du code monétaire et financier , la quote-part de loyers prise en compte pour la détermination du prix de cession de l'immeuble à l'issue du contrat et se rapportant à des éléments non amortissables n'est pas déductible du résultat imposable du crédit-preneur.
+10. Si un immeuble est loué dans les conditions prévues au 2 de l'article L. 313-7 du code monétaire et financier, la quote-part de loyers prise en compte pour la détermination du prix de cession de l'immeuble à l'issue du contrat et se rapportant à des éléments non amortissables n'est pas déductible du résultat imposable du crédit-preneur.
 
-Toutefois, pour les opérations concernant les immeubles achevés après le 31 décembre 1995 et affectés à titre principal à usage de bureaux entrant dans le champ d'application de la taxe prévue à l'article 231 ter, autres que ceux situés dans les zones d'aide à finalité régionale et dans les zones de redynamisation urbaine, définis au A du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire, la quote-part de loyer prise en compte pour la détermination du prix de cession de l'immeuble à l'issue du contrat n'est déductible du résultat imposable du crédit-preneur que dans la limite des frais d'acquisition de l'immeuble et de l'amortissement que le crédit-preneur aurait pu pratiquer s'il avait été propriétaire du bien objet du contrat.
+Toutefois, pour les opérations concernant les immeubles achevés après le 31 décembre 1995 et affectés à titre principal à usage de bureaux entrant dans le champ d'application de la taxe prévue à l'article 231 ter, autres que ceux situés dans les zones d'aide à finalité régionale et dans les zones de redynamisation urbaine, définis au A du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995d'orientation pour l'aménagement et le développement du territoire, la quote-part de loyer prise en compte pour la détermination du prix de cession de l'immeuble à l'issue du contrat n'est déductible du résultat imposable du crédit-preneur que dans la limite des frais d'acquisition de l'immeuble et de l'amortissement que le crédit-preneur aurait pu pratiquer s'il avait été propriétaire du bien objet du contrat.
 
 Pour l'application du premier alinéa, le loyer est réputé affecté au financement des différents éléments dans l'ordre suivant :
 
@@ -266,7 +266,7 @@ Les deux premiers alinéas du présent 12 ter s'appliquent lorsque l'entreprise 
 
 13. Sont exclues des charges déductibles pour l'établissement de l'impôt les aides de toute nature consenties à une autre entreprise, à l'exception des aides à caractère commercial.
 
-Le premier alinéa ne s'applique pas aux aides consenties en application d'un accord constaté ou homologué dans les conditions prévues à l'article L. 611-8 du code de commerce ni aux aides consenties aux entreprises pour lesquelles une procédure de sauvegarde, de redressement judiciaire ou de liquidation judiciaire est ouverte.
+Le premier alinéa ne s'applique pas aux aides consenties en application d'un accord constaté ou homologué dans les conditions prévues à l'article L. 611-8 du code de commerceni aux aides consenties aux entreprises pour lesquelles une procédure de sauvegarde, de redressement judiciaire ou de liquidation judiciaire est ouverte.
 
 Les aides mentionnées au deuxième alinéa qui ne revêtent pas un caractère commercial sont déductibles à hauteur de la situation nette négative de l'entreprise qui en bénéficie et, pour le montant excédant cette situation nette négative, à proportion des participations détenues par d'autres personnes que l'entreprise qui consent les aides.
 

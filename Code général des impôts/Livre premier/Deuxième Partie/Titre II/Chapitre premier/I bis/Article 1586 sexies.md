@@ -183,18 +183,3 @@ Ne sont toutefois pas déductibles de la valeur ajoutée :
 c) (Abrogé)
 
 VII. – Lorsque les plus-values de cession d'immobilisations ou de titres de nature à être comprises dans le chiffre d'affaires et la valeur ajoutée en application des I et III à VI sont réalisées l'année de création de l'entreprise, elles sont comprises dans le chiffre d'affaires et la valeur ajoutée retenus au titre de l'année suivante.
-
-NOTA:
-(1) Conformément à l'article 22 III de la loi n° 2017-1837 du 30 décembre 2017, ces dispositions s'appliquent à compter de la cotisation sur la valeur ajoutée des entreprises due au titre de 2017.
-
-Conformément au A du VI de l’article 8 de la loi n° 2020-1721 du 29 décembre 2020 de finances pour 2021, les dispositions du 1° à 7° du I, à l'exception du b du 2°, s'appliquent à la cotisation sur la valeur ajoutée des entreprises :
-
-1° Due par les redevables au titre de 2021 et des années suivantes ;
-
-2° Versée par l'Etat aux communes, le cas échéant aux établissements publics de coopération intercommunale, ainsi qu'aux départements à compter de 2022.
-
-Conformément au IV de l’article 108 de la loi n° 2020-1721 du 29 décembre 2020 :
-
-A.-Les I à III s'appliquent aux investissements réalisés à compter du 1er janvier 2022.
-
-B.-Pour les investissements réalisés à Saint-Martin, les I à III entrent en vigueur à une date fixée par décret, qui ne peut être postérieure de plus de six mois à la date de réception par le Gouvernement de la réponse de la Commission européenne permettant de considérer le dispositif législatif lui ayant été notifié comme conforme au droit de l'Union européenne en matière d'aides d'Etat.

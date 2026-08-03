@@ -12,4 +12,6 @@ Constituent les mesures d'exécution prévues à l'article L. 412-1 :
 
 5° Les dispositions des articles 4, 5 et 11 à 13 du règlement (CE) n° 450/2009 de la Commission du 29 mai 2009 concernant les matériaux et aux objets actifs et intelligents destinés à entrer en contact avec des denrées alimentaires ;
 
-6° Les dispositions des articles 2 à 6 et 8 à 19 du règlement (UE) n° 10/2011 de la Commission du 14 janvier 2011 concernant les matériaux et objets en matière plastique destinés à entrer en contact avec des denrées alimentaires.
+6° Les dispositions des articles 2 à 6 et 8 à 19 du règlement (UE) n° 10/2011 de la Commission du 14 janvier 2011 concernant les matériaux et objets en matière plastique destinés à entrer en contact avec des denrées alimentaires ;
+
+7° Les dispositions des articles 1er à 5 et 8 du règlement (UE) 2024/3190 de la Commission du 19 décembre 2024 relatif à l'utilisation du bisphénol A (BPA) et d'autres bisphénols et dérivés des bisphénols faisant l'objet d'une classification harmonisée en raison de propriétés dangereuses spécifiques dans certains matériaux et objets destinés à entrer en contact avec des denrées alimentaires.

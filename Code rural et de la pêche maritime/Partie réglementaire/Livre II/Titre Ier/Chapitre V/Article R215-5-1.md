@@ -1,6 +1,8 @@
 # Article R215-5-1
 
-I. - Est puni de l'amende prévue pour les contraventions de la 4e classe le fait :
+I. - Est puni de l'amende prévue pour les contraventions de la 5e classe le fait de céder, à titre onéreux ou gratuit, un chat ou un chien dans les établissements de vente mentionnés au premier alinéa du I de l'article L. 214-6-3, en méconnaissance du premier alinéa du II du même article.
+
+II. - Est puni de l'amende prévue pour les contraventions de la 4e classe le fait :
 
 1° D'attribuer un animal vivant à titre de lot ou prime en méconnaissance des dispositions de l'article L. 214-4 ;
 
@@ -20,7 +22,9 @@ I. - Est puni de l'amende prévue pour les contraventions de la 4e classe le fai
 
 9° Pour le propriétaire de l'animal, de ne pas s'acquitter des frais mentionnés au cinquième alinéa de l'article L. 211-24 ;
 
-II. - Est puni de l'amende prévue pour les contraventions de la 3e classe :
+10° De présenter en animaleries un animal visible d'une voie ouverte à la circulation publique en méconnaissance du III de l'article L. 214-6-3.
+
+III. - Est puni de l'amende prévue pour les contraventions de la 3e classe :
 
 1° Le fait, pour toute personne cédant à titre onéreux ou gratuit un animal de compagnie, de ne pas s'assurer de la signature par l'acquéreur du certificat d'engagement et de connaissance prévu au V de l'article L. 214-8 ;
 

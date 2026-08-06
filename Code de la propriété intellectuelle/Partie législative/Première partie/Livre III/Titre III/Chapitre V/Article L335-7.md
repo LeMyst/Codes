@@ -16,3 +16,7 @@ Le 3° de l'article 777 du code de procédure pénale n'est pas applicable à la
 
 NOTA:
 Conformément à l’article 34 de la loi n° 2021-1382 du 25 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022. Se reporter aux conditions d’application prévues aux II et III de l’article susmentionné.
+
+Conformément à l'article 2 de l'ordonnance n°2016-301 du 14 mars 2016, la référence à l'article L. 121-84 du code de la consommation est remplacée par des références aux articles L. 224-29 et L. 224-33 du code de la consommation et de l'habitation.
+
+Vous pouvez consulter les tables de concordance du code de la consommation depuis ce lien.

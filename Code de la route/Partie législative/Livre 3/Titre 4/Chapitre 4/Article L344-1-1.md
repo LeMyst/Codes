@@ -4,4 +4,4 @@ Sont applicables en Nouvelle-Calédonie les dispositions des articles mentionné
 
 | Dispositions applicables | Dans leur rédaction |
 | --- | --- |
-| Art. L. 325-1-2 | La loi n° 2025-622 du 9 juillet 2025 créant l'homicide routier et visant à lutter contre la violence routière |
+| Art. L. 325-1-2 | La loi n° 2026-798 du 18 août 2026 visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens |

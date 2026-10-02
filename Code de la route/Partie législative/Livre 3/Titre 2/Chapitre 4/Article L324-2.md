@@ -2,6 +2,8 @@
 
 I.-Le fait, y compris par négligence, de mettre ou de maintenir en circulation un véhicule terrestre à moteur ainsi que ses remorques ou semi-remorques sans être couvert par une assurance garantissant sa responsabilité civile conformément aux dispositions de l'article L. 211-1 du code des assurances est puni de 3 750 euros d'amende.
 
+I bis. - Nonobstant les articles 132-2 à 132-5 du code pénal, les peines prononcées pour le délit prévu au I du présent article se cumulent, sans possibilité de confusion, avec celles prononcées pour les autres infractions commises à l'occasion de la conduite du véhicule.
+
 II.-Toute personne coupable de l'infraction prévue au présent article encourt également les peines complémentaires suivantes :
 
 1° La peine de travail d'intérêt général, selon les modalités prévues à l'article 131-8 du code pénal et selon les conditions prévues aux articles 131-22 à 131-24 du même code ;

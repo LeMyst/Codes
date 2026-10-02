@@ -16,7 +16,7 @@ II.-Toute personne coupable des délits prévus par le présent article encourt 
 
 6° L'obligation d'accomplir, à ses frais, un stage de sensibilisation à la sécurité routière ;
 
-7° L'obligation d'accomplir, à ses frais, un stage de sensibilisation aux dangers de l'usage de produits stupéfiants ;
+7° L'obligation d'accomplir, à ses frais, un stage de sensibilisation aux dangers de l'usage de produits stupéfiants et de l'usage détourné de produits de consommation courante pour en obtenir des effets psychoactifs ;
 
 8° La confiscation du véhicule dont le condamné s'est servi pour commettre l'infraction, s'il en est le propriétaire. La confiscation est obligatoire pour toute personne coupable du délit prévu à la seconde phrase du I du présent article. La juridiction peut toutefois ne pas prononcer cette peine, par une décision spécialement motivée.
 

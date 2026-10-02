@@ -14,7 +14,7 @@ III.-Toute personne coupable du délit prévu au I encourt également les peines
 
 4° L'annulation du permis de conduire, avec interdiction de solliciter la délivrance d'un nouveau permis pendant une durée ne pouvant excéder trois ans ;
 
-5° La confiscation du véhicule dont le condamné s'est servi pour commettre l'infraction, s'il en est le propriétaire ou, sous réserve des droits du propriétaire de bonne foi, s'il en a la libre disposition, à la condition, dans ce second cas, que le propriétaire dont le titre est connu ou qui a réclamé cette qualité au cours de la procédure ait été mis en mesure de présenter ses observations sur la mesure de confiscation envisagée par la juridiction de jugement aux fins, notamment, de faire valoir le droit qu'il revendique et sa bonne foi ;
+5° La confiscation obligatoire du véhicule dont le condamné s'est servi pour commettre l'infraction, s'il en est le propriétaire ou, sous réserve des droits du propriétaire de bonne foi, s'il en a la libre disposition, à la condition, dans ce second cas, que le propriétaire dont le titre est connu ou qui a réclamé cette qualité au cours de la procédure ait été mis en mesure de présenter ses observations aux fins, notamment, de faire valoir le droit qu'il revendique et sa bonne foi. La juridiction peut toutefois ne pas prononcer cette peine, par une décision spécialement motivée ;
 
 6° La confiscation d'un ou de plusieurs véhicules appartenant au condamné ;
 

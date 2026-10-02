@@ -4,9 +4,7 @@ Pour l'application de l'article L. 225-4 dans les îles Wallis et Futuna, les mo
 
 Les articles L. 234-1 à L. 234-9 sont applicables au territoire des îles Wallis-et-Futuna dans la rédaction suivante :
 
-" Art. L. 234-1.-I.-Même en l'absence de tout signe d'ivresse manifeste, le fait de conduire un véhicule sous l'empire d'un état alcoolique caractérisé par une concentration d'alcool dans le sang égale ou supérieure à 0,80 gramme par litre ou par une concentration d'alcool dans l'air expiré égale ou supérieure à 0,40 milligramme par litre est puni de trois ans d'emprisonnement et de 9 000 euros d'amende.
-
-II.-Le fait de conduire un véhicule en état d'ivresse manifeste est puni des mêmes peines. "
+" Art. L. 234-1. - Même en l'absence de tout signe d'ivresse manifeste, le fait de conduire un véhicule sous l'empire d'un état alcoolique caractérisé par une concentration d'alcool dans le sang égale ou supérieure à 0,80 gramme par litre ou par une concentration d'alcool dans l'air expiré égale ou supérieure à 0,40 milligramme par litre est puni de trois ans d'emprisonnement et de 9 000 euros d'amende.
 
 " Art. L. 234-2.-Toute personne coupable de l'un des délits prévus à l'article L. 234-1 encourt également les peines complémentaires suivantes :
 
@@ -32,7 +30,7 @@ Lorsqu'elles sont faites au moyen d'un appareil permettant de déterminer la con
 
 " Art. L. 234-7.-Un décret en Conseil d'Etat détermine les conditions dans lesquelles sont effectuées les opérations de dépistage et les vérifications prévues aux articles L. 234-3 à L. 234-6. "
 
-" Art. L. 234-8.-I.-Le fait de refuser de se soumettre aux vérifications prévues par les articles L. 234-4 à L. 234-6 ou aux vérifications prévues par l'article L. 234-9 est puni de deux ans d'emprisonnement et de 4 500 euros d'amende.
+" Art. L. 234-8.-I.-Le fait de refuser de se soumettre aux vérifications prévues par les articles L. 234-4 à L. 234-6 ou aux vérifications prévues par l'article L. 234-9 est puni de trois ans d'emprisonnement et de 9 000 euros d'amende.
 
 II.-Toute personne coupable de ce délit encourt également les peines complémentaires suivantes :
 

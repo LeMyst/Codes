@@ -1,6 +1,6 @@
 # Article L234-2
 
-I.-Toute personne coupable de l'un des délits prévus à l'article L. 234-1 encourt également les peines complémentaires suivantes :
+I.-Toute personne coupable du délit prévu à l'article L. 234-1 encourt également les peines complémentaires suivantes :
 
 1° La suspension, pour une durée de cinq ans au plus, du permis de conduire, cette suspension ne pouvant pas être limitée à la conduite en dehors de l'activité professionnelle ;
 

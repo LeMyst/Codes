@@ -14,6 +14,10 @@ Les informations relatives à l'existence, la catégorie et la validité du perm
 
 5° bis Aux agents de police judiciaire adjoints et aux gardes champêtres, aux seules fins d'identifier les auteurs des infractions au présent code qu'ils sont habilités à constater ;
 
+5° ter Aux agents de la police nationale, aux militaires de la gendarmerie nationale et aux agents des douanes exerçant dans un organisme de coopération internationale policière et douanière ;
+
+5° quater Aux fonctionnaires ou aux agents de l'Etat chargés de l'instruction de la recevabilité des requêtes en exonération relatives aux amendes forfaitaires et des réclamations relatives aux amendes forfaitaires majorées mentionnées aux articles 495-18, 495-19, 529-10 et 530 du code de procédure pénale ;
+
 6° Aux autorités administratives civiles ou militaires pour les personnes employées ou susceptibles d'être employées comme conducteur de véhicule à moteur ;
 
 7° Aux entreprises d'assurances pour les personnes dont elles garantissent ou sont appelées à garantir la responsabilité encourue du fait des dommages causés par les véhicules à moteur ;

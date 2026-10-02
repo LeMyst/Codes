@@ -10,14 +10,18 @@ I.-Les officiers et agents de police judiciaire retiennent à titre conservatoir
 
 4° S'il existe une ou plusieurs raisons plausibles de soupçonner que le conducteur a fait usage de stupéfiants ou lorsqu'il refuse de se soumettre aux épreuves de vérification prévues au même article L. 235-2 ;
 
+4° bis S'il existe une ou plusieurs raisons plausibles de soupçonner que le conducteur a consommé, de façon détournée ou excessive, une ou plusieurs substances psychoactives figurant sur la liste mentionnée au 3° du I de l'article L. 237-1 ;
+
 5° Lorsque le véhicule est intercepté, lorsque le dépassement de 40 km/ h ou plus de la vitesse maximale autorisée est établi au moyen d'un appareil homologué ;
 
 6° En cas d'accident de la circulation ayant entraîné la mort d'une personne ou ayant occasionné un dommage corporel, lorsqu'il existe une ou plusieurs raisons plausibles de soupçonner que le conducteur a commis une infraction en matière d'usage du téléphone tenu en main, de respect des vitesses maximales autorisées ou des règles de croisement, de dépassement, d'intersection et de priorités de passage ;
 
 7° Lorsque le véhicule est intercepté, lorsqu'une infraction en matière d'usage du téléphone tenu en main est établie simultanément avec une des infractions en matière de respect des règles de conduite des véhicules, de vitesse, de croisement, de dépassement, d'intersection et de priorités de passage dont la liste est fixée par décret en Conseil d'Etat ;
 
-8° En cas de refus d'obtempérer commis dans les conditions prévues aux articles L. 233-1 et L. 233-1-1.
+8° En cas de refus d'obtempérer commis dans les conditions prévues aux articles L. 233-1 et L. 233-1-1 ;
 
-II.-Les dispositions du I du présent article, hors les cas prévus aux 5°, 6°, 7° et 8° du même I, sont applicables à l'accompagnateur de l'élève conducteur.
+9° En cas d'infraction prévue aux articles L. 236-1 et L. 236-2.
+
+II.-Les dispositions du I du présent article, hors les cas prévus aux 5°, 6°, 7° à 9° du même I, sont applicables à l'accompagnateur de l'élève conducteur.
 
 III.-Les agents de police judiciaire adjoints mentionnés à l'article 21 du code de procédure pénale sont habilités à retenir à titre conservatoire le permis de conduire du conducteur dans les cas prévus aux 5° et 7° du I du présent article.

@@ -6,9 +6,11 @@ I.-Les officiers ou agents de police judiciaire peuvent, avec l'autorisation pr�
 
 2° En cas de conduite d'un véhicule sans être titulaire du permis de conduire correspondant à la catégorie du véhicule considéré ;
 
-3° En cas de conduite d'un véhicule en état d'ivresse manifeste ou lorsque l'état alcoolique défini à l'article L. 234-1 est établi au moyen d'un appareil homologué mentionné à l'article L. 234-4 ;
+3° Lorsque l'état alcoolique défini à l'article L. 234-1 est établi au moyen d'un appareil homologué mentionné à l'article L. 234-4 ;
 
 4° Lorsqu'il est fait application des dispositions de l'article L. 235-2, si les épreuves de dépistage se révèlent positives ;
+
+4° bis En cas de conduite malgré l'usage ou la consommation manifeste de substances entraînant une altération de la vigilance prévue à l'article L. 237-1 ;
 
 5° En cas de refus de se soumettre aux épreuves de vérification prévues aux articles L. 234-4 à L. 234-6 et L. 235-2 ;
 
@@ -36,7 +38,7 @@ Ils en informent immédiatement, par tout moyen, le procureur de la République,
 
 Si les vérifications prévues à l'article L. 235-2 du présent code ne permettent pas d'établir que la personne conduisait en ayant fait usage de substances ou plantes classées comme stupéfiants, l'immobilisation et la mise en fourrière sont immédiatement levées.
 
-Si les deux conditions prévues aux 3° et 4° sont remplies, l'immobilisation et la mise en fourrière sont de plein droit.
+Si deux des conditions mentionnées aux 3° à 4° bis du présent I, dont celle mentionnée au 3°, sont remplies, l'immobilisation et la mise en fourrière sont de plein droit.
 
 II.-Lorsque l'immobilisation ou la mise en fourrière prévue à l'article L. 325-1-1 n'est pas autorisée par le procureur de la République dans un délai de sept jours suivant la décision prise en application du I du présent article, le véhicule est restitué à son propriétaire. En cas de mesures successives, le délai n'est pas prorogé.
 

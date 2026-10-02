@@ -1,6 +1,6 @@
 # Article L234-8
 
-I.-Le fait de refuser de se soumettre aux vérifications prévues par les articles L. 234-4 à L. 234-6 ou aux vérifications prévues par l'article L. 234-9 est puni de deux ans d'emprisonnement et de 4 500 euros d'amende.
+I.-Le fait de refuser de se soumettre aux vérifications prévues par les articles L. 234-4 à L. 234-6 ou aux vérifications prévues par l'article L. 234-9 est puni de trois ans d'emprisonnement et de 9 000 euros d'amende.
 
 II.-Toute personne coupable de ce délit encourt également les peines complémentaires suivantes :
 
@@ -22,8 +22,3 @@ II.-Toute personne coupable de ce délit encourt également les peines compléme
 III.-Ce délit donne lieu de plein droit à la réduction de la moitié du nombre maximal de points du permis de conduire.
 
 IV.-La suspension du permis de conduire prévue au présent article ne peut être assortie du sursis, même partiellement.
-
-NOTA:
-Se reporter aux conditions d'application prévues à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019.
-
-Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021. Cette date a été reportée au 30 septembre 2021 par l'article 2 de la loi n° 2021-218 du 26 février 2021.

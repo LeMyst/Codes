@@ -6,4 +6,4 @@ Les articles L. 231-2, L. 233-2, L. 234-16, L. 235-1, L. 235-3 sont applicables 
 
 Les articles L. 233-1-1 et L. 233-1-2 sont applicables dans leur rédaction résultant de la loi n° 2022-52 du 24 janvier 2022 relative à la responsabilité pénale et à la sécurité intérieure.
 
-L'article L. 233-1 est applicable en Polynésie française dans sa rédaction résultant de la loi n° 2023-22 du 24 janvier 2023 d'orientation et de programmation du ministère de l'intérieur.
+L'article L. 233-1 est applicable en Polynésie française dans sa rédaction résultant de la loi n° 2026-798 du 18 août 2026 visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens.

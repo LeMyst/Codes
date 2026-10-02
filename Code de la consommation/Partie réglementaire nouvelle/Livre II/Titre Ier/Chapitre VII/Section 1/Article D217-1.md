@@ -7,4 +7,4 @@ Si le bien peut faire l'objet d'un renvoi par voie postale, sans entraîner pour
 En tout état de cause, le consommateur ne peut être tenu d'assurer, ni de prendre en charge le transport du bien hors envoi postal.
 
 NOTA:
-Conformément à l’article 6 du décret n° 2022-946 du 29 juin 2022, ces dispositions entrent en vigueur le 1er octobre 2022.
+Conformément à l’article 6 du décret n° 2022-946 du 29 juin 2022, ces dispositions entrent en vigueur le 1<sup>er</sup> octobre 2022.

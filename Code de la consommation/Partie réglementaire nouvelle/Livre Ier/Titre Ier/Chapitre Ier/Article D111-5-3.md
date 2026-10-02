@@ -15,4 +15,4 @@ Ces caractéristiques portent sur :
 Le producteur communique ces informations au consommateur avant que celui-ci n'installe la mise à jour concernée. Il peut, en outre, lui indiquer le site internet ou l'application mobile où les informations mentionnées aux 1° à 4° restent disponibles après l'installation de la mise à jour.
 
 NOTA:
-Conformément à l’article 6 du décret n° 2022-946 du 29 juin 2022, ces dispositions entrent en vigueur le 1er octobre 2022.
+Conformément à l’article 6 du décret n° 2022-946 du 29 juin 2022, ces dispositions entrent en vigueur le 1<sup>er</sup> octobre 2022.

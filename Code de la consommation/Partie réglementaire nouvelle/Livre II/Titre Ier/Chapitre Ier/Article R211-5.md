@@ -7,4 +7,4 @@ Lorsque cet avantage conduit le professionnel à traiter des données à caract�
 Les dispositions qui précèdent s'appliquent sans préjudice des obligations incombant au professionnel en vertu des articles 7,12 et 13 du règlement précité ainsi que des articles 48 et 81 à 83 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
 
 NOTA:
-Conformément à l’article 6 du décret n° 2022-946 du 29 juin 2022, ces dispositions entrent en vigueur le 1er octobre 2022.
+Conformément à l’article 6 du décret n° 2022-946 du 29 juin 2022, ces dispositions entrent en vigueur le 1<sup>er</sup> octobre 2022.

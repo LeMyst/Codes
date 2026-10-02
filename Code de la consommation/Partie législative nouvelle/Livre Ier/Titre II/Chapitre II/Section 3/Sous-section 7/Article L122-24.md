@@ -9,4 +9,4 @@ La publicité est réputée autorisée en l'absence de réponse de l'administrat
 Une opération de dégagement est une opération promotionnelle visant à écouler une surproduction de produits alimentaires.
 
 NOTA:
-Conformément au VI de l’article 16 de la loi n° 2021-1357 du 18 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément au VI de l’article 16 de la loi n° 2021-1357 du 18 octobre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

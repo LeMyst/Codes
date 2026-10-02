@@ -5,4 +5,4 @@ La demande du professionnel mentionnée au I de l'article L. 217-24 est présent
 Lorsque le siège social du demandeur est établi en dehors du territoire national, la demande est présentée à la direction générale de la concurrence, de la consommation et de la répression des fraudes.
 
 NOTA:
-Conformément à l’article 6 du décret n° 2022-946 du 29 juin 2022, ces dispositions entrent en vigueur le 1er octobre 2022.
+Conformément à l’article 6 du décret n° 2022-946 du 29 juin 2022, ces dispositions entrent en vigueur le 1<sup>er</sup> octobre 2022.

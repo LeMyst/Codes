@@ -4,7 +4,7 @@ Lorsque le consommateur est équipé d'un dispositif de comptage qui peut être 
 
 1° Les index mensuels en précisant s'ils sont relevés à distance ou estimés ;
 
-2° La consommation mensuelle et annuelle, le cas échéant par période tarifaire, en kilowattheures pour l'électricité, en m 3 et en kilowattheures avec le coefficient de conversion appliqué pour le gaz naturel ;
+2° La consommation mensuelle et annuelle, le cas échéant par période tarifaire, en kilowattheures pour l'électricité, en m <sup>3</sup> et en kilowattheures avec le coefficient de conversion appliqué pour le gaz naturel ;
 
 3° La puissance électrique maximale soutirée par période mensuelle et annuelle, en kilovoltampères ;
 

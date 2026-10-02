@@ -13,4 +13,4 @@ Ces informations et documents peuvent être communiqués, pour l'exécution de l
 4° A l'Agence nationale chargée de la sécurité sanitaire de l'alimentation, de l'environnement et du travail mentionnée à l'article L. 1313-1 du code de la santé publique afin qu'elle procède aux évaluations et expertises relevant de son champ de compétence.
 
 NOTA:
-Conformément à l’article 20 de la loi n° 2024-450 du 21 mai 2024, ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément à l’article 20 de la loi n° 2024-450 du 21 mai 2024, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2025.

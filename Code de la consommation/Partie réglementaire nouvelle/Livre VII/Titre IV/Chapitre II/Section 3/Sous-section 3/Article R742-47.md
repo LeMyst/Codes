@@ -4,4 +4,4 @@ A défaut d'accord sur la distribution constaté dans les conditions prévues pa
 Si la difficulté porte, en tout ou partie, sur la répartition du prix d'un immeuble, le liquidateur saisit le juge chargé des saisies immobilières par voie d'assignation des créanciers participant à la distribution. L'assignation expose les difficultés rencontrées ; elle est accompagnée de tous documents utiles.
 
 NOTA:
-Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, les dispositions entrent en vigueur le 1er janvier 2020.
+Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, les dispositions entrent en vigueur le 1<sup>er</sup> janvier 2020.

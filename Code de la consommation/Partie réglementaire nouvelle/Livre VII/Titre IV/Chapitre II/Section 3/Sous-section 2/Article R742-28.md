@@ -5,4 +5,4 @@ Il précise qu'à défaut d'enchères la vente pourra se faire sur une mise à p
 Le jugement comporte, outre les indications mentionnées au premier alinéa, les énonciations exigées aux 1°, 5° et 10° de l'article R. 321-3 du code des procédures civiles d'exécution. Dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, ce jugement comporte, outre les indications mentionnées au premier alinéa, les énonciations figurant à l'article 144 de la loi du 1er juin 1924 mettant en vigueur la législation civile française dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.
 
 NOTA:
-Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.
+Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2020.

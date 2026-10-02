@@ -31,4 +31,4 @@ Le professionnel qui fait obstacle de mauvaise foi à la mise en œuvre de la ga
 Le consommateur bénéficie, en outre, de la garantie légale des vices cachés en application des articles 1641 à 1649 du code civil, pendant une durée de deux ans à compter de la découverte du défaut. Cette garantie donne droit à une réduction de prix si le contenu numérique ou le service numérique est conservé ou à un remboursement intégral contre renonciation au contenu numérique ou au service numérique.
 
 NOTA:
-Conformément à l’article 6 du décret n° 2022-946 du 29 juin 2022, ces dispositions entrent en vigueur le 1er octobre 2022.
+Conformément à l’article 6 du décret n° 2022-946 du 29 juin 2022, ces dispositions entrent en vigueur le 1<sup>er</sup> octobre 2022.

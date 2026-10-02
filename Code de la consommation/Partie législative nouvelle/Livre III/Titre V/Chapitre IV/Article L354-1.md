@@ -1,6 +1,7 @@
 # Article L354-1
 
-Pour l'application du présent chapitre en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna :\
+Pour l'application du présent chapitre en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna :
+
 1° Les mots : “ 30 000 euros ” sont remplacés par les mots : “ 3 580 000 francs CFP ” ;
 
 2° Les mots : “ 150 000 euros ” sont remplacés par les mots : “ 17 900 000 francs CFP ” ;

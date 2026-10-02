@@ -6,4 +6,4 @@ Le liquidateur ne peut, ni en son nom personnel ni par personne interposée, se 
 Lorsqu'un liquidateur a été désigné, une copie du jugement lui est adressée par le greffe par lettre simple.
 
 NOTA:
-Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.
+Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2020.

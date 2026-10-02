@@ -7,4 +7,4 @@ Lorsqu'un mandataire a été désigné, une copie du jugement lui est adressée 
 Si le mandataire refuse la mission ou s'il existe un empêchement légitime, il est pourvu à son remplacement par ordonnance du juge des contentieux de la protection. Le juge peut également, à la demande des parties ou d'office, remplacer, par ordonnance, le mandataire qui manquerait à ses devoirs, après avoir provoqué ses explications.
 
 NOTA:
-Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.
+Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2020.

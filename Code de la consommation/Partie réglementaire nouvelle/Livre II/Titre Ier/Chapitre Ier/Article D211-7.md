@@ -5,4 +5,4 @@ Tout document de facturation remis au consommateur, lors de l'achat d'un bien ap
 Le présent article ne s'applique pas à un achat de bien effectué dans le cadre d'un contrat conclu hors établissement ou à distance.
 
 NOTA:
-Conformément à l’article 6 du décret n° 2022-946 du 29 juin 2022, ces dispositions entrent en vigueur le 1er octobre 2022.
+Conformément à l’article 6 du décret n° 2022-946 du 29 juin 2022, ces dispositions entrent en vigueur le 1<sup>er</sup> octobre 2022.

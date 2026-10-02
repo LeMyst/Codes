@@ -1,1 +1,17 @@
-Sous-section 2 : Dispositions particulières à la vente par adjudication d'un bien immobilier
+# Sous-section 2 : Dispositions particulières à la vente par adjudication d'un bien immobilier
+
+- [Article R742-27](Article%20R742-27.md)
+- [Article R742-28](Article%20R742-28.md)
+- [Article R742-29](Article%20R742-29.md)
+- [Article R742-30](Article%20R742-30.md)
+- [Article R742-31](Article%20R742-31.md)
+- [Article R742-32](Article%20R742-32.md)
+- [Article R742-33](Article%20R742-33.md)
+- [Article R742-34](Article%20R742-34.md)
+- [Article R742-35](Article%20R742-35.md)
+- [Article R742-36](Article%20R742-36.md)
+- [Article R742-37](Article%20R742-37.md)
+- [Article R742-38](Article%20R742-38.md)
+- [Article R742-39](Article%20R742-39.md)
+- [Article R742-40](Article%20R742-40.md)
+- [Article R742-41](Article%20R742-41.md)

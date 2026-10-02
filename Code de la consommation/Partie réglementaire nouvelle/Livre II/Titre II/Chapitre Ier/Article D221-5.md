@@ -15,6 +15,4 @@ Une fois la déclaration de rétractation remplie en ligne, le consommateur peut
 Après que le consommateur a soumis sa déclaration de rétractation, le professionnel lui envoie dans un délai raisonnable un accusé de réception de celle-ci sur support papier ou sur tout autre support durable. Cet accusé de réception mentionne notamment le contenu de la déclaration de rétractation ainsi que la date et l'heure de son envoi.
 
 NOTA:
-Conformément au I de l'article 20 du décret n° 2026-3 du 5 janvier 2026, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur le 19 juin 2026.
-
-Conformément au II du même article, les contrats en cours au 19 juin 2026 restent régis par les dispositions pertinentes du code des assurances, du code de la consommation, du code monétaire et financier, du code de la mutualité et du code de la sécurité sociale, dans leur rédaction antérieure à l'entrée en vigueur du présent décret.
+Conformément au I de l'article 20 du décret n° 2026-3 du 5 janvier 2026, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur le 19 juin 2026. Conformément au II du même article, les contrats en cours au 19 juin 2026 restent régis par les dispositions pertinentes du code des assurances, du code de la consommation, du code monétaire et financier, du code de la mutualité et du code de la sécurité sociale, dans leur rédaction antérieure à l'entrée en vigueur du présent décret.

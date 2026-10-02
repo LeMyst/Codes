@@ -5,4 +5,4 @@ L'appel aux créanciers prévu à l'article L. 741-8 est publié par le greffe d
 A défaut d'accord entre les parties, le juge des contentieux de la protection désigne, par ordonnance, la ou les parties qui en supporteront les frais.
 
 NOTA:
-Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.
+Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2020.

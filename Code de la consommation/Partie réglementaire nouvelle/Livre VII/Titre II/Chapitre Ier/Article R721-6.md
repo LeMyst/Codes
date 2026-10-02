@@ -7,4 +7,4 @@ Une copie de l'ordonnance par laquelle le juge se prononce sur la demande de sus
 Le greffe notifie au créancier requérant et aux agents chargés de l'exécution l'ordonnance qui rétracte la décision de suspension par lettre simple et l'ordonnance qui rejette la demande en rétractation par lettre recommandée avec demande d'avis de réception.
 
 NOTA:
-Conformément au I de l'article 9 du décret n° 2026-96 du 16 février 2026, ces dispositions dans leur rédaction issue dudit décret, entrent en vigueur le 1er avril 2026.
+Conformément au I de l'article 9 du décret n° 2026-96 du 16 février 2026, ces dispositions dans leur rédaction issue dudit décret, entrent en vigueur le 1<sup>er</sup> avril 2026.

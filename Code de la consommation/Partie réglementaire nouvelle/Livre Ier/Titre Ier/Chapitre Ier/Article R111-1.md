@@ -19,4 +19,4 @@ Pour l'application des 1° et 3° à 6° de l'article L. 111-1, le professionnel
 Pour l'application des 3° et 4°, le professionnel utilise, respectivement, les termes de “ garantie légale ” et les termes de “ garantie commerciale ” lorsqu'il propose cette dernière en sus des garanties légales.
 
 NOTA:
-Conformément à l’article 6 du décret n° 2022-946 du 29 juin 2022, ces dispositions entrent en vigueur le 1er octobre 2022.
+Conformément à l’article 6 du décret n° 2022-946 du 29 juin 2022, ces dispositions entrent en vigueur le 1<sup>er</sup> octobre 2022.

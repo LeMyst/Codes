@@ -3,7 +3,7 @@
 I.- Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues aux articles L. 252-2 et L. 252-3, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | ARTICLES APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
+| -- | -- |
 | L. 222-1 | Résultant de l'ordonnance n° 2026-2 du 5 janvier 2026 |
 | L. 222-2 à L. 222-4 | Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 |
 | L. 222-5 à L. 222-5-2 | Résultant de l'ordonnance n° 2026-2 du 5 janvier 2026 |

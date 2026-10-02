@@ -15,4 +15,4 @@ Pour l'application du présent titre à Saint-Pierre-et-Miquelon :
 6° En l'absence d'adaptation, les références faites par des dispositions du présent code applicables à Saint-Pierre-et-Miquelon, à des dispositions qui n'y sont pas applicables, sont remplacées par les références aux dispositions ayant le même objet applicables localement.
 
 NOTA:
-Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, les dispositions entrent en vigueur le 1er janvier 2020.
+Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, les dispositions entrent en vigueur le 1<sup>er</sup> janvier 2020.

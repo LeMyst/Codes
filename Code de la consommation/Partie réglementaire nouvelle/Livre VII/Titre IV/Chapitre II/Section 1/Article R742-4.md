@@ -7,4 +7,4 @@ Par dérogation, lorsqu'elles sont créancières, les personnes mentionnées à 
 S'il l'estime nécessaire, le juge peut inviter à se présenter à l'audience le service chargé d'une mesure d'aide ou d'action sociale mentionné par le débiteur dans son dossier de dépôt ou, à défaut, un travailleur social choisi sur une liste établie par le préfet.
 
 NOTA:
-Conformément au 1° de l'article 21 du décret n° 2026-683 du 27 juillet 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er octobre 2026.
+Conformément au 1° de l'article 21 du décret n° 2026-683 du 27 juillet 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1<sup>er</sup> octobre 2026.

@@ -18,7 +18,7 @@ e) De supprimer les données collectées ;
 
 3° De transmettre ou cesser de transmettre au fournisseur, les données suivantes :
 
-a) Les index quotidiens relevés à distance et la consommation quotidienne mesurée, s'agissant de l'électricité, en kilowattheures et, s'agissant du gaz naturel, à la fois en m 3 et en kilowattheures avec mention du coefficient de conversion appliqué ;
+a) Les index quotidiens relevés à distance et la consommation quotidienne mesurée, s'agissant de l'électricité, en kilowattheures et, s'agissant du gaz naturel, à la fois en m <sup>3</sup> et en kilowattheures avec mention du coefficient de conversion appliqué ;
 
 b) La puissance électrique maximale soutirée quotidiennement en kilovoltampères ;
 

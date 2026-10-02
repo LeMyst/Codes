@@ -1,1 +1,15 @@
-Chapitre Ier : Pratiques commerciales interdites
+# Chapitre Ier : Pratiques commerciales interdites
+
+- [Section 1 : Pratiques commerciales déloyales](Section%201/README.md)
+- [Section 2 : Abus de faiblesse](Section%202/README.md)
+- [Section 3 : Refus et subordination de vente et de prestation de services](Section%203/README.md)
+- [Section 4 : Vente et prestation de services sans commande préalable](Section%204/README.md)
+- [Section 5 : Vente ou prestation de services "à la boule de neige"](Section%205/README.md)
+- [Section 6 : Numéro téléphonique surtaxé](Section%206/README.md)
+- [Section 7 : Paiement supplémentaire sans consentement exprès](Section%207/README.md)
+- [Section 8 : Ventes ou prestations de service avec primes](Section%208/README.md)
+- [Section 9 : Loteries publicitaires](Section%209/README.md)
+- [Section 10 : Frais de recouvrement](Section%2010/README.md)
+- [Section 11 : Publicité portant sur des opérations commerciales règlementées](Section%2011/README.md)
+- [Section 12 : Blocage géographique injustifié](Section%2012/README.md)
+- [Section 13 : Remises ou réductions annulant l'effet de la taxe à l'immatriculation sur les émissions de dioxyde de carbone des véhicules de tourisme](Section%2013/README.md)

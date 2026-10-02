@@ -3,7 +3,7 @@
 Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues à l'article R. 771-2, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | ARTICLES APPLICABLES | DANS LEUR REDACTION |
-| --- | --- |
+| -- | -- |
 | R. 711-2 | Résultant du décret n° 2016-884 du 29 juin 2016 |
 | R. 712-2 à R. 712-11 | Résultant du décret n° 2016-884 du 29 juin 2016 |
 | R. 712-12 | Résultant du décret n° 2017-896 du 9 mai 2017 |
@@ -60,4 +60,4 @@ Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations 
 .
 
 NOTA:
-Conformément au 1° de l'article 21 du décret n° 2026-683 du 27 juillet 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er octobre 2026.
+Conformément au 1° de l'article 21 du décret n° 2026-683 du 27 juillet 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1<sup>er</sup> octobre 2026.

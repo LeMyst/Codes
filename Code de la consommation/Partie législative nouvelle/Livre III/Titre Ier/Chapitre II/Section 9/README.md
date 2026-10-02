@@ -1,1 +1,15 @@
-Section 9 : Crédit affecté
+# Section 9 : Crédit affecté
+
+- [Article L312-44](Article%20L312-44.md)
+- [Article L312-45](Article%20L312-45.md)
+- [Article L312-46](Article%20L312-46.md)
+- [Article L312-47](Article%20L312-47.md)
+- [Article L312-48](Article%20L312-48.md)
+- [Article L312-49](Article%20L312-49.md)
+- [Article L312-50](Article%20L312-50.md)
+- [Article L312-51](Article%20L312-51.md)
+- [Article L312-52](Article%20L312-52.md)
+- [Article L312-53](Article%20L312-53.md)
+- [Article L312-54](Article%20L312-54.md)
+- [Article L312-55](Article%20L312-55.md)
+- [Article L312-56](Article%20L312-56.md)

@@ -5,4 +5,4 @@ Lorsque les créances ont été déclarées au greffe du tribunal judiciaire, le
 Par dérogation à l'alinéa précédent, les convocations et notifications adressées aux personnes mentionnées à l'article 692-1 du code de procédure civile, lorsqu'elles sont créancières, sont faites par tous moyens.
 
 NOTA:
-Conformément au 1° de l'article 21 du décret n° 2026-683 du 27 juillet 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er octobre 2026.
+Conformément au 1° de l'article 21 du décret n° 2026-683 du 27 juillet 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1<sup>er</sup> octobre 2026.

@@ -1,1 +1,18 @@
-Section 5 : Formation du contrat de crédit
+# Section 5 : Formation du contrat de crédit
+
+- [Article L313-24](Article%20L313-24.md)
+- [Article L313-25](Article%20L313-25.md)
+- [Article L313-26](Article%20L313-26.md)
+- [Article L313-27](Article%20L313-27.md)
+- [Article L313-28](Article%20L313-28.md)
+- [Article L313-29](Article%20L313-29.md)
+- [Article L313-30](Article%20L313-30.md)
+- [Article L313-31](Article%20L313-31.md)
+- [Article L313-32](Article%20L313-32.md)
+- [Article L313-33](Article%20L313-33.md)
+- [Article L313-34](Article%20L313-34.md)
+- [Article L313-35](Article%20L313-35.md)
+- [Article L313-36](Article%20L313-36.md)
+- [Article L313-37](Article%20L313-37.md)
+- [Article L313-38](Article%20L313-38.md)
+- [Article L313-39](Article%20L313-39.md)

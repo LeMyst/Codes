@@ -7,4 +7,4 @@ Cette lettre indique :\
 2° Qu'à défaut de contestation dans ce délai le projet est réputé accepté et sera soumis au juge des contentieux de la protection pour homologation.
 
 NOTA:
-Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.
+Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2020.

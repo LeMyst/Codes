@@ -5,4 +5,4 @@ La commission procède à des mesures de publicité pour permettre aux créancie
 Les titulaires de créances disposent d'un délai de deux mois à compter de cette publicité pour exercer leur recours.
 
 NOTA:
-Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.
+Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2020.

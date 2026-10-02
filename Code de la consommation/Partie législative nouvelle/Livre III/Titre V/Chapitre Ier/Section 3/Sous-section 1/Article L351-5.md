@@ -3,7 +3,7 @@
 Sont applicables en Nouvelle-Calédonie et en Polynésie française, sous réserve des adaptations prévues à l'article L. 351-6, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | ARTICLES APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
+| -- | -- |
 | L. 314-1 à L. 314-4 | Résultant de l'ordonnance n° 2016-351 du 25 mars 2016 |
 | L. 314-5 | Résultant de l'ordonnance n° 2016-301 du 14 mars 2016 |
 | L. 314-6 | Résultant de l'ordonnance n° 2016-351 du 25 mars 2016 |

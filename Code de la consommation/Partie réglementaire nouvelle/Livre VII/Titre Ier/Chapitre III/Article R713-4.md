@@ -13,4 +13,4 @@ L'article 762 du code de procédure civile est applicable.
 Lorsque les parties sont convoquées, la procédure est orale. En cours d'instance, toute partie peut aussi exposer ses moyens par lettre adressée au juge à condition de justifier que l'adversaire en a eu connaissance avant l'audience par lettre recommandée avec demande d'avis de réception. La partie qui use de cette faculté peut ne pas se présenter à l'audience, conformément au second alinéa de l'article 446-1 du code de procédure civile.
 
 NOTA:
-Conformément au 1° de l'article 21 du décret n° 2026-683 du 27 juillet 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er octobre 2026.
+Conformément au 1° de l'article 21 du décret n° 2026-683 du 27 juillet 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1<sup>er</sup> octobre 2026.

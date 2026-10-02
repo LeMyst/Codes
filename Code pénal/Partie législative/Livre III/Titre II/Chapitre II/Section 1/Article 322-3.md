@@ -22,8 +22,18 @@ L'infraction définie au I de l'article 322-1 est punie de cinq ans d'emprisonne
 
 9° Lorsqu'elle porte sur du matériel destiné à prodiguer des soins de premiers secours ;
 
-10° Lorsque le bien détruit, dégradé ou détérioré est destiné à la vaccination.
+10° Lorsque le bien détruit, dégradé ou détérioré est destiné à la vaccination ;
 
-Lorsque l'infraction définie au I de l'article 322-1 est commise à l'encontre d'un établissement scolaire, éducatif ou de loisirs ou d'un véhicule transportant des enfants, les peines encourues sont également portées à cinq ans d'emprisonnement et à 75 000 euros d'amende.
+11° Lorsqu'elle est commise :
+
+a) Dans un lieu dans lequel est exercée une activité agricole au sens de l'article L. 311-1 du code rural et de la pêche maritime ou sur du matériel propre à l'activité agricole et affecté à une exploitation agricole ;
+
+b) Sur des biens affectés à des activités de recherche et développement, de production, de transformation, de stockage ou de négoce directement liés à une activité agricole, au sens du même article L. 311-1 ;
+
+c) Dans un lieu d'abattage, de découpe et de préparation des viandes et des produits assimilés, de pêche maritime et fluviale, d'aquaculture ou de sylviculture ou dans lequel sont entreposés des biens affectés à ces activités.
+
+Les retenues d'eau et les infrastructures de stockage, de transfert ou de distribution d'eau utilisées, même partiellement, pour les besoins d'une activité agricole sont assimilées à des biens affectés à cette activité.
+
+Lorsque l'infraction définie au I de l'article 322-1 du présent code est commise à l'encontre d'un établissement scolaire, éducatif ou de loisirs ou d'un véhicule transportant des enfants, les peines encourues sont également portées à cinq ans d'emprisonnement et à 75 000 euros d'amende.
 
 Les peines sont portées à sept ans d'emprisonnement et 100 000 € d'amende lorsque l'infraction définie au I de l'article 322-1 est commise dans deux des circonstances prévues aux 1° et suivants du présent article.

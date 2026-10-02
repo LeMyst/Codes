@@ -4,4 +4,6 @@ Hors les cas de viol ou d'agression sexuelle prévus à la section 3 du chapitre
 
 1° Lorsqu'elles sont commises par toute personne majeure ayant sur la victime une autorité de droit ou de fait ;
 
-2° Lorsqu'elles sont commises par une personne majeure qui abuse de l'autorité que lui confèrent ses fonctions.
+2° Lorsqu'elles sont commises par une personne majeure qui abuse de l'autorité que lui confèrent ses fonctions ;
+
+3° Lorsqu'elles sont commises dans un moyen de transport collectif de voyageurs ou dans un lieu destiné à l'accès à un moyen de transport collectif de voyageurs.

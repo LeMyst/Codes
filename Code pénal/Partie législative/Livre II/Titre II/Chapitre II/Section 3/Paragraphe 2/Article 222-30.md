@@ -16,4 +16,6 @@ L'infraction définie à l'article 222-29 est punie de dix ans d'emprisonnement 
 
 7° Lorsqu'elle est commise par une personne agissant en état d'ivresse manifeste ou sous l'emprise manifeste de produits stupéfiants ;
 
-8° Lorsqu'une substance a été administrée à la victime, à son insu, afin d'altérer son discernement ou le contrôle de ses actes.
+8° Lorsqu'une substance a été administrée à la victime, à son insu, afin d'altérer son discernement ou le contrôle de ses actes ;
+
+9° Lorsqu'elle est commise dans un moyen de transport collectif de voyageurs ou dans un lieu destiné à l'accès à un moyen de transport collectif de voyageurs.

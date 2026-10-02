@@ -32,4 +32,6 @@ Le viol défini à l'article 222-23 est puni de vingt ans de réclusion criminel
 
 14° Lorsqu'un mineur était présent au moment des faits et y a assisté ;
 
-15° Lorsqu'une substance a été administrée à la victime, à son insu, afin d'altérer son discernement ou le contrôle de ses actes.
+15° Lorsqu'une substance a été administrée à la victime, à son insu, afin d'altérer son discernement ou le contrôle de ses actes ;
+
+16° Lorsqu'il est commis dans un moyen de transport collectif de voyageurs ou dans un lieu destiné à l'accès à un moyen de transport collectif de voyageurs.

@@ -18,7 +18,7 @@ Le vol est puni de cinq ans d'emprisonnement et de 75 000 euros d'amende :
 
 8° Lorsqu'il est précédé, accompagné ou suivi d'un acte de destruction, dégradation ou détérioration ;
 
-9° (Abrogé)
+9° Lorsqu'il est commis dans un lieu dans lequel est exercée une activité agricole, de pêche maritime ou d'aquaculture, au sens des articles L. 311-1 ou L. 911-1 du code rural et de la pêche maritime ;
 
 10° Lorsqu'il est commis par une personne dissimulant volontairement en tout ou partie son visage afin de ne pas être identifiée ;
 

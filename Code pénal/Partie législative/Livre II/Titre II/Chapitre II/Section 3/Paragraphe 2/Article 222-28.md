@@ -24,4 +24,6 @@ L'infraction définie à l'article 222-27 est punie de sept ans d'emprisonnement
 
 10° Lorsqu'un mineur était présent au moment des faits et y a assisté ;
 
-11° Lorsqu'une substance a été administrée à la victime, à son insu, afin d'altérer son discernement ou le contrôle de ses actes.
+11° Lorsqu'une substance a été administrée à la victime, à son insu, afin d'altérer son discernement ou le contrôle de ses actes ;
+
+12° Lorsqu'elle est commise dans un moyen de transport collectif de voyageurs ou dans un lieu destiné à l'accès à un moyen de transport collectif de voyageurs.

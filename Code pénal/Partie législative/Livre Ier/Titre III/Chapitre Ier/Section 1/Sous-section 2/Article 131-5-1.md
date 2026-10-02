@@ -12,7 +12,7 @@ Les stages que peut prononcer la juridiction sont :
 
 2° Le stage de sensibilisation à la sécurité routière ;
 
-3° Le stage de sensibilisation aux dangers de l'usage de produits stupéfiants ;
+3° Le stage de sensibilisation aux dangers de l'usage de produits stupéfiants et de l'usage détourné de produits de consommation courante pour en obtenir des effets psychoactifs ;
 
 4° Le stage de responsabilisation pour la prévention et la lutte contre les violences au sein du couple et sexistes ;
 

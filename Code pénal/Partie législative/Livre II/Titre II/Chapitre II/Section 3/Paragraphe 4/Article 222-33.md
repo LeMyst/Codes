@@ -28,4 +28,6 @@ Ces peines sont portées à trois ans d'emprisonnement et 45 000 € d'amende lo
 
 7° Alors qu'un mineur était présent et y a assisté ;
 
-8° Par un ascendant ou par toute autre personne ayant sur la victime une autorité de droit ou de fait.
+8° Par un ascendant ou par toute autre personne ayant sur la victime une autorité de droit ou de fait ;
+
+9° Dans un moyen de transport collectif de voyageurs ou dans un lieu destiné à l'accès à un moyen de transport collectif de voyageurs.

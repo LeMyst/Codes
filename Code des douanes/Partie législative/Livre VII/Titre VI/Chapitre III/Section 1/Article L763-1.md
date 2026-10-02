@@ -1,6 +1,6 @@
 # Article L763-1
 
-I. - Les dispositions du titre Ier du livre III sont applicables de plein droit en Polynésie française, à l'exception des articles L. 311-9 à L. 311-16, L. 312-6, L. 312-7, L. 313-2 et L. 313-3, qui ne sont pas applicables.
+I. - Les dispositions du titre I<sup>er</sup> du livre III sont applicables de plein droit en Polynésie française, à l'exception des articles L. 311-9 à L. 311-16, L. 312-6, L. 312-7, L. 313-2 et L. 313-3, qui ne sont pas applicables.
 
 II. - Pour l'application du I :
 

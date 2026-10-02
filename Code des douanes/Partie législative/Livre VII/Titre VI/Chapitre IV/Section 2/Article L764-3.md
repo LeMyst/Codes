@@ -13,11 +13,11 @@ b) Les mots : « L. 421-1 à L. 421-14 » sont remplacés par les mots : L. 421-
 « 2° Du règlement (UE) 2018/1672 du Parlement européen et du Conseil du 23 octobre 2018 relatif aux contrôles de l'argent liquide entrant dans l'Union ou sortant de l'Union ;\
 « 3° Des articles L. 722-6 à L. 722-8 et L. 722-18 à L. 722-20 du code monétaire et financier. » ;
 
-4° A l'article L. 422-3, les mots : « au chapitre II du titre V du livre Ier » sont remplacés par les mots : « aux articles L. 722-6 à L. 722-8 et L. 722-18 à L. 722-20 » ;\
+4° A l'article L. 422-3, les mots : « au chapitre II du titre V du livre I<sup>er</sup> » sont remplacés par les mots : « aux articles L. 722-6 à L. 722-8 et L. 722-18 à L. 722-20 » ;\
 5° A l'article L. 422-4 :\
 a) Les mots : « L. 232-6 » sont remplacés par les mots : « L. 232-4 » ;\
 b) Les mots : « ainsi qu'à celles expédiées sous un régime particulier au sens du code des douanes de l'Union » sont supprimés ;\
-c) Les mots : « au chapitre II du titre V du livre Ier » sont remplacés par les mots : « aux articles L. 722-6 à L. 722-8 et L. 722-18 à L. 722-20 » ;\
+c) Les mots : « au chapitre II du titre V du livre I<sup>er</sup> » sont remplacés par les mots : « aux articles L. 722-6 à L. 722-8 et L. 722-18 à L. 722-20 » ;\
 6° A l'article L. 422-5, les mots : « au sens du code des douanes de l'Union » sont supprimés ;\
 7° Au 1° de l'article L. 422-9, les mots : « L. 422-11 à L. 422-14 » sont remplacés par les mots : « L. 422-11 à L. 422-13 » ;\
 8° L'article L. 422-21 est ainsi rédigé :
@@ -38,4 +38,4 @@ b) Les mots : « L. 152-4 » sont remplacés par les mots : « L. 722-18 » ;\
 15° A l'article L. 427-46, les mots : « au III de l'article L. 152-4 » sont remplacés par les mots : « aux alinéas 5, 6 ou 7 de l'article L. 722-18 ».
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

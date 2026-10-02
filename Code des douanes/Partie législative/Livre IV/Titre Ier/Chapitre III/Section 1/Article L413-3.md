@@ -4,4 +4,4 @@ Dans le cadre de leur mission de lutte contre les activités lucratives non déc
 Dans ce même cadre, les officiers et agents de police judiciaire transmettent, dans les mêmes conditions, aux agents des administrations mentionnées à l'alinéa précédent toutes les informations et tous les documents de nature financière, fiscale ou douanière.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

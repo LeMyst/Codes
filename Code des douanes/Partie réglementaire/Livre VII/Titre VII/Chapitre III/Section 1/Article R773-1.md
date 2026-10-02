@@ -1,6 +1,6 @@
 # Article R773-1
 
-I. - Les dispositions du titre Ier du livre III prises par décret en Conseil d'Etat sont applicables de plein droit en Nouvelle-Calédonie.\
+I. - Les dispositions du titre I<sup>er</sup> du livre III prises par décret en Conseil d'Etat sont applicables de plein droit en Nouvelle-Calédonie.\
 II. - Pour l'application du I :\
 1° A l'article R. 311-1 :\
 a) Les mots : « aux articles L. 311-6 et L. 311-14 » sont remplacés par les mots : « à l'article L. 311-6 » ;\

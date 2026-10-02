@@ -4,4 +4,4 @@ En cas de paiement avec subrogation, le subrogé aux droits du Trésor est tenu 
 Si le paiement par le subrogé a lieu sans émission du titre exécutoire prévu au 2° de l'article L. 323-11, l'inscription ne peut être requise que six mois au moins après le paiement.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

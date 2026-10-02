@@ -5,4 +5,4 @@ Le procureur de la République près le tribunal judiciaire dans le ressort duqu
 Lorsqu'ils sont autorisés dans les conditions prévues au premier alinéa à continuer à délivrer les documents permettant de procéder aux transactions suspectes, les agents ne sont pas pénalement responsables du fait de ces actes.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

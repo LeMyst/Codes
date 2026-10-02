@@ -5,4 +5,4 @@ Le comptable se prononce dans un délai de deux mois à compter de la réception
 A compter de la réception de la décision du comptable ou, à défaut de réponse, de l'expiration du délai mentionné au deuxième alinéa, l'auteur de la contestation dispose d'un délai de deux mois pour assigner le comptable devant le juge de l'exécution.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

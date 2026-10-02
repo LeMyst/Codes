@@ -3,7 +3,7 @@
 Sont applicables en Polynésie française les dispositions suivantes mentionnées dans la colonne de gauche du tableau ci-après, dans sa rédaction indiquée dans la colonne de droite du même tableau :
 
 | Articles applicables | Dans leur rédaction résultant du décret |
-| --- | --- |
+| -- | -- |
 | R. 131-1 et R. 131-2 | Décret n° 2026-266 du 8 avril 2026 |
 
 NOTA:

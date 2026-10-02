@@ -5,4 +5,4 @@ Les entrepositaires agréés présentent, à première réquisition des agents d
 A l'occasion de cet examen, les agents peuvent contrôler la cohérence entre les indications portées dans la comptabilité matières et les pièces de recettes et de dépenses et sur les documents d'accompagnement mentionnés au 4° du même article L. 311-39. Ils peuvent demander, en outre, toutes justifications ou tous éclaircissements relatifs aux indications portées dans la comptabilité matières.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

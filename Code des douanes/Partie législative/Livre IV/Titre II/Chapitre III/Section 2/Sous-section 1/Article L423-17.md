@@ -7,4 +7,4 @@ L'occupant des lieux ou son représentant est informé qu'il peut assister au t�
 Cette opération est effectuée dans les locaux du service chargé de la procédure selon les modalités prévues aux quatrième à avant-dernier alinéas de l'article 57-1 du même code.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

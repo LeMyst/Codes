@@ -4,4 +4,4 @@ Pour l'application des articles L. 513-12 et L. 513-13, les fonds et les actifs 
 Cette présomption s'applique à toute opération effectuée, dans les conditions prévues à l'alinéa précédent, au moyen d'un crypto-actif comportant une fonction d'anonymisation intégrée ou au moyen de tout type de compte ou de technique permettant l'anonymisation ou l'opacification des opérations en crypto-actifs.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

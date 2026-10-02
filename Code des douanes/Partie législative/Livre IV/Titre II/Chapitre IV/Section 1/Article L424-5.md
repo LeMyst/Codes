@@ -4,4 +4,4 @@ Pour l'application des dispositions des articles L. 424-2 à L. 424-4, le contr�
 Il ne peut consister en un contrôle systématique des personnes présentes ou circulant dans les zones ou lieux mentionnés aux articles L. 424-2 à L. 424-4.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

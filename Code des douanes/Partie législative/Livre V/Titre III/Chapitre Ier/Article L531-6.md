@@ -8,4 +8,4 @@ Sont punis d'une amende de 750 euros :\
 5° Le fait, pour les personnes qui bénéficient des exonérations de l'accise sur les alcools prévues aux articles L. 313-7 à L. 313-14 du même code ou qui se livrent au commerce des alcools dénaturés mentionnés à son article L. 313-7, de ne pas procéder à la déclaration mentionnée au 2° de l'article L. 311-39 du même code.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

@@ -4,4 +4,4 @@ Est punie de trois ans d'emprisonnement et d'une amende de deux fois la valeur d
 Est puni des mêmes sanctions le fait de détenir ou transporter de l'or natif dans le rayon des douanes en Guyane sans présenter un document de transport valide, une justification d'origine émanant de personnes ou de sociétés régulièrement établies en Guyane ou un document attestant que l'or natif est destiné à être régulièrement exporté.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

@@ -1,6 +1,6 @@
 # Article L745-1
 
-I. - Les dispositions du titre Ier du livre V sont applicables de plein droit à Saint-Pierre-et-Miquelon, à l'exception des articles L. 513-10 et L. 513-11 qui ne sont pas applicables.\
+I. - Les dispositions du titre I<sup>er</sup> du livre V sont applicables de plein droit à Saint-Pierre-et-Miquelon, à l'exception des articles L. 513-10 et L. 513-11 qui ne sont pas applicables.\
 II. - Pour l'application du I :\
 1° A l'article L. 512-1, la référence aux articles 135, 139, 137, 267 et 140 du code des douanes de l'Union et L. 233-2 et L. 233-3 du présent code est remplacée par la référence aux dispositions ayant le même objet applicables localement ;\
 2° A l'article L. 512-2, la référence aux articles 226 à 230, 233 et 234 du code des douanes de l'Union est remplacée par la référence aux dispositions ayant le même objet applicables localement ;\
@@ -26,4 +26,4 @@ b) Les références aux articles L. 232-5 et L. 232-6 sont supprimées ;\
 12° A l'article L. 514-4, la référence à l'article L. 513-11 » est remplacée par la référence à l'article L. 513-9.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

@@ -6,4 +6,4 @@ Constitue également une contrebande :\
 3° La substitution ou la soustraction de marchandises en cours de transport placés sous l'un des régimes prévus aux articles 226 à 230, 233 et 234 du même code.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

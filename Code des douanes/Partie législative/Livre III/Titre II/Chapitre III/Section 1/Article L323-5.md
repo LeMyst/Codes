@@ -5,4 +5,4 @@ La décision d'affectation est notifiée au débiteur.\
 Si le produit de la cession excède le montant de la créance, l'excédent est restitué au redevable.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

@@ -5,4 +5,4 @@ Le procureur de la République ayant délivré l'autorisation en est informé da
 Lorsqu'à l'issue du délai de quatre mois, l'agent infiltré ne peut cesser sa surveillance dans des conditions assurant sa sécurité, le procureur de la République en autorise la prolongation pour une durée de quatre mois au plus.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

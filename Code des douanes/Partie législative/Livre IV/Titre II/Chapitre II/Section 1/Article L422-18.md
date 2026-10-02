@@ -5,4 +5,4 @@ Si le magistrat saisi fait droit à cette demande, il désigne le médecin charg
 Un procès-verbal relatant les résultats de l'examen communiqués par le médecin, les observations de la personne concernée et le déroulement des opérations est transmis au magistrat par tout moyen.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

@@ -1,6 +1,6 @@
 # Article R776-1
 
-I. - Les dispositions du titre Ier du livre VI sont applicables de plein droit en Nouvelle-Calédonie, à l'exception de l'article R. 613-3 qui n'est pas applicable.\
+I. - Les dispositions du titre I<sup>er</sup> du livre VI sont applicables de plein droit en Nouvelle-Calédonie, à l'exception de l'article R. 613-3 qui n'est pas applicable.\
 II. - Pour l'application du I :\
 1° Aux articles R. 611-3 et R. 613-1, le mot : « interrégionaux » est remplacé par le mot : « régionaux » ;\
 2° L'article R. 613-2 est ainsi rédigé :

@@ -9,4 +9,4 @@ Lorsque la constatation de l'infraction est suivie de la saisie de marchandises,
 6° La saisie des moyens de transport si elle a été pratiquée en garantie de l'amende encourue.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

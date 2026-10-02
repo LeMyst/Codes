@@ -6,4 +6,4 @@ A défaut de caution solvable et pour la garantie de l'amende, les moyens de tra
 Les marchandises faisant partie des chargements et qui ne sont pas en fraude sont restituées au propriétaire.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

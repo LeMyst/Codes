@@ -11,4 +11,4 @@ b) Le dernier alinéa est supprimé ;\
 5° A l'article L. 332-5, les mots : « , aux demandes de remboursement ou remise mentionnés à l'article 116 du code des douanes de l'Union, » sont supprimés.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

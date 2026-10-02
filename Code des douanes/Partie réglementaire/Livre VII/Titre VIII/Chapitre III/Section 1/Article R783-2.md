@@ -3,7 +3,7 @@
 I. - Sont applicables dans les Terres australes et antarctiques françaises, sous réserve des adaptations prévues au II, les articles suivants, mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | Articles applicables | Dans leur rédaction résultant de |
-| --- | --- |
+| -- | -- |
 | R. 311-1 | Décret n° 2026-266 du 8 avril 2026 |
 | R. 312-1 à R. 312-11 | Décret n° 2026-266 du 8 avril 2026 |
 

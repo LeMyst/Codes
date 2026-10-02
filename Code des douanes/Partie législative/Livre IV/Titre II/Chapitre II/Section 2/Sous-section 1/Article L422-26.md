@@ -5,4 +5,4 @@ Une copie est remise sans délai au capitaine du navire ou à son représentant 
 Le procès-verbal mentionne le délai et les voies de recours ouvertes à l'occupant des locaux à usage privé ou d'habitation contre le déroulement des opérations de visite.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

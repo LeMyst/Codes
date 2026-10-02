@@ -13,4 +13,4 @@ Les procès-verbaux mentionnés aux articles L. 443-8 à L. 443-11 comportent :\
 Lorsqu'un procès-verbal constate une infraction, le droit de se taire sur les faits qui lui sont reprochés doit avoir été notifié à la personne concernée. Mention en est faite au procès-verbal.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

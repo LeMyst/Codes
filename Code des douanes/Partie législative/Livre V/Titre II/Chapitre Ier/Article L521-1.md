@@ -8,4 +8,4 @@ Sous réserve des dispositions de l'article L. 521-2, pour les infractions prév
 5° Dispenser le coupable des sanctions pénales prévues par le présent code, ordonner qu'il soit sursis à leur exécution, décider que la condamnation ne soit pas mentionnée au bulletin n° 2 du casier judiciaire.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

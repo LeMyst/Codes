@@ -4,4 +4,4 @@ La juridiction saisie peut, en tenant compte de l'ampleur et de la gravité de l
 Par dérogation aux dispositions de l'alinéa précédent, elle prononce la confiscation des biens et objets dont la détention est illicite.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

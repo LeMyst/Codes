@@ -4,4 +4,4 @@ Un procès-verbal, signé par les agents de l'administration, relate le déroule
 Une copie est transmise à l'intéressé dans un délai de cinq jours à compter de l'établissement du procès-verbal.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

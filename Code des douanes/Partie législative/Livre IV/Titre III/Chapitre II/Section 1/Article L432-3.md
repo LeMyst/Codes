@@ -5,4 +5,4 @@ Il est informé de la qualification des faits qui a été notifiée à la person
 Il peut la modifier. Dans ce cas, la nouvelle qualification est notifiée à la personne dans les conditions prévues à l'article L. 432-7.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

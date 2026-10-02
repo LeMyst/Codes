@@ -1,6 +1,6 @@
 # Article R725-1
 
-I. - Les dispositions du titre Ier du livre V sont applicables de plein droit à Saint-Barthélemy, à l'exception de l'article R. 515-8, qui n'est pas applicable.
+I. - Les dispositions du titre I<sup>er</sup> du livre V sont applicables de plein droit à Saint-Barthélemy, à l'exception de l'article R. 515-8, qui n'est pas applicable.
 
 II. - Pour l'application du I :
 

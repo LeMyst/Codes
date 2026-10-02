@@ -3,7 +3,7 @@
 Sont applicables dans les îles Wallis et Futuna les dispositions suivantes mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | Articles applicables | Dans leur rédaction résultant de l'arrêté |
-| --- | --- |
+| -- | -- |
 | A. 427-1 | Arrêté du 8 avril 2026 |
 
 NOTA:

@@ -4,4 +4,4 @@ Lorsqu'à l'occasion de la visite, les agents habilités découvrent l'existence
 Lorsqu'à l'occasion de la visite, les agents habilités découvrent des éléments révélant l'existence en d'autres lieux de biens ou avoirs se rapportant aux agissements mentionnés à l'article L. 423-6, ils peuvent, sur autorisation délivrée par tout moyen par le juge qui a pris l'ordonnance, procéder immédiatement à la visite de ces lieux aux fins de saisir ces biens et avoirs. Cette autorisation est portée au procès-verbal.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

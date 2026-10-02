@@ -4,4 +4,4 @@ Sans préjudice des dispositions du code des douanes de l'Union et avant que les
 Lorsqu'il est prévu la souscription d'un engagement pour garantir l'arrivée à destination de certaines marchandises, l'accomplissement de certaines formalités ou la production de certains documents, cette condition est remplie par la constitution d'une garantie.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

@@ -4,11 +4,11 @@ Est réputé constituer une exportation sans déclaration de marchandises prohib
 
 1° Le prêt ou la cession de l'un des documents mentionnés au deuxième alinéa de l'article L. 231-4 ainsi que le fait d'obtenir ou de tenter d'obtenir la délivrance de l'un de ces documents par fausse déclaration ou tout autre moyen frauduleux ;
 
-2° Une fausse déclaration ayant pour but ou pour effet d'éluder l'application des mesures de prohibition mentionnées au chapitre Ier du titre III du livre II ;
+2° Une fausse déclaration ayant pour but ou pour effet d'éluder l'application des mesures de prohibition mentionnées au chapitre I<sup>er</sup> du titre III du livre II ;
 
 3° L'exportation à destination d'un Etat membre de l'Union européenne de marchandises mentionnées aux articles L. 231-5 et L. 231-6 effectuée en méconnaissance de ces mêmes dispositions ;
 
-4° La méconnaissance des dispositions portant prohibition d'exportation au sens du chapitre Ier du titre III du livre II, de réexportation au sens de l'article 270 du code des douanes de l'Union, ou subordonnant l'exportation ou la réexportation au paiement de droits, de taxes ou à l'accomplissement de formalités particulières ;
+4° La méconnaissance des dispositions portant prohibition d'exportation au sens du chapitre I<sup>er</sup> du titre III du livre II, de réexportation au sens de l'article 270 du code des douanes de l'Union, ou subordonnant l'exportation ou la réexportation au paiement de droits, de taxes ou à l'accomplissement de formalités particulières ;
 
 5° Une fausse déclaration ou manœuvre en lien avec l'obligation de déclarer les marchandises à l'exportation prévue à l'article 158 du code des douanes de l'Union ayant pour but ou pour résultat d'obtenir un avantage financier attaché à la taxe sur la valeur ajoutée, aux autres taxes pour lesquelles les règles régissant le contrôle, le recouvrement et le contentieux sont celles applicables aux taxes sur les biens et services ou aux contributions indirectes ;
 

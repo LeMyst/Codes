@@ -7,4 +7,4 @@ Lorsque les personnes mentionnées aux 1° et 2° ne sont pas intéressées les 
 Pour l'application des dispositions du présent article, la cession à une personne privée intervient à la condition qu'elles transmettent préalablement à l'administration un engagement portant interdiction de revendre ou de céder à titre onéreux les objets ou marchandises qui leur sont cédés.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

@@ -4,4 +4,4 @@ L'occupant des lieux ou son représentant est informé qu'il peut assister à l'
 Un procès-verbal décrivant les opérations réalisées pour accéder à ces pièces et documents, à leur mise au clair et à leur lecture est dressé par les agents de l'administration des douanes. Un inventaire des pièces et documents saisis lui est annexé, s'il y a lieu.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

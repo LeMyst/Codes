@@ -5,4 +5,4 @@ Lorsqu'il ressort du rapport mentionné à l'article L. 427-20 que la personne m
 Les questions posées à l'agent infiltré à l'occasion de cette confrontation ne doivent pas avoir pour objet ni pour effet de révéler, directement ou indirectement, sa véritable identité.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

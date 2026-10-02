@@ -4,7 +4,7 @@ En vue de la recherche de la fraude, les agents de l'administration des douanes 
 1° Du présent code ;\
 2° Du code des douanes de l'Union et de ses règlements d'exécution et délégué ;\
 3° Du règlement (UE) 2018/1672 du Parlement européen et du Conseil du 23 octobre 2018 relatif aux contrôles de l'argent liquide entrant dans l'Union ou sortant de l'Union ;\
-4° Du chapitre II du titre V du livre Ier du code monétaire et financier.
+4° Du chapitre II du titre V du livre I<sup>er</sup> du code monétaire et financier.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

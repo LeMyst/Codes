@@ -5,4 +5,4 @@ Elle peut être prolongée, sur autorisation du procureur de la République dans
 Au plus tard au terme de la durée de la consignation et de son éventuelle prolongation, les marchandises sont restituées à l'une des personnes mentionnées à l'article L. 441-2, sauf si elles ont été saisies par les agents de l'administration des douanes dans les conditions prévues à l'article L. 442-1.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

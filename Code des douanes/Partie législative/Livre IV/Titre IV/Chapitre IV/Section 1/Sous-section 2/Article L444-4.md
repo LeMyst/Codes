@@ -4,4 +4,4 @@ En matière de contributions indirectes et de réglementations assimilées, les 
 Ils sont entachés de nullité lorsqu'ils n'ont pas été rédigés par les seuls agents ayant pris une part personnelle et directe à la constatation des faits qui constituent l'infraction.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

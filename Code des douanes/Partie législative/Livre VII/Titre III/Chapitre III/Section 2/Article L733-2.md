@@ -13,4 +13,4 @@ b) Après les mots : « présent code », sont insérés les mots : « et dont l
 4° Au premier alinéa de l'article L. 321-10, après le mot : « taxes », sont insérés les mots : « dont le produit est affecté au budget de l'Etat ou aux ressources propres de l'Union et ».
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

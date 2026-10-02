@@ -5,4 +5,4 @@ Il est invité à faire connaître ses observations dans les conditions prévues
 Il est également informé des points qui, ayant fait l'objet d'un examen par l'administration dans les conditions prévues aux articles L. 312-2 et L. 312-4, ne comportent ni erreur, ni inexactitude, ni omission, ni insuffisance dans le calcul des droits et taxes exigibles.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

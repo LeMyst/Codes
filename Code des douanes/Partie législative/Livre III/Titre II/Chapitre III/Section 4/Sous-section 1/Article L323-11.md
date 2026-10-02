@@ -6,4 +6,4 @@ Les sommes restant dues à titre privilégié par des commerçants et personnes 
 3° La publicité est obligatoire lorsque le montant des sommes dues par un redevable à un même poste comptable ou service assimilé et susceptibles d'être publiées dépasse, au terme d'un semestre civil, un seuil fixé par décret.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

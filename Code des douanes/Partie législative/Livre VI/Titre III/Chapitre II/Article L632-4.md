@@ -4,4 +4,4 @@ En matière de contributions indirectes et de réglementations assimilées, lors
 La confiscation des objets saisis à la suite de la constatation d'une infraction est également prononcée, en dépit de la nullité du procès-verbal, lorsque l'infraction se trouve suffisamment caractérisée par l'enquête.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

@@ -4,4 +4,4 @@ Lorsqu'il existe une section autoroutière démarrant dans la zone mentionnée �
 Un arrêté du ministre de l'intérieur, du ministre de la justice, du ministre de la défense, du ministre chargé des transports et du ministre chargé des douanes désigne les péages concernés par la présente disposition.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

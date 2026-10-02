@@ -6,4 +6,4 @@ La présence des personnes mentionnées aux deux premiers alinéas du présent a
 Lorsque la visite des moyens de transport est effectuée en l'absence de leur conducteur ou de leur propriétaire, un procès-verbal en relatant le déroulement est dressé et signé, le cas échéant, par la personne requise.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

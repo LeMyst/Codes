@@ -4,4 +4,4 @@ Les agents de l'administration des douanes peuvent être autorisés à ne pas ê
 Ils ne peuvent se prévaloir de cette autorisation lorsque, en raison d'un acte commis dans l'exercice de leurs fonctions, ils sont entendus en application des articles 61-1 ou 62-2 du code de procédure pénale ou qu'ils font l'objet de poursuites pénales.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

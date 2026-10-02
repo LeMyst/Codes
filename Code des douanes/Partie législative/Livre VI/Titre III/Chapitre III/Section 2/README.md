@@ -1,1 +1,16 @@
-Section 2 : Usage, cession et destruction de marchandises confisquées ou abandonnées par voie de transaction
+# Section 2 : Usage, cession et destruction de marchandises confisquées ou abandonnées par voie de transaction
+
+- [Article L633-2](Article%20L633-2.md)
+- [Article L633-3](Article%20L633-3.md)
+- [Article L633-4](Article%20L633-4.md)
+- [Article L633-5](Article%20L633-5.md)
+- [Article L633-6](Article%20L633-6.md)
+- [Article L633-7](Article%20L633-7.md)
+- [Article L633-8](Article%20L633-8.md)
+- [Article L633-9](Article%20L633-9.md)
+- [Article L633-10](Article%20L633-10.md)
+- [Article L633-11](Article%20L633-11.md)
+- [Article L633-12](Article%20L633-12.md)
+- [Article L633-13](Article%20L633-13.md)
+- [Article L633-14](Article%20L633-14.md)
+- [Article L633-15](Article%20L633-15.md)

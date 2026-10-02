@@ -4,4 +4,4 @@ L'information préalable prévue par l'article L. 427-6 est donnée par tout moy
 Le procureur de la République peut s'opposer aux opérations prévues à l'article L. 427-6.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

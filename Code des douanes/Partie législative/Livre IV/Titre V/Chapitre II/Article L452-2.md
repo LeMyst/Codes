@@ -4,4 +4,4 @@ Dès lors qu'ils disposent d'indices suffisants permettant de supposer un lien a
 Cette durée est prolongée sur autorisation du procureur de la République, dans la limite de vingt et un jours.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

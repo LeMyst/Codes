@@ -4,4 +4,4 @@ Les détenteurs d'appareils ou de portions d'appareils propres à la distillatio
 Tant qu'ils ont la libre disposition des appareils, les détenteurs mentionnés à l'alinéa précédent sont soumis aux visites et vérifications des agents de l'administration dans les conditions prévues à l'article L. 428-4.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

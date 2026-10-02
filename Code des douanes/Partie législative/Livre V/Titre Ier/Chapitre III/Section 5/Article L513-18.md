@@ -7,4 +7,4 @@ Le fait, pour l'occupant des lieux mentionnés à l'article L. 423-6, de faire o
 Lorsqu'il est commis dans les locaux occupés par le représentant en droit ou en fait de la personne mentionnée au premier alinéa, le délit prévu à ce même alinéa est puni d'une amende de 50 000 euros.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

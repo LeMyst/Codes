@@ -6,4 +6,4 @@ La juridiction qui a prononcé l'astreinte est compétente pour la liquider.\
 Elle peut ordonner la publication, la diffusion ou l'affichage de sa décision ou d'un extrait de celle-ci, selon les modalités qu'elle précise.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

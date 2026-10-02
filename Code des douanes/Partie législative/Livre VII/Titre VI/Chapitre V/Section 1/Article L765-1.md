@@ -3,7 +3,7 @@
 I. - Sont applicables en Polynésie française, sous réserve des adaptations prévues au II, les dispositions suivantes mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | Articles applicables | Dans leur rédaction résultant de |
-| --- | --- |
+| -- | -- |
 | L. 511-1 à L. 512-7 | Ordonnance n° 2026-265 du 8 avril 2026 |
 | L. 512-8 | Ordonnance n° 2026-671 du 27 juillet 2026 |
 | L. 511-1 à L. 512-8 | Ordonnance n° 2026-265 du 8 avril 2026 |

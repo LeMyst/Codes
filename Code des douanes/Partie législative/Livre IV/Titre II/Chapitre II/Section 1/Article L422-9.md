@@ -6,4 +6,4 @@ Au-delà d'une durée de quatre heures à compter du début des opérations de v
 3° Visites réalisées dans les lieux mentionnés à l'article L. 422-5.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

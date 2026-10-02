@@ -5,4 +5,4 @@ La durée de la retenue provisoire est limitée au temps strictement nécessaire
 A l'expiration de ce délai, la personne est laissée libre si elle n'a pu être remise à l'officier de police judiciaire territorialement compétent.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

@@ -6,4 +6,4 @@ Un exemplaire du procès-verbal et de l'inventaire est adressé au juge qui a d�
 Si le juge constate que les biens et avoirs saisis ne proviennent pas directement ou indirectement des délits dont la preuve est recherchée, il ordonne la mainlevée de la saisie et la restitution des biens et avoirs concernés.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

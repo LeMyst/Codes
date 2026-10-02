@@ -7,4 +7,4 @@ La retenue peut être prolongée sur autorisation du procureur de la République
 Lorsque la déclaration d'usage produite ou les vérifications mentionnées au quatrième alinéa ne permettent pas de confirmer un lien avec la fabrication illicite de stupéfiants ou de substances psychotropes, et au plus tard à l'expiration des délais prévus par le présent article, les produits sont remis sans délai à l'expéditeur, au destinataire ou au détenteur.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

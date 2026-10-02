@@ -5,4 +5,4 @@ Les opérations mentionnées au premier alinéa sont effectuées sous le contrô
 Pour l'application de ces mêmes dispositions, le juge des libertés et de la détention compétent est celui du lieu où se déroulent les opérations de visite et de saisie.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

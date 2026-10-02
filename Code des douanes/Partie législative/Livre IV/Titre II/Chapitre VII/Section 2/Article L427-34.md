@@ -7,4 +7,4 @@ Les agents étrangers détachés par un autre Etat membre auprès d'une équipe 
 4° De procéder à des surveillances et, s'ils sont habilités spécialement à cette fin, à des infiltrations, dans les conditions prévues aux articles L. 427-6 et suivants, sans qu'il soit nécessaire de faire application des dispositions des articles L. 427-23 et L. 427-24.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

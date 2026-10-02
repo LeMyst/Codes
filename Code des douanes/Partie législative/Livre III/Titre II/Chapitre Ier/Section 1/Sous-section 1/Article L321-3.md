@@ -5,4 +5,4 @@ Le taux de l'intérêt de retard est de 0,20 % par mois.\
 L'intérêt de retard s'applique à compter du premier jour du mois suivant celui au cours duquel l'impôt devait être acquitté jusqu'au dernier jour du mois du paiement.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

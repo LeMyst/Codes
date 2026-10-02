@@ -10,4 +10,4 @@ c) Extraire, acquérir ou conserver les éléments de preuve et les données sur
 d) Extraire, transmettre en réponse à une demande expresse, acquérir ou conserver des contenus illicites, dans des conditions fixées par décret.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

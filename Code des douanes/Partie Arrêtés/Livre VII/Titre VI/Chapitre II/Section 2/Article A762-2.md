@@ -3,7 +3,7 @@
 I. - Sont applicables en Polynésie française, sous réserve des adaptations prévues au II, les dispositions suivantes mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | Articles applicables | Dans leur rédaction résultant de l'arrêté |
-| --- | --- |
+| -- | -- |
 | A. 241-1 à A. 243-18 | Arrêté du 8 avril 2026 |
 
 II. - Pour l'application du I :\

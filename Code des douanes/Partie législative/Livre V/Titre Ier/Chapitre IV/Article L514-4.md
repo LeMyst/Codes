@@ -15,4 +15,4 @@ Les délits mentionnés aux articles L. 513-1 à L. 513-11 sont punis, le cas é
 Les dispositions du présent article s'appliquent sous réserve des droits du propriétaire de bonne foi.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

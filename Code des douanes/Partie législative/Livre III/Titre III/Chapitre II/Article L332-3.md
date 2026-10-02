@@ -7,4 +7,4 @@ Lorsque des garanties suffisantes n'ont pas été constituées et que le comptab
 Les recours dirigés contre la régularité des mesures conservatoires relèvent du juge de l'exécution dans les conditions prévues par le code des procédures civiles d'exécution.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

@@ -4,4 +4,4 @@
 Lorsque les personnes retenues sont placées en garde à vue au terme de la retenue, la durée de celle-ci s'impute sur la durée de la garde à vue.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

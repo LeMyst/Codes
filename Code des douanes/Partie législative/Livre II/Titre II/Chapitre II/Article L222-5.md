@@ -15,4 +15,4 @@ e) Des personnes qui se sont vu notifier une retenue temporaire d'argent liquide
 7° Les données relatives à la déclaration.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

@@ -4,4 +4,4 @@ L'autorisation du procureur de la République mentionnée aux articles L. 427-9 
 Le procureur de la République mentionné à ces articles informe sans délai le procureur de la République anti-criminalité organisée de la délivrance de cette autorisation.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

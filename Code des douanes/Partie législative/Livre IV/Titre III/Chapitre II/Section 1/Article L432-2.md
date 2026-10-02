@@ -5,4 +5,4 @@ Elle peut être prolongée pour un nouveau délai de vingt-quatre heures au plus
 L'autorisation est accordée dans les conditions prévues au II de l'article 63 du code de procédure pénale.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

@@ -3,7 +3,7 @@
 I. - Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au II, les articles suivants mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | Articles applicables | Dans leur rédaction résultant de |
-| --- | --- |
+| -- | -- |
 | L. 411-1 et L. 411-4 | Ordonnance n° 2026-265 du 8 avril 2026 |
 | L. 411-5 | Loi n° 2026-798 du 18 août 2026 visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens |
 | L. 411-6 | Ordonnance n° 2026-265 du 8 avril 2026 |

@@ -7,4 +7,4 @@ Par dérogation aux dispositions de l'article L. 633-4, l'administration peut c�
 Pour l'application du 2°, la cession à une personne privée intervient à la condition qu'elles transmettent préalablement à l'administration un engagement portant interdiction de revendre ou de céder à titre onéreux les objets ou marchandises qui leur sont cédés.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

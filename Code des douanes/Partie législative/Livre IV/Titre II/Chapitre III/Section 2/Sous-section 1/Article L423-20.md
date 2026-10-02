@@ -5,4 +5,4 @@ Les agents de l'administration des douanes peuvent alors procéder à la copie d
 A la seule fin de permettre la lecture des pièces ou documents présents sur le support informatique placé sous scellés, les agents de l'administration des douanes procèdent aux opérations nécessaires à leur accès ou à leur mise au clair. Ces opérations sont réalisées sur la copie du support.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

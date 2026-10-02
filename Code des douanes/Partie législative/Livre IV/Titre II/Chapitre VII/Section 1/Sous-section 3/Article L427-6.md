@@ -4,4 +4,4 @@ Sans préjudice des dispositions des articles L. 422-1 à L. 422-16, L. 422-19 �
 Ces dispositions s'appliquent également pour la surveillance de l'acheminement ou du transport des objets, biens ou produits tirés de la commission de ces infractions ou servant à les commettre.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

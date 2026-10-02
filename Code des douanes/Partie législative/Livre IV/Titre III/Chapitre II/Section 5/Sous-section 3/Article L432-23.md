@@ -5,4 +5,4 @@ Si la restitution n'a pas été demandée ou décidée dans un délai de six moi
 Il en va de même lorsque le propriétaire ou la personne à laquelle la restitution a été accordée ne réclame pas l'objet dans un délai de deux mois à compter de la réception d'une mise en demeure adressée à son domicile.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

@@ -6,4 +6,4 @@ Sont conservées dans le traitement de données pour une durée maximale de dix 
 2° Les données relatives aux navires assortis d'une conduite à tenir dans l'application ainsi que les données relatives au propriétaire, au locataire ou au loueur de ce navire, à ses membres d'équipage et à toute personne à bord, à partir de l'intégration de la première conduite à tenir dans le système.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

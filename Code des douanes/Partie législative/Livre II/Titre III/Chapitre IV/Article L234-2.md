@@ -5,4 +5,4 @@ A défaut, ces opérations sont effectuées en présence d'une personne désign�
 Cette désignation intervient à l'expiration d'un délai de huit jours à compter d'une notification adressée par lettre recommandée au dernier domicile connu du propriétaire ou du destinataire des marchandises.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

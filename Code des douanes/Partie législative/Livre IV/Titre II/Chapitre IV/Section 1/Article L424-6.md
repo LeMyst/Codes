@@ -4,4 +4,4 @@ Pour la recherche et la prévention des infractions liées à la criminalité tr
 Un arrêté du ministre de l'intérieur, du ministre de la justice et du ministre chargé des douanes fixe le rayon autour du point de passage frontalier dans la limite duquel les contrôles peuvent être effectués.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

@@ -4,4 +4,4 @@ La personne à l'égard de laquelle il existe des raisons plausibles de soupçon
 La notification des informations données en application de cet article est mentionnée au procès-verbal.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

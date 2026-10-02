@@ -1,6 +1,6 @@
 # Article R726-1
 
-I. - Les dispositions du titre Ier du livre VI sont applicables de plein droit à Saint-Barthélemy.\
+I. - Les dispositions du titre I<sup>er</sup> du livre VI sont applicables de plein droit à Saint-Barthélemy.\
 II. - Pour l'application du I :\
 1° L'article R. 613-2 est remplacé par les dispositions suivantes :
 

@@ -6,4 +6,4 @@ Pour l'application des dispositions de l'article L. 451-2, les agents mentionné
 3° Prélever ou faire prélever en leur présence des échantillons dans des conditions prévues par décret en Conseil d'Etat.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

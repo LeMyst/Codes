@@ -6,4 +6,4 @@ Les agents de l'administration des douanes peuvent accéder aux surfaces viticol
 Les agents de l'administration des douanes ont accès aux surfaces viticoles pendant les intervalles de temps prévus aux articles L. 428-5 et L. 428-11.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

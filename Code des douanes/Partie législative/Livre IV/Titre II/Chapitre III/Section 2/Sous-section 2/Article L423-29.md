@@ -4,4 +4,4 @@ Les opérations prévues à l'article L. 423-27 ne peuvent, à peine de nullité
 Le fait que ces opérations révèlent des infractions autres que celles visées dans la décision du juge des libertés et de la détention ne constitue pas une cause de nullité des procédures incidentes.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

@@ -4,4 +4,4 @@ Les agents de l'administration des douanes peuvent appréhender matériellement 
 Les agents de l'administration des douanes peuvent immobiliser le moyen de transport et les marchandises, maintenir contre son gré la personne interpellée le temps strictement nécessaire à la consignation des opérations de contrôle par procès-verbal et à leur remise à l'officier de police judiciaire ou à l'agent de l'administration des douanes mentionné au premier alinéa, sous le contrôle du procureur de la République.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

@@ -1,6 +1,6 @@
 # Article R735-1
 
-I. - Les dispositions du titre Ier du livre V sont applicables de plein droit à Saint-Martin.\
+I. - Les dispositions du titre I<sup>er</sup> du livre V sont applicables de plein droit à Saint-Martin.\
 II. - Pour l'application du I :\
 1° A l'article R. 511-3, les mots : « commun prévu par le règlement (CEE) n° 2658/87 du Conseil du 23 juillet 1987 relatif à la nomenclature tarifaire et statistique et au tarif douanier commun » sont remplacés par les mots : « applicable localement » ;\
 2° A l'article R. 515-5, le 8° est supprimé ;\

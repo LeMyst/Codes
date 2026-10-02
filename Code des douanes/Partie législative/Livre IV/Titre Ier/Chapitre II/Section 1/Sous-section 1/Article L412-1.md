@@ -5,4 +5,4 @@ L'existence de cette habilitation spéciale et individuelle peut être contrôl�
 L'absence de la mention de cette habilitation sur les différentes pièces de procédure résultant de la consultation de ces traitements n'emporte pas, par elle-même, nullité de la procédure.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

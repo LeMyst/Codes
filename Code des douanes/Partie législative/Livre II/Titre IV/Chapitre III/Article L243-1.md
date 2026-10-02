@@ -7,4 +7,4 @@ Un décret en Conseil d'Etat fixe les conditions de délivrance, de suspension e
 4° Des autorisations d'importation prévues à l'article 20 du règlement (CE) n° 111/2005 du Conseil du 22 décembre 2004 fixant des règles pour la surveillance du commerce des précurseurs des drogues entre l'Union et les pays tiers.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

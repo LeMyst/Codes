@@ -7,4 +7,4 @@ Lorsqu'à l'occasion d'une visite autorisée en application de l'article L. 423-
 Il peut être dérogé aux dispositions du deuxième alinéa pour la recherche des marchandises qui, poursuivies à vue sans interruption, sont introduites dans une maison ou autre bâtiment même sis en dehors du rayon, et dont la détention ou le transport sont constitutives d'un délit flagrant ou d'un manquement aux dispositions de l'article L. 232-1.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

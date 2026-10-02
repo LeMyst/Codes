@@ -5,4 +5,4 @@ Ils peuvent procéder, à l'occasion de la visite, à la saisie des pièces et d
 Ils peuvent saisir les biens et avoirs provenant directement ou indirectement des infractions susmentionnées uniquement dans le cas de visites autorisées en application des dispositions de l'article L. 428-16.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

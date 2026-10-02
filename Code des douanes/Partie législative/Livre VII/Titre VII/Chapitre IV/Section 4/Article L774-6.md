@@ -6,4 +6,4 @@ II. - Pour l'application du I :\
 2° A l'article L. 443-5, les mots : « L. 423-25 » sont remplacés par les mots : « L. 423-24 ».
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

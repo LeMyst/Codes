@@ -13,4 +13,4 @@ b) Après les mots : « administration des douanes », sont insérés les mots :
 5° Au premier alinéa de l'article L. 323-6, les mots : « Sous réserve des dispositions de l'article L. 256 du livre des procédures fiscales en matière de contributions indirectes, » sont supprimés.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

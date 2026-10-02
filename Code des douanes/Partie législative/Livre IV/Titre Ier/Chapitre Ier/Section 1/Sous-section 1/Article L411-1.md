@@ -4,4 +4,4 @@ Dans l'exercice de leurs fonctions, les agents de l'administration des douanes s
 La commission d'emploi est un document inaltérable qui garantit l'identification et la qualité de son détenteur.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

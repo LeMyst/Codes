@@ -5,4 +5,4 @@ Il peut se transporter sur les lieux pour vérifier les modalités de la retenue
 Lorsque la mesure est exécutée dans un autre ressort que celui du procureur de la République où l'infraction a été constatée, ce dernier en est informé.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

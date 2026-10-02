@@ -9,4 +9,4 @@ Un décret en Conseil d'Etat, pris après avis de la Commission nationale de l'i
 6° Les modalités d'exercice par les personnes concernées de leur droit d'accès aux données et de rectification de celles-ci.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

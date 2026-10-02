@@ -4,4 +4,4 @@ Un aéronef transportant des marchandises, en provenance ou à destination d'un 
 Relève du territoire fiscal spécial toute partie du territoire douanier de l'Union sur laquelle les dispositions de la directive 2006/112/CE du Conseil du 28 novembre 2006 relative au système commun de taxe sur la valeur ajoutée ou celles de la directive (UE) 2020/262 du Conseil du 19 décembre 2019 établissant le régime général d'accise ne s'appliquent pas.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

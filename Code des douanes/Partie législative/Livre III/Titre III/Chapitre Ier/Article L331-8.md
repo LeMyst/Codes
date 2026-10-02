@@ -6,4 +6,4 @@ L'action contre la décision de l'administration, prise à la suite de cette dem
 Les délais mentionnés au premier alinéa sont trentenaires lorsqu'intervient, avant leur terme, l'un des actes mentionnés aux articles 2240 à 2246 du code civil.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

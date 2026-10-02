@@ -4,4 +4,4 @@ En cas de condamnation pour le délit mentionné à l'article L. 542-2, la jurid
 Elle peut, par décision spécialement motivée, décider de ne pas prononcer la peine mentionnée au premier alinéa en tenant compte des circonstances de l'infraction et de la personnalité de son auteur.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

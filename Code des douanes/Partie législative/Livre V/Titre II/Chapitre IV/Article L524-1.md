@@ -7,4 +7,4 @@ Les personnes condamnées pour un même fait de fraude sont solidairement respon
 Il en va de même des propriétaires, importateurs et exportateurs des marchandises de fraude, des personnes intéressées à la fraude, des personnes complices et des personnes qui ont adhéré à la fraude.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

@@ -8,4 +8,4 @@ Constitue une contrebande :\
 5° L'importation ou l'exportation sans déclaration des marchandises soustraites à la surveillance de l'administration des douanes par dissimulation dans des cachettes spécialement aménagées ou dans des cavités ou espaces vides qui ne sont pas normalement destinés au logement des marchandises.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

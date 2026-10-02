@@ -4,4 +4,4 @@ Les personnes qui conçoivent ou éditent des logiciels de gestion ou de comptab
 Pour l'application du premier alinéa, les codes, données, traitements ainsi que la documentation sont conservés jusqu'à l'expiration de la troisième année suivant celle au cours de laquelle le logiciel ou le système de caisse a cessé d'être diffusé.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

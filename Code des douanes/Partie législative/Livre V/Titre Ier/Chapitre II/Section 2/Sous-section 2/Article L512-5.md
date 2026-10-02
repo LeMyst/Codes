@@ -7,4 +7,4 @@ Sont réputés faire l'objet d'une importation sans déclaration :\
 4° Les objets passibles de l'accise sur les énergies découverts à bord des navires se trouvant dans les limites des ports et rades de commerce à l'exception de ceux qui composaient la cargaison et les provisions de bord ou apparaissaient sur le manifeste.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

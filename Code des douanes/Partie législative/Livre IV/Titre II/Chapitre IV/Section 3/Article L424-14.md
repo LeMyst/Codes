@@ -7,4 +7,4 @@ Les auteurs d'irrégularités s'acquittent des sommes indûment obtenues et des 
 Les dispositions du présent article relatives aux sommes éludées ou compromises lors d'opérations du commerce extérieur sont également applicables aux irrégularités constatées lors de ces contrôles.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

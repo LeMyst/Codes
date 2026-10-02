@@ -3,7 +3,7 @@
 I. - Sont applicables en Polynésie française, sous réserve des adaptations prévues au II, les dispositions suivantes mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | Articles applicables | Dans leur rédaction résultant du décret |
-| --- | --- |
+| -- | -- |
 | R. 241-1 à R. 243-5 | Décret n° 2026-266 du 8 avril 2026 |
 | R. 243-6 | Décret n° 2026-711 du 30 juillet 2026 |
 | R. 243-7 à R. 243-14 | Décret n° 2026-266 du 8 avril 2026 |

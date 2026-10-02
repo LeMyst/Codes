@@ -4,4 +4,4 @@ En vue de procéder à la visite des marchandises placées sous surveillance dou
 Cet accès ne s'applique pas à la partie des locaux affectée à un usage privé ou d'habitation.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

@@ -2,9 +2,9 @@
 
 Est réputé constituer une importation sans déclaration de marchandises prohibées :\
 1° Le prêt ou la cession de l'un des documents mentionnés au deuxième alinéa de l'article L. 231-4 ainsi que le fait d'obtenir ou de tenter d'obtenir la délivrance de l'un des titres mentionnés au deuxième alinéa de l'article L. 231-4 par fausse déclaration ou tout autre moyen frauduleux ;\
-2° Une fausse déclaration ayant pour but ou pour effet d'éluder l'application des mesures de prohibition mentionnées au chapitre Ier du titre III du livre II ;\
+2° Une fausse déclaration ayant pour but ou pour effet d'éluder l'application des mesures de prohibition mentionnées au chapitre I<sup>er</sup> du titre III du livre II ;\
 3° L'importation en provenance d'un Etat membre de l'Union européenne de marchandises mentionnées aux articles L. 231-5 et L. 231-6 effectuée en méconnaissance de ces mêmes dispositions ;\
-4° La méconnaissance des dispositions portant prohibition d'importation au sens du chapitre Ier du titre III du livre II lorsque la fraude a été commise ou tentée en passant par les bureaux de douane ou par les lieux désignés ou agréés par l'administration des douanes en application des articles 135, 137 et 139 du code des douanes de l'Union ;\
+4° La méconnaissance des dispositions portant prohibition d'importation au sens du chapitre I<sup>er</sup> du titre III du livre II lorsque la fraude a été commise ou tentée en passant par les bureaux de douane ou par les lieux désignés ou agréés par l'administration des douanes en application des articles 135, 137 et 139 du code des douanes de l'Union ;\
 5° Le débarquement par des manœuvres frauduleuses des objets mentionnés au 4° de l'article L. 512-5 en méconnaissance des obligations prévues par le présent code et le code des douanes de l'Union en matière de débarquement ;\
 6° Le fait pour un navire de se trouver, sous couvert de documents de bord ou de titre de nationalité faux, falsifiés ou inapplicables, dans les eaux territoriales, rades et ports ;\
 7° L'immatriculation d'automobiles, de motocyclettes ou d'aéronefs sans accomplissement préalable des formalités douanières ;\
@@ -13,4 +13,4 @@ Est réputé constituer une importation sans déclaration de marchandises prohib
 10° Le transport sur le territoire douanier de biens à double usage civil et militaire non Union, au sens de l'article 5 du code des douanes de l'Union, à destination d'un pays non membre de l'Union européenne, en violation des interdictions ou des autorisations prévues à l'article 7 du règlement (UE) 2021/821 du Parlement européen et du Conseil du 20 mai 2021 instituant un régime de l'Union de contrôle des exportations, du courtage, de l'assistance technique, du transit et des transferts en ce qui concerne les biens à double usage.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

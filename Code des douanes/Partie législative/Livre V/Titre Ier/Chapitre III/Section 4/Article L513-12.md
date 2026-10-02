@@ -4,4 +4,4 @@ Le fait de procéder à une opération financière entre la France et l'étrange
 Les dispositions de l'alinéa précédent s'appliquent y compris lorsque les activités à l'origine de ces fonds ont été exercées sur le territoire d'un autre Etat membre de l'Union européenne ou sur celui d'un Etat tiers.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

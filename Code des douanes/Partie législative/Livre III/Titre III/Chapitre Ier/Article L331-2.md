@@ -7,4 +7,4 @@ Des garanties peuvent ne pas être exigées lorsqu'elles sont de nature, en rais
 Un décret en Conseil d'Etat précise les garanties admises pour assurer le recouvrement de la créance contestée.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

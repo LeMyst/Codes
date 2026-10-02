@@ -11,7 +11,7 @@ b) Les mots : « L. 421-1 à L. 421-14 » sont remplacés par les mots : « L. 4
 « Art. L. 422-1. - En vue de la recherche de la fraude, les agents de l'administration des douanes peuvent procéder à la visite des marchandises, des moyens de transport et des personnes dans la mise en œuvre :\
 « 1° Du présent code ;\
 « 2° Des règles applicables en métropole en vertu du règlement (UE) 2018/1672 du Parlement européen et du Conseil du 23 octobre 2018 relatif aux contrôles de l'argent liquide entrant dans l'Union ou sortant de l'Union ;\
-« 3° Du chapitre II du titre V du livre Ier code monétaire et financier. » ;
+« 3° Du chapitre II du titre V du livre I<sup>er</sup> code monétaire et financier. » ;
 
 4° A l'article L. 422-2, les mots : « désignés en application des dispositions de l'article R. 131-2 » sont supprimés ;\
 5° A l'article L. 422-4 :\
@@ -24,11 +24,11 @@ b) Les mots : « au sens du code des douanes de l'Union » sont supprimés ;\
 « Art. L. 422-21. - En vue de la recherche de la fraude, les agents de l'administration des douanes peuvent procéder à la visite des marchandises, des moyens de transport et des personnes dans la mise en œuvre :\
 « 1° Du présent code ;\
 « 2° Des règles applicables en métropole en vertu du règlement (UE) 2018/1672 du Parlement européen et du Conseil du 23 octobre 2018 relatif aux contrôles de l'argent liquide entrant dans l'Union ou sortant de l'Union ;\
-« 3° Du chapitre II du titre V du livre Ier code monétaire et financier. » ;
+« 3° Du chapitre II du titre V du livre I<sup>er</sup> code monétaire et financier. » ;
 
 9° A l'article L. 425-2, les mots : « du code des douanes de l'Union et » sont supprimés ;\
 10° A l'article L. 427-6, les mots : « et L. 423-1 à L. 423-25 » sont remplacés par les mots : « , L. 423-1 à L. 423-4 et L. 423-6 à L. 423-24 » ;\
 11° A l'article L. 427-38, les mots : « par le règlement » sont remplacés par les mots : « par les règles applicables en métropole en vertu du règlement ».
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

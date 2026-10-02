@@ -6,4 +6,4 @@ L'opération est ensuite autorisée par le procureur de la République près le 
 Le ministre de la justice ne peut donner son accord que si les agents étrangers sont affectés dans leur Etat à un service spécialisé et exercent des missions similaires à celles des agents nationaux spécialement habilités mentionnés à l'article L. 427-15.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

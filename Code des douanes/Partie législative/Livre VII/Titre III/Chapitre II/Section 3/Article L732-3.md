@@ -6,4 +6,4 @@ II. - Pour l'application du I, à l'article L. 232-1 :\
 2° Les mots : « ministre chargé des douanes » sont remplacés par les mots : « représentant de l'Etat à Saint-Martin sur proposition du directeur régional des douanes de Guadeloupe. »
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

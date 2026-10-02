@@ -6,4 +6,4 @@ Aucun des pouvoirs propres de l'agent de l'administration des douanes français,
 Un original des procès-verbaux qu'ils ont établis et qui est rédigé ou traduit en langue française est versé à la procédure française.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

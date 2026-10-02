@@ -13,4 +13,4 @@ c) Il est revêtu de l'empreinte du poinçon du fabricant ;\
 7° L'ouvrage d'or, d'argent ou de platine dont la saisie est prévue dans les conditions fixées aux articles L. 428-4, L. 428-6 et L. 428-14 à L. 428-33 du présent code.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

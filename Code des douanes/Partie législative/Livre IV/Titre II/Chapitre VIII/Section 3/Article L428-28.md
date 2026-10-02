@@ -7,4 +7,4 @@ En l'absence de celui-ci ou en cas de refus de signer, mention en est faite au p
 Il est procédé concomitamment à la restitution du support informatique et de sa copie. En l'absence de l'occupant des lieux ou de son représentant, l'administration accomplit alors sans délai toutes diligences pour les restituer.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

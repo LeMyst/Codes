@@ -10,4 +10,4 @@ Pour être admis dans la réserve opérationnelle, les candidats doivent satisfa
 Aucun candidat ne peut être admis dans la réserve s'il résulte de l'enquête administrative, à laquelle il peut être procédé dans les conditions prévues au I de l'article L. 114-1 du code de la sécurité intérieure, que son comportement est incompatible avec les missions envisagées.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

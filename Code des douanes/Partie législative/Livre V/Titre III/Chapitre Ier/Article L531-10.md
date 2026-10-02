@@ -7,4 +7,4 @@ Sont punis d'un an d'emprisonnement et, sous réserve des droits du propriétair
 Pour l'infraction prévue au 3°, la juridiction saisie peut également ordonner la fermeture, définitive ou pour une durée d'un an au plus, de l'établissement ayant servi à commettre l'infraction.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

@@ -8,4 +8,4 @@ Les données faisant l'objet des traitements mentionnés par le présent article
 Les opérateurs et les prestataires mentionnés à l'article L. 412-3 peuvent conclure avec les services de l'administration des douanes une convention définissant les conditions de mise à disposition des données obtenues en application du même article.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

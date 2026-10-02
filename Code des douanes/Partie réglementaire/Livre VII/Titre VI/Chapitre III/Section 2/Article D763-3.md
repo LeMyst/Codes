@@ -3,7 +3,7 @@
 I. - Sont applicables en Polynésie française, sous réserve des adaptations prévues au II, les articles suivants, mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | Articles applicables | Dans leur rédaction résultant du décret |
-| --- | --- |
+| -- | -- |
 | D. 323-1 et D. 323-3 | Décret n° 2026-266 du 8 avril 2026 |
 | D. 323-13 et D. 323-14 | Décret n° 2026-266 du 8 avril 2026 |
 

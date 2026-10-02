@@ -5,4 +5,4 @@ Les sanctions prévues aux articles L. 531-1, L. 531-2, L. 531-6 et L. 531-7 du 
 2° Elle est accompagnée du paiement des droits et taxes concernés et de l'intérêt de retard prévu, selon le cas, au V de l'article 1727 du code général des impôts ou à l'article L. 321-13 du présent code, ce paiement pouvant être immédiat ou effectué dans le cadre d'un plan de règlement des droits accordé par le comptable public.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

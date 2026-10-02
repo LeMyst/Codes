@@ -14,4 +14,4 @@ a) Les mots : « aux demandes de remboursement ou remise mentionnés à l'articl
 b) Les mots : « des articles L. 321-10 ou L. 331-8 » sont remplacés par les mots : « de l'article L. 331-8 ».
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

@@ -4,4 +4,4 @@ Au cours de l'enquête douanière, les agents de l'administration des douanes pe
 Le juge des libertés et de la détention, saisi par le procureur de la République, se prononce par ordonnance motivée sur le maintien ou la mainlevée de la saisie dans un délai de dix jours à compter de sa réalisation, y compris si la juridiction de jugement est saisie.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

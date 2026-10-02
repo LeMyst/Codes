@@ -4,4 +4,4 @@ En matière de contributions indirectes, le montant dû au titre de l'intérêt 
 La réduction mentionnée au premier alinéa s'applique dès lors que la régularisation est accompagnée du paiement de l'intégralité des droits, taxes et intérêts exigibles, immédiatement ou dans le cadre d'un plan de règlement accordé par le comptable public, et ne concerne pas une infraction exclusive de bonne foi.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

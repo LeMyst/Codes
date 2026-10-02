@@ -4,4 +4,4 @@ Pour l'application des dispositions du 1 de l'article 8 du règlement (CE) n° 2
 Toute information de nature à infirmer, conforter ou modifier les éléments contenus dans la déclaration mentionnée à l'alinéa précédent est portée, sans délai, à la connaissance de cette autorité compétente.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

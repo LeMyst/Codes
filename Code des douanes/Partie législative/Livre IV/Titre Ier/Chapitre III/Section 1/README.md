@@ -1,1 +1,21 @@
-Section 1 : Echanges d'informations entre l'administration des douanes et les autres administrations
+# Section 1 : Echanges d'informations entre l'administration des douanes et les autres administrations
+
+- [Article L413-1](Article%20L413-1.md)
+- [Article L413-2](Article%20L413-2.md)
+- [Article L413-3](Article%20L413-3.md)
+- [Article L413-4](Article%20L413-4.md)
+- [Article L413-5](Article%20L413-5.md)
+- [Article L413-6](Article%20L413-6.md)
+- [Article L413-7](Article%20L413-7.md)
+- [Article L413-8](Article%20L413-8.md)
+- [Article L413-9](Article%20L413-9.md)
+- [Article L413-10](Article%20L413-10.md)
+- [Article L413-11](Article%20L413-11.md)
+- [Article L413-12](Article%20L413-12.md)
+- [Article L413-13](Article%20L413-13.md)
+- [Article L413-14](Article%20L413-14.md)
+- [Article L413-15](Article%20L413-15.md)
+- [Article L413-16](Article%20L413-16.md)
+- [Article L413-17](Article%20L413-17.md)
+- [Article L413-18](Article%20L413-18.md)
+- [Article L413-19](Article%20L413-19.md)

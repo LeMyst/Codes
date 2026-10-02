@@ -6,4 +6,4 @@ Le délit prévu à l'article L. 513-12 est également puni de la confiscation d
 3° Biens et avoirs qui sont le produit direct ou indirect de l'infraction, sous réserve des droits du propriétaire de bonne foi.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

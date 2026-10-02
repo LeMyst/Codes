@@ -4,4 +4,4 @@ Il est interdit aux agents de l'administration des douanes de recevoir, directem
 La personne déclarée coupable qui dénonce la corruption est exemptée des peines, amendes et confiscations.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

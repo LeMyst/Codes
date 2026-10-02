@@ -8,4 +8,4 @@ Il en est de même pour la mise en œuvre :
 
 2° Du code des douanes de l'Union et de ses règlements d'exécution et délégué ;
 
-3° Du chapitre II du titre V du livre Ier du code monétaire et financier.
+3° Du chapitre II du titre V du livre I<sup>er</sup> du code monétaire et financier.

@@ -4,4 +4,4 @@ Il n'est pas procédé à l'inscription des sommes mentionnées à l'article L. 
 Lorsque le sursis de paiement prend fin ou lorsque le plan est dénoncé, dans des conditions fixées par décret, le comptable public procède à l'inscription dans un délai de deux mois.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

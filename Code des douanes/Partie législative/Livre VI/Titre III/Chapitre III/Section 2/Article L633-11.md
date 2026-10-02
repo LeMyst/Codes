@@ -11,4 +11,4 @@ Toute cession en application du présent article est effectuée après informati
 Par dérogation au premier alinéa, l'administration peut faire procéder au renvoi dans leur milieu naturel d'origine des spécimens de la faune et de la flore dans les conditions prévues par la convention sur le commerce international des espèces de faune et de flore sauvages menacées d'extinction (CITES) et les règlements de l'Union européenne pris pour son application.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

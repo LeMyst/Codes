@@ -15,12 +15,13 @@ b) Copie de l'acte de nomination du représentant légal ainsi que, le cas éch�
 c) Extrait n° 3 de casier judiciaire, traduit, le cas échéant, en français :
 
 - de la personne responsable du demandeur ou exerçant le contrôle de sa gestion ;
-- de la personne responsable des questions douanières au nom du demandeur ;\
-  d) Justificatif de la compétence professionnelle au sein de la personne morale ;\
-  e) Tout élément ou document justifiant de l'existence d'un système efficace de tenue des écritures douanières et commerciales ;\
-  3° Pour une personne morale de droit public :\
-  a) Copie des statuts ;\
-  b) Décision de nomination du responsable chargé des questions douanières.
+- de la personne responsable des questions douanières au nom du demandeur ;
+
+d) Justificatif de la compétence professionnelle au sein de la personne morale ;\
+e) Tout élément ou document justifiant de l'existence d'un système efficace de tenue des écritures douanières et commerciales ;\
+3° Pour une personne morale de droit public :\
+a) Copie des statuts ;\
+b) Décision de nomination du responsable chargé des questions douanières.
 
 NOTA:
 Conformément à l'article 12 du décret n° 2026-266 du 8 avril 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er mai 2026.

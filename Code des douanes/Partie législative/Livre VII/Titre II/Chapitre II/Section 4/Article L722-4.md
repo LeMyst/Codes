@@ -10,4 +10,4 @@ II. - Pour l'application du I :\
 « Les opérateurs notifient immédiatement aux autorités compétentes désignées par décret en Conseil d'Etat tous les éléments qui donnent à penser que les substances mentionnées à l'article L. 241-1, y compris celles destinées à l'importation, à l'exportation ou à des activités intermédiaires, peuvent ou pourraient être détournées pour la fabrication illicite de stupéfiants ou de substances psychotropes. » ;
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

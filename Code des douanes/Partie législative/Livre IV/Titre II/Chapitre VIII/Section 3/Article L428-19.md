@@ -7,4 +7,4 @@ A tout moment, il peut décider la suspension ou l'arrêt de la visite.\
 L'ordonnance est exécutoire au seul vu de la minute.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

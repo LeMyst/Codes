@@ -7,4 +7,4 @@ Est réputée intéressée à la fraude au sens de l'article L. 523-2, la person
 4° Elle achète ou détient sciemment des marchandises provenant d'un délit de contrebande ou d'importation sans déclaration.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

@@ -8,4 +8,4 @@ La condamnation ou l'acceptation d'une transaction par l'intéressé vaut valida
 La décision de non-lieu ou de relaxe emporte de plein droit, aux frais du Trésor, mainlevée des mesures ordonnées. Il en est de même en cas d'extinction de l'action publique.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

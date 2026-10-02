@@ -5,4 +5,4 @@ Cet appel n'est pas suspensif.\
 L'appelant ne peut prétendre dans ce cadre qu'à la mise à disposition des seules pièces de la procédure se rapportant à la saisie qu'il conteste. S'ils ne sont pas appelants, le titulaire du compte et les tiers peuvent néanmoins être entendus par la chambre de l'instruction, sans toutefois pouvoir prétendre à la mise à disposition de la procédure.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

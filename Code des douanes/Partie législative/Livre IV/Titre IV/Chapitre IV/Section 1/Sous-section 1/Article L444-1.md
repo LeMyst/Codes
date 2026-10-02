@@ -4,4 +4,4 @@ Les procès-verbaux établis par deux agents de l'administration des douanes ou 
 Ils ne font foi que jusqu'à la preuve contraire de l'exactitude et de la sincérité des déclarations qu'ils rapportent.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

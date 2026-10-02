@@ -8,4 +8,4 @@ Les agents de l'administration des douanes peuvent procéder, à toute heure, à
 5° Les trains effectuant une liaison internationale, sur la portion du trajet entre la frontière et le premier arrêt situé au-delà de la limite de la zone mentionnée au 1°. Sur les lignes ferroviaires effectuant une liaison internationale et présentant des caractéristiques particulières de desserte, la visite peut également être opérée entre cet arrêt et un arrêt situé dans la limite des cinquante kilomètres suivants. Un arrêté des ministres chargés des douanes et des transports désigne ces lignes ferroviaires internationales et ces arrêts.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

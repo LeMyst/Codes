@@ -1,6 +1,6 @@
 # Article R786-1
 
-I. - Les dispositions du titre Ier du livre VI sont applicables de plein droit dans les Terres australes et antarctiques françaises.\
+I. - Les dispositions du titre I<sup>er</sup> du livre VI sont applicables de plein droit dans les Terres australes et antarctiques françaises.\
 II. - Pour l'application du I, à l'article R. 613-6, les mots : « par les articles » sont remplacés par les mots : « par les règles applicables en métropole en vertu des articles ».
 
 NOTA:

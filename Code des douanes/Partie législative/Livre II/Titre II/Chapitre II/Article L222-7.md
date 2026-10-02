@@ -11,4 +11,4 @@ Sont rendus destinataires, à raison de leurs attributions et dans la limite du 
 4° La Commission européenne, le Parquet européen et Europol, dans les conditions prévues au 2 de l'article 10 du règlement (UE) 2018/1672 susmentionné.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

@@ -6,4 +6,4 @@ Pour l'application des dispositions du présent code à Saint-Pierre-et-Miquelon
 3° Les références au directeur régional des douanes et au directeur régional des douanes et droits indirects sont remplacées par les références au chef du service des douanes.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

@@ -13,10 +13,10 @@ Les articles L. 231-1 et L. 231-4 sont applicables, au titre des dispositions d�
 10° Médicaments falsifiés définis à l'article L. 5111-3 du code de la santé publique ;\
 11° Sources artificielles et naturelles de radionucléides définies à l'article L. 1333-1 du code de la santé publique et relevant des articles L. 1333-4 et L. 1333-8 du même code ;\
 12° Marchandises contrefaisantes au sens du code de la propriété intellectuelle ;\
-13° Déchets définis à l'article L. 541-1-1 du code de l'environnement dont l'importation, l'exportation ou le transit sont régis par la section 4 du chapitre Ier du titre IV du livre V du même code ainsi que par le règlement (CE) n° 1013/2006 du Parlement européen et du Conseil du 14 juin 2006 concernant les transferts de déchets, et les décisions des autorités de l'Union européenne prises en application de ce règlement ;\
+13° Déchets définis à l'article L. 541-1-1 du code de l'environnement dont l'importation, l'exportation ou le transit sont régis par la section 4 du chapitre I<sup>er</sup> du titre IV du livre V du même code ainsi que par le règlement (CE) n° 1013/2006 du Parlement européen et du Conseil du 14 juin 2006 concernant les transferts de déchets, et les décisions des autorités de l'Union européenne prises en application de ce règlement ;\
 14° Objets de toute nature comportant des images ou des représentations d'un mineur à caractère pornographique mentionnées à l'article 227-23 du code pénal ;\
 15° Produits du tabac manufacturé ayant fait l'objet d'une opération mentionnée à l'article L. 3512-14-1 du code de la santé publique ;\
 16° Produits cosmétiques mentionnés à l'article L. 5131-1 du code de la santé publique contenant des substances interdites ou soumises à restrictions au titre du règlement (CE) n° 1223/2009 du Parlement européen et du Conseil du 30 novembre 2009 relatif aux produits cosmétiques.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

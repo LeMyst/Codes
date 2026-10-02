@@ -6,4 +6,4 @@ L'administration est autorisée à transiger dans les conditions suivantes :\
 Pour l'application du 2°, l'accord est donné par le ministère public lorsque l'infraction est punie à la fois de sanctions fiscales et de peines ou par le président de la juridiction saisie lorsque l'infraction est seulement punie de sanctions fiscales.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

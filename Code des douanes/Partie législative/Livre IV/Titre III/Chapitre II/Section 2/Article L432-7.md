@@ -12,4 +12,4 @@ Mention de l'information donnée en application du présent article est faite au
 En application des dispositions de l'article 803-6 du code de procédure pénale, un document énonçant ces droits est remis à la personne lors de la notification de sa retenue douanière.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

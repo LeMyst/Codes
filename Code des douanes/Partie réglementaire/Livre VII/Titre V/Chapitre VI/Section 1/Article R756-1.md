@@ -3,7 +3,7 @@
 I. - Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au II, les dispositions suivantes mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | Articles applicables | Dans leur rédaction résultant du décret |
-| --- | --- |
+| -- | -- |
 | R. 611-1 à R. 613-2 | Décret n° 2026-266 du 8 avril 2026 |
 | R. 613-4 à R. 613-6 | Décret n° 2026-266 du 8 avril 2026 |
 

@@ -7,4 +7,4 @@ Le non-respect de ces formalités est sanctionné par la nullité de l'inscripti
 Les modalités d'application du présent article sont fixées par la partie réglementaire du livre VI du présent code.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

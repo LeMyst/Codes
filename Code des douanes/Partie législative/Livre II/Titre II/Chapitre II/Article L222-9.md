@@ -6,4 +6,4 @@ Afin d'éviter de nuire à la prévention ou à la détection d'infractions pén
 La personne concernée par ces restrictions exerce ses droits auprès de la Commission nationale de l'informatique et des libertés dans les conditions prévues à l'article 108 de la loi susmentionnée.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

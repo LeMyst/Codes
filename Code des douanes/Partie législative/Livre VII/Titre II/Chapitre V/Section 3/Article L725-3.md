@@ -4,4 +4,4 @@ I. - Les dispositions du titre III du livre V sont applicables de plein droit à
 II. - Pour l'application du I, à l'article L. 531-3, les mots : « l'accise » sont remplacées par les mots : « l'imposition ayant le même objet que l'accise sur les produits du tabac applicable localement ».
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

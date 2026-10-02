@@ -1,6 +1,6 @@
 # Article R746-1
 
-I. - Les dispositions du titre Ier du livre VI sont applicables de plein droit à Saint-Pierre-et-Miquelon.\
+I. - Les dispositions du titre I<sup>er</sup> du livre VI sont applicables de plein droit à Saint-Pierre-et-Miquelon.\
 II - Pour l'application du I :\
 1° A l'article R. 611-3, les mots : « les directeurs interrégionaux des douanes et droits indirects » sont remplacés par les mots : « le chef du service des douanes » ;\
 2° A l'article R. 611-4, les mots : « Les directeurs interrégionaux et régionaux des douanes et droits indirects ou leurs » sont remplacés par les mots : « Le chef du service des douanes ou ses » ;\

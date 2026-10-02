@@ -4,4 +4,4 @@ Afin de procéder aux vérifications nécessaires, les agents de l'administratio
 Lorsque le transfert des marchandises vers ces locaux ou lieux par les agents de l'administration des douanes est matériellement impossible, le transporteur les y achemine.
 
 NOTA:
-Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1er mai 2026.
+Conformément à l'article 11 de l'ordonnance n° 2026-265 du 8 avril 2026, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2026.

@@ -1,8 +1,7 @@
 # Article Annexe tableau n° 6
 
-| | |
-| --- | --- |
 | DÉPARTEMENTS | NOMBRE DE SÉNATEURS |
+| -- | -- |
 | Ain | 3 |
 | Aisne | 3 |
 | Allier | 2 |

@@ -11,4 +11,4 @@ Les bulletins de vote ne peuvent pas comporter :
 Les bulletins de vote peuvent comporter un emblème.
 
 NOTA:
-Conformément à l'article 6 de la loi n° 2025-795 du 11 août 2025, ces dispositions, dans leur rédaction issue de l'article 1er de la loi précitée, s'appliquent à compter du premier renouvellement général des conseils municipaux qui suit la promulgation de ladite loi.
+Conformément à l'article 6 de la loi n° 2025-795 du 11 août 2025, ces dispositions, dans leur rédaction issue de l'article 1<sup>er</sup> de la loi précitée, s'appliquent à compter du premier renouvellement général des conseils municipaux qui suit la promulgation de ladite loi.

@@ -1,1 +1,1 @@
-Section 3 : Incompatibilités
+# Section 3 : Incompatibilités

@@ -4,11 +4,10 @@ Pour les élections auxquelles l'article L. 52-4 est applicable, il est institu�
 
 Le montant du plafond est déterminé en fonction du nombre d'habitants de la circonscription d'élection, conformément au tableau ci-après :
 
-| | |
-| --- | --- |
-| Fraction de la population de la circonscription : | Plafond par habitant des dépenses électorales (en euros) : |
-| Election des conseillers municipaux : | Election des conseillers départementaux | Election des conseillers régionaux |
-| Listes présentes au premier tour | Listes présentes au second tour |
+| Fraction de la population de la circonscription : | Plafond par habitant des dépenses électorales (en euros) : |  |  |  |
+| -- | -- | -- | -- | -- |
+|  | Election des conseillers municipaux : |  | Election des conseillers départementaux | Election des conseillers régionaux |
+|  | Listes présentes au premier tour | Listes présentes au second tour |  |  |
 | N'excédant pas 15 000 habitants : | 1,22 | 1,68 | 0,64 | 0,53 |
 | De 15 001 à 30 000 habitants : | 1,07 | 1,52 | 0,53 | 0,53 |
 | De 30 001 à 60 000 habitants : | 0,91 | 1,22 | 0,43 | 0,53 |

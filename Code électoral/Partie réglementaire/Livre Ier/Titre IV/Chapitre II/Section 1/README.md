@@ -1,1 +1,1 @@
-Section 1 : Mode de scrutin
+# Section 1 : Mode de scrutin

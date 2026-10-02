@@ -1,1 +1,1 @@
-Section 3 : Cas particuliers d'inscription
+# Section 3 : Cas particuliers d'inscription

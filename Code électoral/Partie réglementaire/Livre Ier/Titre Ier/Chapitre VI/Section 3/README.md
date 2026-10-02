@@ -1,1 +1,15 @@
-Section 3 : Vote par procuration
+# Section 3 : Vote par procuration
+
+- [Article R72](Article%20R72.md)
+- [Article R72-1](Article%20R72-1.md)
+- [Article R72-1-1](Article%20R72-1-1.md)
+- [Article R72-2](Article%20R72-2.md)
+- [Article R73](Article%20R73.md)
+- [Article R74](Article%20R74.md)
+- [Article R75](Article%20R75.md)
+- [Article R76](Article%20R76.md)
+- [Article R76-1](Article%20R76-1.md)
+- [Article R77](Article%20R77.md)
+- [Article R78](Article%20R78.md)
+- [Article R79](Article%20R79.md)
+- [Article R80](Article%20R80.md)

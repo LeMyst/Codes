@@ -1,16 +1,16 @@
 # Article Annexe tableau n° 4
 
-| Tableau des secteurs pour l'élection des membres des conseils d'arrondissement de Marseille |
-| --- |
+| Tableau des secteurs pour l'élection des membres des conseils d'arrondissement de Marseille |  |  |
+| -- | -- | -- |
 | Désignation des secteurs | Arrondissements constituant les secteurs | Nombre de sièges |
-| 1er secteur | 1er et 7e | 25 |
-| 2e secteur | 2e et 3e | 27 |
-| 3e secteur | 4e et 5e | 33 |
-| 4e secteur | 6e et 8e | 42 |
-| 5e secteur | 9e et 10e | 47 |
-| 6e secteur | 11e et 12e | 43 |
-| 7e secteur | 13e et 14e | 53 |
-| 8e secteur | 15e et 16e | 33 |
+| 1<sup>er</sup> secteur | 1<sup>er</sup> et 7<sup>e</sup> | 25 |
+| 2<sup>e</sup> secteur | 2<sup>e</sup> et 3<sup>e</sup> | 27 |
+| 3<sup>e</sup> secteur | 4<sup>e</sup> et 5<sup>e</sup> | 33 |
+| 4<sup>e</sup> secteur | 6<sup>e</sup> et 8<sup>e</sup> | 42 |
+| 5<sup>e</sup> secteur | 9<sup>e</sup> et 10<sup>e</sup> | 47 |
+| 6<sup>e</sup> secteur | 11<sup>e</sup> et 12<sup>e</sup> | 43 |
+| 7<sup>e</sup> secteur | 13<sup>e</sup> et 14<sup>e</sup> | 53 |
+| 8<sup>e</sup> secteur | 15<sup>e</sup> et 16<sup>e</sup> | 33 |
 
 NOTA:
 Conformément à l'article 6 de la loi n° 2025-795 du 11 août 2025, ces dispositions, dans leur rédaction issue de l'article 4 de la loi précitée, s'appliquent à compter du premier renouvellement général des conseils municipaux qui suit la promulgation de ladite loi.

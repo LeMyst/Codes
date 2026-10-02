@@ -1,1 +1,4 @@
-Chapitre II bis : Dispositions générales en matière électorale
+# Chapitre II bis : Dispositions générales en matière électorale
+
+- [Article R25-1](Article%20R25-1.md)
+- [Article R25-2](Article%20R25-2.md)

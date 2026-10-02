@@ -36,7 +36,9 @@ Pour l'application des conditions prévues au 1°, la condition relative à l'ab
 
 Pour bénéficier de cette exonération, le titulaire du contrat doit joindre à la déclaration prévue à l'article 1406 une copie du contrat et tout document justifiant de l'affectation de l'immeuble.
 
-2° Dans les mêmes conditions que celles prévues au premier alinéa du 1°, les propriétés appartenant aux grands ports maritimes et fluvio-maritimes.
+1° ter Les propriétés qui appartiennent à l'établissement public mentionné au V de l'article 1er de la loi n° 2026-795 du 18 août 2026 visant à moderniser la gestion du patrimoine immobilier de l'Etat ou aux sociétés dont cet établissement public détient directement ou indirectement l'intégralité du capital, qui sont affectées à un service public ou à un service d'utilité générale et qui sont mises à la disposition de l'Etat, de ses organismes ou de ses établissements publics ;
+
+2° Dans les mêmes conditions que celles prévues au premier alinéa du 1°, les propriétés appartenant aux grands ports maritimes et fluvio-maritimes ;
 
 3° Les ouvrages établis pour la distribution d'eau potable et qui appartiennent à des communes rurales ou syndicats de communes ;
 

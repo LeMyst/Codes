@@ -12,4 +12,4 @@ Toutefois, pour les sociétés assujetties à la taxe sur la valeur ajoutée, en
 
 4° Les actes de dissolution et de partage des sociétés civiles immobilières régies par les articles L. 443-6-2 et suivants du code de la construction et de l'habitation.
 
-II. (Abrogé).
+II. - (Abrogé).

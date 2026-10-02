@@ -28,3 +28,9 @@ Le bénéfice des exonérations prévues aux 2o et 3o du présent article est su
 
 NOTA:
 Conformément au VII de l’article 77 de la loi n° 2025-127 du 14 février 2025, les dispositions des I à VI de l’article précité s’appliquent aux aides octroyées à compter du 1er janvier 2024.
+
+*Par une décision n° 2026-1212 QPC du 3 juillet 2026, le Conseil constitutionnel a déclaré contraires à la Constitution les mots ayant suivi la formation prévue au chapitre II du titre Ier de la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques figurant au 8 ° de l'article 1460 du code général des impôts, dans sa rédaction résultant de la loi n° 2025-127 du 14 février 2025 de finances pour 2025.*
+
+*L’abrogation de ces dispositions est reportée au 31 octobre 2027.*
+
+*Il appartient aux juridictions saisies de surseoir à statuer jusqu'à l'entrée en vigueur de la nouvelle loi ou, au plus tard, jusqu'au 31 octobre 2027 dans les procédures en cours ou à venir dont l'issue dépend de l'application des dispositions déclarées inconstitutionnelles.*

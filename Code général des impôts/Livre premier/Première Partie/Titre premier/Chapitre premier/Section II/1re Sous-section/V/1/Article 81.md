@@ -164,6 +164,8 @@ d. (disjoint)
 
 29° Les indemnités, l'allocation de vétérance personnelle ou de reversion, la prestation de fidélisation et de reconnaissance et la nouvelle prestation de fidélisation et de reconnaissance servies aux sapeurs-pompiers volontaires ou à leurs ayants droit, en application du titre III de la loi n° 96-370 du 3 mai 1996 relative au développement du volontariat dans les corps de sapeurs-pompiers ;
 
+29° bis La solde et les accessoires versés en application du premier alinéa de l'article L. 4251-1 du code de la défense ainsi que la prime de fidélité et les autres mesures d'encouragement versées en application du second alinéa du même article L. 4251-1 ;
+
 30° Le pécule modulable d'incitation au départ des militaires, versé en application du I de l'article 38 de la loi n° 2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions concernant la défense et la sécurité nationale ;
 
 30° bis L'indemnité de départ volontaire versée en application du I de l'article 150 de la loi n° 2008-1425 du 27 décembre 2008 de finances pour 2009 ;

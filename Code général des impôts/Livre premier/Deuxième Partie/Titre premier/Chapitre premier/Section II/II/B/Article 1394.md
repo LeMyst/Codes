@@ -20,6 +20,8 @@ Cette exonération n'est pas applicable aux propriétés des établissements pub
 
 les immeubles qui sont incorporés gratuitement au domaine de l'Etat, des collectivités locales ou des établissements publics, en vertu d'une convention, sont imposables jusqu'à l'expiration de celle-ci ;
 
+2° bis Les propriétés qui appartiennent à l'établissement public mentionné au V de l'article 1er de la loi n° 2026-795 du 18 août 2026 visant à moderniser la gestion du patrimoine immobilier de l'Etat ou aux sociétés dont cet établissement public détient directement ou indirectement l'intégralité du capital, qui sont affectées à un service public ou à un service d'utilité générale et qui sont mises à la disposition de l'Etat, de ses organismes ou de ses établissements publics ;
+
 3° Dans les mêmes conditions que celles prévues au premier alinéa du 2°, les propriétés appartenant aux grands ports maritimes et fluvio-maritimes ;
 
 4° les jardins attenant aux bâtiments pour lesquels les associations de mutilés de guerre ou du travail sont exonérées de la taxe foncière sur les propriétés bâties en vertu du 5° de l'article 1382 ;
@@ -29,6 +31,3 @@ les immeubles qui sont incorporés gratuitement au domaine de l'Etat, des collec
 6° les terrains sis dans les communes de plus de 5.000 habitants, qui appartiennent aux organismes de jardins familiaux, ou dont ils ont la jouissance, et qu'ils utilisent pour la réalisation de leur objet social, tel qu'il est défini à l'article L. 561-1 du code rural et de la pêche maritime ;
 
 7° les sols et terrains passibles de la taxe foncière sur les propriétés bâties.
-
-NOTA:
-Conformément à l'article 57 de l'ordonnance n° 2021-614 du 19 mai 2021, ces dispositions entrent en vigueur le 1er juin 2021.

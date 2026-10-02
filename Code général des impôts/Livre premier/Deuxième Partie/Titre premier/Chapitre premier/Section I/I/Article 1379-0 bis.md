@@ -48,7 +48,9 @@ V bis. – Sans préjudice des dispositions du 2 du II de l'article 1609 quinqui
 
 1° 50 % de l'imposition forfaitaire sur les entreprises de réseaux relative aux installations de production d'électricité utilisant l'énergie mécanique du vent ;
 
-2° 50 % de la composante de l'imposition forfaitaire sur les entreprises de réseaux relative aux stockages souterrains de gaz naturel.
+2° 50 % de la composante de l'imposition forfaitaire sur les entreprises de réseaux relative aux stockages souterrains de gaz naturel ;
+
+3° 5 % de la composante de l'imposition forfaitaire sur les entreprises de réseaux relative aux centrales de production d'énergie électrique d'origine hydraulique prévue à l'article 1519 F relevant du régime d'autorisation mentionné au premier alinéa de l'article L. 511-5 du code de l'énergie. Le produit de cette composante est réparti entre les établissements publics de coopération intercommunale à fiscalité propre selon un taux correspondant, pour chacun de ces établissements, à la somme des taux de cette composante perçus par ses communes membres en application du 11° bis de l'article 1379 du présent code.
 
 VI. – 1. Sont substitués aux communes pour l'application des dispositions relatives à la taxe d'enlèvement des ordures ménagères :
 
@@ -89,4 +91,6 @@ IX. –1. Perçoivent la taxe d'aménagement dans les conditions prévues au 1°
 X. – Les métropoles, la métropole de Lyon, les communautés urbaines, les communautés d'agglomération et les communautés de communes peuvent se substituer à leurs communes membres pour l'application des dispositions relatives à la taxe pour la gestion des milieux aquatiques et la prévention des inondations prévue à l'article 1530 bis.
 
 NOTA:
-Conformément au B du VII de l'article 110 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité, à l'exception du b du 8°, et les II à VI s'appliquent à compter des impositions établies au titre de l'année 2025.
+Conformément au I de l’article 21 de la loi n° 2026-554 du 29 juin 2026, ces dispositions, dans leur rédaction résultant de ladite loi, entrent en vigueur à une date fixée par décret, et au plus tard le 1er septembre 2026.
+
+Conformément au VI de l’article 8 de la loi n° 2026-554 du 29 juin 2026, ces dispositions s'appliquent aux centrales de production d'énergie électrique d'origine hydraulique relevant du régime d'autorisation mentionné au premier alinéa de l'article L. 511-5 du code de l'énergie à compter des impositions établies au titre de l'année qui suit la résiliation de leur contrat de concession.

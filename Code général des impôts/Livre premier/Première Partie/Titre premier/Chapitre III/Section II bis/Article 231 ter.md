@@ -62,7 +62,7 @@ Par dérogation, les communes de la troisième circonscription éligibles à la 
 
 Par dérogation, les communes de la deuxième circonscription éligibles à la fois, pour l'année précédant celle de l'imposition, à la dotation de solidarité urbaine et de cohésion sociale et au bénéfice du fonds de solidarité des communes de la région d'Ile-de-France, respectivement prévus aux articles L. 2334-15 et L. 2531-12 du code général des collectivités territoriales, bénéficient sur le tarif appliqué pour le calcul de la taxe d'une réduction du tarif de 10 %.
 
-Dans chaque circonscription, pour le calcul de la taxe relative aux locaux à usage de bureaux, un tarif réduit est appliqué pour les locaux possédés par l'Etat, les collectivités territoriales, les organismes ou les établissements publics sans caractère industriel ou commercial, les organismes professionnels ainsi que les associations ou organismes privés sans but lucratif à caractère sanitaire, social, éducatif, sportif ou culturel et dans lesquels ils exercent leur activité.
+Dans chaque circonscription, pour le calcul de la taxe relative aux locaux à usage de bureaux, un tarif réduit est appliqué pour les locaux possédés par l'Etat, les collectivités territoriales, les organismes ou les établissements publics sans caractère industriel ou commercial, les organismes professionnels ainsi que les associations ou organismes privés sans but lucratif à caractère sanitaire, social, éducatif, sportif ou culturel et dans lesquels ils exercent leur activité. Ce tarif réduit est également appliqué aux locaux à usage de bureaux dans lesquels l'Etat exerce son activité et qui sont possédés par l'établissement public créé en application de l'article 1er de la loi n° 2026-795 du 18 août 2026 visant à moderniser la gestion du patrimoine immobilier de l'Etat ou par les sociétés dont cet établissement public détient directement ou indirectement l'intégralité du capital.
 
 b. (Abrogé)
 
@@ -110,6 +110,3 @@ VII. – Les redevables sont tenus de déposer une déclaration accompagnée du 
 VIII. – Le contrôle, le recouvrement, le contentieux, les garanties et les sanctions relatifs à la taxe sont régis par les règles applicables en matière de taxe sur les salaires jusqu'au 31 décembre 2003.
 
 IX. – La taxe n'est pas déductible de l'assiette de l'impôt sur le revenu ou de l'impôt sur les sociétés.
-
-NOTA:
-Modification effectuée en conséquence de l'article 165-I A 5° et II de la loi n° 2018-1317 du 28 décembre 2018.

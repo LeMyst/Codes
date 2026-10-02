@@ -26,9 +26,13 @@ Pour l'imposition forfaitaire sur les entreprises de réseaux relative aux insta
 
 10° La moitié de la composante de l'imposition forfaitaire sur les entreprises de réseaux relative aux installations de production d'électricité d'origine nucléaire ou thermique à flamme, prévue à l'article 1519 E ;
 
-11° La moitié de la composante de l'imposition forfaitaire sur les entreprises de réseaux relative aux centrales de production d'énergie électrique d'origine photovoltaïque ou hydraulique, prévue à l'article 1519 F. Le produit de cette composante de l'imposition forfaitaire sur les entreprises de réseaux afférent aux ouvrages hydroélectriques mentionnés au premier alinéa de l'article 1475 est réparti comme les valeurs locatives de ces ouvrages selon les règles fixées par ce même article ;
+11° La moitié de la composante de l'imposition forfaitaire sur les entreprises de réseaux relative aux centrales de production d'énergie électrique d'origine photovoltaïque prévue à l'article 1519 F ;
 
-12° La composante de l'imposition forfaitaire sur les entreprises de réseaux relative aux transformateurs électriques, prévue à l'article 1519 G ;
+11° bis Une fraction de la composante de l'imposition forfaitaire sur les entreprises de réseaux relative aux centrales de production d'énergie électrique d'origine hydraulique, prévue à l'article 1519 F. Le produit de cette composante de l'imposition forfaitaire sur les entreprises de réseaux afférent aux ouvrages hydroélectriques mentionnés au premier alinéa de l'article 1475 est réparti comme les valeurs locatives de ces ouvrages, selon les règles fixées au même article 1475.
+
+Pour l'imposition forfaitaire sur les entreprises de réseaux relative aux centrales de production d'énergie électrique d'origine hydraulique relevant du régime d'autorisation mentionné au premier alinéa de l'article L. 511-5 du code de l'énergie, cette fraction est égale à 30 %. Pour l'imposition forfaitaire sur les entreprises de réseaux relative aux centrales de production d'énergie électrique d'origine hydraulique relevant du régime d'autorisation mentionné au deuxième alinéa du même article L. 511-5, cette fraction est égale à la moitié ;
+
+12° La composante de l'imposition forfaitaire sur les entreprises de réseaux relative aux transformateurs électriques, prévue à l'article 1519 G du présent code ;
 
 13° Deux tiers de la composante de l'imposition forfaitaire sur les entreprises de réseaux relative aux stations radioélectriques, dans les conditions prévues à l'article 1519 H ;
 
@@ -53,6 +57,6 @@ II. – Elles peuvent instituer les taxes suivantes :
 5° La taxe d'aménagement dans les conditions prévues au 2° du I de l'article 1635 quater A. Sur délibérations concordantes, prises dans les conditions prévues au VI de l'article 1639 A bis, de l'organe délibérant de l'établissement public de coopération intercommunale ou du groupement de collectivités et du conseil municipal de la commune membre intéressée, la commune peut reverser tout ou partie de la taxe à l'établissement public de coopération intercommunale ou aux groupements de collectivités dont elle est membre, compte tenu de la charge des équipements publics relevant, sur le territoire de cette commune, de sa compétence.
 
 NOTA:
-Conformément au A du IX de l’article 108 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent à compter des impositions établies au titre de l'année 2027.
+Conformément au I de l’article 21 de la loi n° 2026-554 du 29 juin 2026, ces dispositions, dans leur rédaction résultant de ladite loi, entrent en vigueur à une date fixée par décret, et au plus tard le 1er septembre 2026.
 
-Pour les impositions établies au titre de 2027, il est tenu compte de la durée de vacance de chaque logement avant le 1er janvier 2027.
+Conformément au VI de l’article 8 de la loi n° 2026-554 du 29 juin 2026, ces dispositions s'appliquent aux centrales de production d'énergie électrique d'origine hydraulique relevant du régime d'autorisation mentionné au premier alinéa de l'article L. 511-5 du code de l'énergie à compter des impositions établies au titre de l'année qui suit la résiliation de leur contrat de concession.

@@ -10,9 +10,11 @@ a) Aux installations de production d'électricité utilisant l'énergie mécaniq
 
 b) Aux installations de production d'électricité d'origine nucléaire ou thermique à flamme, prévue à l'article 1519 E ;
 
-c) Aux centrales de production d'énergie électrique d'origine photovoltaïque installées avant le 1er janvier 2023 ou d'origine hydraulique, prévue à l'article 1519 F ;
+c) Aux centrales de production d'énergie électrique d'origine photovoltaïque installées avant le 1er janvier 2023 ou d'origine hydraulique relevant du régime d'autorisation mentionné au deuxième alinéa de l'article L. 511-5 du code de l'énergie, prévue à l'article 1519 F du présent code ;
 
 Pour les centrales de production d'énergie électrique d'origine photovoltaïque installées à compter du 1er janvier 2023, les établissements publics de coopération intercommunale mentionnés au I de l'article 1379-0 bis sont substitués aux communes membres à hauteur de 60 % du produit de la composante de l'imposition forfaitaire sur les entreprises de réseaux perçu par ces dernières. Ils perçoivent également 20 % du produit total de la même composante ;
+
+Pour les centrales de production d'énergie électrique d'origine hydraulique relevant du régime d'autorisation mentionné au premier alinéa de l'article L. 511-5 du code de l'énergie, les établissements publics de coopération intercommunale mentionnés au I de l'article 1379-0 bis du présent code sont substitués aux communes membres, à hauteur de cinq sixièmes du produit de la composante de l'imposition forfaitaire sur les entreprises de réseaux perçu par ces dernières ;
 
 d) Aux transformateurs électriques, prévue à l'article 1519 G ;
 
@@ -23,6 +25,8 @@ f) Aux installations de gaz naturel liquéfié, aux stockages souterrains de gaz
 1 bis. Sur délibération de la commune d'implantation des installations prise dans les conditions prévues au I de l'article 1639 A bis, d'une fraction du produit perçu par la commune des composantes de l'imposition forfaitaire sur les entreprises de réseaux prévue à l'article 1519 D et relative aux installations de production d'électricité utilisant l'énergie mécanique du vent installées à compter du 1er janvier 2019 ou aux installations ayant fait l'objet à compter du 1er janvier 2026 d'une modification substantielle ou notable, au sens de l'article L. 181-14 du code de l'environnement, induisant une augmentation de la puissance installée du parc éolien où ces installations sont situées ;
 
 1 ter. Sur délibération de la commune d'implantation des installations prise dans les conditions prévues au I de l'article 1639 A bis, d'une fraction du produit perçu par la commune des composantes de l'imposition forfaitaire sur les entreprises de réseaux relatives aux centrales de production d'énergie électrique d'origine photovoltaïque installées à compter du 1er janvier 2023, prévue à l'article 1519 F ;
+
+1 quater. Sur délibération d'une commune mentionnée à l'article 1475, prise dans les conditions prévues au I de l'article 1639 A bis, d'une fraction du produit perçu par la commune des composantes de l'imposition forfaitaire sur les entreprises de réseaux relative aux centrales de production d'énergie électrique d'origine hydraulique relevant du régime d'autorisation mentionné au premier alinéa de l'article L. 511-5 du code de l'énergie, prévue à l'article 1519 F du présent code ;
 
 2. Du produit de la taxe additionnelle à la taxe foncière sur les propriétés non bâties, prévue à l'article 1519 I ;
 
@@ -179,3 +183,8 @@ Pour les établissements publics de coopération intercommunale soumis pour la p
 Pour l'application de l'avant-dernier alinéa du présent 2°, le taux moyen pondéré est déterminé par le rapport de la somme des compensations au titre de la réduction pour création d'établissement versées aux communes membres au titre de l'année précédant la première année d'application du présent article et de la somme des bases exonérées ou des abattements appliqués au titre de l'année précédant cette même première année d'application.
 
 IX. – Les dispositions des I à VIII sont applicables aux communautés de communes ayant, avant le 31 décembre 2010, opté, en application du III de l'article 1609 quinquies C dans sa rédaction en vigueur jusqu'à cette date, pour l'application du présent article.
+
+NOTA:
+Conformément au I de l’article 21 de la loi n° 2026-554 du 29 juin 2026, ces dispositions, dans leur rédaction résultant de ladite loi, entrent en vigueur à une date fixée par décret, et au plus tard le 1er septembre 2026.
+
+Conformément au VI de l’article 8 de la loi n° 2026-554 du 29 juin 2026, ces dispositions s'appliquent aux centrales de production d'énergie électrique d'origine hydraulique relevant du régime d'autorisation mentionné au premier alinéa de l'article L. 511-5 du code de l'énergie à compter des impositions établies au titre de l'année qui suit la résiliation de leur contrat de concession.

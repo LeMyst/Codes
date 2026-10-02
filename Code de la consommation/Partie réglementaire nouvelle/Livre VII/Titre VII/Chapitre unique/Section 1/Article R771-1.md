@@ -10,7 +10,7 @@ Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations 
 | R. 712-13 à R. 712-19 | Résultant du décret n° 2016-884 du 29 juin 2016 |
 | R. 713-2 | Résultant du décret n° 2020-1452 du 27 novembre 2020 |
 | R. 713-3 | Résultant du décret n° 2016-884 du 29 juin 2016 |
-| Article R. 713-4 | Décret n° 2019-1333 du 11 décembre 2019 |
+| Article R. 713-4 | Décret n° 2026-683 du 27 juillet 2026 |
 | Articles R. 713-5 à R. 713-11 | Résultant du décret n° 2016-884 du 29 juin 2016 |
 | R. 721-1 à R. 721-5 | Résultant du décret n° 2016-884 du 29 juin 2016 |
 | R. 721-6 | Résultant du décret n° 2026-96 du 16 février 2026 |
@@ -41,7 +41,9 @@ Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations 
 | R. 741-13 à R. 741-18 | Résultant du décret n° 2017-896 du 9 mai 2017 |
 | R. 742-1 | Résultant du décret n° 2016-884 du 29 juin 2016 |
 | R. 742-2 | Résultant du décret n° 2017-896 du 9 mai 2017 |
-| R. 742-3 à R. 742-8 | Résultant du décret n° 2016-884 du 29 juin 2016 |
+| R. 742-3 | Résultant du décret n° 2016-884 du 29 juin 2016 |
+| R. 742-4 | Résultant du décret n° 2026-683 du 27 juillet 2026 |
+| R. 742-5 à R. 742-8 | Résultant du décret n° 2016-884 du 29 juin 2016 |
 | R. 742-9 | Résultant du décret n° 2017-896 du 9 mai 2017 |
 | R. 742-10 | Résultant du décret n° 2016-884 du 29 juin 2016 |
 | R. 742-11 | Résultant du décret n° 2017-896 du 9 mai 2017 |
@@ -58,4 +60,4 @@ Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations 
 .
 
 NOTA:
-Conformément au I de l'article 9 du décret n° 2026-96 du 16 février 2026, ces dispositions dans leur rédaction issue dudit décret, entrent en vigueur le 1er avril 2026.
+Conformément au 1° de l'article 21 du décret n° 2026-683 du 27 juillet 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er octobre 2026.

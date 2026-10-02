@@ -1,1 +1,1 @@
-Chapitre III : Opposition au démarchage téléphonique
+Chapitre III : Consentement au démarchage téléphonique

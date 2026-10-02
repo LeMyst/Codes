@@ -11,4 +11,4 @@ L'emprunteur peut, même avant l'échéance, rembourser la créance garantie par
 En cas de remboursement anticipé d'un warrant agricole, l'emprunteur bénéficie des intérêts qui restaient à courir jusqu'à l'échéance du warrant, déduction faite d'un délai de dix jours.
 
 NOTA:
-Conformément au IX de l'article 69 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant de l'article précité, entrent en vigueur le 1er mars 2026.
+Conformément au IX de l'article 69 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant de l'article précité, entrent en vigueur le 1<sup>er</sup> mars 2026.

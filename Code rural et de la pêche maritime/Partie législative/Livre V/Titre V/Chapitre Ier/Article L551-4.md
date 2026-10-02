@@ -11,4 +11,4 @@ Par exception, un membre d'une organisation de producteurs ou d'une association 
 3° Ou en cas de changement de mode de production destiné à obtenir un signe d'identification de la qualité et de l'origine prévu au 1° de l'article L. 640-2, si l'organisation de producteurs ou l'association d'organisations de producteurs ne peut satisfaire ce changement.
 
 NOTA:
-Conformément au II de l'article 57 de la loi n° 2026-796 du 18 août 2026, le présent article est applicable aux adhésions dont la demande a été présentée après l'entrée en vigueur de la loi précitée et à compter du 1er janvier 2027 aux autres adhésions, après information des membres au plus tard le 1er décembre 2026.
+Conformément au II de l'article 57 de la loi n° 2026-796 du 18 août 2026, le présent article est applicable aux adhésions dont la demande a été présentée après l'entrée en vigueur de la loi précitée et à compter du 1<sup>er</sup> janvier 2027 aux autres adhésions, après information des membres au plus tard le 1<sup>er</sup> décembre 2026.

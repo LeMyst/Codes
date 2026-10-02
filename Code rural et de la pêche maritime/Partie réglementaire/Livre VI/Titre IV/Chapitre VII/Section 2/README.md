@@ -1,1 +1,4 @@
-Section 2 : Les modalités d'élaboration du référentiel et du plan de contrôle cadre
+# Section 2 : Les modalités d'élaboration du référentiel et du plan de contrôle cadre
+
+- [Sous-section 1 : La procédure d'élaboration, de révision et d'homologation du référentiel](Sous-section%201/README.md)
+- [Sous-section 2 : La procédure d'élaboration et d'homologation du plan de contrôle cadre](Sous-section%202/README.md)

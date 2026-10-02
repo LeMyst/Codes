@@ -9,4 +9,4 @@ A compter de la réception de cette notification, la victime ne peut plus faire 
 L'absence de notification dans les délais prévus aux articles R. 752-69 ou D. 752-80 vaut reconnaissance du caractère professionnel de l'accident, de la maladie, de la rechute ou de la nouvelle lésion.
 
 NOTA:
-Conformément à l’article 33 du décret n° 2025-1283 du 22 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, sont applicables aux accidents du travail et aux maladies professionnelles déclarés à compter du 1er janvier 2026. Les procédures engagées avant cette date restent régies par les dispositions antérieures à l'entrée en vigueur du même décret.
+Conformément à l’article 33 du décret n° 2025-1283 du 22 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, sont applicables aux accidents du travail et aux maladies professionnelles déclarés à compter du 1<sup>er</sup> janvier 2026. Les procédures engagées avant cette date restent régies par les dispositions antérieures à l'entrée en vigueur du même décret.

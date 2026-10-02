@@ -1,1 +1,17 @@
-Paragraphe 2 : Etablissement des listes électorales et contentieux.
+# Paragraphe 2 : Etablissement des listes électorales et contentieux.
+
+- [Article R723-27](Article%20R723-27.md)
+- [Article R723-28](Article%20R723-28.md)
+- [Article R723-29](Article%20R723-29.md)
+- [Article R723-30](Article%20R723-30.md)
+- [Article R723-31](Article%20R723-31.md)
+- [Article R723-31-1](Article%20R723-31-1.md)
+- [Article R723-31-2](Article%20R723-31-2.md)
+- [Article R723-33](Article%20R723-33.md)
+- [Article R723-34](Article%20R723-34.md)
+- [Article R723-35](Article%20R723-35.md)
+- [Article R723-36](Article%20R723-36.md)
+- [Article R723-37](Article%20R723-37.md)
+- [Article R723-38](Article%20R723-38.md)
+- [Article R723-40](Article%20R723-40.md)
+- [Article R723-41](Article%20R723-41.md)

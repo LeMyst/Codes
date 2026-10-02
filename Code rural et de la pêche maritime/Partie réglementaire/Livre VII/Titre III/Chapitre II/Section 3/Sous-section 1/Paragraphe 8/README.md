@@ -1,1 +1,16 @@
-Paragraphe 8 : Rachat
+# Paragraphe 8 : Rachat
+
+- [Article D732-75](Article%20D732-75.md)
+- [Article D732-76](Article%20D732-76.md)
+- [Article D732-77](Article%20D732-77.md)
+- [Article D732-78](Article%20D732-78.md)
+- [Article D732-79](Article%20D732-79.md)
+- [Article D732-80](Article%20D732-80.md)
+- [Article D732-82](Article%20D732-82.md)
+- [Article D732-83](Article%20D732-83.md)
+- [Article D732-84](Article%20D732-84.md)
+- [Article D732-85](Article%20D732-85.md)
+- [Article D732-86](Article%20D732-86.md)
+- [Article D732-87](Article%20D732-87.md)
+- [Article D732-88](Article%20D732-88.md)
+- [Article D732-89](Article%20D732-89.md)

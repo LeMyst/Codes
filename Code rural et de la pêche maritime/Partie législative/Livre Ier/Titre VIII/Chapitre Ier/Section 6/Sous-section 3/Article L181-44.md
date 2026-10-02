@@ -17,4 +17,4 @@ Pour son application à Mayotte l'article L. 121-8 est ainsi rédigé :\
 " Dans le cas où la commission départementale d'aménagement foncier est appelée à statuer sur une opération dans le périmètre de laquelle est comprise une aire d'appellation d'origine protégée, sa composition est complétée par un représentant de l'Institut national de l'origine et de la qualité. "
 
 NOTA:
-Conformément à l’article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.
+Conformément à l’article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1<sup>er</sup> janvier 2020.

@@ -11,6 +11,6 @@ L'indemnisation peut être versée par l'Etat ou, pour le compte de celui-ci, pa
 Les conditions d'application du présent article sont fixées par décret. L'indemnisation versée au titre des trois premiers alinéas, selon la nature des productions, tient compte, le cas échéant, de l'absence ou de l'insuffisance de développement de l'assurance contre les risques climatiques et, s'il y a lieu, du type de contrat souscrit.
 
 NOTA:
-Conformément à l’article 17 de la loi n° 2022-298 du 2 mars 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
+Conformément à l’article 17 de la loi n° 2022-298 du 2 mars 2022, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2023.
 
 Conformément à l'article 5 de l'ordonnance n° 2022-1075 du 29 juillet 2022, ces dispositions entrent en vigueur à la date et selon les modalités prévues à l'article 17 de la loi n° 2022-298 du 2 mars 2022.

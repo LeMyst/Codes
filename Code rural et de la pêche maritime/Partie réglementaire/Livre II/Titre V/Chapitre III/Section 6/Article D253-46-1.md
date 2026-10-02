@@ -13,10 +13,8 @@ Par décision no 439133 et 439210 du 15 novembre 2022 du Conseil d’Etat statua
 
 Version initiale de l'article 1er du décret n° 2019-1519 du 30 décembre 2019 :
 
-" L'article D. 253-46-1 du code rural et de la pêche maritime est complété par trois alinéas ainsi rédigés :
-
+" L'article D. 253-46-1 du code rural et de la pêche maritime est complété par trois alinéas ainsi rédigés :\
 Les substances actives présentant des modes d'action identiques à ceux de la famille des néonicotinoïdes et mentionnées au deuxième alinéa du II de l'article L. 253-8 sont les suivantes :
 
--Flupyradifurone ;
-
+-Flupyradifurone ;\
 -Sulfoxaflor. "

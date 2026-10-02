@@ -3,7 +3,7 @@
 Pour l'exercice des compétences de l'Etat mentionnées aux 2°, 12° et 14° du I et au 5° du II de l'article 21 de la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie, sont applicables aux eaux sous souveraineté ou juridiction françaises s'étendant au large de la Nouvelle-Calédonie, sous réserve des adaptations prévues au présent chapitre et des dispositions des articles 711-3 et 711-4 du code pénal, les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
+| -- | -- |
 | L. 941-1 | Résultant de la loi n° 2010-874 du 27 juillet 2010 de modernisation de l'agriculture et de la pêche |
 | L. 941-2 | Résultant de l'ordonnance n° 2010-462 du 6 mai 2010 créant un livre IX du code rural relatif à la pêche maritime et à l'aquaculture marine |
 | L. 941-3 à L. 941-8 | Résultant de l'ordonnance n° 2010-462 du 6 mai 2010 créant un livre IX du code rural relatif à la pêche maritime et à l'aquaculture marine |

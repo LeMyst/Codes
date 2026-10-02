@@ -76,7 +76,7 @@ c) Autres points d'abreuvement du bétail ;
 
 d) Bassins de pisciculture, conchyliculture, aquaculture et marais salants.
 
-V. - L'autorisation prescrit à son titulaire les mesures permettant d'avertir à temps les personnes occupant les lieux mentionnés à l'article L. 253-7-1 et au III de l'article L. 253-8, les travailleurs présents de façon régulière à proximité des traitements ainsi que les personnes présentes au sens du règlement (UE) n° 284/2013 de la Commission du 1er mars 2013.
+V. - L'autorisation prescrit à son titulaire les mesures permettant d'avertir à temps les personnes occupant les lieux mentionnés à l'article L. 253-7-1 et au III de l'article L. 253-8, les travailleurs présents de façon régulière à proximité des traitements ainsi que les personnes présentes au sens du règlement (UE) n° 284/2013 de la Commission du 1<sup>er</sup> mars 2013.
 
 Elle fixe la distance minimale à respecter entre la zone traitée et les lieux suivants :
 

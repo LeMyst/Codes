@@ -1,6 +1,6 @@
 # Article R215-13
 
-I. - Est puni de l'amende prévue pour les contraventions de la 3e classe le fait :
+I. - Est puni de l'amende prévue pour les contraventions de la 3<sup>e</sup> classe le fait :
 
 1° Pour un opérateur détenant des porcins :
 

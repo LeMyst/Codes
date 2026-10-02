@@ -4,9 +4,9 @@ Le jury, présidé par un fonctionnaire de catégorie A membre de l'enseignement
 
 Les membres du jury sont choisis paritairement parmi :
 
-– des membres de l'enseignement et de la formation professionnelle aux métiers de l'agriculture, de la forêt, de la nature et des territoires. Les membres de l'enseignement et de la formation professionnelle agricoles publics doivent représenter au moins la moitié de cette catégorie ;
+- des membres de l'enseignement et de la formation professionnelle aux métiers de l'agriculture, de la forêt, de la nature et des territoires. Les membres de l'enseignement et de la formation professionnelle agricoles publics doivent représenter au moins la moitié de cette catégorie ;
 
-– des professionnels du secteur d'activité concerné par le certificat de spécialisation agricole, à parité employeurs et salariés, sauf dispositions particulières prévues dans l'arrêté de création de l'option du certificat de spécialisation agricole.
+- des professionnels du secteur d'activité concerné par le certificat de spécialisation agricole, à parité employeurs et salariés, sauf dispositions particulières prévues dans l'arrêté de création de l'option du certificat de spécialisation agricole.
 
 Pour chaque membre de jury, un suppléant doit être désigné qui ne peut intervenir qu'en l'absence du titulaire.
 

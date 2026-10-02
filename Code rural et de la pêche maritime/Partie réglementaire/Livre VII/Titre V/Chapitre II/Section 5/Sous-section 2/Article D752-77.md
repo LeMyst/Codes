@@ -13,4 +13,4 @@ Le dossier constitué pour la reconnaissance du caractère professionnel de l'ac
 Ce dossier peut être communiqué au chef d'exploitation ou d'entreprise agricole, à la victime, ses ayants droit. Ce dossier ne peut être communiqué à un tiers que sur demande de l'autorité judiciaire.
 
 NOTA:
-Conformément à l’article 33 du décret n° 2025-1283 du 22 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, sont applicables aux accidents du travail et aux maladies professionnelles déclarés à compter du 1er janvier 2026. Les procédures engagées avant cette date restent régies par les dispositions antérieures à l'entrée en vigueur du même décret.
+Conformément à l’article 33 du décret n° 2025-1283 du 22 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, sont applicables aux accidents du travail et aux maladies professionnelles déclarés à compter du 1<sup>er</sup> janvier 2026. Les procédures engagées avant cette date restent régies par les dispositions antérieures à l'entrée en vigueur du même décret.

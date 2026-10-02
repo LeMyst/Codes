@@ -9,4 +9,4 @@ Hors majorations de durée d'assurance retenues selon les modalités mentionnée
 3° Les périodes mentionnées au 4° de l'article R. 351-4 du code de la sécurité sociale.
 
 NOTA:
-Conformément au II de l'article 1 du décret n° 2026-346 du 7 mai 2026, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux pensions prenant effet à compter du 1er janvier 2026.
+Conformément au II de l'article 1 du décret n° 2026-346 du 7 mai 2026, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux pensions prenant effet à compter du 1<sup>er</sup> janvier 2026.

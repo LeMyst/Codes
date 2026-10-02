@@ -1,6 +1,8 @@
 # Article R958-23
 
-Toute demande d'autorisation comporte les informations suivantes : 1° Nom du navire ;
+Toute demande d'autorisation comporte les informations suivantes :
+
+1° Nom du navire ;
 
 2° Numéro et port d'immatriculation ;
 

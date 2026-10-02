@@ -1,6 +1,8 @@
 # Article D371-11
 
-Pour l'application des dispositions de l'article D. 343-4-1 en Guyane, le préfet peut, sans tenir compte de la date du 1er janvier 1976 mentionnée au 2° de l'article D. 371-9 accorder la dotation d'installation à des jeunes agriculteurs qui s'installent dans des zones d'accessibilité difficile définies par arrêté préfectoral et qui : 1° Ne sont pas titulaires d'un des diplômes conférant la capacité professionnelle agricole ;
+Pour l'application des dispositions de l'article D. 343-4-1 en Guyane, le préfet peut, sans tenir compte de la date du 1er janvier 1976 mentionnée au 2° de l'article D. 371-9 accorder la dotation d'installation à des jeunes agriculteurs qui s'installent dans des zones d'accessibilité difficile définies par arrêté préfectoral et qui :
+
+1° Ne sont pas titulaires d'un des diplômes conférant la capacité professionnelle agricole ;
 
 2° Justifient d'une expérience professionnelle agricole minimale de deux ans au moins, jugée suffisante par l'autorité académique.
 

@@ -16,7 +16,7 @@ III.-L'autorité compétente pour délivrer l'autorisation est le préfet de la 
 
 Elle établit et publie au moins deux fois par an la liste des organismes de formation autorisés.
 
-IV.-La demande d'autorisation est adressée à l'autorité compétente, entre les 1 er et 31 mai ou entre les 1 er et 30 novembre, assortie des pièces suivantes :
+IV.-La demande d'autorisation est adressée à l'autorité compétente, entre les 1 <sup>er</sup> et 31 mai ou entre les 1 <sup>er</sup> et 30 novembre, assortie des pièces suivantes :
 
 1° Un dossier administratif comportant :
 
@@ -59,8 +59,8 @@ c) Non-respect des conditions énumérées aux 1°, 3° ou 4° du II ;
 VII.-Le ministre chargé de l'alimentation précise en tant que de besoin le contenu du dossier de demande et les modalités de transmission à l'autorité compétente.
 
 NOTA:
-Conformément à l'article 2 du décret n° 2025-922 du 6 septembre 2025, jusqu'au 1er février 2026 et nonobstant les dispositions de l'article D. 233-12 du code rural et de la pêche maritime, tout organisme de formation déclaré auprès du préfet de région conformément à l'article L. 6351-1 du code du travail peut dispenser la formation mentionnée à l'article L. 233-4 du code rural et de la pêche maritime.
+Conformément à l'article 2 du décret n° 2025-922 du 6 septembre 2025, jusqu'au 1<sup>er</sup> février 2026 et nonobstant les dispositions de l'article D. 233-12 du code rural et de la pêche maritime, tout organisme de formation déclaré auprès du préfet de région conformément à l'article L. 6351-1 du code du travail peut dispenser la formation mentionnée à l'article L. 233-4 du code rural et de la pêche maritime.
 
-L'organisme de formation déclaré auprès du préfet de région conformément à l'article L. 6351-1 du code du travail, autorisé au 1er juillet 2025 à dispenser la formation mentionnée à l'article L. 233-4 du code rural et de la pêche maritime, se voit délivrer sur sa demande l'autorisation prévue au I de l'article D. 233-12 du même code, valable à compter du 1er février 2026.
+L'organisme de formation déclaré auprès du préfet de région conformément à l'article L. 6351-1 du code du travail, autorisé au 1<sup>er</sup> juillet 2025 à dispenser la formation mentionnée à l'article L. 233-4 du code rural et de la pêche maritime, se voit délivrer sur sa demande l'autorisation prévue au I de l'article D. 233-12 du même code, valable à compter du 1<sup>er</sup> février 2026.
 
-L'organisme de formation déclaré auprès du préfet de région conformément à l'article L. 6351-1 du code du travail, dont la demande d'autorisation à dispenser la formation mentionnée à l'article L. 233-4 du code rural et de la pêche maritime était pendante au 1er juillet 2025, est réputé avoir déposé cette demande d'autorisation le 1er novembre 2025.
+L'organisme de formation déclaré auprès du préfet de région conformément à l'article L. 6351-1 du code du travail, dont la demande d'autorisation à dispenser la formation mentionnée à l'article L. 233-4 du code rural et de la pêche maritime était pendante au 1<sup>er</sup> juillet 2025, est réputé avoir déposé cette demande d'autorisation le 1<sup>er</sup> novembre 2025.

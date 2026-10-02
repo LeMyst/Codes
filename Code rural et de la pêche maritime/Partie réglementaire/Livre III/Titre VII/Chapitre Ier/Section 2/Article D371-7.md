@@ -1,6 +1,8 @@
 # Article D371-7
 
-En Guadeloupe, en Guyane, à la Martinique, à La Réunion ou à Mayotte, pour remplir les conditions de capacité ou d'expérience professionnelle mentionnées à l'article L. 331-2, le candidat doit, à la date de l'installation, de l'agrandissement ou de la réunion d'exploitations agricoles justifier : 1° Soit de la possession d'un diplôme ou certificat d'un niveau reconnu équivalent au brevet d'études professionnelles agricoles ou au brevet professionnel agricole ;
+En Guadeloupe, en Guyane, à la Martinique, à La Réunion ou à Mayotte, pour remplir les conditions de capacité ou d'expérience professionnelle mentionnées à l'article L. 331-2, le candidat doit, à la date de l'installation, de l'agrandissement ou de la réunion d'exploitations agricoles justifier :
+
+1° Soit de la possession d'un diplôme ou certificat d'un niveau reconnu équivalent au brevet d'études professionnelles agricoles ou au brevet professionnel agricole ;
 
 2° Soit de cinq ans minimum d'expérience professionnelle en qualité d'exploitant, de conjoint participant à l'exploitation agricole, d'aide familial, d'associé d'exploitation ou de salarié agricole. Cette durée est réduite :
 

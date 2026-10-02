@@ -39,4 +39,4 @@ b) Les missions de l'inspecteur ou du contrôleur du recouvrement sont assurées
 9° Pour l'application de l'article R. 243-59-9, la référence à l'article R. 244-1 du code de la sécurité sociale est remplacée par la référence à l'article R. 725-6 du présent code.
 
 NOTA:
-Conformément à l'article 4 du décret n° 2025-1338 du 26 décembre 2025, ces dispositions, dans leur rédaction résultant du 1° de l'article 3 du décret précité, entrent en vigueur au 1er janvier 2026 et s'appliquent aux procédures engagées à compter de cette date.
+Conformément à l'article 4 du décret n° 2025-1338 du 26 décembre 2025, ces dispositions, dans leur rédaction résultant du 1° de l'article 3 du décret précité, entrent en vigueur au 1<sup>er</sup> janvier 2026 et s'appliquent aux procédures engagées à compter de cette date.

@@ -1,1 +1,21 @@
-Sous-paragraphe 3 : Lieux et modalités d'exercice.
+# Sous-paragraphe 3 : Lieux et modalités d'exercice.
+
+- [Article R242-51](Article%20R242-51.md)
+- [Article R242-51-1](Article%20R242-51-1.md)
+- [Article R242-52](Article%20R242-52.md)
+- [Article R242-53](Article%20R242-53.md)
+- [Article R242-54](Article%20R242-54.md)
+- [Article R242-55](Article%20R242-55.md)
+- [Article R242-57](Article%20R242-57.md)
+- [Article R242-58](Article%20R242-58.md)
+- [Article R242-59](Article%20R242-59.md)
+- [Article R242-60](Article%20R242-60.md)
+- [Article R242-61](Article%20R242-61.md)
+- [Article R242-62](Article%20R242-62.md)
+- [Article R242-63](Article%20R242-63.md)
+- [Article R242-64](Article%20R242-64.md)
+- [Article R242-65](Article%20R242-65.md)
+- [Article R242-66](Article%20R242-66.md)
+- [Article R242-67](Article%20R242-67.md)
+- [Article R242-68](Article%20R242-68.md)
+- [Article R242-69](Article%20R242-69.md)

@@ -21,4 +21,4 @@ Les chambres d'agriculture sont chargées, selon des modalités fixées par arr�
 9° Du contrôle du respect, par tout détenteur de bovin, des règles d'identification, de maintien de l'identification ou de notification à la base de données définies dans le présent paragraphe.
 
 NOTA:
-Conformément à l'article 13 du décret n° 2025-987 du 22 octobre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur à compter du 1er janvier 2026.
+Conformément à l'article 13 du décret n° 2025-987 du 22 octobre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur à compter du 1<sup>er</sup> janvier 2026.

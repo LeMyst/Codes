@@ -15,4 +15,4 @@ Le présent article est applicable, quelle que soit la période faisant l'objet 
 NOTA:
 Se reporter aux modalités d’application prévues au II de l’article 1 du décret n°2025-1409 du 31 décembre 2025.
 
-Conformément au II de l’article 1 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux pensions et aux allocations prenant effet à compter du 1er janvier 2026.
+Conformément au II de l’article 1 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux pensions et aux allocations prenant effet à compter du 1<sup>er</sup> janvier 2026.

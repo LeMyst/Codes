@@ -15,4 +15,4 @@ L'essai encadré prévu au 1° de l'article L. 752-5-2 bénéficie aux personnes
 Dans tous les cas, le paiement des indemnités journalières est effectué par quinzaine. Les indemnités journalières sont versées soit à la victime, soit dans les conditions prévues à l'article R. 433-16 du code de la sécurité sociale.
 
 NOTA:
-Conformément à l'article 3 du décret n° 2026-501 du 12 juin 2026, ces dispositions, dans leur rédaction résultant dudit décret, sont applicables aux victimes dont le sinistre est intervenu à compter du 1er janvier 2027.
+Conformément à l'article 3 du décret n° 2026-501 du 12 juin 2026, ces dispositions, dans leur rédaction résultant dudit décret, sont applicables aux victimes dont le sinistre est intervenu à compter du 1<sup>er</sup> janvier 2027.

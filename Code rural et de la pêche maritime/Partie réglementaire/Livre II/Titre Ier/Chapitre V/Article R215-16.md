@@ -1,6 +1,6 @@
 # Article R215-16
 
-Est puni de l'amende prévue pour les contraventions de la 4e classe, le fait :
+Est puni de l'amende prévue pour les contraventions de la 4<sup>e</sup> classe, le fait :
 
 1° De céder un carnivore domestique sans procéder à son identification, en méconnaissance des dispositions de l'article L. 212-10 ;
 

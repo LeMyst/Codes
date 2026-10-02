@@ -19,6 +19,5 @@ Il précise :
 3° Les implications financières et logistiques liées à la satisfaction des besoins physiologiques, comportementaux et médicaux tout au long de la vie de l'équidé.
 
 NOTA:
-Conformément aux II et III de l'article 2 du décret n° 2022-1012 du 18 juillet 2022, l'article D. 214-37-1 dans sa rédaction issue du présent décret est applicable à compter du 31 décembre 2022.
-
+Conformément aux II et III de l'article 2 du décret n° 2022-1012 du 18 juillet 2022, l'article D. 214-37-1 dans sa rédaction issue du présent décret est applicable à compter du 31 décembre 2022.\
 Les personnes qui, à la date du 31 décembre 2022, détiennent un équidé dans le cadre de leur activité professionnelle sont réputées satisfaire aux conditions prévues au I de l'article D. 214-37-1 du code rural et de la pêche maritime dans sa rédaction issue du présent décret.

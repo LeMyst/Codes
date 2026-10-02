@@ -5,4 +5,4 @@ En application du second alinéa de l'article L. 732-20, il y a lieu de retenir 
 En cas de paiement partiel des cotisations, le nombre de trimestres à retenir est déterminé dans les conditions prévues au dernier alinéa de l'article R. 351-9 du code de la sécurité sociale. La rémunération mentionnée à cet alinéa est celle déterminée dans les conditions prévues au deuxième alinéa de l'article L. 732-24 du présent code.
 
 NOTA:
-Conformément au II de l’article 1 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux pensions et aux allocations prenant effet à compter du 1er janvier 2026.
+Conformément au II de l’article 1 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux pensions et aux allocations prenant effet à compter du 1<sup>er</sup> janvier 2026.

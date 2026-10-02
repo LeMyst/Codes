@@ -1,6 +1,7 @@
 # Article R942-1-1
 
-Les gardes jurés mentionnés à l'article L. 942-2 sont agréés par l'autorité administrative mentionnée à l'article R. * 911-3 pour une durée de cinq ans renouvelable.\
+Les gardes jurés mentionnés à l'article L. 942-2 sont agréés par l'autorité administrative mentionnée à l'article R. * 911-3 pour une durée de cinq ans renouvelable.
+
 Nul ne peut être agréé en qualité de garde juré s'il n'est âgé de dix-huit ans au moins.
 
 Le contenu du dossier de demande d'agrément et la procédure d'agrément sont fixés par arrêté du ministre chargé des pêches maritimes et de l'aquaculture marine.

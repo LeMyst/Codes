@@ -9,4 +9,4 @@ Les modalités d'exercice de ces missions sont fixées par arrêté du ministre 
 Avant d'entrer en fonction, les techniciens régionaux de prévention mentionnés à l'alinéa précédent prêtent serment devant le juge du tribunal judiciaire, au siège de ce tribunal ou, le cas échéant, de l'une de ses chambres de proximité de ne rien révéler des secrets de fabrication et, en général, des procédés et résultats d'exploitation dont ils pourraient avoir connaissance.
 
 NOTA:
-Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.
+Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2020.

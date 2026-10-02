@@ -33,4 +33,4 @@ V.-Le programme d'indemnisation comporte :
 ― une déclaration du fonds de mutualisation attestant qu'il a pris connaissance des conditions d'octroi de la contribution publique.
 
 NOTA:
-Conformément à l'article 2 du décret n° 2025-870 du 29 août 2025, les demandes d'aide déposées avant le 1er janvier 2023 par un fonds de mutualisation agréé sur le fondement de l'article D. 361-68 du code rural et de la pêche maritime restent régies par les dispositions de la sous-section 4 de la section 4 du chapitre Ier du titre VI du livre III du code rural et de la pêche maritime dans leur version antérieure au décret précité.
+Conformément à l'article 2 du décret n° 2025-870 du 29 août 2025, les demandes d'aide déposées avant le 1<sup>er</sup> janvier 2023 par un fonds de mutualisation agréé sur le fondement de l'article D. 361-68 du code rural et de la pêche maritime restent régies par les dispositions de la sous-section 4 de la section 4 du chapitre I<sup>er</sup> du titre VI du livre III du code rural et de la pêche maritime dans leur version antérieure au décret précité.

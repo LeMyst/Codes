@@ -1,1 +1,15 @@
-Section 1 : Droit de préemption en cas d'aliénation à titre onéreux de biens ruraux.
+# Section 1 : Droit de préemption en cas d'aliénation à titre onéreux de biens ruraux.
+
+- [Article L412-1](Article%20L412-1.md)
+- [Article L412-2](Article%20L412-2.md)
+- [Article L412-3](Article%20L412-3.md)
+- [Article L412-4](Article%20L412-4.md)
+- [Article L412-5](Article%20L412-5.md)
+- [Article L412-6](Article%20L412-6.md)
+- [Article L412-7](Article%20L412-7.md)
+- [Article L412-8](Article%20L412-8.md)
+- [Article L412-9](Article%20L412-9.md)
+- [Article L412-10](Article%20L412-10.md)
+- [Article L412-11](Article%20L412-11.md)
+- [Article L412-12](Article%20L412-12.md)
+- [Article L412-13](Article%20L412-13.md)

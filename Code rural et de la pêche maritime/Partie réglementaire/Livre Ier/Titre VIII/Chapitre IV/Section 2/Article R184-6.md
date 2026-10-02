@@ -1,6 +1,8 @@
 # Article R184-6
 
-La commission territoriale de l'agriculture et de l'aquaculture de Saint-Pierre-et-Miquelon exerce les attributions conférées par le présent code et par le code forestier aux instances ci-après : 1° La commission départementale d'orientation agricole ;
+La commission territoriale de l'agriculture et de l'aquaculture de Saint-Pierre-et-Miquelon exerce les attributions conférées par le présent code et par le code forestier aux instances ci-après :
+
+1° La commission départementale d'orientation agricole ;
 
 2° La commission communale, intercommunale et départementale d'aménagement foncier ;
 

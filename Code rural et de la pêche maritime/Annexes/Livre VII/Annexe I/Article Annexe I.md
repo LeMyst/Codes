@@ -33,4 +33,4 @@ E est le terme actuariel défini au c) du 4° de l'article D. 351-9 susmentionn�
 NOTA:
 Se reporter aux modalités d’application prévues au II de l’article 1 du décret n°2025-1409 du 31 décembre 2025.
 
-Conformément au II de l’article 1 du décret n° 2025-1410 du 30 décembre 2025 dans sa rédaction résultant de l'article 3 du décret n° 2026-347 du 7 mai 2026, ces dispositions, dans leur rédaction issue du 57° du I dudit article, s'appliquent aux demandes présentées à compter du 1er janvier 2026.
+Conformément au II de l’article 1 du décret n° 2025-1410 du 30 décembre 2025 dans sa rédaction résultant de l'article 3 du décret n° 2026-347 du 7 mai 2026, ces dispositions, dans leur rédaction issue du 57° du I dudit article, s'appliquent aux demandes présentées à compter du 1<sup>er</sup> janvier 2026.

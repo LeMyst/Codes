@@ -7,4 +7,4 @@ Pour l'ouverture du droit au capital décès, les dispositions du troisième ali
 Le taux d'incapacité permanente mentionné au premier alinéa de l'article L. 732-9-1 doit être au moins des deux tiers.
 
 NOTA:
-Conformément à l’article 2 du décret n°2026-198 du 19 mars 2026, ces dispositions, dans leur rédaction résultant dudit décret, s'appliquent aux décès survenus à compter du 1er janvier 2026, conformément au II de l'article 97 de la loi de financement de la sécurité sociale pour 2026.
+Conformément à l’article 2 du décret n°2026-198 du 19 mars 2026, ces dispositions, dans leur rédaction résultant dudit décret, s'appliquent aux décès survenus à compter du 1<sup>er</sup> janvier 2026, conformément au II de l'article 97 de la loi de financement de la sécurité sociale pour 2026.

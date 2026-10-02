@@ -3,7 +3,7 @@
 Sont applicables en Polynésie française, sous réserve des adaptations prévues à la présente section, les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
+| -- | -- |
 | L. 205-3 à L. 205-6 | Résultant de l' ordonnance n° 2010-460 du 6 mai 2010 relative à la modernisation des missions d'inspection et de contrôle et à la mise en cohérence de diverses dispositions du livre II du code rural |
 | L. 205-7 | Résultant de la loi n° 2011-525 du 17 mai 2011 de simplification et d'amélioration de la qualité du droit |
 | L. 205-8 à L. 205-11 | Résultant de l' ordonnance n° 2010-460 du 6 mai 2010 relative à la modernisation des missions d'inspection et de contrôle et à la mise en cohérence de diverses dispositions du livre II du code rural |

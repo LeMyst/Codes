@@ -3,7 +3,7 @@
 I - Sous réserve des adaptations prévues au II, sont applicables en Nouvelle-Calédonie les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | Dispositions applicables | Dans leur rédaction |
-| --- | --- |
+| -- | -- |
 | L. 810-1 | Résultant de la loi n° 2005-380 du 23 avril 2005 |
 | L. 810-2 | Résultant de la loi n° 2014-1170 du 13 octobre 2014 |
 | 3e alinéa de L. 811-2 | Résultant de la loi n° 2018-217 du 29 mars 2018 |

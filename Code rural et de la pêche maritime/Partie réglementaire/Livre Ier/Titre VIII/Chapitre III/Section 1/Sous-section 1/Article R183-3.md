@@ -1,6 +1,8 @@
 # Article R183-3
 
-Ne sont pas applicables à Saint-Martin : 1° Les articles R. 112-2-1 à R. 112-2-5 ;
+Ne sont pas applicables à Saint-Martin :
+
+1° Les articles R. 112-2-1 à R. 112-2-5 ;
 
 2° Les articles R. 112-6 à R. 112-13 ;
 

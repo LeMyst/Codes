@@ -1,6 +1,8 @@
 # Article R183-5
 
-Le comité d'orientation stratégique et de développement agricole de Saint-Martin comprend, outre ses co-présidents : 1° Trois membres du conseil territorial, élus en son sein ;
+Le comité d'orientation stratégique et de développement agricole de Saint-Martin comprend, outre ses co-présidents :
+
+1° Trois membres du conseil territorial, élus en son sein ;
 
 2° Trois représentants des services de l'Etat, désignés par le représentant de l'Etat ;
 

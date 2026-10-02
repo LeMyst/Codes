@@ -1,1 +1,7 @@
-Paragraphe 3 : Fonctionnement du conseil et du bureau
+# Paragraphe 3 : Fonctionnement du conseil et du bureau
+
+- [Article R912-43](Article%20R912-43.md)
+- [Article R912-44](Article%20R912-44.md)
+- [Article R912-45](Article%20R912-45.md)
+- [Article R912-46](Article%20R912-46.md)
+- [Article R912-47](Article%20R912-47.md)

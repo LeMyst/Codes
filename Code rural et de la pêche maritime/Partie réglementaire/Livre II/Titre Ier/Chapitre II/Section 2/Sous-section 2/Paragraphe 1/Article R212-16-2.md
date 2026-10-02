@@ -9,4 +9,4 @@ Si les opérations d'identification sont confiées à un organisme en applicatio
 L'information des éleveurs et du préfet sur les conditions matérielles et tarifaires des prestations d'identification est effectuée par la chambre d'agriculture au moins un mois avant l'entrée en vigueur des tarifs prévus par l'alinéa précédent. Ils ne peuvent modifier ces conditions qu'une fois par an, sauf circonstances exceptionnelles.
 
 NOTA:
-Conformément à l'article 13 du décret n° 2025-987 du 22 octobre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur à compter du 1er janvier 2026.
+Conformément à l'article 13 du décret n° 2025-987 du 22 octobre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur à compter du 1<sup>er</sup> janvier 2026.

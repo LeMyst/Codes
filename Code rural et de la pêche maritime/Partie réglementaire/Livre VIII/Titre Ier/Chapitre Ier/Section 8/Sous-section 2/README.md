@@ -1,1 +1,1 @@
-Sous-section 2 : Enseignement à distance.
+# Sous-section 2 : Enseignement à distance.

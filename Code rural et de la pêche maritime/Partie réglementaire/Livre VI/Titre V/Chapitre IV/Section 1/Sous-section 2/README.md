@@ -1,1 +1,1 @@
-Sous-section 2 : Taxes
+# Sous-section 2 : Taxes

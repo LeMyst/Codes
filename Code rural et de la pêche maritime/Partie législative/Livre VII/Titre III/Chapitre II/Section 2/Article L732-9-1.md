@@ -11,4 +11,4 @@ Le capital est incessible et insaisissable, sauf pour le paiement de dettes alim
 NOTA:
 Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.
 
-Conformément au second alinéa de l'article 97 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du I de l'article 97 précité, s'appliquent aux décès survenus à compter du 1er janvier 2026.
+Conformément au second alinéa de l'article 97 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du I de l'article 97 précité, s'appliquent aux décès survenus à compter du 1<sup>er</sup> janvier 2026.

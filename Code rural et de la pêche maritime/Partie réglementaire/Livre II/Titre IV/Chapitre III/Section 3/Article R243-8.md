@@ -6,13 +6,13 @@ Les personnes mentionnées au 12° de l'article L. 243-3 respectent les règles 
 
 2° Elles sont tenues d'orienter le propriétaire ou le détenteur de l'animal vers un vétérinaire :
 
-– lorsque les symptômes ou les lésions de l'animal nécessitent un diagnostic ou un traitement médical ;
+- lorsque les symptômes ou les lésions de l'animal nécessitent un diagnostic ou un traitement médical ;
 
-– lorsqu'il est constaté une persistance ou une aggravation de symptômes ou de lésions ;
+- lorsqu'il est constaté une persistance ou une aggravation de symptômes ou de lésions ;
 
-– si les troubles présentés excèdent le champ des actes qu'elles peuvent accomplir ;
+- si les troubles présentés excèdent le champ des actes qu'elles peuvent accomplir ;
 
-– en cas de douleur prolongée durant les manipulations ou de douleur consécutive à ces dernières.
+- en cas de douleur prolongée durant les manipulations ou de douleur consécutive à ces dernières.
 
 3° Elles n'entreprennent ni ne poursuivent des soins dans des domaines qui ne relèvent pas de l'ostéopathie animale ou dépassent les moyens dont elles disposent ;
 

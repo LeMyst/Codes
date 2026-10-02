@@ -15,4 +15,4 @@ Le contrat et l'accord-cadre prévoient les modalités de détermination alterna
 Pour l'application du VIII de l'article L. 631-24, le prix de base du lait est communiqué par l'acheteur selon des modalités prévues dans le contrat ou l'accord-cadre.
 
 NOTA:
-Conformément à l’article 2 du décret n° 2023-1040 du 15 novembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+Conformément à l’article 2 du décret n° 2023-1040 du 15 novembre 2023, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2024.

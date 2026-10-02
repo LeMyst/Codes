@@ -7,4 +7,4 @@ Pour l'application de l'article D. 461-29 du code de la sécurité sociale :
 2° Le rapport mentionné au 5° est établi par le service du contrôle médical de la caisse de mutualité sociale agricole.
 
 NOTA:
-Conformément à l’article 33 du décret n° 2025-1283 du 22 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, sont applicables aux accidents du travail et aux maladies professionnelles déclarés à compter du 1er janvier 2026. Les procédures engagées avant cette date restent régies par les dispositions antérieures à l'entrée en vigueur du même décret.
+Conformément à l’article 33 du décret n° 2025-1283 du 22 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, sont applicables aux accidents du travail et aux maladies professionnelles déclarés à compter du 1<sup>er</sup> janvier 2026. Les procédures engagées avant cette date restent régies par les dispositions antérieures à l'entrée en vigueur du même décret.

@@ -9,6 +9,6 @@ Les sociétés coopératives maritimes et leurs unions sont tenues de se soumett
 3° 150 000 euros pour le total du bilan ; celui-ci est égal à la somme des montants nets des éléments d'actif.
 
 NOTA:
-Conformément au premier alinéa de l’article 4 du décret n° 2026-661 du 23 juillet 2026, ces dispositions, dans leur rédaction résultant dudit décret, est applicable à compter du 1er septembre 2026.
+Conformément au premier alinéa de l’article 4 du décret n° 2026-661 du 23 juillet 2026, ces dispositions, dans leur rédaction résultant dudit décret, est applicable à compter du 1<sup>er</sup> septembre 2026.
 
 Conformément au deuxième alinéa de l’article 4 du décret n° 2026-661 du 23 juillet 2026, les nouveaux seuils qu'il définit ne sont pas applicables aux révisions coopératives en cours ou qui auraient dû être engagées à cette date.

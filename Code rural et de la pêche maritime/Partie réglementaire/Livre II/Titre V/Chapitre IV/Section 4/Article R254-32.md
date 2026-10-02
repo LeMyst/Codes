@@ -19,4 +19,4 @@ La référence des ventes est déterminée selon les modalités suivantes :
 3° Pour les entreprises obligées créées après le 1er janvier 2024, la référence des ventes est nulle.
 
 NOTA:
-Conformément à l'article 3 du décret n° 2025-1206 du 9 décembre 2025, l'article R. 254-32 du code rural et de la pêche maritime, dans sa rédaction antérieure au décret précité, demeure applicable pour l'obligation de réalisation d'actions au titre de la période du 1er janvier 2024 au 31 décembre 2025.
+Conformément à l'article 3 du décret n° 2025-1206 du 9 décembre 2025, l'article R. 254-32 du code rural et de la pêche maritime, dans sa rédaction antérieure au décret précité, demeure applicable pour l'obligation de réalisation d'actions au titre de la période du 1<sup>er</sup> janvier 2024 au 31 décembre 2025.

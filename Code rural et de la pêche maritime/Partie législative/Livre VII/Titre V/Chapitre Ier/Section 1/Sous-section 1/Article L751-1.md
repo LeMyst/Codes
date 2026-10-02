@@ -35,4 +35,4 @@ III.-En ce qui concerne les personnes mentionnées au II, des décrets détermin
 NOTA:
 Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.
 
-Conformément au VI de l'article 81 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 81 précité, s'appliquent aux victimes dont le sinistre est intervenu à compter du 1er janvier 2027.
+Conformément au VI de l'article 81 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 81 précité, s'appliquent aux victimes dont le sinistre est intervenu à compter du 1<sup>er</sup> janvier 2027.

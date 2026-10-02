@@ -11,4 +11,4 @@ Toute modification de la situation familiale ou du montant des ressources donne 
 Les organismes chargés de la liquidation des pensions de retraite ou de réversion non salariées agricoles contrôlent les déclarations des assurés, notamment en ce qui concerne leur situation familiale et leurs ressources. Pour l'exercice de leur contrôle, ils peuvent demander toutes les informations nécessaires aux administrations fiscales, aux organismes de sécurité sociale et aux organismes de retraite complémentaire.
 
 NOTA:
-Conformément au II de l’article 1 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur au 1er janvier 2026.
+Conformément au II de l’article 1 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur au 1<sup>er</sup> janvier 2026.

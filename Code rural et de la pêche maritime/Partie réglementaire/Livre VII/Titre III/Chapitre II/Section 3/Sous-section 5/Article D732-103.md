@@ -7,4 +7,4 @@ Toutefois, cette validation est subordonnée au versement d'un montant de cotisa
 Pour les assurés âgés de soixante-sept ans ou plus à la date de présentation de leur demande de rachat, le montant des cotisations est égal au montant des cotisations prévues au 2° de l'article D. 351-8 du code de la sécurité sociale et au 2° de l'article D. 732-77 du présent code pour les assurés âgés de soixante-deux ans, diminué de 2,5 % par année révolue au-delà de cet âge.
 
 NOTA:
-Conformément au II de l’article 1er du décret n° 2026-347 du 7 mai 2026, ces dispositions, dans leur rédaction résultant du 5° du I dudit article s'appliquent aux demandes présentées à compter du 1er janvier 2026.
+Conformément au II de l’article 1<sup>er</sup> du décret n° 2026-347 du 7 mai 2026, ces dispositions, dans leur rédaction résultant du 5° du I dudit article s'appliquent aux demandes présentées à compter du 1<sup>er</sup> janvier 2026.

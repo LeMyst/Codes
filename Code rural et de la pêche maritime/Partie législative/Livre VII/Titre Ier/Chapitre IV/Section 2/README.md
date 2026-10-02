@@ -1,1 +1,1 @@
-Section 2 : Repos quotidien.
+# Section 2 : Repos quotidien.

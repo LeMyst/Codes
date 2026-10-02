@@ -2,9 +2,8 @@
 
 Lésions chroniques du ménisque
 
-| | | |
-| --- | --- | --- |
-| DÉSIGNATION DES MALADIES | DÉLAI DE PRISE en charge | LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer ces maladies |
+| DÉSIGNATION DES MALADIES | DÉLAI DE PRISE<br>en charge | LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES<br>de provoquer ces maladies |
+| -- | -- | -- |
 | Lésions chroniques du ménisque à caractère dégénératif, ainsi que leurs complications : fissuration ou rupture du ménisque | 2 ans | Travaux comportant des efforts ou des ports de charges exécutés habituellement en position agenouillée ou accroupie. |
 
 NOTA:

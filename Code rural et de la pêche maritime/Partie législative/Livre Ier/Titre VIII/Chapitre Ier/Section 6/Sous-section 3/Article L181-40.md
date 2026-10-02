@@ -16,4 +16,4 @@ Pour son application à Mayotte, l'article L. 121-3 est ainsi rédigé :\
 " Lorsque le périmètre d'aménagement foncier comprend des terrains situés sur le territoire des communes d'un parc naturel régional, la composition de la commission est complétée par un représentant de ce parc désigné par le président de l'organisme de gestion du parc. "
 
 NOTA:
-Conformément à l’article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.
+Conformément à l’article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1<sup>er</sup> janvier 2020.

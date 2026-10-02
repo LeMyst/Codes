@@ -1,6 +1,8 @@
 # Article R182-6
 
-La commission territoriale de l'agriculture, de la pêche et de l'aquaculture de Saint-Barthélemy comprend, outre ses co-présidents : 1° Trois membres du conseil territorial, élus en son sein ;
+La commission territoriale de l'agriculture, de la pêche et de l'aquaculture de Saint-Barthélemy comprend, outre ses co-présidents :
+
+1° Trois membres du conseil territorial, élus en son sein ;
 
 2° Trois représentants des services de l'Etat, désignés par le représentant de l'Etat ;
 

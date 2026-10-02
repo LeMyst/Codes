@@ -3,7 +3,7 @@
 Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues à la présente section, les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
+| -- | -- |
 | L. 311-1 | Résultant de la loi n° 2014-1170 du 13 octobre 2014 d'avenir pour l'agriculture, l'alimentation et la forêt |
 | L. 324-1 à L. 324-11 | Résultant de l'ordonnance n° 2009-537 du 14 mai 2009 portant extension et adaptation à Mayotte, dans les îles Wallis et Futuna, en Polynésie française, dans les Terres australes et antarctiques françaises et en Nouvelle-Calédonie de diverses dispositions de nature législative |
 | L. 351-1 | Résultant de la loi n° 2022-172 du 14 février 2022 en faveur de l'activité professionnelle indépendante |

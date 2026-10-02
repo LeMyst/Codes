@@ -11,7 +11,7 @@ Sont applicables aux Terres australes et antarctiques françaises ainsi qu'aux e
 4° La référence au règlement (CE) n° 1224/2009 du Conseil du 20 novembre 2009 instituant un régime communautaire de contrôle afin d'assurer le respect des règles de la politique commune de la pêche est remplacée par la référence aux règles applicables en métropole en vertu du règlement (CE) n° 1224/2009 du Conseil du 20 novembre 2009 instituant un régime communautaire de contrôle afin d'assurer le respect des règles de la politique commune de la pêche.
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
+| -- | -- |
 | R. 924-1 à R. 924-7 | Résultant du décret n° 2017-568 du 19 avril 2017 relatif aux zones de conservation halieutiques |
 | R. 941-1 | Résultant du décret n° 2014-1608 du 26 décembre 2014 relatif à la codification de la partie réglementaire du livre IX du code rural et de la pêche maritime |
 | R. 941-4 | Résultant du décret n° 2014-1608 du 26 décembre 2014 relatif à la codification de la partie réglementaire du livre IX du code rural et de la pêche maritime |

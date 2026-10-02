@@ -1,6 +1,8 @@
 # Article R461-3
 
-En Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte, la commission consultative des baux ruraux comprend : 1° Le préfet, président ;
+En Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte, la commission consultative des baux ruraux comprend :
+
+1° Le préfet, président ;
 
 2° Le directeur de l'alimentation, de l'agriculture et de la forêt ;
 

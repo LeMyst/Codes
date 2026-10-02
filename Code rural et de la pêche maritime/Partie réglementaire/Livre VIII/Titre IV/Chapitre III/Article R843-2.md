@@ -2,9 +2,8 @@
 
 Sont applicables à Wallis-et-Futuna, sous réserve des adaptations prévues au présent chapitre, les dispositions du présent livre (partie réglementaire) mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
-| | |
-| --- | --- |
 | R. 810-1 | Résultant du décret n° 2012-16 du 5 janvier 2012 relatif à l'organisation académique |
+| -- | -- |
 | R. 811-1 | Résultant du décret n° 2011-191 du 17 février 2011 relatif à l'enseignement et à la formation professionnelle aux métiers de l'agriculture, de la forêt, de la nature et des territoires |
 | R. 811-76 | Résultant de l'ordonnance n° 2009-79 du 22 janvier 2009 créant l'Autorité des normes comptables |
 | R. 811-82 | Résultant du décret n° 2020-1171 du 24 septembre 2020 relatif à la discipline au sein des établissements publics d'enseignement technique agricole |

@@ -13,6 +13,6 @@ I. - Les entreprises d'assurance qui commercialisent des produits d'assurance co
 II. - Toute entreprise d'assurance qui commercialise des contrats bénéficiant de l'aide prévue au deuxième alinéa de l'article L. 361-4 est tenue de proposer à l'exploitant agricole qui en fait la demande un contrat d'assurance couvrant les pertes de récolte ou de culture résultant d'aléas climatiques conforme au cahier des charges prévu au 2° du I, à des conditions raisonnables précisées par le décret mentionné au même 2°.
 
 NOTA:
-Conformément à l’article 17 de la loi n° 2022-298 du 2 mars 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
+Conformément à l’article 17 de la loi n° 2022-298 du 2 mars 2022, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2023.
 
 Conformément à l'article 5 de l'ordonnance n° 2022-1075 du 29 juillet 2022, ces dispositions entrent en vigueur à la date et selon les modalités prévues à l'article 17 de la loi n° 2022-298 du 2 mars 2022.

@@ -1,6 +1,8 @@
 # Article R183-4
 
-Le comité d'orientation stratégique et de développement agricole de Saint-Martin exerce les attributions conférées par le présent code et par le code forestier aux instances ci-après : 1° La commission départementale d'orientation agricole ;
+Le comité d'orientation stratégique et de développement agricole de Saint-Martin exerce les attributions conférées par le présent code et par le code forestier aux instances ci-après :
+
+1° La commission départementale d'orientation agricole ;
 
 2° La commission communale, intercommunale et départementale d'aménagement foncier ;
 

@@ -42,8 +42,8 @@ A défaut d'accord, les organisations syndicales présentes dans la chambre d'ag
 
 L'utilisation par les organisations syndicales des outils numériques mis à leur disposition doit satisfaire l'ensemble des conditions suivantes :
 
-– être compatible avec les exigences de bon fonctionnement et de sécurité du réseau informatique de l'établissement ;
+- être compatible avec les exigences de bon fonctionnement et de sécurité du réseau informatique de l'établissement ;
 
-– ne pas entraver l'accomplissement normal du travail ;
+- ne pas entraver l'accomplissement normal du travail ;
 
-– préserver la liberté de choix des salariés d'accepter ou de refuser un message.
+- préserver la liberté de choix des salariés d'accepter ou de refuser un message.

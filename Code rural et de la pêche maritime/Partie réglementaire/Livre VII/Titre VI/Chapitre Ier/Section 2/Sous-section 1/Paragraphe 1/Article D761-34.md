@@ -9,4 +9,4 @@ Le dossier constitué par la caisse d'assurance accidents agricole comprend l'en
 Ce dossier comprend également les conclusions de l'enquête conduite par le conseiller en prévention de la caisse d'assurance-accidents agricole compétente.
 
 NOTA:
-Conformément à l’article 33 du décret n° 2025-1283 du 22 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, sont applicables aux accidents du travail et aux maladies professionnelles déclarés à compter du 1er janvier 2026. Les procédures engagées avant cette date restent régies par les dispositions antérieures à l'entrée en vigueur du même décret.
+Conformément à l’article 33 du décret n° 2025-1283 du 22 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, sont applicables aux accidents du travail et aux maladies professionnelles déclarés à compter du 1<sup>er</sup> janvier 2026. Les procédures engagées avant cette date restent régies par les dispositions antérieures à l'entrée en vigueur du même décret.

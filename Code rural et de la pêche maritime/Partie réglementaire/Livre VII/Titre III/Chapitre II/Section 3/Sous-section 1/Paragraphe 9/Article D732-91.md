@@ -29,4 +29,4 @@ La fraction des parts cédées par l'assuré doit être au moins égale à 20 %.
 V. - Les quotités de cession de terres ou de parts sociales sont exprimées en pourcentage arrondi à l'unité la plus proche. Le point de pourcentage égal à 0,5 est compté pour 1.
 
 NOTA:
-Conformément au II de l’article 1er du décret n° 2026-347 du 7 mai 2026, ces dispositions, dans leur rédaction résultant du 4° du I dudit article s'appliquent aux pensions et aux allocations prenant effet à compter du 1er janvier 2026.
+Conformément au II de l’article 1<sup>er</sup> du décret n° 2026-347 du 7 mai 2026, ces dispositions, dans leur rédaction résultant du 4° du I dudit article s'appliquent aux pensions et aux allocations prenant effet à compter du 1<sup>er</sup> janvier 2026.

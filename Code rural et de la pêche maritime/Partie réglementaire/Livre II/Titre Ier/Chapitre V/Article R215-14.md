@@ -1,6 +1,6 @@
 # Article R215-14
 
-I.-Est puni de l'amende prévue pour les contraventions de la 3e classe le fait :
+I.-Est puni de l'amende prévue pour les contraventions de la 3<sup>e</sup> classe le fait :
 
 1° De procéder à l'identification d'un équidé sans être inscrit sur la liste prévue à l'article L. 212-9 ;
 
@@ -28,7 +28,7 @@ I.-Est puni de l'amende prévue pour les contraventions de la 3e classe le fait 
 
 13° Pour tout exploitant d'un établissement d'équarrissage, de ne pas respecter les obligations prévues au paragraphe 2 de l'article 27 du règlement (UE) 2021/963 du 10 juin 2021 en cas de mort ou perte d'un équidé.
 
-II.-Est puni de l'amende prévue pour la contravention de la 5e classe le fait, pour tout opérateur détenant un ou plusieurs équidés, de ne pas se déclarer, en méconnaissance de l'article D. 212-46 ou de ne pas signaler, toute modification des informations déclarées.
+II.-Est puni de l'amende prévue pour la contravention de la 5<sup>e</sup> classe le fait, pour tout opérateur détenant un ou plusieurs équidés, de ne pas se déclarer, en méconnaissance de l'article D. 212-46 ou de ne pas signaler, toute modification des informations déclarées.
 
 Les personnes physiques coupables de l'infraction prévue au présent II encourent également les peines complémentaires prévues par les 8° et 9° de l'article 131-16 du code pénal.
 

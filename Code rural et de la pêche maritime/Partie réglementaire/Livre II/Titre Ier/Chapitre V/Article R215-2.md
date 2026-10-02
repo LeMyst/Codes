@@ -24,4 +24,4 @@ III.-Est puni des peines prévues pour les contraventions de la 4e classe :
 
 2° Le fait de ne pas soumettre son chien à l'évaluation comportementale mentionnée aux articles L. 211-14-1 et L. 211-14-2 ;
 
-3° Le fait, pour le propriétaire ou le détenteur d'un chien de la 1re ou 2e catégorie telles que définies à l'article L. 211-12, de ne pas avoir fait procéder à l'identification de cet animal selon les modalités prévues à l'article L. 212-10.
+3° Le fait, pour le propriétaire ou le détenteur d'un chien de la 1<sup>re</sup> ou 2<sup>e</sup> catégorie telles que définies à l'article L. 211-12, de ne pas avoir fait procéder à l'identification de cet animal selon les modalités prévues à l'article L. 212-10.

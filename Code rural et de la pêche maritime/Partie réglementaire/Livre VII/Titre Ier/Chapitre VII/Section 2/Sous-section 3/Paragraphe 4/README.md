@@ -1,1 +1,18 @@
-Paragraphe 4 : Dispositions communes aux sections de santé au travail et aux associations spécialisées de santé au travail
+# Paragraphe 4 : Dispositions communes aux sections de santé au travail et aux associations spécialisées de santé au travail
+
+- [Article D717-36](Article%20D717-36.md)
+- [Article D717-37](Article%20D717-37.md)
+- [Article D717-38](Article%20D717-38.md)
+- [Article D717-39](Article%20D717-39.md)
+- [Article D717-39-1](Article%20D717-39-1.md)
+- [Article D717-39-2](Article%20D717-39-2.md)
+- [Article D717-39-3](Article%20D717-39-3.md)
+- [Article D717-39-4](Article%20D717-39-4.md)
+- [Article D717-39-5](Article%20D717-39-5.md)
+- [Article D717-39-6](Article%20D717-39-6.md)
+- [Article D717-39-7](Article%20D717-39-7.md)
+- [Article D717-39-8](Article%20D717-39-8.md)
+- [Article D717-39-9](Article%20D717-39-9.md)
+- [Article D717-39-10](Article%20D717-39-10.md)
+- [Article D717-40](Article%20D717-40.md)
+- [Article D717-41](Article%20D717-41.md)

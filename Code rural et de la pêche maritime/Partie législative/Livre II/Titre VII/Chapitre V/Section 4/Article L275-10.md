@@ -3,7 +3,7 @@
 Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues à la présente section, les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
+| -- | -- |
 | L. 211-11 (à l'exception du troisième alinéa du II) à L. 211-15 | Résultant de la loi n° 2008-582 du 20 juin 1988 renforçant les mesures de prévention et de protection des personnes contre les chiens dangereux |
 | L. 211-16 | Résultant de l'ordonnance n° 2000-914 du 18 septembre 2000 relative à la partie législative du code de l'environnement |
 | L. 211-17 et L. 211-18 | Résultant de la loi n° 2008-582 du 20 juin 1988 renforçant les mesures de prévention et de protection des personnes contre les chiens dangereux |

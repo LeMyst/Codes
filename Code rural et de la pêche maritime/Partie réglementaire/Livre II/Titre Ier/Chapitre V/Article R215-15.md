@@ -1,6 +1,6 @@
 # Article R215-15
 
-I.-Est puni de l'amende prévue pour les contraventions de la 3e classe le fait :
+I.-Est puni de l'amende prévue pour les contraventions de la 3<sup>e</sup> classe le fait :
 
 1° De procéder à l'identification d'un camélidé en méconnaissance des dispositions de l'article D. 212-59 ;
 
@@ -12,7 +12,7 @@ I.-Est puni de l'amende prévue pour les contraventions de la 3e classe le fait 
 
 5° De faire attribuer une nouvelle identité à un camélidé déjà identifié.
 
-II.-Est puni de l'amende prévue pour la contravention de la 5e classe le fait, pour toute personne détenant un ou plusieurs camélidés, de ne pas se déclarer conformément aux dispositions de l'article D. 212-58 ou de ne pas signaler, toute modification des informations déclarées.
+II.-Est puni de l'amende prévue pour la contravention de la 5<sup>e</sup> classe le fait, pour toute personne détenant un ou plusieurs camélidés, de ne pas se déclarer conformément aux dispositions de l'article D. 212-58 ou de ne pas signaler, toute modification des informations déclarées.
 
 Les personnes physiques coupables de l'infraction prévue au présent II encourent également les peines complémentaires prévues par les 8° et 9° de l'article 131-16 du code pénal.
 

@@ -11,4 +11,4 @@ Pour le calcul de cette formule :
 -le SMIC et la rémunération mensuelle brute sont déterminés dans les conditions prévues à l'article D. 241-8 du code de la sécurité sociale.
 
 NOTA:
-Conformément à l’article 2 du décret n° 2025-537 du 12 juin 2025, ces dispositions s'appliquent aux cotisations et contributions dues au titre des périodes d'emploi courant à compter du 1er mai 2024.
+Conformément à l’article 2 du décret n° 2025-537 du 12 juin 2025, ces dispositions s'appliquent aux cotisations et contributions dues au titre des périodes d'emploi courant à compter du 1<sup>er</sup> mai 2024.

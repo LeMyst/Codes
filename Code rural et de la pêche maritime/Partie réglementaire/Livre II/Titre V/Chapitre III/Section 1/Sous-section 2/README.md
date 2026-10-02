@@ -1,1 +1,18 @@
-Sous-section 2 : Dispositions générales applicables aux autorisations de mise sur le marché et d'utilisation des produits phytopharmaceutiques et des adjuvants
+# Sous-section 2 : Dispositions générales applicables aux autorisations de mise sur le marché et d'utilisation des produits phytopharmaceutiques et des adjuvants
+
+- [Article R253-5](Article%20R253-5.md)
+- [Article R253-5-1](Article%20R253-5-1.md)
+- [Article R253-6](Article%20R253-6.md)
+- [Article R253-7](Article%20R253-7.md)
+- [Article D253-8](Article%20D253-8.md)
+- [Article D253-9](Article%20D253-9.md)
+- [Article R253-10](Article%20R253-10.md)
+- [Article R253-10-1](Article%20R253-10-1.md)
+- [Article R253-10-2](Article%20R253-10-2.md)
+- [Article R253-11](Article%20R253-11.md)
+- [Article R253-12](Article%20R253-12.md)
+- [Article R253-13](Article%20R253-13.md)
+- [Article R253-14](Article%20R253-14.md)
+- [Article R253-14-1](Article%20R253-14-1.md)
+- [Article D253-15](Article%20D253-15.md)
+- [Article D253-17](Article%20D253-17.md)

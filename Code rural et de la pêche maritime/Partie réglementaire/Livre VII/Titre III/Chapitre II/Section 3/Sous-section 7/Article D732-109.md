@@ -23,4 +23,4 @@ Pour apprécier les durées d'assurance non salariée agricole, mentionnées au 
 Toutefois, pour l'appréciation des durées minimales mentionnées au 1°, sont également prises en compte les périodes d'affiliation obligatoire à l'assurance vieillesse du régime général en application de l'article L. 381-1 du code de la sécurité sociale. L'application des dispositions du présent alinéa ne doit pas avoir pour effet de porter à un chiffre supérieur à quatre le nombre de trimestres d'assurance valable au titre d'une même année civile sauf en ce qui concerne la majoration de durée d'assurance prévue à l'article L. 351-4 du code de la sécurité sociale.
 
 NOTA:
-Conformément au II de l’article 1 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur au 1er janvier 2026.
+Conformément au II de l’article 1 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur au 1<sup>er</sup> janvier 2026.

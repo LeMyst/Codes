@@ -1,6 +1,8 @@
 # Article R571-20
 
-Pour l'application à Mayotte de l'article R. 511-9 : 1° Les deuxième à cinquième alinéas sont remplacés par les alinéas suivants :
+Pour l'application à Mayotte de l'article R. 511-9 :
+
+1° Les deuxième à cinquième alinéas sont remplacés par les alinéas suivants :
 
 " A défaut d'option de leur part, le collège dans lequel ils sont inscrits est déterminé en appliquant l'ordre de priorité suivant :
 

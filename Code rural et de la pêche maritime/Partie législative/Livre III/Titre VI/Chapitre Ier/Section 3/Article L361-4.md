@@ -9,6 +9,6 @@ Seuls peuvent bénéficier de cette aide les contrats d'assurance couvrant les p
 Les types de contrats pouvant faire l'objet de la prise en charge prévue au présent article sont déterminés par décret dans le but de favoriser une plus grande mutualisation des risques. Pour les garanties des contrats pouvant bénéficier de cette prise en charge, le décret fixe les niveaux de franchise, selon la nature des productions, le seuil de pertes défini au troisième alinéa et, le cas échéant, le type de contrat d'assurance souscrit et peut aussi fixer des critères de couverture surfacique minimale par type de contrat, en fonction des groupes de cultures ou de la destination des cultures.
 
 NOTA:
-Conformément à l’article 17 de la loi n° 2022-298 du 2 mars 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
+Conformément à l’article 17 de la loi n° 2022-298 du 2 mars 2022, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2023.
 
 Conformément à l'article 5 de l'ordonnance n° 2022-1075 du 29 juillet 2022, ces dispositions entrent en vigueur à la date et selon les modalités prévues à l'article 17 de la loi n° 2022-298 du 2 mars 2022.

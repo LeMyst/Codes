@@ -3,7 +3,7 @@
 Sont applicables dans les îles Wallis et Futuna les dispositions du présent livre (partie réglementaire) mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau, sous réserve des adaptations prévues ci-dessous :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
+| -- | -- |
 | R. 351-1 | Décret n° 2019-1333 du 11 décembre 2019 |
 | R. 351-2 | Résultant du décret n° 96-205 du 15 mars 1996 relatif à la partie réglementaire du livre III (nouveau) du code rural |
 | R. 351-3 | Résultant du décret n° 2014-736 du 30 juin 2014 pris pour l'application de l'ordonnance n° 2014-326 du 12 mars 2014 portant réforme de la prévention des difficultés des entreprises et des procédures collectives |

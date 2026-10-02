@@ -15,4 +15,4 @@ II. - Pour le calcul des périodes d'assurance mentionnées aux 1° à 4° du I,
 Pour les personnes dont la retraite a pris effet avant le 1er janvier 1997, les périodes mentionnées au 1° du I sont appréciées dans les conditions prévues au troisième alinéa de l'article D. 732-151.
 
 NOTA:
-Conformément au II de l’article 1 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur au 1er janvier 2026.
+Conformément au II de l’article 1 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur au 1<sup>er</sup> janvier 2026.

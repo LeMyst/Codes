@@ -2,9 +2,8 @@
 
 Sont applicables à Wallis et Futuna, sous réserve des adaptations prévues au présent chapitre, les dispositions du présent livre (partie réglementaire) mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
-| | |
-| --- | --- |
 | D. 800-1 à D. 800-5 | Résultant du décret n° 2006-1154 du 15 septembre 2006 portant application de l'article 91 de la loi n° 2006-11 du 5 janvier 2006 d'orientation agricole et modifiant le code rural |
+| -- | -- |
 | D. 810-2 à D.810-5 | Résultant du décret n° 2015-457 du 21 avril 2015 relatif au médiateur de l'enseignement agricole technique et supérieur |
 | D. 811-70-1 | Résultant du décret n° 2009-144 du 9 février 2009 relatif aux établissements publics locaux d'enseignement et de formation professionnelle agricoles |
 | D. 811-83-7 | Résultant du décret n° 2023-1357 du 28 décembre 2023 relatif au respect des principes de la République et à la protection des élèves dans les établissements d'enseignement relevant du ministre chargé de l'agriculture |

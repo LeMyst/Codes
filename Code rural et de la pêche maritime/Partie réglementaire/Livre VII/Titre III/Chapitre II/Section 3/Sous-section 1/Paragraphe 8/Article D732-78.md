@@ -9,4 +9,4 @@ Pour l'application de ces dispositions, chaque année accomplie postérieurement
 Le versement des cotisations de rachat ne pourra avoir pour conséquence de porter le total des annuités prises en compte pour le calcul de la part prévue au b du 2° du I de l'article L. 732-24 à plus de la durée minimale mentionnée au a du même 2° du I de l'article L. 732-24.
 
 NOTA:
-Conformément au II de l’article 1 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux demandes présentées à compter du 1er janvier 2026.
+Conformément au II de l’article 1 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux demandes présentées à compter du 1<sup>er</sup> janvier 2026.

@@ -5,4 +5,4 @@ Pour l'application du premier alinéa du I de l'article L. 732-39, le service d'
 Par dérogation au premier alinéa, la pension peut prendre effet avant la cessation définitive d'activité professionnelle. Toutefois, si l'assuré n'a pas cessé définitivement son activité professionnelle dans un délai de deux mois, le versement de la pension est suspendu. Il reprend le premier jour du mois suivant celui au cours duquel l'assuré a cessé définitivement son activité professionnelle.
 
 NOTA:
-Conformément au II de l’article 1 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux demandes présentées à compter du 1er janvier 2026.
+Conformément au II de l’article 1 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux demandes présentées à compter du 1<sup>er</sup> janvier 2026.

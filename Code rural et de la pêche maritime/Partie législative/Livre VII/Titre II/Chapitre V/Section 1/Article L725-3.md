@@ -53,4 +53,4 @@ Le taux mentionné au douzième alinéa est fixé, par attributaire ou catégori
 Sans préjudice des dispositions particulières prévoyant d'autres règles d'affectation, le produit des majorations de retard et des pénalités dues par les redevables dans les conditions prévues aux douzième à quatorzième alinéas n'est pas reversé aux attributaires.
 
 NOTA:
-Conformément au IV de l'article 93 de la loi n° 2026-534 du 25 juin 2026, ces dispositions, dans leur rédaction résultant du 2° du I de l'article précité, s'appliquent aux contraintes décernées à compter d'une date fixée par décret, et au plus tard à compter du 1er janvier 2027.
+Conformément au IV de l'article 93 de la loi n° 2026-534 du 25 juin 2026, ces dispositions, dans leur rédaction résultant du 2° du I de l'article précité, s'appliquent aux contraintes décernées à compter d'une date fixée par décret, et au plus tard à compter du 1<sup>er</sup> janvier 2027.

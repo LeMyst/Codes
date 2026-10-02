@@ -29,4 +29,4 @@ Le déclarant atteste sur l'honneur de l'exactitude des informations déclarées
 En cas de démembrement du droit de propriété, le notaire, ou le cédant, fait, en outre, connaître à la société la consistance et la valeur des droits démembrés, la durée de l'usufruit et son mode d'exploitation et les pouvoirs des titulaires des droits.
 
 NOTA:
-Conformément au II de l’article 5 du décret n°2022-1515 du 2 décembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
+Conformément au II de l’article 5 du décret n°2022-1515 du 2 décembre 2022, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2023.

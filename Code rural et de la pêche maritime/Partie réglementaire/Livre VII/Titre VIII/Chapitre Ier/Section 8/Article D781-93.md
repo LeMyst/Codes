@@ -15,4 +15,4 @@ Les dispositions des septième à dixième et dernier alinéas de l'article D. 7
 La décision d'attribution ou de rejet de la pension de retraite complémentaire obligatoire est notifiée à l'assuré en même temps que la décision d'attribution ou de rejet de sa pension de retraite de base.
 
 NOTA:
-Conformément au II de l’article 1 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur au 1er janvier 2026.
+Conformément au II de l’article 1 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur au 1<sup>er</sup> janvier 2026.

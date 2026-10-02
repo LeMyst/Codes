@@ -1,6 +1,8 @@
 # Article R958-6
 
-Les autorisations de pêche sont délivrées après vérification de la capacité juridique, économique, financière et technique de l'armateur du ou des navires bénéficiaires et en tenant compte notamment : 1° D'un lien économique réel du navire avec le territoire de l'Etat dont il bat le pavillon, notamment de la direction et du contrôle des navires à partir d'un établissement stable situé sur le territoire de l'État dont le navire bat le pavillon ;
+Les autorisations de pêche sont délivrées après vérification de la capacité juridique, économique, financière et technique de l'armateur du ou des navires bénéficiaires et en tenant compte notamment :
+
+1° D'un lien économique réel du navire avec le territoire de l'Etat dont il bat le pavillon, notamment de la direction et du contrôle des navires à partir d'un établissement stable situé sur le territoire de l'État dont le navire bat le pavillon ;
 
 2° Des antériorités des armements dans la pêcherie ;
 

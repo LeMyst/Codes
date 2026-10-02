@@ -1,6 +1,8 @@
 # Article R184-7
 
-La commission territoriale de l'agriculture et de l'aquaculture de Saint-Pierre-et-Miquelon comprend, outre ses co-présidents : 1° Trois membres du conseil territorial, élus en son sein ;
+La commission territoriale de l'agriculture et de l'aquaculture de Saint-Pierre-et-Miquelon comprend, outre ses co-présidents :
+
+1° Trois membres du conseil territorial, élus en son sein ;
 
 2° Trois représentants des services de l'Etat, désignés par le préfet ;
 

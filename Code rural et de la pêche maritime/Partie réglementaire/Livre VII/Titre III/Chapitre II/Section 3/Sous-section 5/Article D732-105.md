@@ -7,4 +7,4 @@ Le versement des cotisations dues peut être échelonné dans les conditions pr�
 La demande de rachat ne peut concerner des périodes d'activité non salariée agricole postérieures à la date d'entrée en jouissance de la pension de retraite.
 
 NOTA:
-Conformément au II de l’article 1er du décret n° 2026-347 du 7 mai 2026, ces dispositions, dans leur rédaction résultant du 6° du I dudit article s'appliquent aux demandes présentées à compter du 1er janvier 2026.
+Conformément au II de l’article 1<sup>er</sup> du décret n° 2026-347 du 7 mai 2026, ces dispositions, dans leur rédaction résultant du 6° du I dudit article s'appliquent aux demandes présentées à compter du 1<sup>er</sup> janvier 2026.

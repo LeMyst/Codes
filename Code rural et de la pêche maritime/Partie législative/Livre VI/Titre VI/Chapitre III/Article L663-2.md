@@ -7,4 +7,4 @@ Ces conditions techniques sont fixées par arrêté du ministre chargé de l'agr
 Les conditions techniques relatives aux distances sont fixées par nature de culture. Elles définissent les périmètres au sein desquels ne sont pas pratiquées de cultures d'organismes génétiquement modifiés. Elles doivent permettre que la présence accidentelle d'organismes génétiquement modifiés dans d'autres productions soit inférieure au seuil établi par la réglementation européenne.
 
 NOTA:
-Conformément à l’article 7 de l’ordonnance n° 2021-1325 du 13 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 7 de l’ordonnance n° 2021-1325 du 13 octobre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

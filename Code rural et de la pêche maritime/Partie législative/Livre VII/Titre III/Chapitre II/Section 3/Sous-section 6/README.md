@@ -1,1 +1,1 @@
-Sous-section 6 : Assurance veuvage
+# Sous-section 6 : Assurance veuvage

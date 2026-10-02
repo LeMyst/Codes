@@ -5,4 +5,4 @@ La durée du contrat et de l'accord-cadre ne peut être inférieure à cinq ans,
 Toute modification du contrat et de l'accord-cadre est faite par un avenant écrit qui prévoit une date d'effet compatible avec les modifications prévues à cet avenant.
 
 NOTA:
-Conformément à l’article 2 du décret n° 2023-1040 du 15 novembre 2023, ces dispositions entrent en vigueur le 1er janvier 2024.
+Conformément à l’article 2 du décret n° 2023-1040 du 15 novembre 2023, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2024.

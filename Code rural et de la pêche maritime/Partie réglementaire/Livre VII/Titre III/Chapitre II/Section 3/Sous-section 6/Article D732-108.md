@@ -9,6 +9,6 @@ Les revenus pris en compte pour l'application du 3° de l'article D. 356-2 du co
 II. - Les deux dernières phrases du premier alinéa de l'article D. 356-8 du code de la sécurité sociale ne sont pas applicables à la demande d'allocation veuvage adressée au régime institué par le présent chapitre.
 
 NOTA:
-Conformément au II de l’article 1er du décret n° 2026-347 du 7 mai 2026, ces dispositions, dans leur rédaction résultant du a du 7° du I dudit article s'appliquent aux pensions et aux allocations prenant effet à compter du 1er janvier 2026.
+Conformément au II de l’article 1<sup>er</sup> du décret n° 2026-347 du 7 mai 2026, ces dispositions, dans leur rédaction résultant du a du 7° du I dudit article s'appliquent aux pensions et aux allocations prenant effet à compter du 1<sup>er</sup> janvier 2026.
 
-Conformément au II de l’article 1er du décret n° 2026-347 du 7 mai 2026, ces dispositions, dans leur rédaction résultant du b du 7° du I dudit article s'appliquent aux demandes présentées à compter du 1er janvier 2026.
+Conformément au II de l’article 1<sup>er</sup> du décret n° 2026-347 du 7 mai 2026, ces dispositions, dans leur rédaction résultant du b du 7° du I dudit article s'appliquent aux demandes présentées à compter du 1<sup>er</sup> janvier 2026.

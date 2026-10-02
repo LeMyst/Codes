@@ -1,6 +1,8 @@
 # Article R958-29
 
-Les informations qui doivent être communiquées par l'armement lors de la demande d'autorisation ainsi que la procédure de délivrance sont définies par arrêté de l'autorité mentionnée à l'article R. * 911-3, après avis conforme du ministre des affaires étrangères, du ministre chargé des pêches maritimes et de l'aquaculture marine et du ministre chargé de l'outre-mer. Les autorisations de pêche sont délivrées après vérification de la capacité juridique, économique, financière et technique de l'armement bénéficiaire en tenant compte notamment :
+Les informations qui doivent être communiquées par l'armement lors de la demande d'autorisation ainsi que la procédure de délivrance sont définies par arrêté de l'autorité mentionnée à l'article R. * 911-3, après avis conforme du ministre des affaires étrangères, du ministre chargé des pêches maritimes et de l'aquaculture marine et du ministre chargé de l'outre-mer.
+
+Les autorisations de pêche sont délivrées après vérification de la capacité juridique, économique, financière et technique de l'armement bénéficiaire en tenant compte notamment :
 
 1° D'un lien économique réel du navire avec le territoire de l'Etat dont il bat le pavillon, notamment de la direction et du contrôle des navires à partir d'un établissement stable situé sur le territoire de l'Etat dont le navire bat le pavillon ;
 

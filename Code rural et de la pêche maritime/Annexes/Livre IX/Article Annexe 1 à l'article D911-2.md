@@ -2,15 +2,15 @@
 
 TABLEAU ÉTABLI POUR L'APPLICATION DE L'ARTICLE D. 911-2 INDIQUANT LA LIMITE DE LA SALURE DES EAUX DANS LES FLEUVES, RIVIÈRES ET CANAUX DU LITTORAL DE LA MER DU NORD, DE LA MANCHE, DE L'OCÉAN ATLANTIQUE ET DE LA MÉDITERRANÉE
 
-| FLEUVES, RIVIÈRES OU CANAUX | LIMITES DE LA SALURE DES EAUX |
-| --- | --- |
-| Littoral de la mer du Nord et de la Manche |
+| FLEUVES, RIVIÈRES<br>OU CANAUX | LIMITES DE LA SALURE DES EAUX |
+| -- | -- |
+| Littoral de la mer du Nord et de la Manche |  |
 | Cunette des Moères | Portes de flot, à l'aval de l'écluse de la Cunette |
 | Canal de Bergues | Portes de flot, à l'aval de l'écluse de Bergues |
 | Canal de dérivation | Portes de flot, à l'aval de l'écluse du fort Revers |
 | Aa | Ecluse n° 63 bis, dans les fortifications de Gravelines |
 | Canal de Saint-Omer | Ecluse de la Citadelle et écluses de la Batellerie |
-| Canal des Crabes Canal des Pierrettes Canal des Chasses | Ecluse de chasse |
+| Canal des Crabes<br>Canal des Pierrettes<br>Canal des Chasses | Ecluse de chasse |
 | Canche | Pont par lequel la voie ferrée Paris-Calais traverse ce cours d'eau à Etaples |
 | Slack | Ecluse du village de Slack |
 | Wimereux | Moulin Lecamus |
@@ -28,7 +28,7 @@ TABLEAU ÉTABLI POUR L'APPLICATION DE L'ARTICLE D. 911-2 INDIQUANT LA LIMITE DE 
 | Valmont | Aval de la première cheminée située en amont du rejet de la rivière dans l'arrière port de Fécamp et verticale de la bordure du pont enjambant le déversoir d'orage, côté bassin Freycinet |
 | Lézarde | Portes à flot |
 | Canal de Tancarville | Extrémité amont du canal |
-| Seine Risle | Au droit de la cale d'Aizier Au barrage de Pont-Audemer, vis-à-vis la rue du Sépulcre |
+| Seine<br>Risle | Au droit de la cale d'Aizier<br>Au barrage de Pont-Audemer, vis-à-vis la rue du Sépulcre |
 | Touques | Pont du chemin de fer de Lisieux à Deauville situé à 250 mètres en amont du pont de Touques |
 | Dives | Pont de Cabourg, à 1 kilomètre de l'embouchure |
 | Orne | Barrage dit " La Passerelle " |
@@ -38,7 +38,7 @@ TABLEAU ÉTABLI POUR L'APPLICATION DE L'ARTICLE D. 911-2 INDIQUANT LA LIMITE DE 
 | Vire | Pont du Vey (RN 13) |
 | Taute | Portes à flot du pont Saint-Hilaire, à Carentan |
 | Douve | Portes à flot du pont de la Barquette |
-| Sève Madelaine Merdret | Portes à flot du pont de la Barquette |
+| Sève<br>Madelaine<br>Merdret | Portes à flot du pont de la Barquette |
 | Sienne | Pont-Neuf, vis-à-vis le château de Montchalon |
 | Sée | 1 500 mètres au-dessus du pont Gilbert, au chemin conduisant de la rive droite au clocher de Saint-Jean-de-la-Haize |
 | Sélune | 1 500 mètres en amont du pont routier de Pontaubault |
@@ -72,7 +72,7 @@ TABLEAU ÉTABLI POUR L'APPLICATION DE L'ARTICLE D. 911-2 INDIQUANT LA LIMITE DE 
 | Aber-Wrac'h | Moulin Diouris |
 | Aber-Benoît | Moulin du Chatel et Tariec |
 | Aber-IlDut | Pont Run |
-| Littoral métropolitain de l'océan Atlantique |
+| Littoral métropolitain de l'océan Atlantique |  |
 | Elorn | Crête du barrage Pont de Rohan |
 | Daoulas | Pont de Daoulas |
 | Hôpital Camfrout | Pont de l'hôpital Camfrout |
@@ -165,7 +165,7 @@ TABLEAU ÉTABLI POUR L'APPLICATION DE L'ARTICLE D. 911-2 INDIQUANT LA LIMITE DE 
 | Chenal de Maubert | Ecluse de chasse |
 | Chenal de Mortagne | Extrémité supérieure du bassin à flot |
 | Canal de Saint-Seurin d'Uzet | Moulin à eau |
-| Canal des Monnards | 1re branche, moulin à eau. 2e branche, pont du chemin vicinal |
+| Canal des Monnards | 1re branche, moulin à eau.<br>2e branche, pont du chemin vicinal |
 | Canal de Talmont | Ecluse de chasse |
 | Canal de Meschers | Ecluse de chasse |
 | Dordogne | Douce sur tout son cours |
@@ -198,7 +198,7 @@ TABLEAU ÉTABLI POUR L'APPLICATION DE L'ARTICLE D. 911-2 INDIQUANT LA LIMITE DE 
 | Canal et étang d'Hossegor | Salés sur toute leur étendue |
 | Ruisseau du Bouret | Pont d'Hierm |
 | Courant de Capbreton ou Boudigau | Pont Lajus, à 1 820 mètres du fanal de Capbreton |
-| Courant de Vieux-Boucau : 1re branche, venant de l'étang de Soustons 2e branche, du ruisseau de Messange | Barrage de l'étang de Pinsolle Barrage de dérivation du courant de Soustons Seuil du Mail |
+| Courant de Vieux-Boucau :<br>1re branche, venant de l'étang de Soustons<br>2e branche, du ruisseau de Messange | Barrage de l'étang de Pinsolle<br>Barrage de dérivation du courant de Soustons<br>Seuil du Mail |
 | Bidouze | Douce sur tout son cours |
 | Nive | Chapitalia, commune de Villefranque |
 | Ouhabia | Aval immédiat du pont de la RN 10 |
@@ -210,7 +210,7 @@ TABLEAU ÉTABLI POUR L'APPLICATION DE L'ARTICLE D. 911-2 INDIQUANT LA LIMITE DE 
 | Ruisseau des Viviers Basques | Amont de la partie lagunaire |
 | Bidassoa | Borda-Ruppia |
 | Mentaberri | Dernier seuil bétonné à l'aval du ruisseau à hauteur du centre de vacances Haicabia |
-| Littoral de la Méditerranée |
+| Littoral de la Méditerranée |  |
 | Le Tech | A 750 mètres environ du rivage à la séparation des communes d'Argelès-sur-Mer et d'Elne |
 | La Têt | A 464 mètres de la mer, à une ligne partant de l'intersection du chemin de Grabateil avec la rive gauche de la Têt et traversant la rivière perpendiculairement à son cours |
 | Agly | A 520 mètres environ du rivage de la mer, à une ligne allant de l'extrémité amont de la digue n° 11 à la borne n° 12 |
@@ -246,7 +246,7 @@ TABLEAU ÉTABLI POUR L'APPLICATION DE L'ARTICLE D. 911-2 INDIQUANT LA LIMITE DE 
 | Canal du Grau-de-Pérols | Salé sur tout son cours |
 | Canal de Carnon | Salé sur tout son cours |
 | Canal de Beaucaire | Au pont de Franquevaux |
-| Rhône :-grande branche-petite branche | A la normale passant par l'extrémité sud du quai Saint-Louis, lequel sépare le fleuve du canal Saint-Louis A l'écluse du canal de Sylveréal |
+| Rhône :<br>-grande branche<br>-petite branche | A la normale passant par l'extrémité sud du quai Saint-Louis, lequel sépare le fleuve du canal Saint-Louis<br>A l'écluse du canal de Sylveréal |
 | Canal du Rhône à Fos | Ecluse de Barcarin |
 | Canal d'Arles à Fos | Ouvrage de rejet construit au PK 31,910 |
 | Le Gapeau | Barrage en maçonnerie établi à 1 500 mètres en amont du pont de chemin de fer de la Compagnie PLM (Embranchement de la Pauline aux Salins-d'Hyères) |
@@ -254,7 +254,7 @@ TABLEAU ÉTABLI POUR L'APPLICATION DE L'ARTICLE D. 911-2 INDIQUANT LA LIMITE DE 
 | Fiume Vughio | A la barre sablonneuse qui ferme l'embouchure de ce cours d'eau |
 | Aliso ou Nébio | A 1 150 mètres en amont de la tête aval du pont formant la traversée de la route nationale n° 199 |
 | Rivière de Golo, canal dit de Tanghiccia | 1 500 mètres en amont de l'embouchure. Extrémité du canal dans l'étang de Biguglia |
-| Littoral de la Guadeloupe |
+| Littoral de la Guadeloupe |  |
 | La Lézarde | Confluent de la Lézarde et de la rivière de la Trinité |
 | La Moustique | Radier de la route nationale n° 1 Pointe-à-Pitre-Basse-Terre |
 | Petite Rivière à Goyaves | Radier de la route nationale n° 1 Pointe-à-Pitre Basse-Terre |
@@ -262,5 +262,5 @@ TABLEAU ÉTABLI POUR L'APPLICATION DE L'ARTICLE D. 911-2 INDIQUANT LA LIMITE DE 
 | Canal des Rotours | Radier de la route nationale n° 6 |
 | Ravine du Nord-Ouest de la baie du Moule | Pont franchi par la route nationale n° 6 |
 | Rivière d'Audouin | Pont reliant l'agglomération du Moule au quartier de l'Autre Bord |
-| Autres rivières et ravines | Barre de galets formant l'embouchure\* (\*) Bas de la falaise, le cas échéant |
-| | Limites de salure des eaux se confondant avec la limite transversale de la mer |
+| Autres rivières et ravines | Barre de galets formant l'embouchure\*<br>(\*) Bas de la falaise, le cas échéant |
+|  | Limites de salure des eaux se confondant avec la limite transversale de la mer |

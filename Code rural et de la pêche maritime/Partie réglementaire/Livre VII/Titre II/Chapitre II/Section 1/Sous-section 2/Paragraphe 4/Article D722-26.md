@@ -9,4 +9,4 @@ Les demandes d'adhésion à l'assurance volontaire vieillesse doivent être pré
 Le modèle de la demande d'adhésion à l'assurance volontaire vieillesse est fixé par arrêté du ministre chargé de l'agriculture.
 
 NOTA:
-Conformément au II de l’article 1 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux demandes présentées à compter du 1er janvier 2026.
+Conformément au II de l’article 1 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux demandes présentées à compter du 1<sup>er</sup> janvier 2026.

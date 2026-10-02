@@ -9,4 +9,4 @@ Peuvent bénéficier du complément différentiel de points de retraite complém
 La durée minimale d'assurance non salariée agricole mentionnée au 1° est appréciée en prenant en considération les années qui ont donné lieu soit à versement des cotisations ouvrant droit à la pension de retraite forfaitaire mentionnée au 1° de l'article L. 732-24 dans sa rédaction antérieure à la loi n° 2025-199 du 28 février 2025 de financement de la sécurité sociale pour 2025 ou de l'article L. 781-32, soit à validation au titre des périodes assimilées pour l'obtention de cette même retraite, auxquelles s'ajoutent les majorations de durées d'assurance attribuées pour l'obtention de cette même retraite.
 
 NOTA:
-Conformément au II de l’article 1 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur au 1er janvier 2026.
+Conformément au II de l’article 1 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur au 1<sup>er</sup> janvier 2026.

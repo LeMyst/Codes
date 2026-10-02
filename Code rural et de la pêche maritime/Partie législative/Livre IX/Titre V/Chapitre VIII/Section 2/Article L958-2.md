@@ -3,7 +3,7 @@
 Sous réserve des dispositions des articles L. 958-4 à L. 958-14, sont applicables aux eaux sous souveraineté ou juridiction française s'étendant au large des îles australes françaises et des îles Éparses, les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
+| -- | -- |
 | L. 941-1 | Résultant de la loi n° 2010-874 du 27 juillet 2010 de modernisation de l'agriculture et de la pêche |
 | L. 941-2 | Résultant de l'ordonnance n° 2010-462 du 6 mai 2010 créant un livre IX du code rural relatif à la pêche maritime et à l'aquaculture marine |
 | L. 941-3 à L. 941-8 | Résultant de l'ordonnance n° 2010-462 du 6 mai 2010 créant un livre IX du code rural relatif à la pêche maritime et à l'aquaculture marine |

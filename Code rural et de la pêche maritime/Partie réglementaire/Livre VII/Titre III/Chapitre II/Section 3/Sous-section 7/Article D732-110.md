@@ -17,4 +17,4 @@ Lorsque l'intéressé a exercé une partie de sa carrière simultanément en qua
 Lorsque, au terme de cette reconstitution, l'intéressé totalise un nombre d'annuités de chef d'exploitation ou d'entreprise agricole supérieur à sa durée d'assurance non salariée agricole telle que définie au deuxième alinéa du I du présent article, ce nombre est ramené à cette durée d'assurance non salariée agricole dans la limite prévue au troisième alinéa du I du présent article.
 
 NOTA:
-Conformément au II de l’article 1 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur au 1er janvier 2026.
+Conformément au II de l’article 1 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur au 1<sup>er</sup> janvier 2026.

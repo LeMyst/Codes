@@ -6,7 +6,7 @@ Pour son application à Wallis et Futuna, l'article D. 811-83-22 est ainsi rédi
 
 “Elle comprend en outre :
 
-“1° Le directeur d'un des centres mentionnés à l'article 1er du décret n° 99-298 du 16 avril 1999 relatif à l'organisation administrative et financière des établissements d'enseignement dont la responsabilité et la charge incombent entièrement à l'Etat ;
+“1° Le directeur d'un des centres mentionnés à l'article 1<sup>er</sup> du décret n° 99-298 du 16 avril 1999 relatif à l'organisation administrative et financière des établissements d'enseignement dont la responsabilité et la charge incombent entièrement à l'Etat ;
 
 “2° Un représentant des personnels enseignants et d'éducation désigné par le directeur du service d'Etat de l'agriculture, de la forêt et de la pêche, sur proposition des représentants des personnels enseignants et d'éducation élus au conseil d'administration du lycée professionnel agricole de Wallis-et-Futuna ;
 

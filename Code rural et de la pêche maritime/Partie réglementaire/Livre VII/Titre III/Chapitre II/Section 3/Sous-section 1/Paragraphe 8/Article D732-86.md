@@ -17,4 +17,4 @@ L'intéressé produit également à l'appui de sa demande tous documents probant
 Le dispositif de contrôle interne prévu à l'article défini à la section 2 du chapitre IV bis du titre Ier du livre Ier du code de la sécurité sociale (partie réglementaire-décrets simples) fixe les actions à entreprendre pour vérifier l'exactitude des informations apportées à l'appui d'une demande de rachat. Il détermine, notamment, les modalités selon lesquelles les témoins contresignataires sont entendus conformément au quatrième alinéa du présent article.
 
 NOTA:
-Conformément au II de l’article 1 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux demandes présentées à compter du 1er janvier 2026.
+Conformément au II de l’article 1 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux demandes présentées à compter du 1<sup>er</sup> janvier 2026.

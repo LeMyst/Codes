@@ -1,6 +1,7 @@
 # Article D211-3-1-3
 
-Le conseil national de l'ordre prononce la radiation de la liste :\
+Le conseil national de l'ordre prononce la radiation de la liste :
+
 1° En cas de manquement à l'obligation de transmission d'informations prévue à l'article D. 211-3-2, après que l'intéressé a été mis en demeure de régulariser sa situation dans un délai déterminé ;
 
 2° En cas de suspension d'exercice prononcée par la chambre régionale ou nationale de discipline.

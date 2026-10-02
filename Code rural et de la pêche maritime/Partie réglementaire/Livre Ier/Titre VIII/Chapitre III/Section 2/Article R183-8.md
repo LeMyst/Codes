@@ -1,6 +1,8 @@
 # Article R183-8
 
-Avant de solliciter l'avis du comité d'orientation stratégique et de développement agricole prévu par l'article L. 183-11, le président du conseil territorial : 1° Fait établir une liste des parcelles susceptibles de se voir appliquer les dispositions des articles L. 183-12 à L. 183-23 et un extrait du plan cadastral correspondant à ces parcelles ou, en l'absence de cadastre, tout plan parcellaire en tenant lieu ;
+Avant de solliciter l'avis du comité d'orientation stratégique et de développement agricole prévu par l'article L. 183-11, le président du conseil territorial :
+
+1° Fait établir une liste des parcelles susceptibles de se voir appliquer les dispositions des articles L. 183-12 à L. 183-23 et un extrait du plan cadastral correspondant à ces parcelles ou, en l'absence de cadastre, tout plan parcellaire en tenant lieu ;
 
 2° Fait rechercher et dresser la liste du ou des propriétaires et, le cas échéant, du ou des titulaires de droit d'exploitation autres que le ou les propriétaires de chacune des parcelles ;
 

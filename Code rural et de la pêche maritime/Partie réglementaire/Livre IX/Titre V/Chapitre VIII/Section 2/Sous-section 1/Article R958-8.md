@@ -1,6 +1,8 @@
 # Article R958-8
 
-L'autorisation peut être retirée sans indemnité par l'autorité qui l'a délivrée après que l'intéressé a été mis en mesure de présenter ses observations, dans les cas où : 1° Les caractéristiques ou le mode d'exploitation du navire ont été modifiés et ne répondent plus aux conditions fixées pour la délivrance de l'autorisation ;
+L'autorisation peut être retirée sans indemnité par l'autorité qui l'a délivrée après que l'intéressé a été mis en mesure de présenter ses observations, dans les cas où :
+
+1° Les caractéristiques ou le mode d'exploitation du navire ont été modifiés et ne répondent plus aux conditions fixées pour la délivrance de l'autorisation ;
 
 2° Le navire a été vendu ou cédé à un titre quelconque.
 

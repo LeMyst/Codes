@@ -27,4 +27,4 @@ La décision d'attribution ou de rejet de la pension de réversion de retraite c
 La pension de retraite complémentaire obligatoire et la pension de réversion de retraite complémentaire obligatoire sont payées mensuellement dans les conditions prévues à l'article R. 355-2 du code de la sécurité sociale.
 
 NOTA:
-Conformément au II de l’article 1 du décret n° 2025-1410 du 30 décembre 2025, les dispositions du b et du c du 46°, dans leur rédaction issue dudit décret, s'appliquent aux demandes présentées à compter du 1er janvier 2026.
+Conformément au II de l’article 1 du décret n° 2025-1410 du 30 décembre 2025, les dispositions du b et du c du 46°, dans leur rédaction issue dudit décret, s'appliquent aux demandes présentées à compter du 1<sup>er</sup> janvier 2026.

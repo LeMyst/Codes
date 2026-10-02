@@ -1,6 +1,6 @@
 # Article R215-11
 
-I. - Est puni de l'amende prévue pour les contraventions de la 3e classe le fait :
+I. - Est puni de l'amende prévue pour les contraventions de la 3<sup>e</sup> classe le fait :
 
 1° Pour un opérateur détenant un ou plusieurs bovins :
 
@@ -37,4 +37,4 @@ Les personnes morales déclarées responsables pénalement de l'infraction prév
 La récidive de ces contraventions est réprimée conformément aux articles 132-11 et 132-15 du code pénal.
 
 NOTA:
-Conformément à l'article 13 du décret n° 2025-987 du 22 octobre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur à compter du 1er janvier 2026.
+Conformément à l'article 13 du décret n° 2025-987 du 22 octobre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur à compter du 1<sup>er</sup> janvier 2026.

@@ -3,7 +3,7 @@
 Toute personne physique ou morale qui produit des plantes vivantes ou des produits de la floriculture figurant dans le tableau ci-après peut être membre, en qualité de producteur, d'une organisation de producteurs dans le secteur des plantes vivantes et des produits de la floriculture.
 
 | Code NC | Désignation du produit |
-| --- | --- |
+| -- | -- |
 | 0601 | Bulbes, oignons, tubercules, racines tubéreuses, griffes et rhizomes, en repos végétatif, en végétation ou en fleur (à l'exclusion des oignons, tubercules et racines tubéreuses servant à l'alimentation humaine) ; plants, plantes et racines de chicorée (à l'exclusion des racines de chicorée de la variété ‘ Cichorium intybus sativum') |
 | 0602 10 90 | Boutures non racinées et greffons (autres que de vigne) |
 | 0602 20 20 | Arbres, arbustes, arbrisseaux et buissons, à racines nues, à fruits comestibles greffés ou non (à l'exclusion des plants de vigne) |

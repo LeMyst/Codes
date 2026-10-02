@@ -1,6 +1,8 @@
 # Article R184-4
 
-Pour son application à Saint-Pierre-et-Miquelon, l'article R. 111-3 est ainsi rédigé : " R. 111-3.-Pour l'élaboration du plan territorial de l'agriculture durable, le préfet et le président du conseil territorial sont, pour l'application du quatrième alinéa de l'article L. 184-4, assistés par la commission territoriale de l'agriculture et de l'aquaculture prévue par l'article L. 184-5.
+Pour son application à Saint-Pierre-et-Miquelon, l'article R. 111-3 est ainsi rédigé :
+
+" R. 111-3.-Pour l'élaboration du plan territorial de l'agriculture durable, le préfet et le président du conseil territorial sont, pour l'application du quatrième alinéa de l'article L. 184-4, assistés par la commission territoriale de l'agriculture et de l'aquaculture prévue par l'article L. 184-5.
 
 " Le projet de plan validé par le préfet est à la disposition du public pendant un mois au siège de la préfecture et par voie électronique sur le site Internet de la préfecture.
 

@@ -9,4 +9,4 @@ I. - Pour l'appréciation de la durée d'assurance ayant donné lieu à cotisati
 3° Les périodes validées comme périodes d'assurance en application de l'article R. 732-46 du présent code, dans la limite prévue au 3° de l'article D. 351-1-2 du code de la sécurité sociale.
 
 NOTA:
-Conformément au II de l’article 1er du décret n° 2026-347 du 7 mai 2026, ces dispositions, dans leur rédaction résultant du 1° du I dudit article s'appliquent aux pensions et aux allocations prenant effet à compter du 1er janvier 2026.
+Conformément au II de l’article 1<sup>er</sup> du décret n° 2026-347 du 7 mai 2026, ces dispositions, dans leur rédaction résultant du 1° du I dudit article s'appliquent aux pensions et aux allocations prenant effet à compter du 1<sup>er</sup> janvier 2026.

@@ -7,4 +7,4 @@ Dans tous les cas où, à la suite de dommages susceptibles d'être indemnisés 
 En conséquence, le fermier déduit du montant du fermage à payer au titre de l'année au cours de laquelle a eu lieu le sinistre une somme égale à celle représentant le dégrèvement dont a bénéficié le bailleur. Dans le cas où le paiement du fermage est intervenu avant la fixation du dégrèvement, le propriétaire doit en ristourner le montant au preneur.
 
 NOTA:
-Conformément à l’article 17 de la loi n° 2022-298 du 2 mars 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
+Conformément à l’article 17 de la loi n° 2022-298 du 2 mars 2022, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2023.

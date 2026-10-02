@@ -7,4 +7,4 @@ La caisse compétente pour recevoir la demande de versement de cotisation prévu
 2° La caisse de mutualité sociale agricole d'Ile-de-France, pour les assurés ne résidant pas dans le ressort d'une caisse de mutualité sociale agricole.
 
 NOTA:
-Conformément au II de l’article 1 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux demandes présentées à compter du 1er janvier 2026.
+Conformément au II de l’article 1 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux demandes présentées à compter du 1<sup>er</sup> janvier 2026.

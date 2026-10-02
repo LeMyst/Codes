@@ -7,4 +7,4 @@ Dans le cas prévu à l'article R. 751-24 du présent code, le délai de quinze 
 Lorsque la victime se trouve dans la situation prévue à l'article R. 751-24 précité, il est fait application des dispositions de l'article R. 751-16 du présent code.
 
 NOTA:
-Conformément à l'article 3 du décret n° 2025-1282 du 22 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 1er du décret précité, sont applicables aux accidents du travail et aux maladies professionnelles déclarés à compter du 1er janvier 2026. Les procédures engagées avant cette date restent régies par les dispositions antérieures à l'entrée en vigueur dudit décret.
+Conformément à l'article 3 du décret n° 2025-1282 du 22 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 1er du décret précité, sont applicables aux accidents du travail et aux maladies professionnelles déclarés à compter du 1<sup>er</sup> janvier 2026. Les procédures engagées avant cette date restent régies par les dispositions antérieures à l'entrée en vigueur dudit décret.

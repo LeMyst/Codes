@@ -1,6 +1,8 @@
 # Article R184-3
 
-Ne sont pas applicables à Saint-Pierre-et-Miquelon : 1° Le titre II ;
+Ne sont pas applicables à Saint-Pierre-et-Miquelon :
+
+1° Le titre II ;
 
 2° Le titre III ;
 

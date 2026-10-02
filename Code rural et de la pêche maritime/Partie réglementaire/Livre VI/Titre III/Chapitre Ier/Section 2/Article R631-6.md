@@ -5,7 +5,7 @@ I.-Sous réserve des seuils spécifiques prévus au II du présent article, l'ar
 II.-Pour les produits agricoles mentionnés ci-dessous, les seuils de chiffre d'affaires en dessous desquels l'article L. 631-24 n'est pas applicable sont les suivants :
 
 | Produits agricoles concernés | Seuils de chiffre d'affaires annuel de l'acheteur pour le produit agricole concerné | Seuils de chiffre d'affaires annuel du producteur, de l'organisation de producteurs ou de l'association d'organisations de producteurs pour le produit agricole concerné |
-| --- | --- | --- |
+| -- | -- | -- |
 | Bovins mâles non castrés de 12 à 24 mois de race à viande | 100 000 euros | 10 000 euros |
 | Bovins femelles de plus de 12 mois n'ayant jamais vêlé de race à viande | 100 000 euros | 10 000 euros |
 | Bovins femelles ayant déjà vêlé de race à viande | 100 000 euros | 10 000 euros |

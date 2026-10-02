@@ -1,1 +1,21 @@
-Sous-section 3 : L'Institut français du cheval et de l'équitation
+# Sous-section 3 : L'Institut français du cheval et de l'équitation
+
+- [Article R653-66](Article%20R653-66.md)
+- [Article R653-67](Article%20R653-67.md)
+- [Article R653-68](Article%20R653-68.md)
+- [Article R653-69](Article%20R653-69.md)
+- [Article R653-70](Article%20R653-70.md)
+- [Article R653-71](Article%20R653-71.md)
+- [Article R653-72](Article%20R653-72.md)
+- [Article R653-73](Article%20R653-73.md)
+- [Article R653-74](Article%20R653-74.md)
+- [Article R653-75](Article%20R653-75.md)
+- [Article R653-76](Article%20R653-76.md)
+- [Article R653-77](Article%20R653-77.md)
+- [Article R653-78](Article%20R653-78.md)
+- [Article R653-79](Article%20R653-79.md)
+- [Article R653-80](Article%20R653-80.md)
+- [Article R653-81](Article%20R653-81.md)
+- [Article R653-82](Article%20R653-82.md)
+- [Article R653-83](Article%20R653-83.md)
+- [Article R653-84](Article%20R653-84.md)

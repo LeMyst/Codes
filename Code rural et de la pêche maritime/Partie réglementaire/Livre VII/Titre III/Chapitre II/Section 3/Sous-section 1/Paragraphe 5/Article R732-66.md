@@ -11,4 +11,4 @@ Ne peuvent être retenues dans les années mentionnées au premier alinéa du pr
 III.-Sont pris en compte pour le calcul prévu au I le nombre de trimestres validés en application du 2° de l'article R. 732-48 et du 1° de l'article L. 732-21, le cas échéant majoré des trimestres attribués dans les conditions prévues au second alinéa de l'article R. 732-61.
 
 NOTA:
-Conformément au II de l'article 1 du décret n° 2026-346 du 7 mai 2026, les dispositions issues du b) du 5° du I même article, s'appliquent aux pensions prenant effet à compter du 1er janvier 2026.
+Conformément au II de l'article 1 du décret n° 2026-346 du 7 mai 2026, les dispositions issues du b) du 5° du I même article, s'appliquent aux pensions prenant effet à compter du 1<sup>er</sup> janvier 2026.

@@ -3,7 +3,7 @@
 Pour l'exercice des compétences réservées à l'Etat en application des articles 7 et 8 de la loi n° 61-814 du 29 juillet 1961 conférant aux îles Wallis-et-Futuna le statut de territoire d'outre-mer et du 13° de l'article 40 du décret n° 57-811 du 22 juillet 1957 relatif aux attributions de l'assemblée territoriale, du conseil territorial et de l'administrateur supérieur des îles Wallis et Futuna, sont applicables aux eaux sous souveraineté ou juridiction françaises s'étendant au large du territoire des îles Wallis et Futuna, sous réserve des adaptations prévues au présent chapitre et des dispositions des articles 711-3 et 711-4 du code pénal, les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
+| -- | -- |
 | L. 941-1 | Résultant de la loi n° 2010-874 du 27 juillet 2010 de modernisation de l'agriculture et de la pêche |
 | L. 941-2 | Résultant de l'ordonnance n° 2010-462 du 6 mai 2010 créant un livre IX du code rural relatif à la pêche maritime et à l'aquaculture marine |
 | L. 941-3 à L. 941-8 | Résultant de l'ordonnance n° 2010-462 du 6 mai 2010 créant un livre IX du code rural relatif à la pêche maritime et à l'aquaculture marine |

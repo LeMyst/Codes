@@ -1,1 +1,15 @@
-Paragraphe 2 : Listes électorales
+# Paragraphe 2 : Listes électorales
+
+- [Article R912-73](Article%20R912-73.md)
+- [Article R912-74](Article%20R912-74.md)
+- [Article R912-75](Article%20R912-75.md)
+- [Article R912-76](Article%20R912-76.md)
+- [Article R912-77](Article%20R912-77.md)
+- [Article R912-78](Article%20R912-78.md)
+- [Article R912-78-1](Article%20R912-78-1.md)
+- [Article R912-78-2](Article%20R912-78-2.md)
+- [Article R912-78-3](Article%20R912-78-3.md)
+- [Article R912-78-4](Article%20R912-78-4.md)
+- [Article R912-78-5](Article%20R912-78-5.md)
+- [Article R912-78-6](Article%20R912-78-6.md)
+- [Article R912-79](Article%20R912-79.md)

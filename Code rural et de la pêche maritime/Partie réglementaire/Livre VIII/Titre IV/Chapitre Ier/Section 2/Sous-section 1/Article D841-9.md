@@ -8,7 +8,7 @@ Pour son application à Mayotte, l'article D. 811-83-22 est ainsi rédigé :
 
 “1° Le chef du service de formation et de développement ou son représentant ;
 
-“2° Le directeur d'un des centres mentionnés à l'article 1er du décret n° 99-298 du 16 avril 1999 relatif à l'organisation administrative et financière des établissements d'enseignement dont la responsabilité et la charge incombent entièrement à l'Etat ;
+“2° Le directeur d'un des centres mentionnés à l'article 1<sup>er</sup> du décret n° 99-298 du 16 avril 1999 relatif à l'organisation administrative et financière des établissements d'enseignement dont la responsabilité et la charge incombent entièrement à l'Etat ;
 
 “3° Un représentant des personnels enseignants et d'éducation désigné par le directeur de l'alimentation, de l'agriculture et de la forêt sur proposition des représentants des personnels enseignants et d'éducation élus au conseil d'administration du lycée agricole de Mayotte ;
 

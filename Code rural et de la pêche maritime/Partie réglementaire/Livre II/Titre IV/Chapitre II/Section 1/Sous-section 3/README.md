@@ -1,1 +1,15 @@
-Sous-section 3 : Election des membres des conseils régionaux.
+# Sous-section 3 : Election des membres des conseils régionaux.
+
+- [Article R242-7](Article%20R242-7.md)
+- [Article R242-7-1](Article%20R242-7-1.md)
+- [Article R242-8](Article%20R242-8.md)
+- [Article R242-9](Article%20R242-9.md)
+- [Article R242-10](Article%20R242-10.md)
+- [Article R242-11](Article%20R242-11.md)
+- [Article R242-12](Article%20R242-12.md)
+- [Article R242-13](Article%20R242-13.md)
+- [Article R242-14](Article%20R242-14.md)
+- [Article R242-15](Article%20R242-15.md)
+- [Article R242-16](Article%20R242-16.md)
+- [Article R242-18](Article%20R242-18.md)
+- [Article R242-19](Article%20R242-19.md)

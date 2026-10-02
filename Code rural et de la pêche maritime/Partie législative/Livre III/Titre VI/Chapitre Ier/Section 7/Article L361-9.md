@@ -23,4 +23,4 @@ Pour la mise en œuvre des sanctions prévues aux 4° et 5°, il est tenu compte
 II.-Les mesures et sanctions prises sur le fondement du présent article ne peuvent intervenir qu'après que l'entreprise d'assurance a été mise à même de présenter ses observations sur les manquements qui lui sont reprochés dans un délai de deux mois. Ce délai peut être réduit en cas d'urgence.
 
 NOTA:
-Conformément à l’article 5 de l’ordonnance n° 2022-1457 du 23 novembre 2022, ces dispositions entrent en vigueur le 1er janvier 2023. Se reporter aux conditions d’application prévues à l’article 17 de la loi n° 2022-298 du 2 mars 2022.
+Conformément à l’article 5 de l’ordonnance n° 2022-1457 du 23 novembre 2022, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2023. Se reporter aux conditions d’application prévues à l’article 17 de la loi n° 2022-298 du 2 mars 2022.

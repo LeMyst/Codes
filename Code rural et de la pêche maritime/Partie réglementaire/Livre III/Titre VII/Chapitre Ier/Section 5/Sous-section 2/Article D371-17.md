@@ -1,6 +1,8 @@
 # Article D371-17
 
-A Mayotte, les aides à l'installation en agriculture mentionnées à l'article D. 343-3 peuvent être attribuées aux jeunes agriculteurs qui remplissent les conditions ci-après : 1° Ne pas avoir atteint l'âge de quarante ans à la date de l'installation ;
+A Mayotte, les aides à l'installation en agriculture mentionnées à l'article D. 343-3 peuvent être attribuées aux jeunes agriculteurs qui remplissent les conditions ci-après :
+
+1° Ne pas avoir atteint l'âge de quarante ans à la date de l'installation ;
 
 2° Etre de nationalité française ou ressortissant d'un Etat membre de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen ;
 

@@ -4,4 +4,6 @@ Afin de faire cesser les troubles à l'ordre public résultant de l'occupation, 
 
 L'interdiction, qui est prononcée pour une durée maximale d'un mois, tient compte de la vie familiale et professionnelle de la personne concernée. En particulier, le périmètre géographique de la mesure ne peut comprendre son domicile.
 
+Lorsqu'une personne a déjà fait l'objet d'une mesure d'interdiction de paraître au cours de l'année et que les conditions mentionnées au premier alinéa sont à nouveau réunies, la durée maximale de l'interdiction de paraître pouvant être prononcée est portée à trois mois.
+
 La mesure d'interdiction prise en application du présent article est écrite et motivée. Le représentant de l'Etat dans le département ou, à Paris, le préfet de police met la personne concernée en mesure de lui présenter ses observations dans un délai de cinq jours à compter de la notification de la décision.

@@ -24,4 +24,7 @@ Lorsque la personne mise en cause ou ayant formé un recours administratif préa
 
 Les personnes mentionnées aux 1° à 3° disposent chacune de trois suppléants.
 
-A l'exception de celles qui y siègent au titre de l'activité mentionnée à l'article L. 625-1, les personnes désignées au 4° du présent article doivent être titulaires de l'un des agréments prévus aux articles L. 612-6 et L. 622-7 ou de l'une des cartes professionnelles prévues aux articles L. 612-20 et L. 622-19.
+Les personnes désignées au 4° du présent article doivent être titulaires de l'un des agréments prévus aux articles L. 612-6, L. 622-6 et L. 625-4 ou de l'une des cartes professionnelles prévues aux articles L. 612-20, L. 622-19 et L. 625-11.
+
+NOTA:
+Conformément au 1° de l'article 10 du décret n° 2025-1344 du 26 décembre 2025, ces dispositions, dans leur rédaction résultant du chapitre Ier du décret précité, entrent en vigueur à la date de mise en service du téléservice mentionné à l'article 3 dudit décret et au plus tard le 1er octobre 2026.

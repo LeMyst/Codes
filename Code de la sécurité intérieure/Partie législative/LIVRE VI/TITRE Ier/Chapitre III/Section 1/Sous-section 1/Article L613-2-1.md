@@ -1,0 +1,7 @@
+# Article L613-2-1
+
+Les personnes physiques exerçant l'activité mentionnée au 1° de l'article L. 611-1 peuvent, à la demande des gestionnaires des lieux dont ils ont la garde et avec le consentement exprès du conducteur, procéder à l'inspection visuelle des véhicules et de leurs coffres, à l'exclusion des véhicules spécialement aménagés à usage d'habitation, avant leur accès aux établissements et aux installations qui accueillent un grand événement ou un grand rassemblement mentionné à l'article L. 211-11-1, aux enceintes mentionnées au I de l'article L. 613-3 ainsi qu'aux lieux mentionnés aux articles L. 1332-1 et L. 1332-2 du code de la défense.
+
+En cas de circonstances particulières liées à l'existence de menaces graves pour la sécurité publique, le représentant de l'Etat dans le département ou, à Paris, le préfet de police peut également autoriser, pour une durée déterminée, les personnes physiques exerçant l'activité mentionnée au 1° de l'article L. 611-1 du présent code à procéder à l'inspection visuelle des véhicules et de leurs coffres avant leur accès aux lieux dont ils ont la garde n'entrant pas dans les catégories énumérées au premier alinéa du présent article, dont il établit la liste.
+
+Les personnes qui refusent de se soumettre à cette inspection visuelle se voient interdire l'accès au site, sans préjudice de la possibilité pour le conducteur et ses passagers d'y accéder sans le véhicule.

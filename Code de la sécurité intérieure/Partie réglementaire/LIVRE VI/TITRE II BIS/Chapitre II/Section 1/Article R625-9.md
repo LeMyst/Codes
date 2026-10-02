@@ -10,9 +10,11 @@ Sans préjudice des autres dispositions du présent chapitre, la demande d'agré
 
 4° La justification d'aptitude prévue au premier alinéa de l'article R. 612-3 ou au premier alinéa de l'article R. 622-3. Cette condition ne s'applique pas à l'intervenant exerçant comme autoentrepreneur pour le compte et dans les locaux d'un ou plusieurs prestataires de formation ;
 
-5° Un justificatif de domicile de moins de trois mois.
+5° Un justificatif de domicile de moins de trois mois ;
+
+6° Une photographie d'identité récente.
 
 Tout document rédigé dans une langue étrangère est accompagné d'une traduction en français.
 
 NOTA:
-Conformément à l’article 12 du décret n° 2024-311 du 4 avril 2024, ces dispositions entrent en vigueur le 1er mars 2025.
+Conformément au 2° de l'article 10 du décret n° 2025-1344 du 26 décembre 2025, ces dispositions, dans leur rédaction résultant de l'article 2 du décret précité, entrent en vigueur à la date de mise en service des fonctionnalités du téléservice mentionnées à ces articles et au plus tard le 1er octobre 2026.

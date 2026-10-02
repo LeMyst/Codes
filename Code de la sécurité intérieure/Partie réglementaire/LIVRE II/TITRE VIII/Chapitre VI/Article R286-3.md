@@ -24,7 +24,7 @@ Pour l'application des dispositions énumérées aux articles R. 286-1 et D. 286
 
 7° A l'article R. 211-24, les mots : " notamment quand il s'agit des manifestations sportives mentionnées à l'article D. 331-1 du code du sport, " sont supprimés ;
 
-7° bis Aux articles R. 224-1 et R. 224-2, la référence à l' article L. 264-1 du code de l'action sociale et des familles est remplacée par la référence à la réglementation applicable localement ;
+7° bis Aux articles R. 224-1 et R. 224-2, la référence à l'article L. 264-1 du code de l'action sociale et des famillesest remplacée par la référence à la réglementation applicable localement ;
 
 8° A l'article R. 236-16, le mot : " départemental " est supprimé ;
 

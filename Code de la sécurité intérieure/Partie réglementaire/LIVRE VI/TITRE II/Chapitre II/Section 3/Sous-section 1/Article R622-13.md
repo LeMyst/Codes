@@ -18,7 +18,9 @@ Le niveau de connaissance de la langue française peut également être justifi�
 
 4° La justification de l'aptitude professionnelle se rapportant à l'activité et à la spécialité concernées, acquise dans les conditions prévues par la section 4, ainsi que, le cas échéant, le document attestant la réussite à l'épreuve mentionné à l'article R. 625-39 ;
 
-5° Un justificatif de domicile de moins de trois mois.
+5° Un justificatif de domicile de moins de trois mois ;
+
+6° Une photographie d'identité récente.
 
 NOTA:
-Conformément à l’article 12 du décret n° 2024-311 du 4 avril 2024, ces dispositions entrent en vigueur le 1er mars 2025.
+Conformément au 2° de l'article 10 du décret n° 2025-1344 du 26 décembre 2025, ces dispositions, dans leur rédaction résultant de l'article 2 du décret précité, entrent en vigueur à la date de mise en service des fonctionnalités du téléservice mentionnées à ces articles et au plus tard le 1er octobre 2026.

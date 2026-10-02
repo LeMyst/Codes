@@ -10,6 +10,11 @@ Sans préjudice des autres dispositions de la présente section, la demande d'ag
 
 3° La justification d'aptitude prévue à l'article R. 622-22 ;
 
-4° Un justificatif de domicile de moins de trois mois.
+4° Un justificatif de domicile de moins de trois mois ;
+
+5° Une photographie d'identité récente.
 
 Tout document rédigé dans une langue étrangère est accompagné d'une traduction en français.
+
+NOTA:
+Conformément au 2° de l'article 10 du décret n° 2025-1344 du 26 décembre 2025, ces dispositions, dans leur rédaction résultant de l'article 2 du décret précité, entrent en vigueur à la date de mise en service des fonctionnalités du téléservice mentionnées à ces articles et au plus tard le 1er octobre 2026.

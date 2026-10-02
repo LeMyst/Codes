@@ -1,6 +1,6 @@
 # Article L648-1
 
-Le titre Ier, à l'exception des articles L. 612-5-1 et L. 617-2-1, et le titre III du présent livre sont applicables dans les Terres australes et antarctiques françaises, dans leur rédaction résultant de la n° 2021-646 du 25 mai 2021 pour une sécurité globale préservant les libertés, en tant qu'ils concernent les activités mentionnées au 4° de l'article L. 611-1 et sous réserve des adaptations suivantes :
+Le titre Ier, à l'exception des articles L. 612-5-1 et L. 617-2-1, et le titre III du présent livre sont applicables dans les Terres australes et antarctiques françaises, dans leur rédaction résultant de la loi n° 2026-798 du 18 août 2026 visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens, en tant qu'ils concernent les activités mentionnées au 4° de l'article L. 611-1 et sous réserve des adaptations suivantes :
 
 1° A La référence au département est remplacée par la référence aux Terres australes et antarctiques françaises ;
 

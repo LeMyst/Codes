@@ -1,6 +1,6 @@
 # Article L333-1
 
-Les établissements diffusant de la musique, dont l'activité cause un trouble à l'ordre, la sécurité ou la tranquillité publics, peuvent faire l'objet d'un arrêté de fermeture administrative d'une durée n'excédant pas trois mois par le représentant de l'Etat dans le département ou, à Paris, par le préfet de police.
+Les établissements diffusant de la musique, dont l'activité cause un trouble à l'ordre, la sécurité ou la tranquillité publics, peuvent faire l'objet d'un arrêté de fermeture administrative d'une durée n'excédant pas trois mois par le représentant de l'Etat dans le département ou, à Paris, par le préfet de police. En cas de réitération de ce trouble, la durée maximale de la fermeture est portée à six mois.
 
 Au vu des circonstances locales, le représentant de l'Etat dans le département peut déléguer par arrêté à un maire qui en fait la demande l'exercice, sur le territoire de sa commune, des prérogatives mentionnées au premier alinéa. Le représentant de l'Etat dans le département peut mettre fin à cette délégation, dans les mêmes conditions, à la demande du maire ou à son initiative.
 

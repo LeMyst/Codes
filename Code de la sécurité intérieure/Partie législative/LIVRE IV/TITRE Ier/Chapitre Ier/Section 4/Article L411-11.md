@@ -1,6 +1,6 @@
 # Article L411-11
 
-Les policiers réservistes souscrivent un contrat d'engagement d'une durée comprise entre un an et cinq ans qui définit leurs obligations de disponibilité et de formation initiale et continue, et qui leur confère la qualité de collaborateur occasionnel du service public.
+Les policiers réservistes souscrivent un contrat d'engagement d'une durée comprise entre un an et cinq ans, renouvelable, qui définit leurs obligations de disponibilité, dont l'obligation de disponibilité applicable dans le cadre du dispositif de réserve de sécurité nationale mentionné à l'article L. 2171-1 du code de la défense, et de formation initiale et continue, et qui leur confère la qualité de collaborateur occasionnel du service public.
 
 Le contrat d'engagement précise la durée maximale de l'affectation, qui ne peut excéder :
 

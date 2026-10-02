@@ -1,3 +1,5 @@
 # Article L334-2
 
-Le fait, pour le propriétaire ou l'exploitant, malgré une mise en demeure du représentant de l'Etat dans le département, ou, à Paris, du préfet de police, d'avoir à se conformer à l'arrêté pris en application de l'article L. 333-1, de ne pas procéder à la fermeture de l'établissement est puni de 3 750 euros d'amende.
+Le non-respect d'un arrêté de fermeture pris en application des articles L. 333-2, L. 333-3 ou L. 333-4 est puni de six mois d'emprisonnement et de 7 500 euros d'amende, de la peine complémentaire de confiscation des revenus générés pendant la période d'ouverture postérieure à la notification de la mesure de fermeture et de la peine complémentaire d'interdiction de gérer un commerce pendant cinq ans.
+
+En cas de récidive, l'auteur encourt la peine de confiscation de tous les biens ayant permis la commission de l'infraction.

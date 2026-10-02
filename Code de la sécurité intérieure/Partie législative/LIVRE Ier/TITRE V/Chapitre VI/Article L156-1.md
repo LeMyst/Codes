@@ -1,6 +1,6 @@
 # Article L156-1
 
-Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la loi n° 2025-532 du 13 juin 2025 visant à sortir la France du piège du narcotrafic, les dispositions suivantes :
+Sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la loi n° 2026-201 du 20 mars 2026 relative à l'organisation des jeux Olympiques et Paralympiques de 2030, les dispositions suivantes :
 
 1° Le titre Ier ;
 

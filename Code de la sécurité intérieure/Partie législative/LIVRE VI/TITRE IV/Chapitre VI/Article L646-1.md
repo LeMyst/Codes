@@ -1,6 +1,6 @@
 # Article L646-1
 
-Le titre Ier, à l'exception des articles L. 613-10 et L. 613-11, le titre II bis et le titre III du présent livre, sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de l'ordonnance n° 2023-374 du 16 mai 2023, sous réserve des adaptations suivantes :
+Le titre Ier, à l'exception des articles L. 613-10 et L. 613-11, le titre II bis et le titre III du présent livre, sont applicables en Nouvelle-Calédonie, dans leur rédaction résultant de la loi n° 2026-798 du 18 août 2026 visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens, sous réserve des adaptations suivantes :
 
 1° La référence au département est remplacée par la référence à la Nouvelle-Calédonie ;
 
@@ -69,8 +69,3 @@ b) Au deuxième alinéa, les mots : " aux dispositions des articles 493 à 498 d
 14° A l'article L. 634-3, les mots : " prévu à l'article L. 1221-13 du code du travail " sont remplacés par les mots : " conformément aux dispositions applicables localement " ;
 
 15° Les montants exprimés en euros sont applicables en Nouvelle-Calédonie sous réserve de leur contre-valeur en monnaie locale.
-
-NOTA:
-Conformément à l’article 3 de l’ordonnance n° 2023-374 du 16 mai 2023, ces dispositions entrent en vigueur aux dates et dans les conditions prévues par décret en Conseil d'Etat et au plus tard le 1er septembre 2025.
-
-Conformément à l'article 12 du décret n° 2024-311 du 4 avril 2024, ces dispositions entrent en vigueur le 1er mars 2025.

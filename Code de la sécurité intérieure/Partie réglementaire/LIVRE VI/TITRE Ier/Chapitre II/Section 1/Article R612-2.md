@@ -12,9 +12,11 @@ Sans préjudice des autres dispositions du présent chapitre, la demande d'agré
 
 4° Un justificatif de domicile de moins de trois mois ;
 
-5° Une déclaration sur l'honneur de n'exercer aucune des activités mentionnées à l'article R. 611-1.
+5° Une déclaration sur l'honneur de n'exercer aucune des activités mentionnées à l'article R. 611-1 ;
+
+6° Une photographie d'identité récente.
 
 Tout document rédigé dans une langue étrangère est accompagné d'une traduction en français.
 
 NOTA:
-Conformément à l'article 8 du décret n° 2022-449 du 30 mars 2022, ces dispositions entrent en vigueur le 1er mai 2022.
+Conformément au 2° de l'article 10 du décret n° 2025-1344 du 26 décembre 2025, ces dispositions, dans leur rédaction résultant de l'article 2 du décret précité, entrent en vigueur à la date de mise en service des fonctionnalités du téléservice mentionnées à ces articles et au plus tard le 1er octobre 2026.

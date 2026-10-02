@@ -1,0 +1,7 @@
+# Article L333-4
+
+Aux fins de prévenir les troubles graves à l'ordre public pouvant résulter d'un mésusage du protoxyde d'azote rendu possible par les conditions de son exploitation, la fermeture partielle ou totale d'un établissement commercialisant ce produit ou des produits destinés à en faciliter l'extraction afin d'en obtenir des effets psychoactifs en violation des interdictions prévues à l'article L. 3611-3 du code de la santé publique peut être ordonnée par le représentant de l'Etat dans le département ou, à Paris, par le préfet de police, pour une durée n'excédant pas un mois.
+
+La fermeture ne peut être ordonnée en application du premier alinéa du présent article qu'après qu'une mise en demeure, adressée au propriétaire ou à l'exploitant et assortie d'un délai fixé par l'autorité compétente, qui ne peut être inférieur à quarante-huit heures, est restée sans résultat. Le présent alinéa n'est toutefois pas applicable en cas d'urgence ou de circonstances exceptionnelles justifiant la mise en œuvre immédiate de la mesure de fermeture.
+
+En cas de réitération de faits justifiant une mesure de fermeture administrative après une première mesure prise en application du premier alinéa, la durée maximale de fermeture est portée à six mois. Le ministre de l'intérieur peut décider de prolonger la fermeture administrative décidée en application du présent alinéa, pour une durée n'excédant pas six mois.

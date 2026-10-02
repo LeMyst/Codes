@@ -4,4 +4,5 @@ Les fonctionnaires de la police nationale et les militaires de la gendarmerie na
 
 Il en est de même des officiers, des sous-officiers ou officiers mariniers n'appartenant pas à la gendarmerie nationale et des fonctionnaires civils de catégories A et B ayant été affectés dans l'un des services ou l'une des formations mentionnés par arrêté conjoint du ministre de la défense et du ministre de l'intérieur et ayant servi dans les conditions précisées par cet arrêté.
 
-Ces mêmes personnes sont réputées justifier de l'aptitude à exercer l'activité de surveillance et de gardiennage, avec l'usage d'un chien, si elles détiennent une qualification ou un certificat d'aptitude professionnelle à être agent conducteur de chiens, délivré par leur administration d'origine.
+NOTA:
+Conformément au 1° de l'article 10 du décret n° 2025-1344 du 26 décembre 2025, ces dispositions, dans leur rédaction résultant du chapitre Ier du décret précité, entrent en vigueur à la date de mise en service du téléservice mentionné à l'article 3 dudit décret et au plus tard le 1er octobre 2026.

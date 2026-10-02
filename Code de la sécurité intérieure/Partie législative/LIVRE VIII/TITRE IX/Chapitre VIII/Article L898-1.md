@@ -1,9 +1,9 @@
 # Article L898-1
 
-Sont applicables dans les Terres australes et antarctiques françaises, dans leur rédaction résultant de la loi n° 2025-532 du 13 juin 2025 visant à sortir la France du piège du narcotrafic, les titres Ier à VIII du présent livre VIII, sous réserve des adaptations suivantes :
+Sont applicables dans les Terres australes et antarctiques françaises, dans leur rédaction résultant de la loi n° 2026-791 du 16 août 2026 actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense, les titres Ier à VIII du présent livre VIII, sous réserve des adaptations suivantes :
 
-1° Au début de l'article L. 871-3, les mots : " Dans le cadre des attributions qui lui sont conférées par le livre II du code des postes et des communications électroniques, " sont supprimés ;
+1° Au début de l'article L. 871-3, les mots : "Dans le cadre des attributions qui lui sont conférées par le livre II du code des postes et des communications électroniques," sont supprimés ;
 
 2° L'article L. 871-5 est ainsi rédigé :
 
-" Art. L. 871-5.-Les exigences essentielles au sens du 12° de l'article L. 32 du code des postes et des communications électroniques et le secret des correspondances que doivent respecter les opérateurs ainsi que les membres de leur personnel ne sont opposables ni aux juridictions compétentes pour ordonner des interceptions en application de l'article 100 du code de procédure pénale, ni au ministre chargé des communications électroniques, dans l'exercice des prérogatives qui leur sont dévolues au présent titre. "
+"Art. L. 871-5.-Les exigences essentielles au sens du 12° de l'article L. 32 du code des postes et des communications électroniques et le secret des correspondances que doivent respecter les opérateurs ainsi que les membres de leur personnel ne sont opposables ni aux juridictions compétentes pour ordonner des interceptions en application de l'article 100 du code de procédure pénale, ni au ministre chargé des communications électroniques, dans l'exercice des prérogatives qui leur sont dévolues au présent titre."

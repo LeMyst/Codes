@@ -1,6 +1,6 @@
 # Article R643-3
 
-Est puni de l'amende prévue pour les contraventions de la 3e classe, le fait de pratiquer une activité de baignade ou une activité nautique :
+Est puni de l'amende prévue pour les contraventions de la 3<sup>e</sup> classe, le fait de pratiquer une activité de baignade ou une activité nautique :
 
 1° Dans une zone faisant l'objet d'une interdiction de se baigner ou de pratiquer une activité nautique fondée sur les articles L. 2212-2, L. 2213-23, L. 2215-1 ou L. 2512-13 du code général des collectivités territoriales ou sur les articles L. 122-1 ou L. 122-2 du code de la sécurité intérieure ;
 

@@ -1,1 +1,4 @@
-Section 1 : Des entraves à l'exercice des libertés d'expression, du travail, d'association, de réunion ou de manifestation
+# Section 1 : Des entraves à l'exercice des libertés d'expression, du travail, d'association, de réunion ou de manifestation
+
+- [Article 431-1](Article%20431-1.md)
+- [Article 431-2](Article%20431-2.md)

@@ -1,1 +1,1 @@
-Sous-section 2 : Soins.
+# Sous-section 2 : Soins.

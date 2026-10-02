@@ -7,4 +7,4 @@ Les décisions des conseils, des conseils d'administration, du conseil d'orienta
 A défaut de signature de la convention avant le 1er janvier de la première année de sa mise en oeuvre, les dispositions du premier alinéa du présent article s'appliquent.
 
 NOTA:
-Conformément au I de l’article 5 de l’ordonnance n° 2021-1554 du 1er décembre 2021, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard le 30 juin 2022. L’article 1 du décret n° 2022-801 du 12 mai 2022 a fixé cette date au 14 mai 2022.
+Conformément au I de l’article 5 de l’ordonnance n° 2021-1554 du 1<sup>er</sup> décembre 2021, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard le 30 juin 2022. L’article 1 du décret n° 2022-801 du 12 mai 2022 a fixé cette date au 14 mai 2022.

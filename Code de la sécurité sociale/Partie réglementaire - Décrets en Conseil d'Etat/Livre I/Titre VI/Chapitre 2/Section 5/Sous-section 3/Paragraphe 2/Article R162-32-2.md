@@ -5,4 +5,4 @@ I. – Chaque année, dans un délai de quinze jours suivant la promulgation de 
 II. – Dans un délai de quinze jours suivant la publication de cet arrêté, les ministres chargés de la santé et de la sécurité sociale arrêtent les dotations régionales mentionnées au même article.
 
 NOTA:
-Conformément à l’article 3 du décret n° 2021-1255, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 3 du décret n° 2021-1255, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

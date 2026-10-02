@@ -8,11 +8,11 @@ Pour les salariés relevant du régime spécial de sécurité sociale des marins
 
 Sous réserve des dispositions de l'avant-dernier alinéa, quelle que soit la durée du travail des salariés, le calcul du coefficient de la réduction est déterminé par application de la formule suivante :
 
-Coefficient = Tmin + (Tdelta × [(1/2) × (3 × 1 820 fois le montant du salaire minimum / salaire forfaitaire annuel défini à l'article L. 5553-5 du code des transports - 1)] P)
+Coefficient = T<sub>min</sub> + (T<sub>delta</sub> × [(1/2) × (3 × 1 820 fois le montant du salaire minimum / salaire forfaitaire annuel défini à l'article L. 5553-5 du code des transports - 1)] <sup>P</sup>)
 
-Pour la réduction des cotisations mentionnées au 1°, la somme des valeurs Tmin et Tdelta est égale à la somme des taux des contributions patronales d'assurances sociales et de la contribution de solidarité pour l'autonomie. La valeur Tmin est égale à 0,0200.
+Pour la réduction des cotisations mentionnées au 1°, la somme des valeurs T<sub>min</sub> et T<sub>delta</sub> est égale à la somme des taux des contributions patronales d'assurances sociales et de la contribution de solidarité pour l'autonomie. La valeur T<sub>min</sub> est égale à 0,0200.
 
-Pour la réduction des cotisations mentionnées au 2°, la somme des valeurs Tmin et Tdelta est égale à la somme du taux de la contribution au fonds national d'aide au logement, la contribution à la charge de l'employeur due au titre de l'assurance chômage prévue à l'article L. 5422-9 du code du travail et de la contribution d'allocation familiale. La valeur Tmin est égale à 0.
+Pour la réduction des cotisations mentionnées au 2°, la somme des valeurs T<sub>min</sub> et T<sub>delta</sub> est égale à la somme du taux de la contribution au fonds national d'aide au logement, la contribution à la charge de l'employeur due au titre de l'assurance chômage prévue à l'article L. 5422-9 du code du travail et de la contribution d'allocation familiale. La valeur T<sub>min</sub> est égale à 0.
 
 Pour le calcul du coefficient prévu au cinquième alinéa, la valeur notée P ainsi que le montant du salaire minimum sont identiques à ceux mentionnés à l'article D. 241-7.
 

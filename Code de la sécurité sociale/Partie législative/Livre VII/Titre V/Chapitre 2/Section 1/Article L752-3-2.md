@@ -61,4 +61,4 @@ VIII.-Le présent article est applicable à Mayotte sous réserve des adaptation
 2° Les références au montant des cotisations à la charge de l'employeur au titre des assurances sociales et des allocations familiales s'entendent, le cas échéant, comme celles applicables à Mayotte et sont prises en considération pour leur taux également applicable.
 
 NOTA:
-Conformément au D du II de l'article 23 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du D du II du même article, entrent en vigueur le 1er juillet 2026 et s'appliquent aux cotisations et contributions dues au titre des périodes d'activités courant à compter de cette date.
+Conformément au D du II de l'article 23 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du D du II du même article, entrent en vigueur le 1<sup>er</sup> juillet 2026 et s'appliquent aux cotisations et contributions dues au titre des périodes d'activités courant à compter de cette date.

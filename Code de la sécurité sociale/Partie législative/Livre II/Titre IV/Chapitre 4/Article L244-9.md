@@ -7,4 +7,4 @@ Lorsque la contrainte mentionnée au premier alinéa du présent article résult
 Le délai de prescription de l'action en exécution de la contrainte non contestée et devenue définitive est de trois ans à compter de la date à laquelle la contrainte a été notifiée ou signifiée, ou un acte d'exécution signifié en application de cette contrainte.
 
 NOTA:
-Conformément au IV de l'article 93 de la loi n° 2026-534 du 25 juin 2026, ces dispositions, dans leur rédaction résultant du 2° du I de l'article précité, s'appliquent aux contraintes décernées à compter d'une date fixée par décret, et au plus tard à compter du 1er janvier 2027.
+Conformément au IV de l'article 93 de la loi n° 2026-534 du 25 juin 2026, ces dispositions, dans leur rédaction résultant du 2° du I de l'article précité, s'appliquent aux contraintes décernées à compter d'une date fixée par décret, et au plus tard à compter du 1<sup>er</sup> janvier 2027.

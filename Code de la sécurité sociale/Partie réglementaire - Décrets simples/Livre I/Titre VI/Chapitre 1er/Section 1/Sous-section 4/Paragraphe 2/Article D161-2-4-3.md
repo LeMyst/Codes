@@ -17,4 +17,4 @@ III. – La commission rend un avis motivé sur l'ampleur de l'incapacité, de l
 L'avis motivé est notifié à la caisse ou au service chargé de la liquidation de la pension de retraite.
 
 NOTA:
-Conformément au II de l’article 2 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux pensions prenant effet à compter du 1er janvier 2026.
+Conformément au II de l’article 2 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux pensions prenant effet à compter du 1<sup>er</sup> janvier 2026.

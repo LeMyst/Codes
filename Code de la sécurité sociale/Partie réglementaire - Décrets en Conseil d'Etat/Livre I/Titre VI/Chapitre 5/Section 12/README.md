@@ -1,1 +1,16 @@
-Section 12 : Dispositions relatives à l'évaluation et à la prise en charge de certains produits de santé financés dans les tarifs des prestations d'hospitalisation prévues à l'article L. 165-11
+# Section 12 : Dispositions relatives à l'évaluation et à la prise en charge de certains produits de santé financés dans les tarifs des prestations d'hospitalisation prévues à l'article L. 165-11
+
+- [Article R165-49](Article%20R165-49.md)
+- [Article R165-50](Article%20R165-50.md)
+- [Article R165-51](Article%20R165-51.md)
+- [Article R165-52](Article%20R165-52.md)
+- [Article R165-53](Article%20R165-53.md)
+- [Article R165-54](Article%20R165-54.md)
+- [Article R165-55](Article%20R165-55.md)
+- [Article R165-56](Article%20R165-56.md)
+- [Article R165-57](Article%20R165-57.md)
+- [Article R165-58](Article%20R165-58.md)
+- [Article R165-59](Article%20R165-59.md)
+- [Article R165-60](Article%20R165-60.md)
+- [Article R165-61](Article%20R165-61.md)
+- [Article R165-62](Article%20R165-62.md)

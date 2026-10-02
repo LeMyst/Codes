@@ -4,8 +4,8 @@ Les montants de cotisations dus et recouvrés en application de l'article L. 613
 
 -pour les personnes relevant des a et d :
 
-| Cotisations et contributions | Taux de répartition des montants de cotisations |
-| --- | --- |
+| Cotisations et contributions | Taux de répartition<br>des montants de cotisations |
+| -- | -- |
 | Cotisation d'assurance maladie-maternité mentionnée à l'article L. 621-1 | 8,80 % |
 | Cotisation de prestations maladie en espèces mentionnée à l'article L. 621-2 | 1,25 % |
 | Cotisation d'assurance invalidité-décès mentionnée à l'article L. 632-1 | 3,15 % |
@@ -15,8 +15,8 @@ Les montants de cotisations dus et recouvrés en application de l'article L. 613
 
 -pour les personnes relevant du b :
 
-| Cotisations et contributions | Taux de répartition des montants de cotisations |
-| --- | --- |
+| Cotisations et contributions | Taux de répartition<br>des montants de cotisations |
+| -- | -- |
 | Cotisation d'assurance maladie maternité mentionnée à l'article L. 621-1 | 10,60 % |
 | Cotisation de prestations maladie en espèces mentionnée à l'article L. 621-2 | 0,80 % |
 | Cotisation d'assurance invalidité décès mentionnée à l'article L. 644-2 | 1,40 % |
@@ -27,8 +27,8 @@ Les montants de cotisations dus et recouvrés en application de l'article L. 613
 
 -pour les personnes relevant du c :
 
-| Cotisations et contributions | Taux de répartition des montants de cotisations |
-| --- | --- |
+| Cotisations et contributions | Taux de répartition<br>des montants de cotisations |
+| -- | -- |
 | Cotisation d'assurance maladie-maternité mentionnée à l'article L. 621-1 | 0,00 % |
 | Cotisation de prestations maladie en espèces mentionnée à l'article L. 621-2 | 5,10 % |
 | Cotisation d'assurance invalidité-décès mentionnée à l'article L. 632-1 | 3,80 % |
@@ -38,8 +38,8 @@ Les montants de cotisations dus et recouvrés en application de l'article L. 613
 
 -pour les personnes relevant du e :
 
-| Cotisations et contributions | Taux de répartition des montants de cotisations |
-| --- | --- |
+| Cotisations et contributions | Taux de répartition<br>des montants de cotisations |
+| -- | -- |
 | Cotisation d'assurance maladie maternité mentionnée à l'article L. 621-1 | 2,60 % |
 | Cotisation de prestations maladie en espèces mentionnée à l'article L. 621-2 | 1,50 % |
 | Cotisation d'assurance invalidité-décès mentionnées à l'article L. 632-1 | 3,30 % |
@@ -48,4 +48,4 @@ Les montants de cotisations dus et recouvrés en application de l'article L. 613
 | Contribution sociale généralisée et contribution pour le remboursement de la dette sociale mentionnées à l'article L. 136-3 | 25,20 % |
 
 NOTA:
-Conformément à l'article 2 du décret n° 2025-943 du 8 septembre 2025, ces dispositions, dans leur rédaction résultant de l'article 1er du décret précité, s'appliquent au titre des périodes courant à compter du 1er janvier 2026.
+Conformément à l'article 2 du décret n° 2025-943 du 8 septembre 2025, ces dispositions, dans leur rédaction résultant de l'article 1er du décret précité, s'appliquent au titre des périodes courant à compter du 1<sup>er</sup> janvier 2026.

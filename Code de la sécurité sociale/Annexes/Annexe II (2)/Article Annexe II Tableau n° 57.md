@@ -1,0 +1,38 @@
+# Article Annexe II : Tableau n° 57
+
+Affections périarticulaires provoquées par certains gestes et postures de travail
+
+| DÉSIGNATION DES MALADIES | DÉLAI<br>de prise en charge | LISTE LIMITATIVE DES TRAVAUX<br>susceptibles de provoquer ces maladies |
+| -- | -- | -- |
+| - A - |  |  |
+| Epaule |  |  |
+| Tendinopathie aiguë non rompue non calcifiante avec ou sans enthésopathie de la coiffe des rotateurs. | 30 jours | Travaux comportant des mouvements ou le maintien de l'épaule sans soutien en abduction (\*\*) avec un angle supérieur ou égal à 60° pendant au moins 3 h 30 par jour en cumulé. |
+| Tendinopathie chronique non rompue non calcifiante avec ou sans enthésopathie de la coiffe des rotateurs. | 6 mois (sous réserve d'une durée d'exposition de 6 mois) | Travaux comportant des mouvements ou le maintien de l'épaule sans soutien en abduction (\*\*) :<br>- avec un angle supérieur ou égal à 60° pendant au moins deux heures par jour en cumulé<br>ou<br>- avec un angle supérieur ou égal à 90° pendant au moins une heure par jour en cumulé. |
+| Rupture partielle ou transfixiante de la coiffe des rotateurs. | 1 an (sous réserve d'une durée d'exposition d'un an) | Travaux comportant des mouvements ou le maintien de l'épaule sans soutien en abduction (\*\*) :<br>- avec un angle supérieur ou égal à 60° pendant au moins deux heures par jour en cumulé<br>ou<br>- avec un angle supérieur ou égal à 90° pendant au moins une heure par jour en cumulé. |
+| (\*\*) Les mouvements en abduction correspondent aux mouvements entraînant un décollement des bras par rapport au corps. |  |  |
+| - B - |  |  |
+| Coude |  |  |
+| Tendinopathie d'insertion des muscles épicondyliens associée ou non à un syndrome du tunnel radial. | 14 jours | Travaux comportant habituellement des mouvements répétés de préhension ou d'extension de la main sur l'avant-bras ou des mouvements de pronosupination. |
+| Tendinopathie d'insertion des muscles épitrochléens | 14 jours | Travaux comportant habituellement des mouvements répétés d'adduction ou de flexion et pronation de la main et du poignet ou des mouvements de pronosupination. |
+| Hygroma : épanchement des bourses séreuses ou atteintes inflammatoires des tissus sous-cutanés des zones d'appui du coude.<br>- forme aiguë ;<br>- forme chronique. | 7 jours<br>90 jours | Travaux comportant habituellement un appui prolongé sur la face postérieure du coude. |
+| Syndrome canalaire du nerf ulnaire dans la gouttière épithrochléo-oléocranienne | 90 jours (sous réserve d'une durée d'exposition de 90 jours) | Travaux comportant habituellement des mouvements répétitifs et/ou des postures maintenues en flexion forcée.<br>Travaux comportant habituellement un appui prolongé sur la face postérieure du coude. |
+| - C - |  |  |
+| Poignet - Main et doigt |  |  |
+| Tendinite. | 7 jours | Travaux comportant de façon habituelle des mouvements répétés ou prolongés des tendons fléchisseurs ou extenseurs de la main et des doigts. |
+| Ténosynovite. | 7 jours |  |
+| Syndrome du canal carpien. | 30 jours | Travaux comportant de façon habituelle, soit des mouvements répétés ou prolongés d'extension du poignet ou de préhension de la main, soit un appui carpien, soit une pression prolongée ou répétée sur le talon de la main. |
+| Syndrome de la loge de Guyon. | 30 jours |  |
+| - D - |  |  |
+| Genou |  |  |
+| Compression du nerf sciatique poplité externe (SPE) (nerf fibulaire commun) au col du péroné (fibula). | 90 jours | Travaux comportant de manière habituelle une position prolongée en flexion forcée du genou, assis sur les talons ou accroupi. |
+| Hygroma aigu du genou. | 7 jours | Travaux comportant de manière habituelle un appui prolongé sur le genou. |
+| Hygroma chronique du genou. | 90 jours |  |
+| Tendinopathie sous quadricipitale<br>Tendinopathie quadricipitale. | 14 jours | Travaux comportant de manière habituelle des efforts en charge avec contractions répétées du quadriceps lors de la montée ou descente d'escalier, d'escabeau ou d'échelle. |
+| Tendinopathie de la patte d'oie. | 14 jours | Travaux comportant de manière habituelle des mouvements répétés et rapides du genou en flexion contre résistance. |
+| Syndrome de la bandelette ilio-tibiale. | 14 jours | Travaux comportant de manière habituelle des mouvements rapides du genou en flexion et extension lors des déplacements du corps. |
+| - E - |  |  |
+| Cheville et pied |  |  |
+| Tendinopathie d'Achille. | 14 jours | Travaux comportant de manière habituelle des efforts pratiqués en station prolongée sur la pointe des pieds. |
+
+NOTA:
+Conformément à l'article 3 du décret n° 2026-901 du 24 septembre 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur à compter du 30 septembre 2026. Elles sont applicables aux procédures de reconnaissance de maladies professionnelles pour lesquelles le certificat médical initial est établi à compter de leur entrée en vigueur.

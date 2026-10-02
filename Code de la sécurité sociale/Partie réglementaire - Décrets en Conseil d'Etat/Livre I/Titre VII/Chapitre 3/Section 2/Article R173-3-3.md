@@ -1,6 +1,6 @@
 # Article R173-3-3
 
-Dans le cas où l'assuré a relevé de l'assurance vieillesse du régime général de sécurité sociale, de celui des salariés agricoles, du régime social des indépendants pour la partie de la carrière accomplie depuis le 1er janvier 1973 et du régime des non-salariés des professions agricoles, ou d'au moins deux de ces régimes, la majoration de sa durée d'assurance prévue au 2° de l'article R. 351-7 applicable au titre de chacun de ces régimes ne peut excéder le produit des deux termes suivants :
+Dans le cas où l'assuré a relevé de l'assurance vieillesse du régime général de sécurité sociale, de celui des salariés agricoles, du régime social des indépendants pour la partie de la carrière accomplie depuis le 1<sup>er</sup> janvier 1973 et du régime des non-salariés des professions agricoles, ou d'au moins deux de ces régimes, la majoration de sa durée d'assurance prévue au 2° de l'article R. 351-7 applicable au titre de chacun de ces régimes ne peut excéder le produit des deux termes suivants :
 
 -la différence entre la limite prévue au troisième alinéa de l'article L. 351-1 et la durée totale d'assurance de l'assuré, avant majoration, dans ces régimes ;
 

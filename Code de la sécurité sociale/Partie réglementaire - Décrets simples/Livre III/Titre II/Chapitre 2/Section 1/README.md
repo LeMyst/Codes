@@ -1,1 +1,1 @@
-Section 1 : Participation de l'assuré.
+# Section 1 : Participation de l'assuré.

@@ -1,1 +1,15 @@
-Titre III : Dispositions communes relatives au financement et placements
+# Titre III : Dispositions communes relatives au financement et placements
+
+- [Chapitre préliminaire : Décompte et déclaration des effectifs](Chapitre%20pr%C3%A9liminaire/README.md)
+- [Chapitre 1 : Assiette et régime fiscal des cotisations](Chapitre%201/README.md)
+- [Chapitre 3 : Recouvrement des cotisations, versement et recouvrement des prestations](Chapitre%203/README.md)
+- [Chapitre 3 bis : Modernisation et simplification des déclarations sociales ainsi que du recouvrement des cotisations et contributions sociales](Chapitre%203%20bis/README.md)
+- [Chapitre 4 : Relations inter-régimes](Chapitre%204/README.md)
+- [Chapitre 5 : Fonds de solidarité vieillesse](Chapitre%205/README.md)
+- [Chapitre 5 bis : Fonds de réserve pour les retraites](Chapitre%205%20bis/README.md)
+- [Chapitre 6 : Contribution sociale généralisée](Chapitre%206/README.md)
+- [Chapitre 7 : Recettes diverses](Chapitre%207/README.md)
+- [Chapitre 8 : Contributions à la charge des établissements de vente en gros de spécialités pharmaceutiques et des entreprises assurant l'exploitation d'une ou plusieurs spécialités pharmaceutiques au sens de l'article L. 5124-1 du code de la santé publique](Chapitre%208/README.md)
+- [Chapitre 8 bis : Dispositions communes aux contributions recouvrées par les organismes de recouvrement du régime général](Chapitre%208%20bis/README.md)
+- [Chapitre 8 ter : Pénalités.](Chapitre%208%20ter/README.md)
+- [Chapitre 9 : Dispositions relatives aux placements](Chapitre%209/README.md)

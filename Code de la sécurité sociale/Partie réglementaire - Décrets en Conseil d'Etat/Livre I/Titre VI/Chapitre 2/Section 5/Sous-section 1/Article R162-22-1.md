@@ -9,4 +9,4 @@ III.-Dans les quinze jours suivant la publication de l'arrêté fixant la tarifi
 Ces tarifs peuvent, le cas échéant, tenir compte des évolutions, durant l'année en cours, des activités autorisées de ces établissements, notamment dans le cadre d'un regroupement, d'une fusion ou de la création d'un établissement ou de celles découlant de l'application de l'article L. 6147-7 du code de la santé publique.
 
 NOTA:
-Conformément à l'article 5 du décret n° 2025-1390 du 28 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er janvier 2026.
+Conformément à l'article 5 du décret n° 2025-1390 du 28 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1<sup>er</sup> janvier 2026.

@@ -23,4 +23,4 @@ Pour l'application du 4° du I de l'article L. 351-14-1, l'assuré de l'un des r
 La demande est adressée à la caisse chargée de l'assurance vieillesse du régime général de sécurité sociale dans le ressort de laquelle se trouve la résidence de l'assuré ou, en cas de résidence à l'étranger, la caisse dont il relevait lors du dernier report de salaire à son compte.
 
 NOTA:
-Conformément au II de l’article 2 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux demandes à compter du 1er janvier 2026.
+Conformément au II de l’article 2 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux demandes à compter du 1<sup>er</sup> janvier 2026.

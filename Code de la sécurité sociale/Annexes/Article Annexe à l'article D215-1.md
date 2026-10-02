@@ -2,9 +2,8 @@
 
 La composition des circonscriptions à l'intérieur desquelles s'exerce la compétence des caisses d'assurance retraite et de la santé au travail est fixée ainsi qu'il suit :
 
-| | |
-| --- | --- |
 | Aquitaine | Dordogne, Gironde, Landes, Lot-et-Garonne, Pyrénées-Atlantiques. |
+| -- | -- |
 | Massif Central | Allier, Cantal, Haute-Loire, Puy-de-Dôme. |
 | Bourgogne-Franche-Comté | Côte-d'Or, Doubs, Jura, Nièvre, Haute-Saône, Saône-et-Loire, Yonne, Territoire de Belfort. |
 | Nord-Picardie | Aisne, Nord, Oise, Pas-de-Calais, Somme. |

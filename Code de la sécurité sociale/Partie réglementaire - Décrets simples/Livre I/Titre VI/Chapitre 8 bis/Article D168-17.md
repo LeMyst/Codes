@@ -7,4 +7,4 @@ Lorsque le bénéficiaire d'un congé de proche aidant met fin de façon anticip
 En cas de décès du proche aidant, l'allocation journalière du proche aidant cesse d'être due à compter du jour suivant le décès.
 
 NOTA:
-Conformément au I de l’article 5 du décret n° 2020-1208 du 1er octobre 2020, ces dispositions s'appliquent aux demandes d'allocation visant à l'indemnisation des périodes de congés ou de cessation d'activités courant à compter du 30 septembre 2020.
+Conformément au I de l’article 5 du décret n° 2020-1208 du 1<sup>er</sup> octobre 2020, ces dispositions s'appliquent aux demandes d'allocation visant à l'indemnisation des périodes de congés ou de cessation d'activités courant à compter du 30 septembre 2020.

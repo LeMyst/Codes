@@ -1,1 +1,17 @@
-Sous-section 6 : Dispositions diverses
+# Sous-section 6 : Dispositions diverses
+
+- [Article L162-24-1](Article%20L162-24-1.md)
+- [Article L162-24-2](Article%20L162-24-2.md)
+- [Article L162-25](Article%20L162-25.md)
+- [Article L162-26](Article%20L162-26.md)
+- [Article L162-26-1](Article%20L162-26-1.md)
+- [Article L162-27](Article%20L162-27.md)
+- [Article L162-28](Article%20L162-28.md)
+- [Article L162-29](Article%20L162-29.md)
+- [Article L162-30](Article%20L162-30.md)
+- [Article L162-30-1](Article%20L162-30-1.md)
+- [Article L162-30-2](Article%20L162-30-2.md)
+- [Article L162-30-3](Article%20L162-30-3.md)
+- [Article L162-30-4](Article%20L162-30-4.md)
+- [Article L162-30-4-1](Article%20L162-30-4-1.md)
+- [Article L162-30-5](Article%20L162-30-5.md)

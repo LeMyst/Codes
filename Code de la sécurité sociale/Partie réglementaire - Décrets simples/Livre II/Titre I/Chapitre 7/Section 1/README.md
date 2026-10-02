@@ -1,1 +1,1 @@
-Section 1 : Règlement intérieur
+# Section 1 : Règlement intérieur

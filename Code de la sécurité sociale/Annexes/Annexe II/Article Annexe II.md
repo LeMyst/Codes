@@ -2,9 +2,8 @@
 
 Sommaire
 
-| |
-| --- |
 | 1. Affections cardio-vasculaires |
+| -- |
 | 2. Affections dermatologiques et cutanéo-muqueuses |
 | 3. Affections digestives |
 | 4. Affections neurologiques, neurosensorielles et psychiatriques |
@@ -420,14 +419,15 @@ Des toxiques sont résorbables par voie cutanée et cette pénétration percutan
 
 2.2 Évaluation
 
-| | États séquellaires | Préjudice | Taux de base |
-| Gravité. | Atrophie sans rétraction.Alopécies définitives.Dyschromies.Ulcères. | Léger. | 0 à 10 %. |
-| | Atrophies avec rétraction.Hyperkératoses.Lichénifications.Polysensibilisation. | Moyen. | 10 à 15 %. |
-| | Cancérisation. | Important. | Tumeur cutanée maligne in situ, non pénétrante : 30 à 40 %.Tumeur cutanée maligne infiltrante, avec extension : 40 à 70 %. |
-| Topographie et étendue. | Main. | Main dominante :Pulpe :Pouce ;Index. | Coefficient de majoration : x 1 à 1,5. |
-| | Pied. | Talon antérieur.Talon postérieur. | x 1 à 1,5. |
-| | Cheville.Régions d'appui. | Face antérieure.Fesse.Région ischiatique. | x 1 à 1,5. |
-| Fonction. | Séquelles. | Sensitives motrices. | cf. Barème indicatif invaliditéAccidents du travail. |
+|  | États séquellaires | Préjudice | Taux de base |
+| -- | -- | -- | -- |
+| Gravité. | Atrophie sans rétraction.<br>Alopécies définitives.<br>Dyschromies.<br>Ulcères. | Léger. | 0 à 10 %. |
+|  | Atrophies avec rétraction.<br>Hyperkératoses.<br>Lichénifications.<br>Polysensibilisation. | Moyen. | 10 à 15 %. |
+|  | Cancérisation. | Important. | Tumeur cutanée maligne in situ, non pénétrante : 30 à 40 %.<br>Tumeur cutanée maligne infiltrante, avec extension : 40 à 70 %. |
+| Topographie et étendue. | Main. | Main dominante :<br>Pulpe :<br>Pouce ;<br>Index. | Coefficient de majoration : x 1 à 1,5. |
+|  | Pied. | Talon antérieur.<br>Talon postérieur. | x 1 à 1,5. |
+|  | Cheville.<br>Régions d'appui. | Face antérieure.<br>Fesse.<br>Région ischiatique. | x 1 à 1,5. |
+| Fonction. | Séquelles. | Sensitives motrices. | cf. Barème indicatif invalidité<br>Accidents du travail. |
 
 2.3 Lésions cutanéo-muqueuses
 
@@ -581,10 +581,12 @@ Forme grave : 50 à 100 %.
 
 4.2.6 - Syndrome associant
 
-- des troubles de l'équilibre ;\
-  de la vigilance ;\
-  et de la mémoire ;\
-  Et syndrome associant :
+- des troubles de l'équilibre ;
+
+de la vigilance ;\
+et de la mémoire ;\
+Et syndrome associant :
+
 - des céphalées ;
 - de l'asthénie ;
 - des vertiges ;
@@ -924,9 +926,9 @@ Même si la terminologie qui est appliquée peut être discutée par le plan sé
 Toutes ces affections comportent un risque vital et seront définies :
 
 - pour la polyglobulie : par la masse sanguine égale ou supérieure à 36 ml/kg chez l'homme ; égale ou supérieure à 32 ml/kg chez la femme :
+- sans diminution de la PaO2 \[ (note 9) :
 
-- sans diminution de la PaO2 \[ (note 9) :\
-  \] ;
+\] ;
 
 - avec une leucocytose supérieure à 13 000-14 000 globules blancs par mm3 ;
 
@@ -979,12 +981,13 @@ Objectivées par les documents radiologiques qui permettent de distinguer :
 
 L'incidence des ces anomalies sur les capacités fonctionnelles du patient sera appréciée en tenant compte de l'étendue des lésions, de la présence d'autres indicateurs et du caractère évolutif de la maladie ;
 
-- ostéonécroses.\
-  L'importance de la destruction ostéo-articulaire est l'élément essentiel de l'évaluation.\
-  Atteinte loco-régionale :\
-  Autour de l'articulation, on recherchera les anomalies des muscles et du revêtement cutané.\
-  Algodystrophies :\
-  Indemnisées par référence au barème des accidents du travail (4.2.6).
+- ostéonécroses.
+
+L'importance de la destruction ostéo-articulaire est l'élément essentiel de l'évaluation.\
+Atteinte loco-régionale :\
+Autour de l'articulation, on recherchera les anomalies des muscles et du revêtement cutané.\
+Algodystrophies :\
+Indemnisées par référence au barème des accidents du travail (4.2.6).
 
 8.1.5 - Les atteintes viscérales associées.
 
@@ -1048,8 +1051,10 @@ Le médecin évaluateur s'efforcera d'obtenir communication, soit directement du
 \] de celle-ci et du dossier médical spécial \[ (note 10) :\
 \] lorsqu'elle est classée en catégorie A des travailleurs exposés. Il importe qu'il connaisse avec exactitude, en dehors de l'exposition due aux sources naturelles de rayonnement et des expositions subies du fait des examens et traitement médicaux, les différents types d'exposition reçus dans les conditions normales de travail, les expositions exceptionnelles concertées et/ou d'urgence, les accidents d'expositions et pour chacun d'entre eux les limites d'exposition atteintes, c'est-à-dire :
 
-- l'équivalent de dose maximale \[ (note 11) :\
-  \] dans les cas d'exposition externe ;
+- l'équivalent de dose maximale \[ (note 11) :
+
+\] dans les cas d'exposition externe ;
+
 - l'activité incorporée dans le cas d'exposition interne ;
 - l'équivalent de dose et l'activité incorporée dans les cas d'exposition totale, externe et interne.
 

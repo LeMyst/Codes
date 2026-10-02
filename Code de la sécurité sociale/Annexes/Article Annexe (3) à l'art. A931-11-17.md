@@ -8,42 +8,41 @@ MOUVEMENTS DES BULLETINS D'ADHESION AUX REGLEMENTS OU DES CONTRATS, DES CAPITAUX
 
 Les institutions de prévoyance et les unions d'institutions de prévoyance agréées pour pratiquer les opérations visées au a de l'article L. 931-1 et celles agréées pour pratiquer simultanément les opérations visées au a et au b établissent, selon le modèle fixé ci-après, un état retraçant les mouvements des bulletins d'adhésion aux règlements, des contrats, des capitaux et des rentes au cours de l'exercice inventorié.
 
-| | |
-| --- | --- |
-| MOUVEMENTS | CATÉGORIEou sous-catégorie |
-| En cours à l'ouverture de l'exercice | Nombre (1) | |
-| | Montant (2) | |
-| Entrées : | | |
-| Souscriptions | Nombre | |
-| | Montant | |
-| Remplacements ou transformations | Nombre | |
-| | Montant | |
-| Revalorisations (3) | Nombre (4) | |
-| | Montant | |
-| Total des entrées | Nombre | |
-| Montant | |
-| Sorties : | | |
-| Sans effet | Nombre | |
-| | Montant | |
-| Remplacements ou transformations | Nombre | |
-| | Montant | |
-| Echéances | Nombre | |
-| | Montant | |
-| Sinistres (5) | Nombre | |
-| | Montant | |
-| Extinctions | Nombre | |
-| | Montant | |
-| Rachats | Nombre | |
-| | Montant | |
-| Réductions | Nombre (4) | |
-| | Montant | |
-| Résiliations | Nombre | |
-| | Montant | |
-| Total des sorties | Nombre | |
-| Montant | |
-| En cours à la clôture de l'exercice | Nombre | |
-| | Montant | |
-| (1) Nombre de bulletins d'adhésion aux règlements et de contrats.(2) Capitaux ou rentes garantis.(3) Revalorisations au cours de l'exercice : indexations, incorporations de participations aux excédents.(4) Les nombres figurant sur cette ligne ne s'additionnent pas dans le total.(5) Pour les opérations relevant de la branche 24 (Capitalisation), cette rubrique enregistre les remboursements par tirage au sort. |
+| MOUVEMENTS |  | CATÉGORIE<br>ou sous-catégorie |
+| -- | -- | -- |
+| En cours à l'ouverture de l'exercice | Nombre (1) |  |
+|  | Montant (2) |  |
+| Entrées : |  |  |
+| Souscriptions | Nombre |  |
+|  | Montant |  |
+| Remplacements ou transformations | Nombre |  |
+|  | Montant |  |
+| Revalorisations (3) | Nombre (4) |  |
+|  | Montant |  |
+| Total des entrées | Nombre |  |
+|  | Montant |  |
+| Sorties : |  |  |
+| Sans effet | Nombre |  |
+|  | Montant |  |
+| Remplacements ou transformations | Nombre |  |
+|  | Montant |  |
+| Echéances | Nombre |  |
+|  | Montant |  |
+| Sinistres (5) | Nombre |  |
+|  | Montant |  |
+| Extinctions | Nombre |  |
+|  | Montant |  |
+| Rachats | Nombre |  |
+|  | Montant |  |
+| Réductions | Nombre (4) |  |
+|  | Montant |  |
+| Résiliations | Nombre |  |
+|  | Montant |  |
+| Total des sorties | Nombre |  |
+|  | Montant |  |
+| En cours à la clôture de l'exercice | Nombre |  |
+|  | Montant |  |
+| (1) Nombre de bulletins d'adhésion aux règlements et de contrats.<br>(2) Capitaux ou rentes garantis.<br>(3) Revalorisations au cours de l'exercice : indexations, incorporations de participations aux excédents.<br>(4) Les nombres figurant sur cette ligne ne s'additionnent pas dans le total.<br>(5) Pour les opérations relevant de la branche 24 (Capitalisation), cette rubrique enregistre les remboursements par tirage au sort. |  |  |
 
 Cet état comporte en colonnes les catégories et sous-catégories suivantes d'opérations directes en France :
 
@@ -171,13 +170,12 @@ COTISATIONS, SINISTRES ET COMMISSIONS DES OPERATIONS NON-VIE DANS L'ESPACE ECONO
 
 Les institutions de prévoyance et les unions d'institutions de prévoyance agréées pour pratiquer les opérations visées au b et/ ou au c de l'article L. 931-1 et celles agréées pour pratiquer simultanément les opérations visées au a et au b établissent, selon le modèle fixé ci-après, un état des cotisations, sinistres et commissions relatifs à leurs opérations Non-vie effectuées dans chacun des Etats de l'Espace économique européen hors la France et un état récapitulatif.
 
-| | | |
-| --- | --- | --- |
-| ÉTAT | RÉGIME D'ÉTABLISSEMENT | LIBRE PRESTATION DE SERVICES |
+| ÉTAT | RÉGIME D'ÉTABLISSEMENT |  |  | LIBRE PRESTATION DE SERVICES |  |  |
+| -- | -- | -- | -- | -- | -- | -- |
 | Branches d'activité | Cotisations | Sinistres | Commissions | Cotisations | Sinistres | Commissions |
-| Accidents-maladie | | | | | | |
-| Chômage | | | | | | |
-| Total | | | | | | |
+| Accidents-maladie |  |  |  |  |  |  |
+| Chômage |  |  |  |  |  |  |
+| Total |  |  |  |  |  |  |
 
 ETAT C 31
 
@@ -185,19 +183,18 @@ COTISATIONS DES OPERATIONS VIE DANS L'ESPACE ECONOMIQUE EUROPEEN (HORS LA FRANCE
 
 Les institutions de prévoyance et les unions d'institutions de prévoyance agréées pour pratiquer les opérations visées au a de l'article L. 931-1 et celles agréées pour pratiquer simultanément les opérations visées au a et au b établissent, selon le modèle fixé ci-après, un état des cotisations relatives à leurs opérations Vie effectuées dans chacun des Etats de l'Espace économique européen hors la France et un état récapitulatif.
 
-| | | |
-| --- | --- | --- |
 | ÉTAT | RÉGIME D'ÉTABLISSEMENT | LPS |
-| Branches d'activité (1) : | | |
-| I.-Assurance vie |
-| II.-Nuptialité-natalité |
-| III.-Opérations en unités de comptes |
-| IV.-Opérations dites " Permanent Health Insurance " |
-| VII.-Gestion de fonds collectifs |
-| VIII.-Opérations collectives relevant de l'article L. 932-24 |
-| IX.-Pensions de sécurité sociale |
-| Total | | |
-| (1) Pour la définition de ces branches, voir l'annexe à la directive 79/267/ CEE du 5 mai 1979. |
+| -- | -- | -- |
+| Branches d'activité (1) : |  |  |
+| I.-Assurance vie |  |  |
+| II.-Nuptialité-natalité |  |  |
+| III.-Opérations en unités de comptes |  |  |
+| IV.-Opérations dites " Permanent Health Insurance " |  |  |
+| VII.-Gestion de fonds collectifs |  |  |
+| VIII.-Opérations collectives relevant de l'article L. 932-24 |  |  |
+| IX.-Pensions de sécurité sociale |  |  |
+| Total |  |  |
+| (1) Pour la définition de ces branches, voir l'annexe à la directive 79/267/ CEE du 5 mai 1979. |  |  |
 
 Etats spécifiques relatifs aux opérations à l'étranger
 
@@ -225,43 +222,41 @@ OPERATIONS REALISEES POUR LE COMPTE D'UNIONS D'INSTITUTIONS DE PREVOYANCE.
 
 Les institutions de prévoyance établissent l'état ci-après pour chacune des unions dont elles sont membres :
 
-| | | |
-| --- | --- | --- |
 | RISQUES ET ENGAGEMENTS | COTISATIONS (1) | PRESTATIONS (1) |
-| Branches 1 et 26.-Accidents-maladie (2) (3) | | |
-| Branche 16 a.-Chômage (2) (3) | | |
-| Branche 20.-Vie-décès | | |
-| Branche 21.-Nuptialité-natalité | | |
-| Branche 22.-Assurances liées à des fonds d'investissement | | |
-| Branche 24.-Capitalisation | | |
-| Branche 25.-Gestion de fonds collectifs | | |
-| Branches 26.-Opérations à caractère collectif de l'article L. 932-24 | | |
-| Total | | |
-| (1) Cotisations et prestations afférentes à l'exercice, brutes de réassurance.(2) Cotisations au sens de la ligne 7. Cotisations acquises à l'année du tableau C de l'état C 10.(3) Prestations au sens de la ligne 4. Charges nettes de recours du même tableau C. |
+| -- | -- | -- |
+| Branches 1 et 26.-Accidents-maladie (2) (3) |  |  |
+| Branche 16 a.-Chômage (2) (3) |  |  |
+| Branche 20.-Vie-décès |  |  |
+| Branche 21.-Nuptialité-natalité |  |  |
+| Branche 22.-Assurances liées à des fonds d'investissement |  |  |
+| Branche 24.-Capitalisation |  |  |
+| Branche 25.-Gestion de fonds collectifs |  |  |
+| Branches 26.-Opérations à caractère collectif de l'article L. 932-24 |  |  |
+| Total |  |  |
+| (1) Cotisations et prestations afférentes à l'exercice, brutes de réassurance.<br>(2) Cotisations au sens de la ligne 7. Cotisations acquises à l'année du tableau C de l'état C 10.<br>(3) Prestations au sens de la ligne 4. Charges nettes de recours du même tableau C. |  |  |
 
 ETAT C 41
 
 ACTION SOCIALE
 
-| | |
-| --- | --- |
-| | MONTANT |
-| 1. Produits prélevés : | |
-| 1 a. Sur opérations Non-vie | |
-| 2 b. Sur opérations Vie | |
-| 2. Produits sur placements (1) | |
-| 3. Autres produits (2) | |
-| 4. Produits exceptionnels (3) | |
-| Total produits | |
-| 5. Allocations, attribution, et frais payés et à payer (4) : | |
-| 5 a. A caractère individuel | |
-| 5 b. A caractère collectif | |
-| 5 c. Autres allocations et attributions | |
-| 6. Frais de gestion (5) | |
-| 7. Charges exceptionnelles (6) | |
-| Total charges | |
-| Résultat de l'action sociale | |
-| (1) F 3.(2) F 7.(3) F 9 a.(4) F 8 a.(5) F 8 b.(6) F 9 b (part imputable à l'action sociale des postes du compte de résultat non technique). |
+|  | MONTANT |
+| -- | -- |
+| 1. Produits prélevés : |  |
+| 1 a. Sur opérations Non-vie |  |
+| 2 b. Sur opérations Vie |  |
+| 2. Produits sur placements (1) |  |
+| 3. Autres produits (2) |  |
+| 4. Produits exceptionnels (3) |  |
+| Total produits |  |
+| 5. Allocations, attribution, et frais payés et à payer (4) : |  |
+| 5 a. A caractère individuel |  |
+| 5 b. A caractère collectif |  |
+| 5 c. Autres allocations et attributions |  |
+| 6. Frais de gestion (5) |  |
+| 7. Charges exceptionnelles (6) |  |
+| Total charges |  |
+| Résultat de l'action sociale |  |
+| (1) F 3.<br>(2) F 7.<br>(3) F 9 a.<br>(4) F 8 a.<br>(5) F 8 b.<br>(6) F 9 b (part imputable à l'action sociale des postes du compte de résultat non technique). |  |
 
 ETAT C 42
 
@@ -273,109 +268,106 @@ A.-Etat C 42
 
 Statistiques relatives aux différentes catégories d'opérations en France
 
-| | |
-| --- | --- |
-| RISQUES ET ENGAGEMENTS | OPÉRATIONS DIRECTES EN FRANCE |
-| Collectives à adhésion obligatoire | Collectives à adhésion facultative | Individuelles | Total |
-| Frais de santé : | | | | |
-| -nombre de cotisants au 31 décembre (1) | | | | |
-| -nombre d'entreprises adhérentes au 31 décembre | | | | |
-| Incapacité-Invalidité : | | | | |
-| Mensualisation : | | | | |
-| -nombre de cotisants au 31 décembre | | | | |
-| -nombre d'entreprises adhérentes au 31 décembre | | | | |
-| Autres indemnités journalières : | | | | |
-| -nombre de cotisants au 31 décembre | | | | |
-| -nombre d'entreprises adhérentes au 31 décembre | | | | |
-| Rentes d'invalidité : | | | | |
-| -nombre de rentes en cours de service au 31 décembre | | | | |
-| -nombre de cotisants au 31 décembre | | | | |
-| -nombre d'entreprises adhérentes au 31 décembre | | | | |
-| Chômage : | | | | |
-| -nombre de cotisants au 31 décembre | | | | |
-| -nombre d'entreprises adhérentes au 31 décembre | | | | |
-| Indemnité et prime de fin de carrière : | | | | |
-| -nombre de bénéficiaires servis au cours de l'exercice | | | | |
-| -nombre de cotisants au 31 décembre | | | | |
-| -nombre d'entreprises adhérentes au 31 décembre | | | | |
-| Retraite supplémentaire : | | | | |
-| -nombre de rentes en cours de service au 31 décembre | | | | |
-| -nombre de cotisants au 31 décembre | | | | |
-| -nombre d'entreprises adhérentes au 31 décembre | | | | |
-| Capital : | | | | |
-| -nombre de capitaux versés au 31 décembre | | | | |
-| -nombre de cotisants au 31 décembre | | | | |
-| -nombre d'entreprises adhérentes au 31 décembre | | | | |
-| Décès : | | | | |
-| Invalidité totale et définitive : | | | | |
-| -nombre de cotisants au 31 décembre | | | | |
-| -nombre d'entreprises adhérentes au 31 décembre | | | | |
-| Rente de conjoint survivant : | | | | |
-| -nombre de rentes en cours de service au 31 décembre | | | | |
-| -nombre de cotisants au 31 décembre | | | | |
-| -nombre d'entreprises adhérentes au 31 décembre | | | | |
-| Rente d'éducation ou d'orphelin : | | | | |
-| -nombre de rentes en cours de service au 31 décembre | | | | |
-| -nombre de cotisants au 31 décembre | | | | |
-| -nombre d'entreprises adhérentes au 31 décembre | | | | |
-| Total : | | | | |
-| -nombre de cotisants | | | | |
-| -nombre d'entreprises adhérentes | | | | |
-| (Préciser : avec double compte-sans double compte.) | | | | |
-| (1) Cotisants : participants visés aux 1° et 2°de l'article L. 931-3 du code de la sécurité sociale. |
+| RISQUES ET ENGAGEMENTS | OPÉRATIONS DIRECTES EN FRANCE |  |  |  |
+| -- | -- | -- | -- | -- |
+|  | Collectives à adhésion obligatoire | Collectives à adhésion facultative | Individuelles | Total |
+| Frais de santé : |  |  |  |  |
+| -nombre de cotisants au 31 décembre (1) |  |  |  |  |
+| -nombre d'entreprises adhérentes au 31 décembre |  |  |  |  |
+| Incapacité-Invalidité : |  |  |  |  |
+| Mensualisation : |  |  |  |  |
+| -nombre de cotisants au 31 décembre |  |  |  |  |
+| -nombre d'entreprises adhérentes au 31 décembre |  |  |  |  |
+| Autres indemnités journalières : |  |  |  |  |
+| -nombre de cotisants au 31 décembre |  |  |  |  |
+| -nombre d'entreprises adhérentes au 31 décembre |  |  |  |  |
+| Rentes d'invalidité : |  |  |  |  |
+| -nombre de rentes en cours de service au 31 décembre |  |  |  |  |
+| -nombre de cotisants au 31 décembre |  |  |  |  |
+| -nombre d'entreprises adhérentes au 31 décembre |  |  |  |  |
+| Chômage : |  |  |  |  |
+| -nombre de cotisants au 31 décembre |  |  |  |  |
+| -nombre d'entreprises adhérentes au 31 décembre |  |  |  |  |
+| Indemnité et prime de fin de carrière : |  |  |  |  |
+| -nombre de bénéficiaires servis au cours de l'exercice |  |  |  |  |
+| -nombre de cotisants au 31 décembre |  |  |  |  |
+| -nombre d'entreprises adhérentes au 31 décembre |  |  |  |  |
+| Retraite supplémentaire : |  |  |  |  |
+| -nombre de rentes en cours de service au 31 décembre |  |  |  |  |
+| -nombre de cotisants au 31 décembre |  |  |  |  |
+| -nombre d'entreprises adhérentes au 31 décembre |  |  |  |  |
+| Capital : |  |  |  |  |
+| -nombre de capitaux versés au 31 décembre |  |  |  |  |
+| -nombre de cotisants au 31 décembre |  |  |  |  |
+| -nombre d'entreprises adhérentes au 31 décembre |  |  |  |  |
+| Décès : |  |  |  |  |
+| Invalidité totale et définitive : |  |  |  |  |
+| -nombre de cotisants au 31 décembre |  |  |  |  |
+| -nombre d'entreprises adhérentes au 31 décembre |  |  |  |  |
+| Rente de conjoint survivant : |  |  |  |  |
+| -nombre de rentes en cours de service au 31 décembre |  |  |  |  |
+| -nombre de cotisants au 31 décembre |  |  |  |  |
+| -nombre d'entreprises adhérentes au 31 décembre |  |  |  |  |
+| Rente d'éducation ou d'orphelin : |  |  |  |  |
+| -nombre de rentes en cours de service au 31 décembre |  |  |  |  |
+| -nombre de cotisants au 31 décembre |  |  |  |  |
+| -nombre d'entreprises adhérentes au 31 décembre |  |  |  |  |
+| Total : |  |  |  |  |
+| -nombre de cotisants |  |  |  |  |
+| -nombre d'entreprises adhérentes |  |  |  |  |
+| (Préciser : avec double compte-sans double compte.) |  |  |  |  |
+| (1) Cotisants : participants visés aux 1° et 2° de l'article L. 931-3 du code de la sécurité sociale. |  |  |  |  |
 
 B.-Etat C 42
 
 Cotisations et prestations
 
-| | |
-| --- | --- |
-| RISQUES ET ENGAGEMENTS | OPÉRATIONS DIRECTES EN FRANCE |
-| Collectives à adhésion obligatoire | Collectives à adhésion facultative | Individuelles | Total |
-| Cot. | Prest. | Cot. | Prest. | Cot. | Prest. | Cot. | Prest. |
-| Frais de santé (2) (3) | | | | | | | | |
-| Incapacité-invalidité (2) (3) : | | | | | | | | |
-| -mensualisation | | | | | | | | |
-| -autres indemnités journalières | | | | | | | | |
-| -rentes d'invalidité | | | | | | | | |
-| Chômage (2) (3) | | | | | | | | |
-| Indemnité et prime de fin de carrière | | | | | | | | |
-| Retraite supplémentaire | | | | | | | | |
-| Décès : | | | | | | | | |
-| -capitaux | | | | | | | | |
-| -rente de conjoint survivant | | | | | | | | |
-| -rente d'éducation ou d'orphelin | | | | | | | | |
-| Montant total | | | | | | | | |
-| (2) Cotisations au sens de la ligne " 7. Cotisations acquises à l'année " du tableau C de l'état C 10.(3) Prestations au sens de la ligne " 4. Charges nettes de recours " du même tableau C. |
+| RISQUES ET ENGAGEMENTS | OPÉRATIONS DIRECTES EN FRANCE |  |  |  |  |  |  |  |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- |
+|  | Collectives à adhésion obligatoire |  | Collectives à adhésion facultative |  | Individuelles |  | Total |  |
+|  | Cot. | Prest. | Cot. | Prest. | Cot. | Prest. | Cot. | Prest. |
+| Frais de santé (2) (3) |  |  |  |  |  |  |  |  |
+| Incapacité-invalidité (2) (3) : |  |  |  |  |  |  |  |  |
+| -mensualisation |  |  |  |  |  |  |  |  |
+| -autres indemnités journalières |  |  |  |  |  |  |  |  |
+| -rentes d'invalidité |  |  |  |  |  |  |  |  |
+| Chômage (2) (3) |  |  |  |  |  |  |  |  |
+| Indemnité et prime de fin de carrière |  |  |  |  |  |  |  |  |
+| Retraite supplémentaire |  |  |  |  |  |  |  |  |
+| Décès : |  |  |  |  |  |  |  |  |
+| -capitaux |  |  |  |  |  |  |  |  |
+| -rente de conjoint survivant |  |  |  |  |  |  |  |  |
+| -rente d'éducation ou d'orphelin |  |  |  |  |  |  |  |  |
+| Montant total |  |  |  |  |  |  |  |  |
+| (2) Cotisations au sens de la ligne " 7. Cotisations acquises à l'année " du tableau C de l'état C 10.<br>(3) Prestations au sens de la ligne " 4. Charges nettes de recours " du même tableau C. |  |  |  |  |  |  |  |  |
 
 C.-Etat C 42
 
 Frais de santé
 
-| | |
-| --- | --- |
-| MONTANT DES PRESTATIONS (1) | OPÉRATIONS DIRECTES EN FRANCE |
-| Collectives à adhésion obligatoire | Collectives à adhésion facultative | Individuelles | Total |
-| Hôpitaux publics et PSPH | | | | |
-| Hôpitaux privés | | | | |
-| Sections médicalisées : | | | | |
-| -publiques | | | | |
-| -privées | | | | |
-| Sous-total : hôpitaux-Sections médicalisées | | | | |
-| Cabinets libéraux : | | | | |
-| -médecins | | | | |
-| -auxiliaires | | | | |
-| -dentistes | | | | |
-| Laboratoires d'analyses | | | | |
-| Etablissements thermaux | | | | |
-| Sous-total : soins ambulatoires | | | | |
-| Transports | | | | |
-| Total : prestations de soins | | | | |
-| Officines pharmaceutiques | | | | |
-| Distributeurs d'autres biens médicaux (lunetterie-orthopédie) | | | | |
-| Total : biens médicaux | | | | |
-| Total des prestations | | | | |
-| (1) Prestations afférentes à l'exercice, brutes de réassurance, au sens de la ligne " 4. Charge nette de recours " du tableau C de l'état C 10. |
+| MONTANT DES PRESTATIONS (1) | OPÉRATIONS DIRECTES EN FRANCE |  |  |  |
+| -- | -- | -- | -- | -- |
+|  | Collectives à adhésion obligatoire | Collectives à adhésion facultative | Individuelles | Total |
+| Hôpitaux publics et PSPH |  |  |  |  |
+| Hôpitaux privés |  |  |  |  |
+| Sections médicalisées : |  |  |  |  |
+| -publiques |  |  |  |  |
+| -privées |  |  |  |  |
+| Sous-total : hôpitaux-Sections médicalisées |  |  |  |  |
+| Cabinets libéraux : |  |  |  |  |
+| -médecins |  |  |  |  |
+| -auxiliaires |  |  |  |  |
+| -dentistes |  |  |  |  |
+| Laboratoires d'analyses |  |  |  |  |
+| Etablissements thermaux |  |  |  |  |
+| Sous-total : soins ambulatoires |  |  |  |  |
+| Transports |  |  |  |  |
+| Total : prestations de soins |  |  |  |  |
+| Officines pharmaceutiques |  |  |  |  |
+| Distributeurs d'autres biens médicaux (lunetterie-orthopédie) |  |  |  |  |
+| Total : biens médicaux |  |  |  |  |
+| Total des prestations |  |  |  |  |
+| (1) Prestations afférentes à l'exercice, brutes de réassurance, au sens de la ligne " 4. Charge nette de recours " du tableau C de l'état C 10. |  |  |  |  |
 
 NOTA:
 Décret n° 2010-217 du 3 mars 2010 article 12 : Le présent décret entre en vigueur à la date de la première réunion du collège de l'Autorité de contrôle prudentiel (9 mars 2010), à l'exception de son article 11.

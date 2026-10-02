@@ -5,4 +5,4 @@ Le titulaire d'une créance alimentaire, fixée par décision de justice devenue
 Ce recouvrement est exercé dans les conditions et pour les créances mentionnées aux articles L. 581-2 et suivants.
 
 NOTA:
-Conformément au IV de l'article 98 de la loi n° 2025-1403 du 31 décembre 2025, ces dispositions, dans leur rédaction résultant de l'article précité, entrent en vigueur le 1er avril 2026.
+Conformément au IV de l'article 98 de la loi n° 2025-1403 du 31 décembre 2025, ces dispositions, dans leur rédaction résultant de l'article précité, entrent en vigueur le 1<sup>er</sup> avril 2026.

@@ -1,6 +1,6 @@
 # Article D241-7
 
-I. - Le montant prévu au dernier alinéa du II de l'article L. 241-13 est fixé à trois fois le montant du salaire minimum de croissance applicable au 1er janvier 2026.
+I. - Le montant prévu au dernier alinéa du II de l'article L. 241-13 est fixé à trois fois le montant du salaire minimum de croissance applicable au 1<sup>er</sup> janvier 2026.
 
 II. - Le coefficient prévu au deuxième alinéa du III de l'article L. 241-13 est déterminé par application de la formule suivante :
 
@@ -12,7 +12,7 @@ Où :
 
 - les valeurs “Tmin”et “Tdelta”sont définies dans les conditions fixées au III ;
 
-- le “salaire minimum calculé pour un an” correspond au montant annuel brut applicable au 1er janvier 2026 du salaire minimum de croissance prévu par l'article L. 3231-2 du code du travail ;
+- le “salaire minimum calculé pour un an” correspond au montant annuel brut applicable au 1<sup>er</sup> janvier 2026 du salaire minimum de croissance prévu par l'article L. 3231-2 du code du travail ;
 
 - la “rémunération annuelle brute” correspond au montant annuel de la rémunération définie selon les modalités prévues au III de l'article L. 241-13 ;
 

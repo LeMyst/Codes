@@ -7,4 +7,4 @@ Une solidarité interprofessionnelle et générale sera organisée entre les ins
 Cette solidarité s'étend aux opérations visées au dernier alinéa de l'article L. 922-1 du présent code.
 
 NOTA:
-Conformément au IX de l’article 1er de la loi n° 2023-270 du 14 avril 2023, ces dispositions entrent en vigueur le 1er septembre 2023.
+Conformément au IX de l’article 1er de la loi n° 2023-270 du 14 avril 2023, ces dispositions entrent en vigueur le 1<sup>er</sup> septembre 2023.

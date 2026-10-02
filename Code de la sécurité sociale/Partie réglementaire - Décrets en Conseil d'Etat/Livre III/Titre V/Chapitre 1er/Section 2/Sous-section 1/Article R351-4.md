@@ -8,7 +8,7 @@ Les termes " périodes reconnues équivalentes " figurant au deuxième alinéa d
 
 3°) les périodes antérieures au 1er avril 1983 au cours desquelles les membres de la famille du chef d'entreprise, âgés d'au moins dix-huit ans et ne bénéficiant pas d'un régime obligatoire d'assurance vieillesse, ont participé de façon habituelle à l'exercice d'une activité professionnelle relevant de l'assurance vieillesse du régime social des indépendants. Les membres de la famille s'entendent des conjoints, ascendants, descendants, frères, soeurs ou alliés au même degré ;
 
-4° Les périodes d'activité non salariée agricole antérieures au 1er juillet 1952 qui auraient donné lieu à cotisation si les dispositions, dans leur version initiale, du décret n° 55-753 du 31 mai 1955 tendant à modifier et à compléter le décret n° 52-1166 et fixant les conditions d'application de la loi du 5 janvier 1955 relative à l'allocation vieillesse agricole avaient été applicables.
+4° Les périodes d'activité non salariée agricole antérieures au 1<sup>er</sup> juillet 1952 qui auraient donné lieu à cotisation si les dispositions, dans leur version initiale, du décret n° 55-753 du 31 mai 1955 tendant à modifier et à compléter le décret n° 52-1166 et fixant les conditions d'application de la loi du 5 janvier 1955 relative à l'allocation vieillesse agricole avaient été applicables.
 
 Les périodes mentionnées ci-dessus sont retenues de date à date, le nombre de trimestres correspondant étant arrondi au chiffre immédiatement supérieur.
 

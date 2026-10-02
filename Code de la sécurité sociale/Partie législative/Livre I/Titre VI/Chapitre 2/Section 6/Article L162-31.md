@@ -7,4 +7,4 @@ Les modalités de règlement font l'objet de conventions soumises à l'approbati
 Un décret en Conseil d'Etat fixe les conditions d'application du présent article ainsi que les modalités d'évaluation de ces actions, en relation, notamment, avec les élus locaux, les organismes d'assurance maladie et les professions de santé.
 
 NOTA:
-Conformément au I de l’article 5 de l’ordonnance n° 2021-1554 du 1er décembre 2021, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard le 30 juin 2022. L’article 1 du décret n° 2022-801 du 12 mai 2022 a fixé cette date au 14 mai 2022.
+Conformément au I de l’article 5 de l’ordonnance n° 2021-1554 du 1<sup>er</sup> décembre 2021, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard le 30 juin 2022. L’article 1 du décret n° 2022-801 du 12 mai 2022 a fixé cette date au 14 mai 2022.

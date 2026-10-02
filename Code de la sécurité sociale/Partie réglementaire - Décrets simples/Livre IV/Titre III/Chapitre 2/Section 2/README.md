@@ -1,1 +1,1 @@
-Section 2 : Appareillage
+# Section 2 : Appareillage

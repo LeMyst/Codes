@@ -23,4 +23,4 @@ f) S'agissant des personnes mentionnées au deuxième alinéa de l'article D. 71
 4° A 4,20 % pour les avantages de retraite complémentaire mentionnés à l'article D. 711-3.
 
 NOTA:
-Conformément à l'article 7 du décret n° 2018-162 du 6 mars 2018, ces dispositions s'appliquent aux cotisations de sécurité sociale dues au titre des périodes courant à compter du 1er mars 2018.
+Conformément à l'article 7 du décret n° 2018-162 du 6 mars 2018, ces dispositions s'appliquent aux cotisations de sécurité sociale dues au titre des périodes courant à compter du 1<sup>er</sup> mars 2018.

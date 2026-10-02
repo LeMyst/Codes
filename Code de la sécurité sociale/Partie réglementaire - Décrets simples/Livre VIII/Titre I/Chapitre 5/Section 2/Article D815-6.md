@@ -13,4 +13,4 @@ Toutefois, pour la détermination de l'actif net ouvrant droit au recouvrement, 
 Ces dispositions particulières au recouvrement sur successions de l'allocataire, qui n'ont pas d'incidence sur la validité des libéralités et contrats consentis ou conclus par l'allocataire, ont seulement pour effet de les rendre inopposables aux organismes et services mentionnés à l'article L. 815-7 précité dans le cas visé au troisième alinéa du présent article.
 
 NOTA:
-Conformément au I de l’article 6 du décret n° 2023-754 du 10 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.
+Conformément au I de l’article 6 du décret n° 2023-754 du 10 août 2023, ces dispositions entrent en vigueur le 1<sup>er</sup> septembre 2023.

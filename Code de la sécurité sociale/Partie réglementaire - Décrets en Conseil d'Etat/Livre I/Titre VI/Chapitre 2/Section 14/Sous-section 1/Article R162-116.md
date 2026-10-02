@@ -9,4 +9,4 @@ II.-La prise en charge anticipée d'un dispositif médical numérique à visée 
 III.-La décision de prise en charge anticipée est notifiée à l'exploitant dans un délai de trente jours à compter de la réception par les ministres chargés de la santé et de la sécurité sociale du dernier des deux avis mentionnés aux articles R. 162-114 et R. 162-115.
 
 NOTA:
-Conformément à l'article 2 du décret n° 2025-1286 du 22 décembre 2025, ces dispositions, dans leur rédaction issue du 6° de l'article 1er du décret précité, entrent en vigueur le 1er janvier 2026.
+Conformément à l'article 2 du décret n° 2025-1286 du 22 décembre 2025, ces dispositions, dans leur rédaction issue du 6° de l'article 1er du décret précité, entrent en vigueur le 1<sup>er</sup> janvier 2026.

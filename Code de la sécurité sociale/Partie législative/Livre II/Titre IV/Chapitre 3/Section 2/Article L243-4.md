@@ -5,4 +5,4 @@ Le paiement des cotisations et des majorations et pénalités de retard est gara
 Le paiement des cotisations et des majorations et pénalités de retard est également garanti, à compter du 1er janvier 1956, par une hypothèque légale en exécution des prescriptions applicables en matière de publicité foncière.
 
 NOTA:
-Conformément au V de l'article 4 de la loi n° 2025-1403 du 31 décembre 2025, ces dispositions, dans leur rédaction résultant du I de l'article précité, entrent en vigueur le 1er juillet 2026.
+Conformément au V de l'article 4 de la loi n° 2025-1403 du 31 décembre 2025, ces dispositions, dans leur rédaction résultant du I de l'article précité, entrent en vigueur le 1<sup>er</sup> juillet 2026.

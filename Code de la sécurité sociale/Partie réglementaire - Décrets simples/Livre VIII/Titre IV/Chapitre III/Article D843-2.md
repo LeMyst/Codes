@@ -5,4 +5,4 @@ Pour chaque travailleur au sein du foyer, la bonification mentionnée à l'artic
 Le montant maximal de la bonification s'élève à 37,7 % du montant forfaitaire mentionné au 1° de l'article L. 842-3 applicable à un foyer composé d'une seule personne.
 
 NOTA:
-Conformément à l'article 3 du décret n° 2026-222 du 30 mars 2026, les valeurs fixées au présent article, dans sa rédaction issue de l'article 1er du décret précité, sont prises en compte pour calculer le montant dû au foyer bénéficiaire de la prime d'activité dans les conditions prévues par l'article R. 843-1, à compter du 1er avril 2026.
+Conformément à l'article 3 du décret n° 2026-222 du 30 mars 2026, les valeurs fixées au présent article, dans sa rédaction issue de l'article 1<sup>er</sup> du décret précité, sont prises en compte pour calculer le montant dû au foyer bénéficiaire de la prime d'activité dans les conditions prévues par l'article R. 843-1, à compter du 1<sup>er</sup> avril 2026.

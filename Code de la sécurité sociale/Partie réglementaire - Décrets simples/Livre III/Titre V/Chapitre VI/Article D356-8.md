@@ -5,4 +5,4 @@ Lorsque l'assuré décédé relevait du régime général de sécurité sociale,
 Il est donné au requérant récépissé de sa demande et des pièces qui l'accompagnent.
 
 NOTA:
-Conformément au II de l’article 2 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux demandes à compter du 1er janvier 2026.
+Conformément au II de l’article 2 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux demandes à compter du 1<sup>er</sup> janvier 2026.

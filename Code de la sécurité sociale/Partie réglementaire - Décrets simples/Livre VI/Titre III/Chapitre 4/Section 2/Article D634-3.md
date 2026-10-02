@@ -17,4 +17,4 @@ Le revenu annuel moyen mentionné à l'article L. 634-2 est déterminé dans les
 7° Les III et IV ne sont pas applicables.
 
 NOTA:
-Conformément au II de l’article 2 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux pensions prenant effet à compter du 1er janvier 2026.
+Conformément au II de l’article 2 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux pensions prenant effet à compter du 1<sup>er</sup> janvier 2026.

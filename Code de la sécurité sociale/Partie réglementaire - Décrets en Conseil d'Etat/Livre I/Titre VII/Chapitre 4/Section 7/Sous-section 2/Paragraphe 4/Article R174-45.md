@@ -17,4 +17,4 @@ II.-Pour l'application du II de l'article L. 162-23-15 aux activités exercées 
 3° Les ministres chargés de la santé et de la sécurité sociale prononcent la sanction et en informent le ministre de la défense et la notifient à la caisse mentionnée à l'article L. 174-15.
 
 NOTA:
-Conformément à l'article 5 du décret n° 2025-1390 du 28 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er janvier 2026.
+Conformément à l'article 5 du décret n° 2025-1390 du 28 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1<sup>er</sup> janvier 2026.

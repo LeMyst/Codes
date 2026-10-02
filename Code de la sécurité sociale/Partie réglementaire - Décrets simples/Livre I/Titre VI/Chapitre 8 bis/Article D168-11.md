@@ -7,4 +7,4 @@ Pour les personnes mentionnées aux articles L. 7221-1 et L. 7311-3 du code du t
 Pour l'application du deuxième alinéa de l'article L. 168-8, la résidence et la régularité de séjour en France d'une personne qui demande à bénéficier de l'allocation journalière du proche aidant sont appréciées dans les conditions fixées respectivement aux articles R. 111-2 et D. 512-1.
 
 NOTA:
-Conformément au II de l’article 2 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur au 1er janvier 2026 et ne s'appliquent pas aux personnes mentionnées à l'article L. 781-29 du code rural et de la pêche maritime.
+Conformément au II de l’article 2 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur au 1<sup>er</sup> janvier 2026 et ne s'appliquent pas aux personnes mentionnées à l'article L. 781-29 du code rural et de la pêche maritime.

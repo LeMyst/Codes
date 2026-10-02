@@ -19,4 +19,4 @@ Postérieurement à la notification de l'ordonnance de clôture, les parties son
 Les décisions prises en vertu du présent article constituent des mesures d'administration judiciaire, à l'exception des décisions qui constatent l'extinction de l'instance ou déclarent le recours irrecevable qui sont susceptibles de pourvoi en cassation.
 
 NOTA:
-Conformément à l’article 12 du décret n° 2020-1452 du 27 novembre 2020, ces dispositions entrent en vigueur le 1er janvier 2021. Elles s'appliquent aux instances en cours à cette date.
+Conformément à l’article 12 du décret n° 2020-1452 du 27 novembre 2020, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2021. Elles s'appliquent aux instances en cours à cette date.

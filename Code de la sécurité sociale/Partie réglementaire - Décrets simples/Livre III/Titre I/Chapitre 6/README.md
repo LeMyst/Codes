@@ -1,1 +1,3 @@
-Chapitre 6: Dispositifs simplifiés de déclaration et de paiement des cotisations des particuliers qui exercent une option pour relever du régime général au titre d'activités lucratives
+# Chapitre 6: Dispositifs simplifiés de déclaration et de paiement des cotisations des particuliers qui exercent une option pour relever du régime général au titre d'activités lucratives
+
+- [Article D316-1](Article%20D316-1.md)

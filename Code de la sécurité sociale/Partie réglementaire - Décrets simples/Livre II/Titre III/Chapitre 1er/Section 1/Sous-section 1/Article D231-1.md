@@ -3,8 +3,7 @@
 La durée du mandat des membres des conseils ou des conseils d'administration des organismes du régime général de sécurité sociale est de quatre ans.
 
 NOTA:
-Décret n°2014-1163 du 9 octobre 2014 art. 3 : I. - La durée des mandats prévue à l'article D. 231-1 s'applique aux mandats des membres des conseils et conseils d'administration à compter des renouvellements généraux de l'ensemble des conseils et conseils d'administration organisés postérieurement au 31 décembre 2016
-.
+Décret n°2014-1163 du 9 octobre 2014 art. 3 : I. - La durée des mandats prévue à l'article D. 231-1 s'applique aux mandats des membres des conseils et conseils d'administration à compter des renouvellements généraux de l'ensemble des conseils et conseils d'administration organisés postérieurement au 31 décembre 2016 .
 
 II. - Par dérogation à l'article D. 231-1, dans sa rédaction issue du II de l'article 2 du présent décret, la durée des mandats des membres des conseils de la Caisse nationale de l'assurance maladie des travailleurs salariés et des caisses primaires d'assurance maladie qui seront désignés ou élus dans le cadre du premier renouvellement général suivant la publication du présent décret est fixée à trois ans.
 

@@ -13,4 +13,4 @@ L'inscription d'une activité de télésurveillance médicale sur la liste prév
 III.-L'inscription d'une activité de télésurveillance médicale sur la liste prévue à l'article L. 162-52 est effectuée pour une durée maximale de cinq ans.
 
 NOTA:
-Conformément à l'article 2 du décret n° 2025-1286 du 22 décembre 2025, ces dispositions, dans leur rédaction issue du 6° de l'article 1er du décret précité, entrent en vigueur le 1er janvier 2026.
+Conformément à l'article 2 du décret n° 2025-1286 du 22 décembre 2025, ces dispositions, dans leur rédaction issue du 6° de l'article 1er du décret précité, entrent en vigueur le 1<sup>er</sup> janvier 2026.

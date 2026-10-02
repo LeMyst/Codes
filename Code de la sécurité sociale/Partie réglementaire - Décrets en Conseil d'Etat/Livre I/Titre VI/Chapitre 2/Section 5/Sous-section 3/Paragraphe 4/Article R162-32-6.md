@@ -5,4 +5,4 @@ Les règlements effectués par les organismes d'assurance maladie au titre des f
 Le règlement du solde de la dotation de l'exercice précédent vient en déduction des versements mensuels prévus à l'article R. 162-32-4 ainsi qu'à l'article R. 6145-36 du code de la santé publique.
 
 NOTA:
-Conformément à l’article 3 du décret n° 2021-1255, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 3 du décret n° 2021-1255, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

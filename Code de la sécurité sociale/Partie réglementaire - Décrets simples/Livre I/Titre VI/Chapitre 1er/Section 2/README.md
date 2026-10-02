@@ -1,1 +1,1 @@
-Section 2 : Dispositions diverses.
+# Section 2 : Dispositions diverses.

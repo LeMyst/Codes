@@ -17,4 +17,4 @@ a) De ceux afférents aux examens de biologie médicale ;
 b) Pour les établissements mentionnés aux a, b et c de l'article L. 162-22, de ceux du praticien désigné par le patient pour assurer de façon continue sa prise en charge à domicile.
 
 NOTA:
-Conformément à l'article 5 du décret n° 2025-1390 du 28 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er janvier 2026.
+Conformément à l'article 5 du décret n° 2025-1390 du 28 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1<sup>er</sup> janvier 2026.

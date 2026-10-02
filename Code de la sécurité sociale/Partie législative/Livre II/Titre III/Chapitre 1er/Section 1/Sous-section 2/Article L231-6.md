@@ -5,4 +5,4 @@ Les membres des conseils ou des conseils d'administration doivent être âgés d
 Toutefois la limite d'âge de soixante-cinq ans n'est pas applicable aux membres du conseil ou administrateurs représentants des retraités désignés au titre des personnes qualifiées. Au conseil de la caisse nationale mentionnée à l'article L. 223-7, elle n'est applicable qu'aux membres appartenant au collège mentionnés au 3° et aux représentants d'institutions appartenant au collège mentionnés au 6° du même article.
 
 NOTA:
-Se reporter aux conditions d’application prévues au 2° du II de l’article 5 de l’ordonnance n° 2021-1554 du 1er décembre 2021.
+Se reporter aux conditions d’application prévues au 2° du II de l’article 5 de l’ordonnance n° 2021-1554 du 1<sup>er</sup> décembre 2021.

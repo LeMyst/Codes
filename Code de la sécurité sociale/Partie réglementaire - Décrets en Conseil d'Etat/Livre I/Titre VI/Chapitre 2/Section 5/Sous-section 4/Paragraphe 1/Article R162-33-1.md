@@ -41,4 +41,4 @@ La prise en charge des frais occasionnés par ces prestations est assurée par d
 La prise en charge des frais occasionnés par ces prestations est assurée par des forfaits facturés pour chaque administration d'un ou plusieurs produits, prestations ou spécialités pharmaceutiques mentionnées au précédent alinéa.
 
 NOTA:
-Conformément à l'article 5 du décret n° 2025-1390 du 28 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er janvier 2026.
+Conformément à l'article 5 du décret n° 2025-1390 du 28 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1<sup>er</sup> janvier 2026.

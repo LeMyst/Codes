@@ -7,4 +7,4 @@ II. - L'exonération prévue au I est calculée sur le chiffre d'affaires ou les
 III. - Les dispositions du IV de l'article D. 131-6-1 s'appliquent également aux travailleurs indépendants mentionnés au I.
 
 NOTA:
-Conformément au second alinéa de l'article 3 du décret n° 2026-69 du 6 février 2026, ces dispositions, dans leur rédaction issue de l'article 2 du décret précité, entrent en vigueur le 1er juillet 2026 et s'appliquent aux créations et reprises d'entreprise intervenant à compter de cette date.
+Conformément au second alinéa de l'article 3 du décret n° 2026-69 du 6 février 2026, ces dispositions, dans leur rédaction issue de l'article 2 du décret précité, entrent en vigueur le 1<sup>er</sup> juillet 2026 et s'appliquent aux créations et reprises d'entreprise intervenant à compter de cette date.

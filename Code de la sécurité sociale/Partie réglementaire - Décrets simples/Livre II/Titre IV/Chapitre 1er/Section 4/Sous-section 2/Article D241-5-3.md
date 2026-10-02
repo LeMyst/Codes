@@ -17,4 +17,4 @@ La régularisation mentionnée à l'alinéa ci-dessus intervient dans le délai 
 II. - Le montant annuel de l'exonération est égal au produit de la rémunération annuelle brute versée au salarié par une valeur correspondant à la somme des cotisations et contributions mentionnées au premier alinéa du III de l'article L. 241-10, à la charge de l'employeur.
 
 NOTA:
-Conformément à l’article 3 du décret n° 2025-887 du 4 septembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux cotisations et contributions dues au titre des périodes d'activité courant à compter du 1er janvier 2026.
+Conformément à l’article 3 du décret n° 2025-887 du 4 septembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux cotisations et contributions dues au titre des périodes d'activité courant à compter du 1<sup>er</sup> janvier 2026.

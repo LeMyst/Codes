@@ -19,4 +19,4 @@ Seront également mentionnés, s'il y a lieu, les nom, prénoms et adresse, ou t
 NOTA:
 Code de la sécurité sociale D721-5 (modifié par le Décret 93-1167 du 14 octobre 1993 art. 1) : l'article D254-4 est applicable à la caisse mutuelle et aux groupements mutualistes habilités à liquider et à payer les prestations pour son compte.
 
-Conformément au II de l’article 2 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux pensions prenant effet à compter du 1er janvier 2026.
+Conformément au II de l’article 2 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux pensions prenant effet à compter du 1<sup>er</sup> janvier 2026.

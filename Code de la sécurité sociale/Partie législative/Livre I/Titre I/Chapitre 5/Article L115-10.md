@@ -5,4 +5,4 @@ Les organismes de recouvrement mentionnés aux articles L. 213-1 et L. 752-1 du 
 Un décret fixe les modalités d'application du présent article, notamment la périodicité de cette communication ainsi que le montant mentionné au premier alinéa.
 
 NOTA:
-Conformément au V de l'article 4 de la loi n° 2025-1403 du 31 décembre 2025, ces dispositions, dans leur rédaction résultant du I de l'article précité, entrent en vigueur le 1er juillet 2026.
+Conformément au V de l'article 4 de la loi n° 2025-1403 du 31 décembre 2025, ces dispositions, dans leur rédaction résultant du I de l'article précité, entrent en vigueur le 1<sup>er</sup> juillet 2026.

@@ -1,6 +1,6 @@
 # Article R166-1
 
-Les versements trimestriels mentionnés au premier alinéa du III de l'article L. 162-18 et au II bis de l'article L. 165-4 sont effectués, sur appel annuel des organismes mentionnés au dernier alinéa des mêmes III et II bis, au plus tard les 1er mars, 1er juin, 1er septembre et 1er décembre.
+Les versements trimestriels mentionnés au premier alinéa du III de l'article L. 162-18 et au II bis de l'article L. 165-4 sont effectués, sur appel annuel des organismes mentionnés au dernier alinéa des mêmes III et II bis, au plus tard les 1<sup>er</sup> mars, 1<sup>er</sup> juin, 1<sup>er</sup> septembre et 1<sup>er</sup> décembre.
 
 Le versement résultant de la régularisation mentionnée au deuxième alinéa des mêmes III et II bis est effectué, sur appel de ces mêmes organismes, au plus tard le 1er décembre de l'année suivante. Lorsque la régularisation fait apparaître un trop-perçu, celui-ci est imputé sur les versements provisionnels de l'année ultérieure, la part éventuelle restante étant restituée à l'issue.
 

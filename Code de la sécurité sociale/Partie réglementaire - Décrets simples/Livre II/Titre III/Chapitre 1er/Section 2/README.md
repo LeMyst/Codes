@@ -1,1 +1,1 @@
-Section 2 : Fonctionnement.
+# Section 2 : Fonctionnement.

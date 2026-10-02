@@ -2,7 +2,7 @@
 
 I. - La suppression de la fraction de pension prévue au premier alinéa de l'article L. 161-22-1-8 prend effet au premier jour du mois suivant celui où les conditions de suppression sont remplies.
 
-Pour l'application du premier alinéa de l'article L. 161-22-1-8, le montant des revenus professionnels perçu antérieurement au service de la fraction de pension est actualisé au 1er janvier en fonction des coefficients de revalorisation définis à l'article L. 161-25.
+Pour l'application du premier alinéa de l'article L. 161-22-1-8, le montant des revenus professionnels perçu antérieurement au service de la fraction de pension est actualisé au 1<sup>er</sup> janvier en fonction des coefficients de revalorisation définis à l'article L. 161-25.
 
 Pour les assurés dont la cessation progressive d'activité s'est traduite par une cession de terres ou de parts sociales, les conditions de cette cessation ne sont plus respectées lorsque la superficie totale de l'exploitation ou le nombre de parts sociales détenues dans la société dans laquelle ces assurés exerçaient leur activité atteint ou excède à nouveau la superficie ou le nombre de parts sociales détenues antérieurement à l'entrée dans le dispositif de retraite progressive.
 

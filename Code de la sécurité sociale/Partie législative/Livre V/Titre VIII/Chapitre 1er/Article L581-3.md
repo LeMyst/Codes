@@ -7,4 +7,4 @@ L'organisme débiteur des prestations familiales a droit, en priorité sur les s
 Avec l'accord du créancier d'aliments, l'organisme débiteur des prestations familiales poursuit également, lorsqu'elle est afférente aux mêmes périodes, le recouvrement de la créance alimentaire du conjoint, de l'ex-conjoint et des autres enfants du débiteur ainsi que les créances des articles 214, 276 et 342 du code civil.
 
 NOTA:
-Conformément au IV de l'article 98 de la loi n° 2025-1403 du 31 décembre 2025, ces dispositions, dans leur rédaction résultant de l'article précité, entrent en vigueur le 1er avril 2026.
+Conformément au IV de l'article 98 de la loi n° 2025-1403 du 31 décembre 2025, ces dispositions, dans leur rédaction résultant de l'article précité, entrent en vigueur le 1<sup>er</sup> avril 2026.

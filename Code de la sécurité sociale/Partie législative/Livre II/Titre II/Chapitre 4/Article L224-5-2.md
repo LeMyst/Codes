@@ -25,4 +25,4 @@ Le comité a notamment pour rôle :
 5° De mettre en place dans des conditions définies par négociation avec les fédérations signataires de la convention collective nationale une instance nationale de concertation réunissant les caisses nationales et ces fédérations consultée, au moins une fois par an, sur toutes les questions institutionnelles ayant un impact sur l'organisation du travail et l'emploi, notamment à l'occasion de l'élaboration des conventions d'objectifs et de gestion, des plans stratégiques de branche, des projets nationaux et schémas directeurs informatiques.
 
 NOTA:
-Conformément au I de l’article 5 de l’ordonnance n° 2021-1554 du 1er décembre 2021, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard le 30 juin 2022. L’article 1 du décret n° 2022-801 du 12 mai 2022 a fixé cette date au 14 mai 2022.
+Conformément au I de l’article 5 de l’ordonnance n° 2021-1554 du 1<sup>er</sup> décembre 2021, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard le 30 juin 2022. L’article 1 du décret n° 2022-801 du 12 mai 2022 a fixé cette date au 14 mai 2022.

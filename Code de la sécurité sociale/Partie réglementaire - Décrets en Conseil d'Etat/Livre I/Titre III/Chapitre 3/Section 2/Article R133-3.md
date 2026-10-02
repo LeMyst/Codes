@@ -9,4 +9,4 @@ Le débiteur peut former opposition par inscription au secrétariat du tribunal 
 La décision du tribunal, statuant sur opposition, se substitue à la contrainte. Elle est exécutoire de droit à titre provisoire.
 
 NOTA:
-Conformément au 1° et au c) du 2° de l'article 21 du décret n° 2026-683 du 27 juillet 2026, ces dispositions, dans leur rédaction résultant de l'article 12 du décret précité, entrent en vigueur le 1er octobre 2026 et sont applicables aux décisions rendues à compter de la date d'entrée en vigueur du décret.
+Conformément au 1° et au c) du 2° de l'article 21 du décret n° 2026-683 du 27 juillet 2026, ces dispositions, dans leur rédaction résultant de l'article 12 du décret précité, entrent en vigueur le 1<sup>er</sup> octobre 2026 et sont applicables aux décisions rendues à compter de la date d'entrée en vigueur du décret.

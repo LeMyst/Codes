@@ -11,6 +11,6 @@ Le premier alinéa ne s'applique pas :
 NOTA:
 Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.
 
-Conformément au XI de l'article 102 de la loi n° 2025-1403, cet article s'applique aux assurés qui entrent en jouissance de leur première pension de vieillesse de base à compter du 1er janvier 2027.
+Conformément au XI de l'article 102 de la loi n° 2025-1403, cet article s'applique aux assurés qui entrent en jouissance de leur première pension de vieillesse de base à compter du 1<sup>er</sup> janvier 2027.
 
 Par dérogation, ledit article n'est pas applicable lorsque le titulaire de la pension est entré en jouissance, avant cette date, d'une autre pension de vieillesse de base, à l'exception d'une pension liquidée au titre des 1° à 5° de l'article L. 161-22-1-2 du code de la sécurité sociale dans sa rédaction résultant dudit article.

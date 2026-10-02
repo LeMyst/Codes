@@ -35,4 +35,4 @@ Conformément au VI de l'article 28 de la loi n° 2025-1403 du 30 décembre 2025
 
 Le IV du présent article est applicable uniquement pour la contribution due au titre de 2025.
 
-À compter du 1er janvier 2027, le présent article sera modifié par les dispositions résultant de l’article 28 de la loi n° 2023-1250 du 26 décembre 2023 modifiée.
+À compter du 1<sup>er</sup> janvier 2027, le présent article sera modifié par les dispositions résultant de l’article 28 de la loi n° 2023-1250 du 26 décembre 2023 modifiée.

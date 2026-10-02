@@ -13,6 +13,6 @@ La pénalité est recouvrée par les organismes mentionnés à l'article L. 213-
 III.-L'organisme de recouvrement compétent en application des dispositions de l'article L. 165-1-6 informe les ministres chargés de la santé et de la sécurité sociale des montants perçus.
 
 NOTA:
-Conformément à l’article 3 du décret n° 2026-488 du 3 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le 1er septembre 2026.
+Conformément à l’article 3 du décret n° 2026-488 du 3 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le 1<sup>er</sup> septembre 2026.
 
 Les demandes d'autorisation d'accès précoce ou compassionnel introduites avant l'entrée en vigueur dudit décret demeurent régies par les dispositions antérieurement applicables.

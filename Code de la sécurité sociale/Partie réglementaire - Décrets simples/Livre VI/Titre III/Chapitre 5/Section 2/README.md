@@ -1,1 +1,1 @@
-Section 2 : Régimes d'assurance invalidité-décès
+# Section 2 : Régimes d'assurance invalidité-décès

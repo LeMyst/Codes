@@ -8,9 +8,9 @@ Lorsque le contrat de travail d'un salarié ne couvre pas l'intégralité des p�
 
 Le plafond est également réduit :
 
-– pour tenir compte des périodes d'activités partielles indemnisées dans les conditions fixées à l'article L. 5122-1 du code du travail, en cas d'intempéries, indemnisées dans les conditions fixées par les articles L. 5424-6 et suivants du code du travail ainsi que des périodes d'absence pour congés payés, lorsque les indemnités correspondantes sont versées à l'assuré par une caisse de congés payés créée en application de l'article L. 3141-30 du même code ;
+- pour tenir compte des périodes d'activités partielles indemnisées dans les conditions fixées à l'article L. 5122-1 du code du travail, en cas d'intempéries, indemnisées dans les conditions fixées par les articles L. 5424-6 et suivants du code du travail ainsi que des périodes d'absence pour congés payés, lorsque les indemnités correspondantes sont versées à l'assuré par une caisse de congés payés créée en application de l'article L. 3141-30 du même code ;
 
-– pour tenir compte de périodes d'absence n'ayant pas donné lieu à rémunération.
+- pour tenir compte de périodes d'absence n'ayant pas donné lieu à rémunération.
 
 Pour les salariés mentionnés à l'article L. 3123-1 du code du travail autres que ceux mentionnés à l'article L. 242-10, l'employeur est en droit de corriger le plafond, sans pouvoir augmenter sa valeur mensuelle, à due proportion de la durée de travail inscrite à leur contrat de travail au titre de la période où ils sont présents dans l'entreprise, majorée du nombre d'heures complémentaires au sens des articles L. 3123-8, L. 3123-20, L. 3123-21 et L. 3123-28 du code du travail effectuées au cours de la période mentionnée aux deux premiers alinéas, rapportée à celle correspondant à la plus courte des durées mentionnées au 1° de l'article L. 3123-1 du code du travail.
 

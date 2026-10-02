@@ -13,4 +13,4 @@ Les dispositions prévues aux deuxième à quatrième alinéas du présent artic
 L'affiliation est prononcée par l'organisme mentionné à l'article L. 213-1 désigné par le directeur de l'Agence centrale des organismes de sécurité sociale. Une commission professionnelle peut être saisie par le demandeur dont l'affiliation a été refusée. Cette commission comprend des représentants des artistes auteurs de chacune des branches professionnelles, désignés par le conseil d'administration de l'association mentionné à l'article L. 382-2. Elle donne un avis sur l'affiliation du demandeur.
 
 NOTA:
-Conformément au 1° du IV de l'article 8 de la loi n° 2025-1403 du 31 décembre 2025, ces dispositions, dans leur rédaction résultant du 1° du I de l'article précité, entrent en vigueur le 1er avril 2026.
+Conformément au 1° du IV de l'article 8 de la loi n° 2025-1403 du 31 décembre 2025, ces dispositions, dans leur rédaction résultant du 1° du I de l'article précité, entrent en vigueur le 1<sup>er</sup> avril 2026.

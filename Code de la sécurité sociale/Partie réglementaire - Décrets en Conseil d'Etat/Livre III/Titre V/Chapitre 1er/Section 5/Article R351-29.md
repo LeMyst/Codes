@@ -8,7 +8,7 @@ Les salaires annuels pris en considération pour déterminer le salaire de base 
 
 C.-Ne sont pas prises en compte pour la détermination du salaire annuel moyen défini au présent article :
 
-1° Les années comprenant une période au titre de laquelle un versement de cotisations a été effectué en application de l'article L. 351-14-1 ou en application, en ce qui concerne des demandes de rachat présentées à compter du 1 er janvier 2011, des articles L. 351-14, L. 742-2 et R. 382-138 et de la loi n° 85-1274 du 4 décembre 1985 portant amélioration des retraites des rapatriés ;
+1° Les années comprenant une période au titre de laquelle un versement de cotisations a été effectué en application de l'article L. 351-14-1 ou en application, en ce qui concerne des demandes de rachat présentées à compter du 1 <sup>er</sup> janvier 2011, des articles L. 351-14, L. 742-2 et R. 382-138 et de la loi n° 85-1274 du 4 décembre 1985 portant amélioration des retraites des rapatriés ;
 
 2° L'année d'entrée en jouissance de la pension ;
 

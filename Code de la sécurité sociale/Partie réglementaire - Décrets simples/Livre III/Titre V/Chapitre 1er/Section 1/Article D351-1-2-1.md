@@ -33,4 +33,4 @@ En application du 3° de l'article L. 351-1-1, sont pris en compte pour l'appré
 15° Les majorations de durée d'assurance accordées au titre du deuxième alinéa du III, de l'article 13 du décret n° 2008-639 du 30 juin 2008 relatif au régime spécial de retraite du personnel de la société nationale SNCF et ses filiales et groupements d'intérêt économique relevant du champ du I de l'article L. 2101-2 du code des transports.
 
 NOTA:
-Conformément à l'article 5 du décret n° 2026-700 du 29 juillet 2026, ces dispositions, dans leur rédaction issue du 1° de l'article 2 du décret précité, s'appliquent aux pensions prenant en effet à compter du 1er septembre 2026.
+Conformément à l'article 5 du décret n° 2026-700 du 29 juillet 2026, ces dispositions, dans leur rédaction issue du 1° de l'article 2 du décret précité, s'appliquent aux pensions prenant en effet à compter du 1<sup>er</sup> septembre 2026.

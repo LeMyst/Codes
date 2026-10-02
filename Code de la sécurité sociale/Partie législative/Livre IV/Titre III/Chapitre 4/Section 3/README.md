@@ -1,1 +1,5 @@
-Section 3 : Dispositions communes
+# Section 3 : Dispositions communes
+
+- [Sous-section 2 : Calcul de la rente.](Sous-section%202/README.md)
+- [Sous-section 4 : Entrée en jouissance et service de la rente.](Sous-section%204/README.md)
+- [Sous-section 5 : Travailleurs étrangers.](Sous-section%205/README.md)

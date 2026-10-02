@@ -5,9 +5,10 @@ Le taux de la ristourne visée à l'article D. 763-2 est obtenu par application 
 Taux de la ristourne :\
 (taux légal n / 4)
 
-- (taux brut n - 3 + taux brut n - 2 + taux brut n - 1) / 12\
-  de l'année n,\
-  dans laquelle :
+- (taux brut n - 3 + taux brut n - 2 + taux brut n - 1) / 12
+
+de l'année n,\
+dans laquelle :
 
 1. n est l'année d'attribution de la ristourne ;
 

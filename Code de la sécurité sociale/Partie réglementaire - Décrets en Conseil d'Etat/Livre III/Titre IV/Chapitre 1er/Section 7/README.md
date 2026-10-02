@@ -1,1 +1,1 @@
-Section 7 : Dispositions diverses.
+# Section 7 : Dispositions diverses.

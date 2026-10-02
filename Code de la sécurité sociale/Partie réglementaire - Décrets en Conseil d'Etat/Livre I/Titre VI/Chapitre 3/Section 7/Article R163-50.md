@@ -19,6 +19,6 @@ Soit le titulaire des droits d'exploitation ou son mandataire, soit l'entreprise
 8° Le cas échant, les extensions d'indication susceptibles de faire l'objet d'une demande de prise en charge dans les deux années suivant la demande ainsi que leur calendrier prévisionnel de mise sur le marché.
 
 NOTA:
-Conformément à l’article 3 du décret n° 2026-488 du 3 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le 1er septembre 2026.
+Conformément à l’article 3 du décret n° 2026-488 du 3 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le 1<sup>er</sup> septembre 2026.
 
 Les demandes d'autorisation d'accès précoce ou compassionnel introduites avant l'entrée en vigueur dudit décret demeurent régies par les dispositions antérieurement applicables.

@@ -53,4 +53,4 @@ Lorsqu'un organisme chargé du recouvrement est avisé, par la transmission du p
 VIII.-Lorsque les exonérations mentionnées aux III et IV sont dégressives, le montant de celles-ci est déterminé par l'application d'une formule de calcul définie par décret. La valeur maximale du coefficient de dégressivité retenu pour cette formule est fixée par décret, dans la limite de la somme des taux des cotisations mentionnées au I pour une rémunération égale au salaire minimum de croissance.
 
 NOTA:
-Conformément au VIII de l'article 40 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du même article, entrent en vigueur le 1er janvier 2026 et s'appliquent aux cotisations et contributions dues aux titres des périodes d'activité courant à compter de cette même date.
+Conformément au VIII de l'article 40 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du même article, entrent en vigueur le 1<sup>er</sup> janvier 2026 et s'appliquent aux cotisations et contributions dues aux titres des périodes d'activité courant à compter de cette même date.

@@ -5,4 +5,4 @@ La cotisation due au titre des personnes mentionnées à l'article L. 381-1, à 
 Cette cotisation est calculée sur la base d'une assiette forfaitaire égale, par mois, à 169 fois le salaire horaire minimum de croissance en vigueur au 1er juillet de l'année civile précédente.
 
 NOTA:
-Conformément au I de l’article 6 du décret n° 2023-752 du 10 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023. Se reporter aux conditions d’application prévues au III dudit article.
+Conformément au I de l’article 6 du décret n° 2023-752 du 10 août 2023, ces dispositions entrent en vigueur le 1<sup>er</sup> septembre 2023. Se reporter aux conditions d’application prévues au III dudit article.

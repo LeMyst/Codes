@@ -57,4 +57,4 @@ Les dispositions du chapitre II du titre IV du livre Ier sont applicables aux ob
 V.-Les documents mentionnés au présent article sont adressés à la personne contrôlée selon les modalités définies au troisième alinéa du I.
 
 NOTA:
-Conformément à l'article 4 du décret n° 2025-1338 du 26 décembre 2025, ces dispositions, dans leur rédaction résultant du a du 4° de l'article 1er du décret précité, entrent en vigueur au 1er janvier 2026 et s'appliquent aux procédures engagées à compter de cette date.
+Conformément à l'article 4 du décret n° 2025-1338 du 26 décembre 2025, ces dispositions, dans leur rédaction résultant du a du 4° de l'article 1er du décret précité, entrent en vigueur au 1<sup>er</sup> janvier 2026 et s'appliquent aux procédures engagées à compter de cette date.

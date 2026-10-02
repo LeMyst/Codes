@@ -25,6 +25,6 @@ Le directeur et l'agent comptable assistent, avec voix consultative, aux séance
 Le pouvoir de contrôle dont dispose le conseil d'administration d'un organisme de sécurité sociale sur le fonctionnement général de cet organisme ne l'autorise pas à se substituer ou à donner des injonctions au directeur ou au médecin conseil responsable du service chargé du contrôle médical dans l'exercice des pouvoirs propres de décision qui sont reconnus à ces derniers par les dispositions réglementaires applicables, ni à annuler ou à réformer les décisions prises à ce titre.
 
 NOTA:
-Conformément à l’article 4 du décret n° 2025-599 du 30 juin 2025, ces dispositions entrent en vigueur le 1er octobre 2025.
+Conformément à l’article 4 du décret n° 2025-599 du 30 juin 2025, ces dispositions entrent en vigueur le 1<sup>er</sup> octobre 2025.
 
 Les activités et les personnels des échelons locaux et régionaux du service du contrôle médical du régime général restent régis, jusqu'à leur transfert aux caisses locales et au plus tard jusqu'au 31 décembre 2025, par les dispositions antérieurement applicables.

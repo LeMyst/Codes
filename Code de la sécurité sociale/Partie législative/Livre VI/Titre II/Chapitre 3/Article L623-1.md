@@ -29,7 +29,7 @@ IV.-Un décret détermine les modalités d'application du présent article et no
 Les montants des prestations sont revalorisés dans les mêmes conditions que celles fixées pour le plafond prévu à l'article L. 241-3.
 
 NOTA:
-Conformément au IV de l’article 73 de la loi n° 2020-1576 du 14 décembre 2020, le présent article entre en vigueur le 1er juillet 2021. Il s'applique aux enfants nés ou adoptés à compter de cette date ainsi qu'aux enfants, nés avant cette date, dont la naissance était supposée intervenir à compter de cette date.
+Conformément au IV de l’article 73 de la loi n° 2020-1576 du 14 décembre 2020, le présent article entre en vigueur le 1<sup>er</sup> juillet 2021. Il s'applique aux enfants nés ou adoptés à compter de cette date ainsi qu'aux enfants, nés avant cette date, dont la naissance était supposée intervenir à compter de cette date.
 
 Par dérogation au premier alinéa du présent IV, les dispositions du présent article relatives à l'information de l'employeur sur la date prévisionnelle de la naissance s'appliquent aux naissances prévues à compter du 1er juillet 2021.
 

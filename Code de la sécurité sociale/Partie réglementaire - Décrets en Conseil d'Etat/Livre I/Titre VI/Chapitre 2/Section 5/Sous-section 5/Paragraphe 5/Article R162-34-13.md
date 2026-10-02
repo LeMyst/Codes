@@ -29,4 +29,4 @@ VI.-Sont réputées inscrites sur la liste mentionnée à l'article L. 162-23-6 
 Lorsque la ou les indications d'une spécialité pharmaceutique sont radiées de la liste mentionnée à l'article L. 162-22-7 en application des dispositions de l'article R. 162-37-4, cette spécialité pharmaceutique est inscrite, à l'initiative des ministres de la santé et de la sécurité sociale et conformément au II de l'article R. 162-34-12, sur la liste mentionnée à l'article L. 162-23-6 à compter de la date de radiation, sous réserve qu'elle respecte les conditions prévues au présent article.
 
 NOTA:
-Conformément à l'article 2 du décret n° 2025-1286 du 22 décembre 2025, ces dispositions, dans leur rédaction issue du 6° de l'article 1er du décret précité, entrent en vigueur le 1er janvier 2026.
+Conformément à l'article 2 du décret n° 2025-1286 du 22 décembre 2025, ces dispositions, dans leur rédaction issue du 6° de l'article 1er du décret précité, entrent en vigueur le 1<sup>er</sup> janvier 2026.

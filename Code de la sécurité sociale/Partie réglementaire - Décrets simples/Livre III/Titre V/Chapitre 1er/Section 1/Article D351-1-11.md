@@ -25,4 +25,4 @@ Le secrétariat de la commission pluridisciplinaire est assuré par la caisse ch
 Les membres de la commission pluridisciplinaire sont astreints au secret professionnel. Ils sont remboursés de leurs frais de déplacement. Le membre mentionné au 4° perçoit pour sa participation aux travaux de la commission une rémunération dans des conditions fixées par arrêté des ministres chargés de la sécurité sociale et du budget.
 
 NOTA:
-Conformément au II de l’article 2 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux pensions prenant effet à compter du 1er janvier 2026.
+Conformément au II de l’article 2 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux pensions prenant effet à compter du 1<sup>er</sup> janvier 2026.

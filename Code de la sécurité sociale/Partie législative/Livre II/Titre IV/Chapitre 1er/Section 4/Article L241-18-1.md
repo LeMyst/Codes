@@ -25,4 +25,4 @@ VII. - Le présent article est applicable à Mayotte et à Saint-Pierre-et-Mique
 NOTA:
 Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.
 
-Conformément au II de l'article 21 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du I de l'article précité, sont applicables aux revenus d'activité versés au titre des périodes d'emploi courant à compter du 1er janvier 2026.
+Conformément au II de l'article 21 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du I de l'article précité, sont applicables aux revenus d'activité versés au titre des périodes d'emploi courant à compter du 1<sup>er</sup> janvier 2026.

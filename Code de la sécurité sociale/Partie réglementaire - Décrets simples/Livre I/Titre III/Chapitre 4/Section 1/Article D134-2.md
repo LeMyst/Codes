@@ -5,4 +5,4 @@ La compensation prévue à l'article L. 134-1 est calculée entre le régime gé
 Le solde de la compensation est égal, pour chaque régime, à la différence entre le produit de la cotisation proportionnelle et le montant des prestations calculées sur la base du régime fictif, définis au deuxième alinéa ci-dessus.
 
 NOTA:
-Conformément au I de l’article 6 du décret n° 2023-754 du 10 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.
+Conformément au I de l’article 6 du décret n° 2023-754 du 10 août 2023, ces dispositions entrent en vigueur le 1<sup>er</sup> septembre 2023.

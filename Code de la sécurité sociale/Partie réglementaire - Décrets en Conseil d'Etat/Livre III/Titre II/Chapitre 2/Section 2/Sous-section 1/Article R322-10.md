@@ -29,4 +29,4 @@ d) Pour se rendre à la consultation d'un expert désigné en application de l'a
 e) Pour se rendre à la convocation de la commission saisie en application de l'article R. 142-8 ou du médecin désigné par cette dernière en application de l'article R. 142-8-4.
 
 NOTA:
-Conformément au second alinéa de l'article 2 du décret n° 2026-812 du 21 août 2026, ces dispositions, dans leur rédaction issue du 1° de l'article 1er du décret précité, entrent en vigueur le 1er octobre 2026.
+Conformément au second alinéa de l'article 2 du décret n° 2026-812 du 21 août 2026, ces dispositions, dans leur rédaction issue du 1° de l'article 1er du décret précité, entrent en vigueur le 1<sup>er</sup> octobre 2026.

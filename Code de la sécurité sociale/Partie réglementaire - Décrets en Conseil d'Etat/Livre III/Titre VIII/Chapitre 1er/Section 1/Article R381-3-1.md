@@ -11,4 +11,4 @@ b) 50 % de la valeur de 169 fois le salaire minimum de croissance pour la presta
 c) 20 % de la valeur de 169 fois le salaire minimum de croissance pour la prestation partagée d'éducation de l'enfant au taux de 36,03 % de la base mensuelle des allocations familiales ;
 
 NOTA:
-Conformément au I de l’article 6 du décret n° 2023-752 du 10 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023. Se reporter aux conditions d’application prévues au III dudit article.
+Conformément au I de l’article 6 du décret n° 2023-752 du 10 août 2023, ces dispositions entrent en vigueur le 1<sup>er</sup> septembre 2023. Se reporter aux conditions d’application prévues au III dudit article.

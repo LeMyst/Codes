@@ -11,4 +11,4 @@ II. - Lorsqu'en application du 8e alinéa du II de l'article L. 315-2, les minis
 L'absence de réponse du collège à la saisine précitée dans le délai de deux mois vaut refus.
 
 NOTA:
-Conformément à l'article 2 du décret n° 2025-1139 du 27 novembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er décembre 2025.
+Conformément à l'article 2 du décret n° 2025-1139 du 27 novembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1<sup>er</sup> décembre 2025.

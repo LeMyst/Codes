@@ -5,4 +5,4 @@ I. - Le conseil et les conseils d'administration des caisses nationales et de l'
 II. - Les collèges mentionnés aux 1°, 2°, 3°, 5° et 6° du II de l'article L. 223-7 comprennent autant de femmes que d'hommes selon les modalités prévues au I.
 
 NOTA:
-Se reporter aux conditions d’application prévues au 2° du II de l’article 5 de l’ordonnance n° 2021-1554 du 1er décembre 2021.
+Se reporter aux conditions d’application prévues au 2° du II de l’article 5 de l’ordonnance n° 2021-1554 du 1<sup>er</sup> décembre 2021.

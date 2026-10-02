@@ -1,1 +1,1 @@
-Sous-section 3 : Associations intermédiaires.
+# Sous-section 3 : Associations intermédiaires.

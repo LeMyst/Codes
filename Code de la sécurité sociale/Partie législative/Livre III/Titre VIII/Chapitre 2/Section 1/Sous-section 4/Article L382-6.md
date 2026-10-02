@@ -7,4 +7,4 @@ Les personnes mentionnées à l'article L. 382-4 sont soumises, sous peine des p
 NOTA:
 Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.
 
-Conformément au IV de l'article 8 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de l'article précité, s'appliquent à compter du 1er janvier 2026.
+Conformément au IV de l'article 8 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de l'article précité, s'appliquent à compter du 1<sup>er</sup> janvier 2026.

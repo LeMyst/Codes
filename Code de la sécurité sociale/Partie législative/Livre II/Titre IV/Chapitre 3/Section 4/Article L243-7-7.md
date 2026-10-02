@@ -21,4 +21,4 @@ III. - En cas de nouvelle constatation de travail dissimulé dans les cinq ans s
 IV. - Les modalités d'application du présent article, en particulier la manière dont est assuré le respect du principe du contradictoire, sont déterminées par décret en Conseil d'Etat.
 
 NOTA:
-Conformément au II de l'article 77 de la loi n° 2026-534 du 25 juin 2026, ces dispositions, dans leur rédaction résultant du I de l'article précité, s'appliquent aux procédures engagées à compter d'une date fixée par décret, et au plus tard du 1er janvier 2027.
+Conformément au II de l'article 77 de la loi n° 2026-534 du 25 juin 2026, ces dispositions, dans leur rédaction résultant du I de l'article précité, s'appliquent aux procédures engagées à compter d'une date fixée par décret, et au plus tard du 1<sup>er</sup> janvier 2027.

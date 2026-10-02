@@ -1,1 +1,1 @@
-Sous-section 2 : Entreprises pharmaceutiques.
+# Sous-section 2 : Entreprises pharmaceutiques.

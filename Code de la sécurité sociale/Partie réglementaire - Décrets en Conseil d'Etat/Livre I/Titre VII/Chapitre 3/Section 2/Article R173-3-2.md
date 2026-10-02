@@ -27,4 +27,4 @@ A chaque étape, lorsque le total des nombres d'années obtenus est supérieur a
 III. - Par dérogation au I, le nombre d'années mentionné à ce I est égal, pour les assurés nés avant le 1 er janvier 1948, à celui mentionné à l'article R. 351-29-1 dans sa rédaction antérieure au décret n° 2025-1409 du 30 décembre 2025 relatif aux pensions de retraite des personnes non salariées des professions agricoles et portant diverses dispositions en matière de retraite.
 
 NOTA:
-Conformément à l'article 6 du décret n° 2026-699 du 29 juillet 2026, ces dispositions, dans leur rédaction résultant du 1° de l'article 1er du décret précité, s'appliquent aux pensions prenant effet à compter du 1er septembre 2026.
+Conformément à l'article 6 du décret n° 2026-699 du 29 juillet 2026, ces dispositions, dans leur rédaction résultant du 1° de l'article 1<sup>er</sup> du décret précité, s'appliquent aux pensions prenant effet à compter du 1<sup>er</sup> septembre 2026.

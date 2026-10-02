@@ -1,1 +1,1 @@
-Section 1 : Dispositions relatives à la résidence.
+# Section 1 : Dispositions relatives à la résidence.

@@ -11,4 +11,4 @@ Lorsqu'il apparaît que des prestations versées correspondent à des sommes ind
 NOTA:
 Conformément au II de l'article 4 du décret n° 2017-656 du 27 avril 2017, les dispositions du présent article sont applicables aux mutuelles et groupements mutualistes mentionnés au A du XIII de l'article 59 de la loi n° 2015-1702 du 21 décembre 2015 de financement de la sécurité sociale pour 2016.
 
-Conformément au IV du même article du même décret les dispositions du 1er alinéa du présent article entrent en vigueur le 1er janvier 2019.
+Conformément au IV du même article du même décret les dispositions du 1<sup>er</sup> alinéa du présent article entrent en vigueur le 1er janvier 2019.

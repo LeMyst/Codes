@@ -2,9 +2,9 @@
 
 I.-Pour les salariés mentionnés au IV de l'article L. 241-13, le coefficient mentionné au deuxième alinéa du III est calculé selon la formule suivante :
 
-Coefficient = (Tmin + (Tdelta × [(1/2) × (3 × a × salaire minimum calculé pour un an / rémunération annuelle brute - 1)]P)) × b
+Coefficient = (T<sub>min</sub> + (T<sub>delta</sub> × [(1/2) × (3 × a × salaire minimum calculé pour un an / rémunération annuelle brute - 1)]<sup>P</sup>)) × b
 
-Les valeurs notées Tmin, Tdelta et P, ainsi que les montants du salaire minimum calculé pour un an et de la rémunération brute sont identiques à ceux mentionnés à l'article D. 241-7.
+Les valeurs notées T<sub>min</sub>, T<sub>delta</sub> et P, ainsi que les montants du salaire minimum calculé pour un an et de la rémunération brute sont identiques à ceux mentionnés à l'article D. 241-7.
 
 Le septième alinéa du IV de l'article D. 241-7 du même code est applicable si la valeur a à prendre en compte évolue en cours d'année.
 

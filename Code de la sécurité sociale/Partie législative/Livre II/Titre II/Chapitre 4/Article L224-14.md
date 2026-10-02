@@ -5,4 +5,4 @@ Les caisses nationales mentionnées aux articles L. 221-2, L. 222-4 , L. 223-2 e
 Elles peuvent requérir la participation de leurs organismes régionaux et locaux à ces actions.
 
 NOTA:
-Conformément au I de l’article 5 de l’ordonnance n° 2021-1554 du 1er décembre 2021, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard le 30 juin 2022. L’article 1 du décret n° 2022-801 du 12 mai 2022 a fixé cette date au 14 mai 2022.
+Conformément au I de l’article 5 de l’ordonnance n° 2021-1554 du 1<sup>er</sup> décembre 2021, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard le 30 juin 2022. L’article 1 du décret n° 2022-801 du 12 mai 2022 a fixé cette date au 14 mai 2022.

@@ -1,1 +1,1 @@
-Chapitre 6 : Dispositions diverses
+# Chapitre 6 : Dispositions diverses

@@ -9,4 +9,4 @@ Un décret en Conseil d'Etat précise les modalités de détermination et de mis
 Un arrêté des ministres chargés de la santé et de la sécurité sociale dresse la liste des indicateurs liés à la qualité et la sécurité des soins et leurs modalités d'évaluation.
 
 NOTA:
-Conformément au III de l'article 79 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 79 précité, entrent en vigueur le 1er janvier 2026.
+Conformément au III de l'article 79 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 79 précité, entrent en vigueur le 1<sup>er</sup> janvier 2026.

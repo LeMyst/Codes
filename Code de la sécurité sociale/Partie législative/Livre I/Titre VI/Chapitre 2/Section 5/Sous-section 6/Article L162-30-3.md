@@ -11,4 +11,4 @@ Ce volet fixe, pour les actes, prestations et prescriptions qui présentent des 
 Les modalités d'élaboration du plan d'actions régional mentionné au deuxième alinéa du présent article, les catégories et le nombre d'actes, de prestations ou de prescriptions servant de base à la conclusion d'un volet consacré à ce plan dans les contrats ainsi que la nature des données prises en compte et les méthodes utilisées pour arrêter ces référentiels et vérifier la conformité des pratiques des établissements sont déterminées par décret.
 
 NOTA:
-Conformément au III de l'article 79 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 79 précité, entrent en vigueur le 1er janvier 2026.
+Conformément au III de l'article 79 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 79 précité, entrent en vigueur le 1<sup>er</sup> janvier 2026.

@@ -2,9 +2,8 @@
 
 Le montant total de la contribution est calculé comme suit :
 
-| | |
-| --- | --- |
-| CHIFFRE D'AFFAIRES de l'ensemble des entreprises redevables (CA) | TAUX DE LA CONTRIBUTION (exprimé en % de la part du chiffre d'affaires concernée) |
+| CHIFFRE D'AFFAIRES<br>de l'ensemble des entreprises redevables (CA) | TAUX DE LA CONTRIBUTION<br>(exprimé en % de la part du chiffre d'affaires concernée) |
+| -- | -- |
 | CA supérieur à M et inférieur ou égal à M multiplié par 1,005 | 50 % |
 | CA supérieur à M multiplié par 1,005 et inférieur ou égal à M multiplié par 1,01 | 60 % |
 | CA supérieur à M multiplié par 1,01 | 70 % |

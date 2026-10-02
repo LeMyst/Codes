@@ -9,4 +9,4 @@ Dans un délai de quinze jours suivant la publication de l'arrêté mentionné �
 3° Le montant des dotations régionales visant à financer les missions spécifiques et les actions mentionnées aux 1° et 2° de l'article L. 162-22-5.
 
 NOTA:
-Conformément à l'article 5 du décret n° 2025-1390 du 28 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er janvier 2026.
+Conformément à l'article 5 du décret n° 2025-1390 du 28 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1<sup>er</sup> janvier 2026.

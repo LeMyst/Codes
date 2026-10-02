@@ -1,1 +1,4 @@
-Chapitre 2 : Organisation financière
+# Chapitre 2 : Organisation financière
+
+- [Section 1 : Recouvrement](Section%201/README.md)
+- [Section 2 : Déclaration et règlement simplifiés des cotisations et contributions sociales de l'exercice libéral pour les médecins remplaçants](Section%202/README.md)

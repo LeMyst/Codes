@@ -23,4 +23,4 @@ III.-Le bénéfice de l'exonération mentionnée au I du présent article ne peu
 IV.-Une personne ne peut bénéficier de l'exonération mentionnée au I pendant une période de trois ans à compter de la date à laquelle elle a cessé d'en bénéficier au titre d'une activité antérieure.
 
 NOTA:
-Conformément au B du V de l'article 23 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du A du II du même article, entrent en vigueur le 1er janvier 2026 et s'appliquent aux cotisations et contributions dues au titre des périodes d'activités courant à compter de cette date.
+Conformément au B du V de l'article 23 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du A du II du même article, entrent en vigueur le 1<sup>er</sup> janvier 2026 et s'appliquent aux cotisations et contributions dues au titre des périodes d'activités courant à compter de cette date.

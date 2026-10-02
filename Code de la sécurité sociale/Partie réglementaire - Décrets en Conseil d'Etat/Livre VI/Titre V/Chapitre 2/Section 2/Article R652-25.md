@@ -7,4 +7,4 @@ Les titres exécutoires sont signifiés par acte d'huissier de justice ou notifi
 Dans un délai de quinze jours à compter de la signification du titre exécutoire, le débiteur peut former opposition devant le tribunal judiciaire. Le juge territorialement compétent est celui du lieu du siège de la Caisse nationale des barreaux français. L'opposition est motivée.
 
 NOTA:
-Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.
+Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2020.

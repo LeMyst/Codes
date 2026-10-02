@@ -9,4 +9,4 @@ Toutefois, pour les personnes mentionnées à l'article L. 131-9 :
 2° Les bénéficiaires des avantages mentionnés au 2° du même article sont redevables d'une cotisation au taux de 2,80 %.
 
 NOTA:
-Conformément à l'article 7 du décret n° 2018-162 du 6 mars 2018, ces dispositions s'appliquent aux cotisations de sécurité sociale dues au titre des périodes courant à compter du 1er mars 2018.
+Conformément à l'article 7 du décret n° 2018-162 du 6 mars 2018, ces dispositions s'appliquent aux cotisations de sécurité sociale dues au titre des périodes courant à compter du 1<sup>er</sup> mars 2018.

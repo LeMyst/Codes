@@ -1,1 +1,21 @@
-Chapitre 2 : Dispositions générales relatives aux soins
+# Chapitre 2 : Dispositions générales relatives aux soins
+
+- [Section 1 : Carnet de santé.](Section%201/README.md)
+- [Section 1-1 : Médecins.](Section%201-1/README.md)
+- [Section 1-2 : Soins palliatifs à domicile](Section%201-2/README.md)
+- [Section 2 : Chirurgiens-dentistes, sages-femmes et auxiliaires médicaux](Section%202/README.md)
+- [Section 3 : Biologiste responsable et biologistes-coresponsables](Section%203/README.md)
+- [Section 4 : Pharmaciens, entreprises pharmaceutiques, médecins autorisés à exercer la propharmacie](Section%204/README.md)
+- [Section 5 : Etablissements de santé](Section%205/README.md)
+- [Section 6 : Actions expérimentales](Section%206/README.md)
+- [Section 7 : Tarification des soins et agrément des appareils.](Section%207/README.md)
+- [Section 7 bis : Haut Conseil des nomenclatures](Section%207%20bis/README.md)
+- [Section 8 : Procédure conventionnelle.](Section%208/README.md)
+- [Section 9 : Dispositions relatives aux centres de planification ou d'éducation familiale](Section%209/README.md)
+- [Section 10 : Organisation des soins](Section%2010/README.md)
+- [Section 12 : Prise en charge de séances d'accompagnement réalisées par un psychologue](Section%2012/README.md)
+- [Section 13 : Activités de télésurveillance médicale](Section%2013/README.md)
+- [Section 14 : Prise en charge anticipée de dispositifs médicaux numériques à visée thérapeutique et d'activités de télésurveillance médicale](Section%2014/README.md)
+- [Section 15 : Prise en charge des actes innovants de biologie ou d'anatomopathologie](Section%2015/README.md)
+- [Section 16 : Prise en charge ou remboursement des parcours coordonnés renforcés](Section%2016/README.md)
+- [Section 17 : Conditions de prise en charge des protections périodiques réutilisables au titre de la liste prévue à l'article L. 162-59](Section%2017/README.md)

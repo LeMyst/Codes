@@ -25,4 +25,4 @@ IV. – Les dispositions de l'article R. 131-3 sont applicables pour le bénéfi
 La demande d'exonérations de cotisations sociales mentionnée au II de l'article L. 131-6-4 est introduite au plus tard le soixantième jour qui suit la date d'ouverture de l'activité telle que mentionnée par le justificatif de création d'activité délivré par l'organisme unique mentionné à l'article L. 123-33 du code de commerce.
 
 NOTA:
-Conformément au premier alinéa de l'article 3 du décret n° 2026-69 du 6 février 2026, ces dispositions, dans leur rédaction issue de l'article 1er du décret précité, entrent en vigueur le 1er janvier 2026 et s'appliquent aux créations et reprises d'entreprise intervenant à compter de cette date.
+Conformément au premier alinéa de l'article 3 du décret n° 2026-69 du 6 février 2026, ces dispositions, dans leur rédaction issue de l'article 1er du décret précité, entrent en vigueur le 1<sup>er</sup> janvier 2026 et s'appliquent aux créations et reprises d'entreprise intervenant à compter de cette date.

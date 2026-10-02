@@ -19,4 +19,4 @@ Aux fins de l'application des mêmes articles, lorsque l'assuré a été affili�
 7° Si les conditions prévues aux 1° à 6° ci-dessus ne sont pas remplies, à la Caisse nationale des barreaux français visée à l'article L. 652-1 si l'assuré a été affilié et a validé un trimestre dans ce régime.
 
 NOTA:
-Conformément au II de l’article 2 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux demandes à compter du 1er janvier 2026.
+Conformément au II de l’article 2 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux demandes à compter du 1<sup>er</sup> janvier 2026.

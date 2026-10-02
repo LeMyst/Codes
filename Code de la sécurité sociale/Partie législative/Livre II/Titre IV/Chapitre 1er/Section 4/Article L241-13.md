@@ -56,11 +56,11 @@ VIII.-Le présent article est applicable à Mayotte sous réserve des adaptation
 
 1° Les cotisations et contributions mentionnées au I s'entendent comme celles, le cas échéant, applicables à Mayotte et sont prises en considération pour leur taux également applicable ;
 
-2° Pour la réduction applicable au titre de l'année 2026, le montant mentionné au dernier alinéa du II ne peut être inférieur au salaire minimum de croissance en vigueur majoré de 60 %. Pour les réductions applicables au titre de chacune des années 2027 à 2035, ce montant est réévalué au 1er janvier de chaque année. A compter du 1er janvier 2036, il est égal au montant mentionné au I ;
+2° Pour la réduction applicable au titre de l'année 2026, le montant mentionné au dernier alinéa du II ne peut être inférieur au salaire minimum de croissance en vigueur majoré de 60 %. Pour les réductions applicables au titre de chacune des années 2027 à 2035, ce montant est réévalué au 1<sup>er</sup> janvier de chaque année. A compter du 1<sup>er</sup> janvier 2036, il est égal au montant mentionné au I ;
 
 3° Les références au salaire minimum de croissance s'entendent comme des références au salaire minimum de croissance applicable à Mayotte.
 
 NOTA:
 Conformément au B du IV de l'article 18 de la loi n° 2025-199 du 28 février 2025, le 2° du III de l'article précité est applicable aux cotisations et aux contributions dues au titre des périodes d'emploi courant à compter du 1er janvier 2026.
 
-Conformément au VIII de l'article 40 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du même article, entrent en vigueur le 1er janvier 2026 et s'appliquent aux cotisations et contributions dues aux titres des périodes d'activité courant à compter de cette même date.
+Conformément au VIII de l'article 40 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du même article, entrent en vigueur le 1<sup>er</sup> janvier 2026 et s'appliquent aux cotisations et contributions dues aux titres des périodes d'activité courant à compter de cette même date.

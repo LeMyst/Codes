@@ -19,4 +19,4 @@ Les dispositions des troisième et quatrième alinéas du présent article sont 
 4°) à la caisse des Français à l'étranger.
 
 NOTA:
-Conformément au I de l’article 5 de l’ordonnance n° 2021-1554 du 1er décembre 2021, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard le 30 juin 2022. L’article 1 du décret n° 2022-801 du 12 mai 2022 a fixé cette date au 14 mai 2022.
+Conformément au I de l’article 5 de l’ordonnance n° 2021-1554 du 1<sup>er</sup> décembre 2021, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard le 30 juin 2022. L’article 1 du décret n° 2022-801 du 12 mai 2022 a fixé cette date au 14 mai 2022.

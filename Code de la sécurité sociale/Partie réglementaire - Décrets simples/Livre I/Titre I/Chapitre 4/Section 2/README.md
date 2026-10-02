@@ -1,1 +1,1 @@
-Section 2 : Haut comité médical
+# Section 2 : Haut comité médical

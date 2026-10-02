@@ -9,4 +9,4 @@ Le directeur comptable et financier peut être requis d'agir par le directeur de
 Les opérations y compris sur réquisition du directeur de l'organisme et les contrôles qu'il exécute sont précisés par décret. Ce décret précise également les conséquences de la mise en œuvre des articles L. 122-6, L. 122-7, L. 122-8, L. 122-9.
 
 NOTA:
-Conformément au II de l’article 19 du décret n° 2022-1499 du 1er décembre 2022, ces dispositions s’appliquent à compter du 1er janvier 2023.
+Conformément au II de l’article 19 du décret n° 2022-1499 du 1<sup>er</sup> décembre 2022, ces dispositions s’appliquent à compter du 1er janvier 2023.

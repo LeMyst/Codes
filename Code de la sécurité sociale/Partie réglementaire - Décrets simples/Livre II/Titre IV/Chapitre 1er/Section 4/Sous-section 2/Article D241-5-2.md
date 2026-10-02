@@ -35,4 +35,4 @@ III.-Pour les salariés en contrat à durée déterminée auprès d'un même emp
 IV.-Les dispositions des articles D. 241-8 et D. 241-9 s'appliquent au calcul de la réduction prévue au présent article.
 
 NOTA:
-Conformément à l’article 3 du décret n° 2025-887 du 4 septembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux cotisations et contributions dues au titre des périodes d'activité courant à compter du 1er janvier 2026.
+Conformément à l’article 3 du décret n° 2025-887 du 4 septembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux cotisations et contributions dues au titre des périodes d'activité courant à compter du 1<sup>er</sup> janvier 2026.

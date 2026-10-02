@@ -23,8 +23,8 @@ Lorsqu'un allocataire dont les ressources sont appréciées conformément à l'a
 NOTA:
 Conformément à l'article 5 du décret n° 2026-547 du 25 juin 2026,l'article R. 821-4-1 du code de la sécurité sociale, dans sa rédaction issue de l'article 2 dudit décret, est applicable aux allocations dues à compter :
 
-1° Du 1er octobre 2026, pour les bénéficiaires dont le droit à l'allocation aux adultes handicapés a été ouvert un mois de janvier, d'avril, de juillet ou d'octobre dans les conditions prévues au premier alinéa de l'article R. 821-7 du code de la sécurité sociale ;
+1° Du 1<sup>er</sup> octobre 2026, pour les bénéficiaires dont le droit à l'allocation aux adultes handicapés a été ouvert un mois de janvier, d'avril, de juillet ou d'octobre dans les conditions prévues au premier alinéa de l'article R. 821-7 du code de la sécurité sociale ;
 
-2° Du 1er novembre 2026, pour les bénéficiaires dont le droit à l'allocation aux adultes handicapés a été ouvert un mois de février, de mai, d'août ou de novembre, dans les conditions prévues au premier alinéa de l'article R. 821-7 du code de la sécurité sociale ;
+2° Du 1<sup>er</sup> novembre 2026, pour les bénéficiaires dont le droit à l'allocation aux adultes handicapés a été ouvert un mois de février, de mai, d'août ou de novembre, dans les conditions prévues au premier alinéa de l'article R. 821-7 du code de la sécurité sociale ;
 
-3° Du 1er décembre 2026, pour les bénéficiaires dont le droit à l'allocation aux adultes handicapés a été ouvert un mois de mars, de juin, de septembre ou décembre, dans les conditions prévues au premier alinéa de l'article R. 821-7 du code de la sécurité sociale.
+3° Du 1<sup>er</sup> décembre 2026, pour les bénéficiaires dont le droit à l'allocation aux adultes handicapés a été ouvert un mois de mars, de juin, de septembre ou décembre, dans les conditions prévues au premier alinéa de l'article R. 821-7 du code de la sécurité sociale.

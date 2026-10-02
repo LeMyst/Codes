@@ -15,7 +15,7 @@ Ce taux d'effort est ainsi défini :
 Taux d'effort en cas de garde par un assistant maternel :
 
 | Nombre d'enfants à charge | Taux d'effort |
-| --- | --- |
+| -- | -- |
 | 1 enfant | 0,0619 % |
 | 2 enfants | 0,0516 % |
 | 3 enfants | 0,0413 % |
@@ -30,7 +30,7 @@ Taux d'effort en cas de garde par un assistant maternel :
 Taux d'effort en cas de garde par une personne mentionnée à l'article L. 7221-1 du code du travail :
 
 | Nombre d'enfants à charge | Taux d'effort |
-| --- | --- |
+| -- | -- |
 | 1 enfant | 0,1238 % |
 | 2 enfants | 0,1032 % |
 | 3 enfants | 0,0826 % |

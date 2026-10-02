@@ -39,4 +39,4 @@ Il appose, en outre, sa signature sur l'ordonnance.
 III.-Le cas échéant, lorsque les éléments mentionnés au 6° du I n'ont pas été portés sur l'ordonnance, il est joint à celle-ci un document indiquant si la prescription respecte les indications ouvrant droit au remboursement ou les recommandations de la Haute Autorité de santé. Pour l'établissement de ce document, le prescripteur a en principe recours au téléservice dédié. Par exception, le prescripteur peut compléter un questionnaire disponible sur le site de l'assurance maladie qu'il adresse par voie postale, ou tout système de communication sécurisé mis en place par l'assurance maladie, au service du contrôle médical placé auprès de l'organisme d'assurance maladie de l'assuré.
 
 NOTA:
-Conformément à l'article 2 du décret n° 2025-1286 du 22 décembre 2025, ces dispositions, dans leur rédaction issue du 6° de l'article 1er du décret précité, entrent en vigueur le 1er janvier 2026.
+Conformément à l'article 2 du décret n° 2025-1286 du 22 décembre 2025, ces dispositions, dans leur rédaction issue du 6° de l'article 1er du décret précité, entrent en vigueur le 1<sup>er</sup> janvier 2026.

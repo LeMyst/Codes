@@ -7,4 +7,4 @@ Les fonctionnaires de l'Etat et les magistrats mentionnés à l'alinéa précéd
 Par dérogation aux dispositions du premier alinéa de l'article D. 712-52, les fonctionnaires de l'Etat et les magistrats visés aux trois alinéas précédents bénéficient des dispositions de l'article D. 712-12.
 
 NOTA:
-Conformément à l'article 7 du décret n° 2018-162 du 6 mars 2018, ces dispositions s'appliquent aux cotisations de sécurité sociale dues au titre des périodes courant à compter du 1er mars 2018.
+Conformément à l'article 7 du décret n° 2018-162 du 6 mars 2018, ces dispositions s'appliquent aux cotisations de sécurité sociale dues au titre des périodes courant à compter du 1<sup>er</sup> mars 2018.

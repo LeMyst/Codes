@@ -9,6 +9,6 @@ Sous réserve des dispositions du II de l'article R. 114-10-1, le droit aux pres
 3° Le droit a été fermé dans les conditions prévues par l'article L. 114-12-3.
 
 NOTA:
-Conformément au premier alinéa de l'article 2 du décret n° 2026-226 du 30 mars 2026, ces dispositions, dans leur rédaction résultant dudit décret, s'appliquent aux personnes dont le titre de séjour est retiré à compter du 1er avril 2026.
+Conformément au premier alinéa de l'article 2 du décret n° 2026-226 du 30 mars 2026, ces dispositions, dans leur rédaction résultant dudit décret, s'appliquent aux personnes dont le titre de séjour est retiré à compter du 1<sup>er</sup> avril 2026.
 
-Conformément au second alinéa de l'article 2 du décret n° 2026-226 du 30 mars 2026, les dispositions du 4° du présent article, dans sa rédaction antérieure audit décret, restent applicables aux personnes faisant l'objet d'une mesure d'éloignement avant le 1er avril 2026.
+Conformément au second alinéa de l'article 2 du décret n° 2026-226 du 30 mars 2026, les dispositions du 4° du présent article, dans sa rédaction antérieure audit décret, restent applicables aux personnes faisant l'objet d'une mesure d'éloignement avant le 1<sup>er</sup> avril 2026.

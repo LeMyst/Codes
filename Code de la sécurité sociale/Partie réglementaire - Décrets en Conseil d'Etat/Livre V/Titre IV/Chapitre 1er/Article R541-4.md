@@ -23,4 +23,4 @@ L'organisme débiteur des prestations familiales peut contrôler l'effectivité 
 V. - L'allocation et le cas échéant son complément et sa majoration continuent d'être versés jusqu'au dernier jour du troisième mois civil qui suit le décès de l'enfant, nonobstant l'arrivée à échéance de la décision d'attribution de la commission.
 
 NOTA:
-Conformément à l'article 2 du décret n° 2026-227 du 30 mars 2026, les dispositions dans leur rédaction résultant du 1° de l'article 1er du décret précité s'appliquent aux demandes initiales et aux demandes de renouvellement de l'allocation d'éducation de l'enfant handicapé déposées à compter du 1er avril 2026.
+Conformément à l'article 2 du décret n° 2026-227 du 30 mars 2026, les dispositions dans leur rédaction résultant du 1° de l'article 1<sup>er</sup> du décret précité s'appliquent aux demandes initiales et aux demandes de renouvellement de l'allocation d'éducation de l'enfant handicapé déposées à compter du 1<sup>er</sup> avril 2026.

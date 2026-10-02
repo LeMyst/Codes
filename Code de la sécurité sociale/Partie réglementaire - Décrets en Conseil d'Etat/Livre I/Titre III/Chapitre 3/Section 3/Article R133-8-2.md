@@ -17,4 +17,4 @@ Lorsqu'à l'issue de la période contradictoire, l'organisme de recouvrement con
 L'organisme compétent pour la mise en recouvrement est celui dont relève le cocontractant, sous-traitant ou subdélégataire auprès duquel a été constaté le travail dissimulé.
 
 NOTA:
-Conformément à l'article 4 du décret n° 2025-1338 du 26 décembre 2025, ces dispositions, dans leur rédaction résultant du 1° de l'article 1er du décret précité, entrent en vigueur au 1er janvier 2026 et s'appliquent aux procédures engagées à compter de cette date.
+Conformément à l'article 4 du décret n° 2025-1338 du 26 décembre 2025, ces dispositions, dans leur rédaction résultant du 1° de l'article 1er du décret précité, entrent en vigueur au 1<sup>er</sup> janvier 2026 et s'appliquent aux procédures engagées à compter de cette date.

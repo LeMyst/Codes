@@ -1,1 +1,1 @@
-Section 6 : Dispositions communes
+# Section 6 : Dispositions communes

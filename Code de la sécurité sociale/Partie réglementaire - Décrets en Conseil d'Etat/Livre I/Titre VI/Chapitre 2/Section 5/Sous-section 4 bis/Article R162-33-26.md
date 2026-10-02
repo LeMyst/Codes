@@ -27,4 +27,4 @@ IV.-Au plus tard le 31 décembre de l'année en cours, les ministres chargés de
 Cette dotation complémentaire est versée en une fois par la caisse dont relève l'établissement en application des articles L. 174-2 et L. 174-18.
 
 NOTA:
-Conformément à l'article 5 du décret n° 2025-1390 du 28 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er janvier 2026.
+Conformément à l'article 5 du décret n° 2025-1390 du 28 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1<sup>er</sup> janvier 2026.

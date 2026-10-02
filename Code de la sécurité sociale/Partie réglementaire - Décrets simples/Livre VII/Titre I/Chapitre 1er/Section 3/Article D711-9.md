@@ -5,4 +5,4 @@ I.-Pour les salariés visés au paragraphe 2 de l'article 1er de la loi du 12 ju
 II.-Les données à retenir dans le coefficient permettant de déterminer le montant de la réduction mentionnée au I sont celles prévues à l'article D. 241-7.
 
 NOTA:
-Conformément à l’article 3 du décret n° 2025-887 du 4 septembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux cotisations et contributions dues au titre des périodes d'activité courant à compter du 1er janvier 2026.
+Conformément à l’article 3 du décret n° 2025-887 du 4 septembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux cotisations et contributions dues au titre des périodes d'activité courant à compter du 1<sup>er</sup> janvier 2026.

@@ -1,1 +1,18 @@
-Section 2 : Dispositions relatives aux opérations collectives à adhésion facultative et aux opérations individuelles
+# Section 2 : Dispositions relatives aux opérations collectives à adhésion facultative et aux opérations individuelles
+
+- [Article L932-14](Article%20L932-14.md)
+- [Article L932-14-1](Article%20L932-14-1.md)
+- [Article L932-15](Article%20L932-15.md)
+- [Article L932-15-1](Article%20L932-15-1.md)
+- [Article L932-15-2](Article%20L932-15-2.md)
+- [Article L932-16](Article%20L932-16.md)
+- [Article L932-17](Article%20L932-17.md)
+- [Article L932-18](Article%20L932-18.md)
+- [Article L932-19](Article%20L932-19.md)
+- [Article L932-20](Article%20L932-20.md)
+- [Article L932-21](Article%20L932-21.md)
+- [Article L932-21-1](Article%20L932-21-1.md)
+- [Article L932-21-2](Article%20L932-21-2.md)
+- [Article L932-21-3](Article%20L932-21-3.md)
+- [Article L932-22](Article%20L932-22.md)
+- [Article L932-22-1](Article%20L932-22-1.md)

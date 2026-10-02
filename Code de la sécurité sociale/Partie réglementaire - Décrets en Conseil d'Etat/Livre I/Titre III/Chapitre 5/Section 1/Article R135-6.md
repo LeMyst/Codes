@@ -18,31 +18,31 @@ Le conseil d'administration est assisté par un comité de surveillance dont les
 
 8° Cinq représentants des assurés sociaux désignés par les organisations syndicales de salariés interprofessionnelles représentatives au plan national à raison de :
 
-– un par la Confédération générale du travail ;
+- un par la Confédération générale du travail ;
 
-– un par la Confédération générale du travail-Force ouvrière ;
+- un par la Confédération générale du travail-Force ouvrière ;
 
-– un par la Confédération française démocratique du travail ;
+- un par la Confédération française démocratique du travail ;
 
-– un par la Confédération française des travailleurs chrétiens ;
+- un par la Confédération française des travailleurs chrétiens ;
 
-– un par la Confédération française de l'encadrement-CGC ;
+- un par la Confédération française de l'encadrement-CGC ;
 
 9° Cinq représentants des employeurs et travailleurs indépendants désignés par les organisations professionnelles d'employeurs et de travailleurs indépendants représentatives à raison de :
 
-– trois par le Mouvement des entreprises de France ;
+- trois par le Mouvement des entreprises de France ;
 
-– un par la Confédération des petites et moyennes entreprises ;
+- un par la Confédération des petites et moyennes entreprises ;
 
-– un par l' Union des entreprises de proximité.
+- un par l' Union des entreprises de proximité.
 
 10° Quatre personnes qualifiées dans les domaines relevant des missions du fonds de solidarité vieillesse désignées à raison de :
 
-– deux par le ministre chargé de la sécurité sociale ;
+- deux par le ministre chargé de la sécurité sociale ;
 
-– une par le ministre chargé de l'économie ;
+- une par le ministre chargé de l'économie ;
 
-– une par le ministre chargé du budget.
+- une par le ministre chargé du budget.
 
 11° Un représentant des régimes de retraite autres que ceux énumérés ci-dessus, désigné après entente entre les présidents des caisses et institutions intéressées ou, à défaut, par le ministre chargé de la sécurité sociale ;
 

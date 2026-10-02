@@ -25,4 +25,4 @@ Un président et un vice-président sont désignés par la section parmi les mem
 Les membres désignés ou nommés sont soumis à l'obligation d'établir une déclaration d'intérêts conformément à l'article L. 1451-1 du code de la santé publique.
 
 NOTA:
-Conformément à l'article 5 du décret n° 2025-1390 du 28 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er janvier 2026.
+Conformément à l'article 5 du décret n° 2025-1390 du 28 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1<sup>er</sup> janvier 2026.

@@ -13,4 +13,4 @@ I. - La fraction de pension de vieillesse servie en application de l'article L. 
 II. - Par dérogation au I, la fraction de pension de vieillesse est fixée à titre provisionnel pendant les dix-huit premiers mois au taux de 50 % de la pension de vieillesse des assurés mentionnés au 2° du I du présent article. A compter du 1er juillet de la deuxième année et chaque 1er juillet, il est, le cas échéant, procédé à la révision de la fraction de pension.
 
 NOTA:
-Conformément au II de l’article 2 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux pensions prenant effet à compter du 1er janvier 2026.
+Conformément au II de l’article 2 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux pensions prenant effet à compter du 1<sup>er</sup> janvier 2026.

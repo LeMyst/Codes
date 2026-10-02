@@ -11,4 +11,4 @@ Pour l'application de l'article L. 241-10, les conditions d'âge sont les suivan
 Le plafond de rémunération prévu au a du I de l'article L. 241-10 est fixé, par mois, à soixante-cinq fois la valeur horaire du salaire minimum de croissance en vigueur au premier jour du mois considéré.
 
 NOTA:
-Conformément à l’article 2 du décret n° 2026-261 du 8 avril 2026, ces dispositions, dans leur rédaction résultant de l'article 1er du décret précité, s’appliquent à compter du 1er janvier 2026.
+Conformément à l’article 2 du décret n° 2026-261 du 8 avril 2026, ces dispositions, dans leur rédaction résultant de l'article 1<sup>er</sup> du décret précité, s’appliquent à compter du 1<sup>er</sup> janvier 2026.

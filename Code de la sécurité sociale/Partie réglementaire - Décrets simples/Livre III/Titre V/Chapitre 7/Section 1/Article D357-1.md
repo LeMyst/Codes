@@ -10,10 +10,9 @@ Pour l'application des deuxième et troisième alinéas ci-dessus, les cotisatio
 
 Code local des assurances sociales
 
-| | |
-| --- | --- |
 | Classes | Montant à prendre en compte (par semaine) |
-| | Francs (anciens) |
+| -- | -- |
+|  | Francs (anciens) |
 | I | 6 |
 | II | 10 |
 | III | 14 |
@@ -24,11 +23,10 @@ Code local des assurances sociales
 
 Loi du 20 décembre 1911
 
-| | |
-| --- | --- |
-| Classes | Montant à prendre en compte (par mois) |
-| Avant le 1er janvier 1941 | Depuis le 1er janvier 1941 |
-| | | Francs (anciens) |
+| Classes |  | Montant à prendre en compte (par mois) |
+| -- | -- | -- |
+| Avant le 1er janvier 1941 | Depuis le 1er janvier 1941 |  |
+|  |  | Francs (anciens) |
 | A/ B | A | 40 |
 | C/ D | B | 70 |
 | E/ F | C | 110 |

@@ -1,0 +1,10 @@
+# Article Annexe II : Tableau n° 61 bis
+
+Cancer broncho-pulmonaire provoqué par l'inhalation de poussières ou fumées renfermant du cadmium
+
+| DÉSIGNATION<br>des maladies | DÉLAI<br>de prise<br>en charge | LISTE LIMITATIVE<br>des principaux travaux<br>susceptibles de provoquer<br>ces maladies |
+| -- | -- | -- |
+| Cancer broncho-pulmonaire primitif. | 40 ans (sous réserve d'une durée d'exposition de 10 ans). | Fabrication d'accumulateurs et de piles électriques au nickel-cadmium.<br>Récupération de matières métalliques recyclables contenant du cadmium. |
+
+NOTA:
+Décision du Conseil d'Etat n° 313243, en date du 1er juillet 2009 article 1er : Le décret attaqué est annulé en tant qu'il comporte, dans la partie du tableau relative au délai de prise en charge, les mots : et d'un temps écoulé depuis le début de l'exposition de vingt ans.

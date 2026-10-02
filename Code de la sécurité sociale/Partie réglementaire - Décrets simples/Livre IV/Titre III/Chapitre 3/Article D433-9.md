@@ -7,4 +7,4 @@ Pour l'application du deuxième alinéa de l'article L. 433-1 :
 2° La durée minimale de reprise du travail au-delà de laquelle le délai de quatre ans court à nouveau est fixée à un an.
 
 NOTA:
-Conformément à l'article 3 du décret n° 2026-501 du 12 juin 2026, ces dispositions, dans leur rédaction résultant dudit décret, sont applicables aux victimes dont le sinistre est intervenu à compter du 1er janvier 2027.
+Conformément à l'article 3 du décret n° 2026-501 du 12 juin 2026, ces dispositions, dans leur rédaction résultant dudit décret, sont applicables aux victimes dont le sinistre est intervenu à compter du 1<sup>er</sup> janvier 2027.

@@ -15,4 +15,4 @@ II.-Le régime compétent pour attribuer la majoration de durée d'assurance est
 III.-L'assuré qui demande le bénéfice des dispositions de l'article L. 173-1-5 produit, à l'appui de sa demande, un état des services établi par le dernier service d'incendie et de secours dans lequel il a été engagé, mentionnant la durée et la période de son engagement en tant que sapeur-pompier volontaire.
 
 NOTA:
-Conformément à l'article 9 du décret n° 2026-18 du 20 janvier 2026, ces dispositions, dans leur rédaction issue du décret précité, s'appliquent aux pensions prenant effet à compter du 1er juillet 2026.
+Conformément à l'article 9 du décret n° 2026-18 du 20 janvier 2026, ces dispositions, dans leur rédaction issue du décret précité, s'appliquent aux pensions prenant effet à compter du 1<sup>er</sup> juillet 2026.

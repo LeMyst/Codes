@@ -13,4 +13,4 @@ Sous réserve qu'elles n'aient pas transféré leur résidence hors des territoi
 La résidence en France peut être prouvée par tout moyen.
 
 NOTA:
-Conformément à l'article 3 du décret n° 2024-361 du 19 avril 2024, ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément à l'article 3 du décret n° 2024-361 du 19 avril 2024, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2025.

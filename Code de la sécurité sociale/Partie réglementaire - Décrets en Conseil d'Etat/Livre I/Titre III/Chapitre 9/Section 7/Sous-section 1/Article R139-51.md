@@ -12,8 +12,8 @@ b) Soit par un service de l'organisme mentionné à l'article R. 139-1 qui est e
 
 L'expert externe en évaluation mentionné au a du 2° remplit les conditions suivantes :
 
-– il est une personne morale indépendante de l'émetteur ou de la société de gestion de portefeuille assurant la gestion de l'organisme de placement collectif qui a recours à un contrat financier ou à un instrument qui comporte un contrat financier et de toute personne ayant des liens étroits avec l'émetteur ou la société de gestion de portefeuille ;
+- il est une personne morale indépendante de l'émetteur ou de la société de gestion de portefeuille assurant la gestion de l'organisme de placement collectif qui a recours à un contrat financier ou à un instrument qui comporte un contrat financier et de toute personne ayant des liens étroits avec l'émetteur ou la société de gestion de portefeuille ;
 
-– il offre les garanties professionnelles nécessaires pour exercer sa fonction d'évaluation ;
+- il offre les garanties professionnelles nécessaires pour exercer sa fonction d'évaluation ;
 
-– il ne délègue pas sa fonction d'évaluation à un tiers.
+- il ne délègue pas sa fonction d'évaluation à un tiers.

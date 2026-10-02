@@ -15,4 +15,4 @@ Le directeur général de l'agence régionale de santé arrête également pour 
 III.-Les dotations et forfaits mentionnés au II du présent article sont versés en douze allocations mensuelles, à l'exception des financements versés dans le cadre de la dotation complémentaire mentionnée au 3° de l'article L. 162-22-8-2 et du financement mentionné à l'article L. 162-30-2.
 
 NOTA:
-Conformément à l'article 5 du décret n° 2025-1390 du 28 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er janvier 2026.
+Conformément à l'article 5 du décret n° 2025-1390 du 28 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1<sup>er</sup> janvier 2026.

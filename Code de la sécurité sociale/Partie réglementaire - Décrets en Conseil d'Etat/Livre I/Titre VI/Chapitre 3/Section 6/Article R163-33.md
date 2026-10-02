@@ -39,6 +39,6 @@ V.-Les taux de remises mentionnés au présent article sont appliqués sur les t
 VI.-Le Comité économique des produits de santé informe le titulaire des droits d'exploitation de la spécialité concernée, pour chaque indication considérée, par tout moyen donnant date certaine à la réception de cette information, du montant des remises dues en application des dispositions du II de l'article L. 162-16-5-1-1, et le cas échéant des majorations dont elles sont assorties. Celui-ci dispose d'un délai de vingt jours à compter de cette notification pour présenter des observations écrites au comité et, le cas échéant, demander à être entendu par lui. Le Comité économique des produits de santé communique au laboratoire titulaire des droits d'exploitation, ainsi qu'à l'Agence centrale des organismes de sécurité sociale, le montant des remises dues, le cas échéant majorées, les motifs qui les justifient, le délai de règlement, le cas échéant, ainsi que les voies et délais de recours.
 
 NOTA:
-Conformément à l’article 3 du décret n° 2026-488 du 3 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le 1er septembre 2026.
+Conformément à l’article 3 du décret n° 2026-488 du 3 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le 1<sup>er</sup> septembre 2026.
 
 Les demandes d'autorisation d'accès précoce ou compassionnel introduites avant l'entrée en vigueur dudit décret demeurent régies par les dispositions antérieurement applicables.

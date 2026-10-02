@@ -19,6 +19,6 @@ Lorsqu'une entreprise est soumise pour la première fois à la contribution, ell
 Les modalités d'application du présent article sont fixées par décret en Conseil d'Etat.
 
 NOTA:
-Conformément au II de l’article 37 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du I du même article, entrent en vigueur le 1er janvier 2026. Elles sont applicables aux contrats de fourniture de spécialités pharmaceutiques remboursables conclus ou renouvelés après cette date et, s'agissant des contrats en cours d'exécution, à l'expiration d'un délai de trois mois à compter de la date de leur prise d'effet.
+Conformément au II de l’article 37 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du I du même article, entrent en vigueur le 1<sup>er</sup> janvier 2026. Elles sont applicables aux contrats de fourniture de spécialités pharmaceutiques remboursables conclus ou renouvelés après cette date et, s'agissant des contrats en cours d'exécution, à l'expiration d'un délai de trois mois à compter de la date de leur prise d'effet.
 
 Conformément au II de l’article 36 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent à la contribution prévue à l'article L. 138-1 du même code due à compter de l'exercice 2026.

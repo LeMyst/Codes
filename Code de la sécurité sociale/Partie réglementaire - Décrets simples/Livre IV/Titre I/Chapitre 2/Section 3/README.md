@@ -1,1 +1,22 @@
-Section 3 : Dispositions applicables à diverses catégories de bénéficiaires.
+# Section 3 : Dispositions applicables à diverses catégories de bénéficiaires.
+
+- [Sous-section 1 : Délégués à la sécurité des ouvriers mineurs](Sous-section%201/README.md)
+- [Sous-section 2 : Elèves et étudiants.](Sous-section%202/README.md)
+- [Sous-section 3 : Stagiaires des centres de formation professionnelle](Sous-section%203/README.md)
+- [Sous-section 4 : Personnes accomplissant un stage de réadaptation fonctionnelle ou de rééducation professionnelle](Sous-section%204/README.md)
+- [Sous-section 5 : Pupilles de la protection judiciaire de la jeunesse.](Sous-section%205/README.md)
+- [Sous-section 6 : Détenus.](Sous-section%206/README.md)
+- [Sous-section 7 : Personnes condamnées à exécuter un travail d'intérêt général ou effectuant un travail non rémunéré au profit de la collectivité.](Sous-section%207/README.md)
+- [Sous-section 8 : Membres bénévoles des organismes sociaux.](Sous-section%208/README.md)
+- [Sous-section 9 : Salariés désignés pour sièger dans certains organismes.](Sous-section%209/README.md)
+- [Sous-section 10 : Personnes bénéficiaires d'un revenu minimum d'insertion.](Sous-section%2010/README.md)
+- [Sous-section 11 : Bénéficiaires d'actions d'aide à la création d'entreprises, d'orientation, d'évaluation ou d'accompagnement dans la recherche d'emploi](Sous-section%2011/README.md)
+- [Sous-section 12 : Salariés bénéficiaires d'un congé de représentation](Sous-section%2012/README.md)
+- [Sous-section 13 : Volontariat pour l'insertion. ― Service civique.](Sous-section%2013/README.md)
+- [Sous-section 14 : Personnes bénéficiaires d'un appui à la création ou à la reprise d'une activité économique.](Sous-section%2014/README.md)
+- [Sous-section 15 : Personnes titulaires d'une convention de tutorat.](Sous-section%2015/README.md)
+- [Sous-section 16 : Titulaires de mandats locaux](Sous-section%2016/README.md)
+- [Sous-section 17 : Entrepreneurs salariés et entrepreneurs salariés associés d'une coopérative d'activité et d'emploi](Sous-section%2017/README.md)
+- [Sous-section 18 : Sportifs de haut niveau](Sous-section%2018/README.md)
+- [Sous-section 19 : Bénéficiaires des mises en situation en milieu professionnel dans les établissements et services définis au a du 5° du I de l'article L. 312-1 du code de l'action sociale et des familles](Sous-section%2019/README.md)
+- [Article D412-1](Article%20D412-1.md)

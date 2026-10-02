@@ -1,1 +1,16 @@
-Sous-section 4 : Des documents auxquels sont subordonnées la constatation des soins et l'ouverture du droit aux prestations de l'assurance maladie
+# Sous-section 4 : Des documents auxquels sont subordonnées la constatation des soins et l'ouverture du droit aux prestations de l'assurance maladie
+
+- [Article R161-39](Article%20R161-39.md)
+- [Article R161-40](Article%20R161-40.md)
+- [Article R161-41](Article%20R161-41.md)
+- [Article R161-42](Article%20R161-42.md)
+- [Article R161-43](Article%20R161-43.md)
+- [Article R161-43-1](Article%20R161-43-1.md)
+- [Article R161-44](Article%20R161-44.md)
+- [Article R161-45](Article%20R161-45.md)
+- [Article R161-46](Article%20R161-46.md)
+- [Article R161-47](Article%20R161-47.md)
+- [Article R161-48](Article%20R161-48.md)
+- [Article R161-48-1](Article%20R161-48-1.md)
+- [Article R161-48-2](Article%20R161-48-2.md)
+- [Article R161-49](Article%20R161-49.md)

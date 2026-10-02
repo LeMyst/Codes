@@ -1,1 +1,4 @@
-Section 3 : Dépenses afférentes au financement des centres de soins, d'accompagnement et de prévention en addictologie, des structures dénommées "lits halte soins santé" et des centres d'accueil et d'accompagnement à la réduction des risques pour usagers de drogues.
+# Section 3 : Dépenses afférentes au financement des centres de soins, d'accompagnement et de prévention en addictologie, des structures dénommées "lits halte soins santé" et des centres d'accueil et d'accompagnement à la réduction des risques pour usagers de drogues.
+
+- [Article R174-7](Article%20R174-7.md)
+- [Article R174-8](Article%20R174-8.md)

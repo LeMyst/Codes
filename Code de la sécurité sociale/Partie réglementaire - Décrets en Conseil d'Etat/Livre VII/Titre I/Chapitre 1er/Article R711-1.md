@@ -23,4 +23,4 @@ Restent soumis à une organisation spéciale de sécurité sociale, si leurs res
 10°) le Théâtre national de l'Opéra de Paris et la Comédie Française.
 
 NOTA:
-Conformément à l’article 3 du décret n° 2023-839 du 30 août 2023, ces dispositions entrent en vigueur le 1er septembre 2023.
+Conformément à l’article 3 du décret n° 2023-839 du 30 août 2023, ces dispositions entrent en vigueur le 1<sup>er</sup> septembre 2023.

@@ -9,4 +9,4 @@ Elle ne peut être inférieure au montant minimum de base prévu au deuxième al
 Lorsqu'un assuré a relevé d'une part des régimes mentionnés au deuxième alinéa et d'autre part du régime mentionné à l'article L. 722-20 du code rural et de la pêche maritime, et que le total des périodes d'assurance qu'il a accomplies dans ces régimes représente plus de soixante trimestres, le régime général et le régime de protection sociale des salariés des professions agricoles retiennent le montant du minimum de base au prorata de la durée d'assurance accomplie dans leur champ sur le total des durées d'assurance accomplies dans ces régimes.
 
 NOTA:
-Conformément au II de l’article 2 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux pensions prenant effet à compter du 1er janvier 2026.
+Conformément au II de l’article 2 du décret n° 2025-1410 du 30 décembre 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux pensions prenant effet à compter du 1<sup>er</sup> janvier 2026.

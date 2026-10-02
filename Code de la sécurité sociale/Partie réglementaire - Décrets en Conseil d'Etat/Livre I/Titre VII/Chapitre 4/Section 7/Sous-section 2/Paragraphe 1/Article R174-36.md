@@ -5,4 +5,4 @@ Les dotations mentionnées aux 2° et 3° de l'article L. 162-22-2 sont fraction
 Des avances de trésorerie sont accordées au service de santé des armées dans des conditions fixées par le même arrêté.
 
 NOTA:
-Conformément à l'article 5 du décret n° 2025-1390 du 28 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er janvier 2026.
+Conformément à l'article 5 du décret n° 2025-1390 du 28 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1<sup>er</sup> janvier 2026.

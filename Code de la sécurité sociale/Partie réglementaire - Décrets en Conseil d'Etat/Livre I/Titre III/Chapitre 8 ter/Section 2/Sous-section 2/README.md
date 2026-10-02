@@ -1,1 +1,1 @@
-Sous-section 2 : Pénalité.
+# Sous-section 2 : Pénalité.

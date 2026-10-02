@@ -17,4 +17,4 @@ Les employeurs mentionnés à l'article L. 133-9 peuvent présenter auprès du d
 4° Les sûretés applicables sont celles prévues à l'article L. 243-4.
 
 NOTA:
-Conformément au V de l'article 4 de la loi n° 2025-1403 du 31 décembre 2025, ces dispositions, dans leur rédaction résultant du I de l'article précité, entrent en vigueur le 1er juillet 2026.
+Conformément au V de l'article 4 de la loi n° 2025-1403 du 31 décembre 2025, ces dispositions, dans leur rédaction résultant du I de l'article précité, entrent en vigueur le 1<sup>er</sup> juillet 2026.

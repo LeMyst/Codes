@@ -7,4 +7,4 @@ Le conseil ou le conseil d'administration oriente et contrôle l'activité de la
 Le conseil ou le conseil d'administration peut entendre toute personne ou organisation utile à son action. Le conseil des caisses primaires d'assurance maladie entend au moins deux fois par an les représentants des professions de santé.
 
 NOTA:
-Conformément au I de l’article 5 de l’ordonnance n° 2021-1554 du 1er décembre 2021, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard le 30 juin 2022. L’article 1 du décret n° 2022-801 du 12 mai 2022 a fixé cette date au 14 mai 2022.
+Conformément au I de l’article 5 de l’ordonnance n° 2021-1554 du 1<sup>er</sup> décembre 2021, ces dispositions entrent en vigueur à une date fixée par décret et au plus tard le 30 juin 2022. L’article 1 du décret n° 2022-801 du 12 mai 2022 a fixé cette date au 14 mai 2022.

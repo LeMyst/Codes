@@ -1,1 +1,1 @@
-Section 3 : Dispositions diverses.
+# Section 3 : Dispositions diverses.

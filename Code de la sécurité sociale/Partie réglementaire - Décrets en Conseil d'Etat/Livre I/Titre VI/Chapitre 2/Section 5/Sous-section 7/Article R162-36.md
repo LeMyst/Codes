@@ -15,4 +15,4 @@ Le délai entre la réalisation du contrôle sur place et l'adoption par le dire
 A l'issue de cette phase contradictoire, le directeur général de l'agence régionale de santé décide de l'octroi d'une dotation complémentaire au titre du ou des indicateurs concernés pour l'année considérée.
 
 NOTA:
-Conformément à l'article 5 du décret n° 2025-1390 du 28 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er janvier 2026.
+Conformément à l'article 5 du décret n° 2025-1390 du 28 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1<sup>er</sup> janvier 2026.

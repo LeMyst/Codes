@@ -5,6 +5,6 @@ I.-Le titulaire des droits d'exploitation adresse aux ministres chargés de la s
 II.-La prise en charge d'une spécialité disposant d'une autorisation d'accès précoce au titre de l'article L. 162-16-5-1 du présent code peut être assortie par arrêté des ministres de la santé et de la sécurité sociale d'une mention prévoyant que la spécialité n'est prise en charge par l'assurance maladie que si, conformément à l'article L. 162-1-7-1, le prescripteur indique sur l'ordonnance ou renseigne pour l'établissement du document prévu au III de l'article R. 161-45 des éléments relatifs aux circonstances et aux indications de la prescription. Cette mention précise la nature de ces éléments et les motifs pour lesquels ils doivent figurer sur l'ordonnance ou être renseignés en vue de l'établissement du document.
 
 NOTA:
-Conformément à l’article 3 du décret n° 2026-488 du 3 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le 1er septembre 2026.
+Conformément à l’article 3 du décret n° 2026-488 du 3 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le 1<sup>er</sup> septembre 2026.
 
 Les demandes d'autorisation d'accès précoce ou compassionnel introduites avant l'entrée en vigueur dudit décret demeurent régies par les dispositions antérieurement applicables.

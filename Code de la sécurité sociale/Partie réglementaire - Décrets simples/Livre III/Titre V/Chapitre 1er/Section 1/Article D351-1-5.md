@@ -12,7 +12,7 @@ I. - L'âge prévu au premier alinéa de l'article L. 351-1 est abaissé, en app
 
 1. Entre cinquante-neuf ans et l'âge prévu à l'article L. 161-17-2 pour ceux qui ont accompli, dans les conditions prévues au 1°, une durée d'assurance ayant donné lieu à cotisations à leur charge au moins égale à la limite fixée en vertu du deuxième alinéa de l'article L. 351-1 diminuée de 100 trimestres.
 
-Pour les assurés nés avant le 1er janvier 1973, la limite mentionnée aux 1 à 5 est remplacée par la durée d'assurance prévue à l'article L. 161-17-3 dans sa rédaction antérieure à la loi n° 2023-270 du 14 avril 2023 de financement rectification de la sécurité sociale pour 2023.
+Pour les assurés nés avant le 1<sup>er</sup> janvier 1973, la limite mentionnée aux 1 à 5 est remplacée par la durée d'assurance prévue à l'article L. 161-17-3 dans sa rédaction antérieure à la loi n° 2023-270 du 14 avril 2023 de financement rectification de la sécurité sociale pour 2023.
 
 II. - Pour l'application de la majoration de pension prévue à l'article L. 351-1-3, la pension est augmentée à proportion d'un nombre égal au tiers du quotient formé par la durée d'assurance dans le régime accomplie alors que l'assuré justifiait du taux d'incapacité permanente prévu au même article ou avait été reconnu travailleur handicapé au sens de l'article L. 5213-2 du code du travail avant le 1er janvier 2016 et en prenant en compte, dans ce dernier cas, les périodes d'assurance antérieures à cette date, et ayant donné lieu à cotisations à sa charge, d'une part, et la durée d'assurance accomplie dans le régime au sens du troisième alinéa de l'article L. 351-1, d'autre part. Ce nombre est arrondi, le cas échéant, au centième le plus proche.
 
@@ -21,4 +21,4 @@ L'application de cette majoration ne peut avoir pour effet de porter la pension 
 La pension majorée en application des alinéas précédents est portée, le cas échéant, au montant minimum mentionné à l'article L. 351-10.
 
 NOTA:
-Conformément à l'article 4 du décret n° 2026-345 du 7 mai 2026, ces dispositions, dans leur rédaction résultant du décret précité, s'appliquent aux pensions prenant effet à compter du 1er septembre 2026.
+Conformément à l'article 4 du décret n° 2026-345 du 7 mai 2026, ces dispositions, dans leur rédaction résultant du décret précité, s'appliquent aux pensions prenant effet à compter du 1<sup>er</sup> septembre 2026.

@@ -2,8 +2,8 @@
 
 Les prestations figurant aux numéros 5 à 40 du tableau 3-1 donnent lieu à la perception des émoluments suivants :
 
-| Numéro de la prestation (tableau 3-1 de l'article annexe 4-7) | Désignation de la prestation | Emolument |
-| --- | --- | --- |
+| Numéro de<br>la prestation<br>(tableau 3-1<br>de l'article<br>annexe 4-7) | Désignation de la prestation | Emolument |
+| -- | -- | -- |
 | 5 | Dénonciation de saisie-attribution | 33,31 € |
 | 6 | Signification au tiers saisi de l'acquiescement du débiteur | 27,94 € |
 | 7 | Signification au tiers saisi du certificat de non-contestation | 27,94 € |

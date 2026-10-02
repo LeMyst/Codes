@@ -2,8 +2,8 @@
 
 La vente judiciaire aux enchères publiques de meubles corporels ou incorporels, figurant au numéro 4 du tableau mentionné à l'article A. 444-1, donne lieu à la perception d'un émolument proportionnel au produit de chaque lot, selon le barème suivant :
 
-| | Taux applicable |
-| --- | --- |
+|  | Taux applicable |
+| -- | -- |
 | a) Part à la charge du vendeur | 4,96 % |
 | b) Part à la charge de l'acheteur | 11,90 % |
 | Total | 16,86 % |

@@ -2,8 +2,8 @@
 
 Les prestations figurant aux numéros 212 à 219 du tableau 5 donnent lieu à la perception des émoluments suivants :
 
-| Numéro de la prestation (tableau 5 de l'article annexe 4-7) | Désignation de la prestation | Émolument |
-| --- | --- | --- |
+| Numéro de<br>la prestation<br>(tableau 5<br>de l'article<br>annexe 4-7) | Désignation de la prestation | Émolument |
+| -- | -- | -- |
 | 212 | Copie exécutoire, authentique, par extrait | 1,13 € |
 | 213 | Copie sur papier libre | 0,38 € |
 | 214 | Archivage numérisé des actes | 0,19 € |

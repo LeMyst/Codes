@@ -3,9 +3,8 @@
 Juridictions commerciales compétentes en application du III de l'article L. 442-4 du code de commerce\
 des procédures qui sont applicables aux personnes, commerçants ou artisans
 
-| | |
-| --- | --- |
-| SIÈGE DES TRIBUNAUX DE COMMERCE et des tribunaux mixtes de commerce | RESSORT |
+| SIÈGE DES TRIBUNAUX DE COMMERCE<br>et des tribunaux mixtes de commerce | RESSORT |
+| -- | -- |
 | Marseille | Le ressort des cours d'appel d'Aix-en-Provence, Bastia, Montpellier et Nîmes. |
 | Bordeaux | Le ressort des cours d'appel d'Agen, Bordeaux, Limoges, Pau et Toulouse. |
 | Tourcoing | Le ressort des cours d'appel d'Amiens, Douai, Reims et Rouen. |

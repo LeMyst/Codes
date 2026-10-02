@@ -80,24 +80,24 @@ Techniques de contrôle
 
 10. Pour collecter les éléments nécessaires dans le cadre de l'audit des comptes, le commissaire aux comptes choisit parmi les techniques suivantes :
 
-- l'inspection des enregistrements ou des documents, qui consiste à examiner des enregistrements ou des documents, soit internes soit externes, sous forme papier, sous forme électronique ou autres supports ;
+    - l'inspection des enregistrements ou des documents, qui consiste à examiner des enregistrements ou des documents, soit internes soit externes, sous forme papier, sous forme électronique ou autres supports ;
 
-- l'inspection des actifs corporels, qui correspond à un contrôle physique des actifs corporels ;
+    - l'inspection des actifs corporels, qui correspond à un contrôle physique des actifs corporels ;
 
-- l'observation physique, qui consiste à examiner la façon dont une procédure est exécutée au sein de l'entité ;
+    - l'observation physique, qui consiste à examiner la façon dont une procédure est exécutée au sein de l'entité ;
 
-- la demande d'information, qui peut être adressée à des personnes internes ou externes à l'entité ;
+    - la demande d'information, qui peut être adressée à des personnes internes ou externes à l'entité ;
 
-- la demande de confirmation des tiers, qui consiste à obtenir de la part d'un tiers une déclaration directement adressée au commissaire aux comptes concernant une ou plusieurs informations ;
+    - la demande de confirmation des tiers, qui consiste à obtenir de la part d'un tiers une déclaration directement adressée au commissaire aux comptes concernant une ou plusieurs informations ;
 
-- la vérification d'un calcul ;
+    - la vérification d'un calcul ;
 
-- la réexécution de contrôles, qui porte sur des contrôles réalisés à l'origine par l'entité ;
+    - la réexécution de contrôles, qui porte sur des contrôles réalisés à l'origine par l'entité ;
 
-- les procédures analytiques, qui consistent à apprécier des informations financières à partir :
+    - les procédures analytiques, qui consistent à apprécier des informations financières à partir :
 
-- de leurs corrélations avec d'autres informations, issues ou non des comptes, ou avec des données antérieures, postérieures ou prévisionnelles de l'entité ou d'entités similaires ; et
+    - de leurs corrélations avec d'autres informations, issues ou non des comptes, ou avec des données antérieures, postérieures ou prévisionnelles de l'entité ou d'entités similaires ; et
 
-- de l'analyse des variations significatives ou des tendances inattendues.
+    - de l'analyse des variations significatives ou des tendances inattendues.
 
-11. Ces techniques de contrôle peuvent s'utiliser seules ou en combinaison à tous les stades de l'audit des comptes.
+01. Ces techniques de contrôle peuvent s'utiliser seules ou en combinaison à tous les stades de l'audit des comptes.

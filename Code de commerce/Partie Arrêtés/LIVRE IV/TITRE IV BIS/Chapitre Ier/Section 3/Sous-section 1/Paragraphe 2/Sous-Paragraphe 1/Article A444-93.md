@@ -15,7 +15,7 @@ a) Sur le premier acte, d'un émolument calculé selon les modalités prévues �
 b) Sur le deuxième acte portant constatation du paiement intégral du prix et transfert de propriété, d'un émolument proportionnel, selon le barème suivant :
 
 | Tranches d'assiette | Taux applicable |
-| --- | --- |
+| -- | -- |
 | De 0 à 6 500 € | 1,161 % |
 | De 6 500 € à 17 000 € | 0,639 % |
 | De 17 000 € à 30 000 € | 0,436 % |

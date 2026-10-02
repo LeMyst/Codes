@@ -1,1 +1,1 @@
-Chapitre VI : Des sociétés en commandite par action
+# Chapitre VI : Des sociétés en commandite par action

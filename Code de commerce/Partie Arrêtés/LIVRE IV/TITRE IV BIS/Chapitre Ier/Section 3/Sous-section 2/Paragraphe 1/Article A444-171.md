@@ -2,8 +2,8 @@
 
 Les prestations figurant aux numéros 182 à 195 du tableau 5 donnent lieu à la perception des émoluments suivants :
 
-| Numéro de la prestation (tableau 5 de l'article annexe 4-7) | Désignation de la prestation | Émolument |
-| --- | --- | --- |
+| Numéro de<br>la prestation<br>(tableau 5<br>de l'article<br>annexe 4-7) | Désignation de la prestation | Émolument |
+| -- | -- | -- |
 | 182 | Vérification du respect des dispositions de l'article L. 711-2 du code de la construction et de l'habitation dans le cadre de l'élaboration de l'acte authentique mentionné au premier alinéa de l'article L. 711-5 du même code | 15,09 € |
 | 183 | Immatriculation d'office du syndicat de copropriétaires dans les cas prévus au deuxième alinéa de l'article L. 711-5 du code de la construction et de l'habitation | 18,87 € |
 | 184 | Immatriculation du syndicat de copropriétaires d'un immeuble mis en copropriété dans le cas prévu au I de l'article L. 711-4 du code de la construction et de l'habitation | 18,87 € |

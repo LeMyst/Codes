@@ -1,1 +1,1 @@
-Chapitre II : Des commerçants étrangers.
+# Chapitre II : Des commerçants étrangers.

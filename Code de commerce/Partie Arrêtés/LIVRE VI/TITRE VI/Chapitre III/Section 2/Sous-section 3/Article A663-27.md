@@ -11,7 +11,7 @@ I. - Les émoluments prévus au I de l'article R. 663-29 sont fixés proportionn
 Selon le barème suivant :
 
 | TRANCHES D'ASSIETTE EN € | TAUX DE L'ÉMOLUMENT EN % |
-| --- | --- |
+| -- | -- |
 | De 0 à 15 000 | 4,703 % |
 | De 15 001 à 50 000 | 3,762 % |
 | De 50 001 à 150 000 | 2,822 % |

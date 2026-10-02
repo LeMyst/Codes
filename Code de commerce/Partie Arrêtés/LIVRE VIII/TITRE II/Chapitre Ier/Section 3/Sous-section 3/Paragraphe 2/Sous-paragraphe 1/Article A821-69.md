@@ -14,17 +14,17 @@ Aspects généraux de la planification
 
 3. La planification consiste à prévoir :
 
-- l'approche générale des travaux ;
+   - l'approche générale des travaux ;
 
-- les procédures d'audit à mettre en œuvre par les membres de l'équipe d'audit ;
+   - les procédures d'audit à mettre en œuvre par les membres de l'équipe d'audit ;
 
-- la nature et l'étendue de la supervision des membres de l'équipe d'audit et la revue de leurs travaux ;
+   - la nature et l'étendue de la supervision des membres de l'équipe d'audit et la revue de leurs travaux ;
 
-- la nature et l'étendue des ressources nécessaires pour réaliser la mission, y compris le recours éventuel à des experts ;
+   - la nature et l'étendue des ressources nécessaires pour réaliser la mission, y compris le recours éventuel à des experts ;
 
-- le cas échéant, la coordination des travaux avec les interventions d'experts ou d'autres professionnels chargés du contrôle des comptes des entités comprises dans le périmètre de consolidation.
+   - le cas échéant, la coordination des travaux avec les interventions d'experts ou d'autres professionnels chargés du contrôle des comptes des entités comprises dans le périmètre de consolidation.
 
-4. Lorsque le commissariat aux comptes est exercé par plusieurs commissaires aux comptes, les éléments relatifs à la planification de l'audit sont définis de manière concertée.
+1. Lorsque le commissariat aux comptes est exercé par plusieurs commissaires aux comptes, les éléments relatifs à la planification de l'audit sont définis de manière concertée.
 
 1. Lorsque le commissaire aux comptes est conduit à certifier à la fois les comptes annuels et les comptes consolidés d'une entité, la planification reflète l'approche générale et les travaux prévus au titre de l'audit des comptes annuels et des comptes consolidés.
 
@@ -32,13 +32,13 @@ Aspects généraux de la planification
 
 1. La planification est engagée :
 
-- après la mise en œuvre des vérifications liées à l'acceptation et au maintien de la mission, en particulier de celles liées aux règles déontologiques ;
+   - après la mise en œuvre des vérifications liées à l'acceptation et au maintien de la mission, en particulier de celles liées aux règles déontologiques ;
 
-- après prise de contact avec le commissaire aux comptes prédécesseur dans le respect des règles de déontologie et de secret professionnel, en cas de changement de commissaire aux comptes ;
+   - après prise de contact avec le commissaire aux comptes prédécesseur dans le respect des règles de déontologie et de secret professionnel, en cas de changement de commissaire aux comptes ;
 
-- avant la mise en œuvre des procédures d'audit.
+   - avant la mise en œuvre des procédures d'audit.
 
-8. Le commissaire aux comptes établit par écrit un plan de mission et un programme de travail relatifs à l'audit des comptes de l'exercice. Ces documents reprennent les principaux éléments de la planification et font partie, conformément aux dispositions de l'article D. 821-186 du code de commerce, du dossier du commissaire aux comptes.
+1. Le commissaire aux comptes établit par écrit un plan de mission et un programme de travail relatifs à l'audit des comptes de l'exercice. Ces documents reprennent les principaux éléments de la planification et font partie, conformément aux dispositions de l'article D. 821-186 du code de commerce, du dossier du commissaire aux comptes.
 
 1. Ces documents sont établis en tenant compte de la forme juridique de l'entité contrôlée, de sa taille, de la nature de ses activités, du contrôle éventuellement exercé par l'autorité publique, de la complexité de la mission, de la méthodologie et des techniques spécifiques utilisées par le commissaire aux comptes.
 
@@ -46,11 +46,11 @@ Plan de mission
 
 10. Le plan de mission décrit l'approche générale des travaux, qui comprend notamment :
 
-- l'étendue, le calendrier et l'orientation des travaux ;
+    - l'étendue, le calendrier et l'orientation des travaux ;
 
-- le ou les seuils de signification retenus ; et
+    - le ou les seuils de signification retenus ; et
 
-- les lignes directrices nécessaires à la préparation du programme de travail.
+    - les lignes directrices nécessaires à la préparation du programme de travail.
 
 Programme de travail
 

@@ -1,1 +1,1 @@
-Chapitre VI : Infractions communes aux diverses formes de sociétés par actions.
+# Chapitre VI : Infractions communes aux diverses formes de sociétés par actions.

@@ -19,4 +19,4 @@ Les créances alimentaires ne sont pas soumises aux dispositions du présent art
 NOTA:
 Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.
 
-Conformément au V de l'article 4 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du II de l'article précité, s'appliquent aux procédures collectives ouvertes et aux liquidations judiciaires prononcées à compter du 1er janvier 2027.
+Conformément au V de l'article 4 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du II de l'article précité, s'appliquent aux procédures collectives ouvertes et aux liquidations judiciaires prononcées à compter du 1<sup>er</sup> janvier 2027.

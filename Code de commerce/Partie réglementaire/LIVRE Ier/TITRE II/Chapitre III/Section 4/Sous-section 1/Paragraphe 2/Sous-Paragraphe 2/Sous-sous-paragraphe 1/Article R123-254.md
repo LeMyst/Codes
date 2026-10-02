@@ -5,4 +5,4 @@ Le conjoint du gérant associé unique ou du gérant associé majoritaire d'une 
 Lorsque le gérant associé unique ou le gérant associé majoritaire d'une société à responsabilité limitée ou d'une société d'exercice libéral à responsabilité limitée est un actif agricole au sens de l'article L. 311-2 du code rural et de la pêche maritime, est également inscrit le numéro d'inscription au répertoire national d'identification des personnes physiques, s'il y est inscrit, de son conjoint, partenaire, ou concubin.
 
 NOTA:
-En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1<sup>er</sup> janvier 2023.

@@ -1,1 +1,3 @@
-Section 2 bis : De l'accès partiel aux activités de vente volontaire de meubles aux enchères publiques par les ressortissants des Etats membres de l'Union européenne et des Etats parties à l'accord sur l'Espace économique européen
+# Section 2 bis : De l'accès partiel aux activités de vente volontaire de meubles aux enchères publiques par les ressortissants des Etats membres de l'Union européenne et des Etats parties à l'accord sur l'Espace économique européen
+
+- [Article L321-28-1](Article%20L321-28-1.md)

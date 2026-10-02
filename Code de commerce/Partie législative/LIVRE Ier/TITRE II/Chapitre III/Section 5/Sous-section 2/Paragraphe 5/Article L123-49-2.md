@@ -13,4 +13,4 @@ c) Du régime mentionné à l'article L. 382-1 du code de la sécurité sociale 
 2° Pour les entreprises mentionnées au 6° de l'article L. 123-36 du présent code, à l'exception de celles mentionnées aux articles L. 123-49-1 et L. 123-49-3.
 
 NOTA:
-Conformément au II de l'article 6 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du 2° du I de l'article précité, entrent en vigueur le 1er janvier 2026.
+Conformément au II de l'article 6 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du 2° du I de l'article précité, entrent en vigueur le 1<sup>er</sup> janvier 2026.

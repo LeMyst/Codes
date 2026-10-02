@@ -1,1 +1,1 @@
-Sous-paragraphe 2 : Du stage
+# Sous-paragraphe 2 : Du stage

@@ -17,4 +17,4 @@ Font l'objet d'un dépôt par la personne morale, en annexe du Registre national
 7° Les actes ou pièces déposés en annexe du registre du commerce et des sociétés en application de textes législatifs ou réglementaires spécifiques.
 
 NOTA:
-En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1<sup>er</sup> janvier 2023.

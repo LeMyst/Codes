@@ -2,8 +2,8 @@
 
 Les prestations figurant aux numéros 113 à 126 du tableau 3-1 donnent lieu à la perception des émoluments suivants :
 
-| Numéro de la prestation (tableau 3-1 de l'article annexe 4-7) | Désignation de la prestation | Emolument |
-| --- | --- | --- |
+| Numéro de<br>la prestation<br>(tableau 3-1<br>de l'article<br>annexe 4-7) | Désignation de la prestation | Emolument |
+| -- | -- | -- |
 | 113 | Délivrance du titre exécutoire par l'huissier dans le cadre de la procédure prévue à l'article L. 125-1 du code des procédures civiles d'exécution ou L. 131-73 du code monétaire et financier. | 25,05 € |
 | 114 | Procès-verbal de description des lieux (saisie immobilière) | 110,68 € |
 | 115 | Opposition à mariage | 33,31 € |

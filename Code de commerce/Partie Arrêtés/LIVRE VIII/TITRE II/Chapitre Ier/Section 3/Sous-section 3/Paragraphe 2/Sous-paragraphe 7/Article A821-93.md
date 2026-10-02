@@ -24,39 +24,39 @@ Ces risques d'anomalies significatives les plus importants sont qualifiés dans 
 
 1. La communication des points clés de l'audit ne saurait se substituer à la nécessité :
 
-– de formuler une opinion avec réserve, un refus de certifier ou une impossibilité de certifier, ou ;
+   - de formuler une opinion avec réserve, un refus de certifier ou une impossibilité de certifier, ou ;
 
-– d'insérer une partie relative aux incertitudes significatives liées à des événements ou à des circonstances susceptibles de mettre en cause la continuité d'exploitation, ou ;
+   - d'insérer une partie relative aux incertitudes significatives liées à des événements ou à des circonstances susceptibles de mettre en cause la continuité d'exploitation, ou ;
 
-– de formuler une observation lorsque celle-ci est obligatoire.
+   - de formuler une observation lorsque celle-ci est obligatoire.
 
-8. La communication des points clés de l'audit ne saurait conduire le commissaire aux comptes à être un dispensateur d'informations dont la diffusion relève de la responsabilité des dirigeants.
+1. La communication des points clés de l'audit ne saurait conduire le commissaire aux comptes à être un dispensateur d'informations dont la diffusion relève de la responsabilité des dirigeants.
 
 Détermination des points clés de l'audit
 
 9. Le commissaire aux comptes sélectionne, parmi les éléments communiqués au comité spécialisé mentionné à l'article L. 821-67 du code de commerce ou à l'organe qui en exerce les fonctions, ceux ayant nécessité une attention particulière de sa part au cours de l'audit. Pour les besoins de cette sélection, le commissaire aux comptes prend notamment en considération les éléments suivants :
 
-– les domaines qu'il considère comme présentant des risques élevés d'anomalies significatives ou des risques inhérents élevés nécessitant une démarche d'audit particulière. Ces risques ont été identifiés conformément à la norme relative à la connaissance de l'entité et de son environnement et à l'évaluation du risque d'anomalies significatives dans les comptes ;
+   - les domaines qu'il considère comme présentant des risques élevés d'anomalies significatives ou des risques inhérents élevés nécessitant une démarche d'audit particulière. Ces risques ont été identifiés conformément à la norme relative à la connaissance de l'entité et de son environnement et à l'évaluation du risque d'anomalies significatives dans les comptes ;
 
-– les appréciations qu'il a portées sur des éléments des comptes ayant nécessité des jugements importants de la direction, tels que les estimations comptables présentant un degré élevé d'incertitude ;
+   - les appréciations qu'il a portées sur des éléments des comptes ayant nécessité des jugements importants de la direction, tels que les estimations comptables présentant un degré élevé d'incertitude ;
 
-– les incidences sur l'audit d'opérations ou d'événements importants intervenus au cours de l'exercice.
+   - les incidences sur l'audit d'opérations ou d'événements importants intervenus au cours de l'exercice.
 
-10. Parmi les éléments ainsi sélectionnés, le commissaire aux comptes retient ceux qu'il juge avoir été les plus importants pour l'audit des comptes de l'exercice et qui constituent de ce fait les points clés de l'audit.
+1. Parmi les éléments ainsi sélectionnés, le commissaire aux comptes retient ceux qu'il juge avoir été les plus importants pour l'audit des comptes de l'exercice et qui constituent de ce fait les points clés de l'audit.
 
-01. A titre d'exemple, le commissaire aux comptes peut estimer pertinent de considérer :
+1. A titre d'exemple, le commissaire aux comptes peut estimer pertinent de considérer :
 
-– le contenu et l'étendue des échanges avec le comité spécialisé mentionné à l'article L. 821-67 du code de commerce ou à l'organe qui en exerce les fonctions ;
+   - le contenu et l'étendue des échanges avec le comité spécialisé mentionné à l'article L. 821-67 du code de commerce ou à l'organe qui en exerce les fonctions ;
 
-– l'importance des éléments pour la compréhension des comptes dans leur ensemble et en particulier leur caractère significatif par rapport aux comptes annuels ou consolidés ;
+   - l'importance des éléments pour la compréhension des comptes dans leur ensemble et en particulier leur caractère significatif par rapport aux comptes annuels ou consolidés ;
 
-– la complexité ou la subjectivité qu'implique le choix par la direction d'une méthode comptable, notamment en comparaison d'autres entités dans le même secteur ;
+   - la complexité ou la subjectivité qu'implique le choix par la direction d'une méthode comptable, notamment en comparaison d'autres entités dans le même secteur ;
 
-– la nature et l'étendue de l'effort d'audit mis en œuvre en réponse aux risques d'anomalies significatives, notamment la nécessité de compétences spécifiques et de consultations d'experts ;
+   - la nature et l'étendue de l'effort d'audit mis en œuvre en réponse aux risques d'anomalies significatives, notamment la nécessité de compétences spécifiques et de consultations d'experts ;
 
-– la nature et l'importance des difficultés rencontrées dans l'application des procédures d'audit, dans l'évaluation de leurs résultats et dans l'obtention d'éléments suffisants et appropriés pour conclure ;
+   - la nature et l'importance des difficultés rencontrées dans l'application des procédures d'audit, dans l'évaluation de leurs résultats et dans l'obtention d'éléments suffisants et appropriés pour conclure ;
 
-– l'importance des faiblesses de contrôle interne identifiées.
+   - l'importance des faiblesses de contrôle interne identifiées.
 
 Formulation des points clés de l'audit
 
@@ -66,21 +66,21 @@ Formulation des points clés de l'audit
 
 01. Le commissaire aux comptes précise en introduction de cette partie distincte :
 
-– que les points clés de l'audit sont les risques d'anomalies significatives qui, selon son jugement professionnel, ont été les plus importants pour l'audit des comptes de l'exercice ;
+    - que les points clés de l'audit sont les risques d'anomalies significatives qui, selon son jugement professionnel, ont été les plus importants pour l'audit des comptes de l'exercice ;
 
-– que ces points clés de l'audit s'inscrivent dans le contexte de l'audit des comptes, pris dans leur ensemble, et de la formation de l'opinion formulée sur ces comptes ;
+    - que ces points clés de l'audit s'inscrivent dans le contexte de l'audit des comptes, pris dans leur ensemble, et de la formation de l'opinion formulée sur ces comptes ;
 
-– qu'il n'est pas exprimé d'opinion sur des éléments des comptes pris isolément.
+    - qu'il n'est pas exprimé d'opinion sur des éléments des comptes pris isolément.
 
 Description de chacun des points clés de l'audit
 
 15. Cette formulation doit être claire et comprendre pour chaque point clé de l'audit :
 
-– un sous-titre approprié ;
+    - un sous-titre approprié ;
 
-– les raisons pour lesquelles le risque d'anomalies significatives est considéré comme l'un des plus importants de l'audit et constitue de ce fait un point clé de l'audit ;
+    - les raisons pour lesquelles le risque d'anomalies significatives est considéré comme l'un des plus importants de l'audit et constitue de ce fait un point clé de l'audit ;
 
-– une synthèse des réponses apportées par le commissaire aux comptes pour faire face à ce risque.
+    - une synthèse des réponses apportées par le commissaire aux comptes pour faire face à ce risque.
 
 Lorsque cela est pertinent au regard de la description effectuée, le commissaire aux comptes fait référence aux informations fournies dans les comptes annuels ou, le cas échéant, dans les comptes consolidés.
 
@@ -130,11 +130,11 @@ Documentation
 
 23. Le commissaire aux comptes consigne dans son dossier les éléments suivants :
 
-– les éléments ayant nécessité une attention particulière de sa part au cours de l'audit et déterminés conformément aux principes énoncés au paragraphe 9 ainsi que le raisonnement qui l'a conduit à qualifier, ou non, chacun de ces éléments comme un point clé de l'audit conformément aux principes énoncés au paragraphe 10 ;
+    - les éléments ayant nécessité une attention particulière de sa part au cours de l'audit et déterminés conformément aux principes énoncés au paragraphe 9 ainsi que le raisonnement qui l'a conduit à qualifier, ou non, chacun de ces éléments comme un point clé de l'audit conformément aux principes énoncés au paragraphe 10 ;
 
-– le cas échéant, l'analyse l'ayant conduit à déterminer qu'il n'y a pas de point clé d'audit à décrire dans son rapport ou que les seuls points clés de l'audit à communiquer sont ceux dont il est question aux paragraphes 18 à 20 ;
+    - le cas échéant, l'analyse l'ayant conduit à déterminer qu'il n'y a pas de point clé d'audit à décrire dans son rapport ou que les seuls points clés de l'audit à communiquer sont ceux dont il est question aux paragraphes 18 à 20 ;
 
-– le cas échéant, les raisons pour lesquelles le commissaire aux comptes n'a pas communiqué dans son rapport un point clé de l'audit, en application du paragraphe 16.
+    - le cas échéant, les raisons pour lesquelles le commissaire aux comptes n'a pas communiqué dans son rapport un point clé de l'audit, en application du paragraphe 16.
 
 NEP-702.-JUSTIFICATION DES APPRÉCIATIONS DANS LES RAPPORTS DU COMMISSAIRE AUX COMPTES SUR LES COMPTES ANNUELS ET CONSOLIDÉS DES PERSONNES ET ENTITÉS QUI NE SONT PAS DES ENTITÉS D'INTÉRÊT PUBLIC
 
@@ -156,23 +156,23 @@ Concept de justification des appréciations dans les rapports sur les comptes de
 
 1. La communication des appréciations ne saurait se substituer à la nécessité :
 
-– de formuler une opinion avec réserve, un refus de certifier ou une impossibilité de certifier, ou ;
+   - de formuler une opinion avec réserve, un refus de certifier ou une impossibilité de certifier, ou ;
 
-– d'insérer une partie relative aux incertitudes significatives liées à des événements ou à des circonstances susceptibles de mettre en cause la continuité d'exploitation, ou ;
+   - d'insérer une partie relative aux incertitudes significatives liées à des événements ou à des circonstances susceptibles de mettre en cause la continuité d'exploitation, ou ;
 
-– de formuler une observation lorsque celle-ci est obligatoire.
+   - de formuler une observation lorsque celle-ci est obligatoire.
 
-8. La communication des appréciations ne saurait conduire le commissaire aux comptes à être un dispensateur d'informations dont la diffusion relève de la responsabilité des dirigeants.
+1. La communication des appréciations ne saurait conduire le commissaire aux comptes à être un dispensateur d'informations dont la diffusion relève de la responsabilité des dirigeants.
 
 Appréciations de nature à faire l'objet d'une justification
 
 9. Sans préjudice d'autres appréciations que le commissaire aux comptes jugerait nécessaire de justifier pour répondre à l'obligation posée par la loi, les appréciations de nature à faire l'objet d'une justification se rapportent généralement à des éléments déterminants pour la compréhension des comptes. Entrent dans ce cadre, notamment, les appréciations portant sur :
 
-– les options retenues dans le choix des méthodes comptables ou dans leurs modalités de mise en œuvre lorsqu'elles ont des incidences majeures sur le résultat, la situation financière ou la présentation d'ensemble des comptes de l'entité ;
+   - les options retenues dans le choix des méthodes comptables ou dans leurs modalités de mise en œuvre lorsqu'elles ont des incidences majeures sur le résultat, la situation financière ou la présentation d'ensemble des comptes de l'entité ;
 
-– les estimations comptables importantes, notamment celles manquant de données objectives et impliquant un jugement professionnel dans leur appréciation ;
+   - les estimations comptables importantes, notamment celles manquant de données objectives et impliquant un jugement professionnel dans leur appréciation ;
 
-– la présentation d'ensemble des comptes annuels et consolidés, qu'il s'agisse du contenu de l'annexe ou de la présentation des états de synthèse.
+   - la présentation d'ensemble des comptes annuels et consolidés, qu'il s'agisse du contenu de l'annexe ou de la présentation des états de synthèse.
 
 Le commissaire aux comptes peut également estimer nécessaire de justifier d'appréciations portant sur les procédures de contrôle interne concourant à l'élaboration des comptes, qu'il est conduit à apprécier dans le cadre de la mise en œuvre de sa démarche d'audit.
 
@@ -184,19 +184,19 @@ Formulation des appréciations
 
 01. Le commissaire aux comptes précise en introduction de cette partie distincte :
 
-– que les appréciations sont celles qui, selon son jugement professionnel, ont été les plus importantes pour l'audit des comptes de l'exercice ;
+    - que les appréciations sont celles qui, selon son jugement professionnel, ont été les plus importantes pour l'audit des comptes de l'exercice ;
 
-– que les appréciations s'inscrivent dans le contexte de l'audit des comptes, pris dans leur ensemble, et de la formation de l'opinion formulée sur ces comptes ;
+    - que les appréciations s'inscrivent dans le contexte de l'audit des comptes, pris dans leur ensemble, et de la formation de l'opinion formulée sur ces comptes ;
 
-– qu'il n'est pas exprimé d'opinion sur des éléments des comptes pris isolément.
+    - qu'il n'est pas exprimé d'opinion sur des éléments des comptes pris isolément.
 
 Formulation de chacune des appréciations
 
 13. Cette formulation doit être claire et comprendre, pour chaque appréciation :
 
-– la description du sujet et la référence, si elle est possible, aux informations fournies dans les comptes annuels ou, le cas échéant, dans les comptes consolidés ;
+    - la description du sujet et la référence, si elle est possible, aux informations fournies dans les comptes annuels ou, le cas échéant, dans les comptes consolidés ;
 
-– un résumé des diligences effectuées par le commissaire aux comptes pour fonder son appréciation.
+    - un résumé des diligences effectuées par le commissaire aux comptes pour fonder son appréciation.
 
 Circonstances dans lesquelles une appréciation n'est pas communiquée dans le rapport
 
@@ -206,11 +206,11 @@ Circonstances dans lesquelles la formulation des appréciations peut être moins
 
 15. La formulation des appréciations peut éventuellement être moins développée dans les cas où :
 
-– les principes comptables retenus par l'entité ou le groupe ne donnent pas lieu à plusieurs interprétations ou options possibles, y compris dans leurs modalités d'application, pour ce qui concerne les éléments significatifs du bilan et du compte de résultat ;
+    - les principes comptables retenus par l'entité ou le groupe ne donnent pas lieu à plusieurs interprétations ou options possibles, y compris dans leurs modalités d'application, pour ce qui concerne les éléments significatifs du bilan et du compte de résultat ;
 
-– il n'existe pas d'événement ou de décision intervenus au cours de l'exercice dont l'incidence sur les comptes ou la compréhension que pourrait en avoir un lecteur est apparue importante au commissaire aux comptes ;
+    - il n'existe pas d'événement ou de décision intervenus au cours de l'exercice dont l'incidence sur les comptes ou la compréhension que pourrait en avoir un lecteur est apparue importante au commissaire aux comptes ;
 
-– aucun élément significatif dans les comptes n'est constitué à partir d'estimations fondées sur des données subjectives.
+    - aucun élément significatif dans les comptes n'est constitué à partir d'estimations fondées sur des données subjectives.
 
 Lien entre les appréciations et les observations
 

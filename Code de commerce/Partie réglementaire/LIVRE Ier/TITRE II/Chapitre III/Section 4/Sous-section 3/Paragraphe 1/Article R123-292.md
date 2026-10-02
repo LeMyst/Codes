@@ -5,4 +5,4 @@ Les pièces justificatives nécessaires à l'inscription d'informations, au dép
 Les autorités mentionnées à la sous-section 2 de la présente section peuvent demander, par l'intermédiaire de l'organisme unique mentionné à l'article R. 123-1 et dans les conditions prévues à l'article R. 123-7, des pièces justificatives complémentaires au déclarant lorsqu'il existe un doute sur l'authenticité de la pièce produite ou lorsque sa valeur probante est insuffisante.
 
 NOTA:
-En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1<sup>er</sup> janvier 2023.

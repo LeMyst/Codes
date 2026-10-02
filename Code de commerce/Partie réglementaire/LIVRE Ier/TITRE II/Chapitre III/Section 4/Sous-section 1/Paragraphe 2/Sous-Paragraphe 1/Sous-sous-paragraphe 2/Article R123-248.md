@@ -11,4 +11,4 @@ Font l'objet d'inscriptions modificatives au sein du Registre national des entre
 4° Le renouvellement, limité à une période supplémentaire d'un an, du maintien provisoire de l'immatriculation dans les cas prévus au 3°.
 
 NOTA:
-En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1<sup>er</sup> janvier 2023.

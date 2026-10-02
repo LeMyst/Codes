@@ -15,4 +15,4 @@ Le même avis est publié dans un support d'annonces légales du lieu où le dé
 Le greffier procède d'office à ces publicités dans les quinze jours de la date du jugement.
 
 NOTA:
-Conformément au I de l'article 9 du décret n° 2026-96 du 16 février 2026, ces dispositions dans leur rédaction issue dudit décret, entrent en vigueur le 1er avril 2026.
+Conformément au I de l'article 9 du décret n° 2026-96 du 16 février 2026, ces dispositions dans leur rédaction issue dudit décret, entrent en vigueur le 1<sup>er</sup> avril 2026.

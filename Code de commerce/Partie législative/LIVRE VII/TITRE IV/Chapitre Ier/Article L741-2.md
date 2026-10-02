@@ -23,4 +23,4 @@ Le conseil national exerce l'action disciplinaire dans les conditions prévues p
 Le Conseil national des greffiers des tribunaux de commerce est également chargé d'assurer la tenue du fichier prévu à l'article L. 128-1.
 
 NOTA:
-Conformément à l’article 40 de l’ordonnance n° 2022-544 du 13 avril 2022, ces dispositions entrent en vigueur le 1er juillet 2022. Se reporter aux conditions d’application dudit article.
+Conformément à l’article 40 de l’ordonnance n° 2022-544 du 13 avril 2022, ces dispositions entrent en vigueur le 1<sup>er</sup> juillet 2022. Se reporter aux conditions d’application dudit article.

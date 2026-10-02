@@ -13,4 +13,4 @@ L'ouverture d'une procédure sur le fondement du présent article est rendue pub
 Lorsque l'Autorité de la concurrence délibère au titre du présent article, son collège comprend deux personnalités qualifiées nommées par décret pour une durée de trois ans non renouvelable.
 
 NOTA:
-Conformément au deuxième alinéa de l'article 4 du décret n° 2025-1273 du 22 décembre 2025, les dispositions issues du 2° de l'article 1er du décret précité s'appliquent aux avis de l'Autorité de la concurrence relatif à la liberté d'installation des avocats au Conseil d'Etat et à la Cour de cassation rendus à compter de la publication dudit décret, à savoir le 24 décembre 2025.
+Conformément au deuxième alinéa de l'article 4 du décret n° 2025-1273 du 22 décembre 2025, les dispositions issues du 2° de l'article 1<sup>er</sup> du décret précité s'appliquent aux avis de l'Autorité de la concurrence relatif à la liberté d'installation des avocats au Conseil d'Etat et à la Cour de cassation rendus à compter de la publication dudit décret, à savoir le 24 décembre 2025.

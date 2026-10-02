@@ -2,8 +2,8 @@
 
 Les prestations figurant aux numéros 97-1 à 97-33 du tableau ci-dessous donnent lieu à la perception des émoluments suivants :
 
-| Numéro de la prestation | Désignation de la prestation | Émolument |
-| --- | --- | --- |
+| Numéro<br>de la prestation | Désignation de la prestation | Émolument |
+| -- | -- | -- |
 | 97-1 | Commandement de payer | 37,08 € |
 | 97-2 | Procès-verbal d'accord conclu entre le débiteur et le créancier sur le montant et les modalités de paiement de la dette | 55,62 € |
 | 97-3 | Procès-verbal de saisie entre les mains de l'employeur | 55,62 € |

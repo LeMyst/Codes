@@ -2,8 +2,8 @@
 
 Les prestations figurant aux numéros 102 à 111 du tableau 3-1 donnent lieu à la perception des émoluments suivants :
 
-| Numéro de la prestation (tableau 3-1 de l'article annexe 4-7) | Désignation de la prestation | Emolument |
-| --- | --- | --- |
+| Numéro de<br>la prestation<br>(tableau 3-1<br>de l'article<br>annexe 4-7) | Désignation de la prestation | Emolument |
+| -- | -- | -- |
 | 102 | Mainlevée quittance au tiers saisi | 20,43 € |
 | 103 | Mainlevée de saisie-vente et la mainlevée d'opposition-jonction | 18,27 € |
 | 104 | Acte de consignation et mainlevée totale ou partielle de saisie-vente, après la vente amiable par le débiteur | 37,62 € |

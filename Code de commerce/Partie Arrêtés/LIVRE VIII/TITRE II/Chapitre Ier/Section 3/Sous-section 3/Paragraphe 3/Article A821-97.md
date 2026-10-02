@@ -10,9 +10,9 @@ Introduction
 
 1. La présente norme a pour objet de définir les diligences relatives :
 
-- au rapport de gestion et aux autres documents sur la situation financière et les comptes ;
+   - au rapport de gestion et aux autres documents sur la situation financière et les comptes ;
 
-- aux informations relevant du rapport sur le gouvernement d'entreprise,
+   - aux informations relevant du rapport sur le gouvernement d'entreprise,
 
 dont les conclusions sont formulées dans le rapport sur les comptes.
 
@@ -40,9 +40,9 @@ Diligences relatives aux informations sur la situation financière et les compte
 
 1. En application des articles R. 821-180 et D. 821-181 du code de commerce et afin :
 
-- de faire état de ses observations sur la sincérité et la concordance avec les comptes des informations sur la situation financière et les comptes ;
+   - de faire état de ses observations sur la sincérité et la concordance avec les comptes des informations sur la situation financière et les comptes ;
 
-- d'attester, dans les sociétés, de la sincérité des informations relatives aux délais de paiement mentionnées à l'article D. 441-6 du code de commerce et de leur concordance avec les comptes annuels, et de présenter ses observations, le cas échéant ;
+   - d'attester, dans les sociétés, de la sincérité des informations relatives aux délais de paiement mentionnées à l'article D. 441-6 du code de commerce et de leur concordance avec les comptes annuels, et de présenter ses observations, le cas échéant ;
 
 Le commissaire aux comptes :
 
@@ -62,9 +62,9 @@ Diligences relatives aux informations en matière de durabilité
 
 11. Lorsque l'entité est soumise aux obligations prévues aux articles L. 232-6-3 et L. 233-28-4 du code de commerce, qui requièrent que le rapport de gestion inclue des informations en matière de durabilité dans une section distincte, le commissaire aux comptes en charge de la certification des comptes :
 
-- vérifie que chaque information significative et qui peut être directement rapprochée des comptes, concorde avec les comptes ;
+    - vérifie que chaque information significative et qui peut être directement rapprochée des comptes, concorde avec les comptes ;
 
-- relève, le cas échéant, les autres informations qui lui apparaîtraient manifestement incohérentes. Il n'a pas à vérifier ces informations.
+    - relève, le cas échéant, les autres informations qui lui apparaîtraient manifestement incohérentes. Il n'a pas à vérifier ces informations.
 
 Pour ce faire, le commissaire aux comptes exerce son esprit critique en s'appuyant sur sa connaissance de l'entité, de son environnement et des éléments collectés au cours de l'audit et sur les conclusions auxquelles l'ont conduit les contrôles qu'il a menés.
 
@@ -76,29 +76,29 @@ Diligences relatives aux informations relevant du rapport sur le gouvernement d'
 
 12. Les diligences du commissaire aux comptes portent sur les informations relevant du rapport sur le gouvernement d'entreprise prévu aux articles L. 225-37 ou L. 225-68 du code de commerce applicables aux sociétés anonymes, aux sociétés en commandite par actions et aux sociétés européennes. Ces informations sont :
 
-- présentées dans le rapport sur le gouvernement d'entreprise joint au rapport de gestion ;
+    - présentées dans le rapport sur le gouvernement d'entreprise joint au rapport de gestion ;
 
-- ou fournies au sein d'une section spécifique du rapport de gestion, dans les sociétés anonymes à conseil d'administration qui ont fait ce choix.
+    - ou fournies au sein d'une section spécifique du rapport de gestion, dans les sociétés anonymes à conseil d'administration qui ont fait ce choix.
 
 Diligences relatives aux rémunérations, avantages et engagements de toute nature
 
 13. Dans les sociétés mentionnées au paragraphe 12, dont les actions sont admises aux négociations sur un marché réglementé, des informations relatives aux rémunérations et aux avantages de toute nature versés ou attribués aux mandataires sociaux ainsi qu'aux engagements consentis en leur faveur, sont requises par l'article L. 22-10-9 du code de commerce. Afin d'attester, en application des articles L. 22-10-71 ou L. 22-10-78 et L. 821-54 alinéa 2 du code de commerce, de l'existence, de l'exactitude et de la sincérité de ces informations, le commissaire aux comptes vérifie la présence des informations requises et que celles-ci :
 
-- concordent avec les comptes ou avec les données ayant servi à l'établissement de ces comptes ;
+    - concordent avec les comptes ou avec les données ayant servi à l'établissement de ces comptes ;
 
-- concordent avec les éléments recueillis par la société auprès des sociétés qu'elle contrôle, lorsque des rémunérations, avantages ou engagements sont versés ou consentis par ces sociétés ;
+    - concordent avec les éléments recueillis par la société auprès des sociétés qu'elle contrôle, lorsque des rémunérations, avantages ou engagements sont versés ou consentis par ces sociétés ;
 
-- sont cohérentes avec la connaissance qu'il a acquise de la société à la suite des travaux menés au cours de sa mission.
+    - sont cohérentes avec la connaissance qu'il a acquise de la société à la suite des travaux menés au cours de sa mission.
 
-14. Dans les sociétés dont les actions sont admises aux négociations sur un marché réglementé, il vérifie par ailleurs que les informations requises par l'article L. 22-10-8 ou l'article L. 22-10-26 ou L. 22-10-76 du code de commerce, concernant le projet de résolution relatif à la politique de rémunération des mandataires sociaux ont été fournies.
+01. Dans les sociétés dont les actions sont admises aux négociations sur un marché réglementé, il vérifie par ailleurs que les informations requises par l'article L. 22-10-8 ou l'article L. 22-10-26 ou L. 22-10-76 du code de commerce, concernant le projet de résolution relatif à la politique de rémunération des mandataires sociaux ont été fournies.
 
 Diligences relatives aux informations sur les éléments susceptibles d'avoir une incidence en cas d'offre publique d'achat ou d'échange
 
 15. Dans les sociétés dont les titres sont admis aux négociations sur un marché réglementé, afin de formuler en application des articles L. 22-10-71 ou L. 22-10-78 du code de commerce ses observations sur les informations mentionnées à l'article L. 22-10-11 du code de commerce relatives aux éléments que la société a considéré susceptibles d'avoir une incidence en cas d'offre publique d'achat ou d'échange, le commissaire aux comptes :
 
-- vérifie la conformité de ces informations avec les documents et informations dont elles sont issues et qui lui ont été communiqués ;
+    - vérifie la conformité de ces informations avec les documents et informations dont elles sont issues et qui lui ont été communiqués ;
 
-- demande une déclaration de la direction confirmant lui avoir fourni l'ensemble des informations qu'elle a identifiées.
+    - demande une déclaration de la direction confirmant lui avoir fourni l'ensemble des informations qu'elle a identifiées.
 
 Autres diligences
 
@@ -136,36 +136,36 @@ Forme et contenu de la partie du rapport sur les comptes relative à la vérific
 
 22. Dans le rapport sur les comptes annuels, cette partie comporte les éléments suivants :
 
-- une introduction par laquelle le commissaire aux comptes indique qu'il a effectué les vérifications spécifiques prévues par les textes légaux et réglementaires ;
+    - une introduction par laquelle le commissaire aux comptes indique qu'il a effectué les vérifications spécifiques prévues par les textes légaux et réglementaires ;
 
-- s'agissant des informations données dans le rapport de gestion qui intègre les informations en matière de durabilité lorsque l'entité est soumise aux obligations prévues aux articles L. 232-6-3 et L. 233-28-4 du code de commerce, et dans les autres documents sur la situation financière et les comptes annuels :
+    - s'agissant des informations données dans le rapport de gestion qui intègre les informations en matière de durabilité lorsque l'entité est soumise aux obligations prévues aux articles L. 232-6-3 et L. 233-28-4 du code de commerce, et dans les autres documents sur la situation financière et les comptes annuels :
 
-- les conclusions exprimées sous forme d'observation, ou d'absence d'observation, sur la sincérité et la concordance avec les comptes annuels des informations données dans le rapport de gestion et dans les autres documents sur la situation financière et les comptes annuels adressés à l'organe appelé à statuer sur les comptes ;
+    - les conclusions exprimées sous forme d'observation, ou d'absence d'observation, sur la sincérité et la concordance avec les comptes annuels des informations données dans le rapport de gestion et dans les autres documents sur la situation financière et les comptes annuels adressés à l'organe appelé à statuer sur les comptes ;
 
-- le cas échéant, l'attestation de la sincérité des informations relatives aux délais de paiement mentionnées à l'article D. 441-6 du code de commerce et de leur concordance avec les comptes annuels et la formulation, le cas échéant, de ses observations ;
+    - le cas échéant, l'attestation de la sincérité des informations relatives aux délais de paiement mentionnées à l'article D. 441-6 du code de commerce et de leur concordance avec les comptes annuels et la formulation, le cas échéant, de ses observations ;
 
-- la mention des éventuelles irrégularités résultant de l'omission d'informations ou de documents prévus par les textes légaux et réglementaires ou par les statuts ;
+    - la mention des éventuelles irrégularités résultant de l'omission d'informations ou de documents prévus par les textes légaux et réglementaires ou par les statuts ;
 
-- la mention des éventuelles autres inexactitudes relevées.
+    - la mention des éventuelles autres inexactitudes relevées.
 
-- s'agissant des informations relevant du rapport sur le gouvernement d'entreprise :
+    - s'agissant des informations relevant du rapport sur le gouvernement d'entreprise :
 
-- l'attestation de l'existence des informations requises par les articles L. 225-37-4 et L. 22-10-10 et, le cas échéant, par l'article L. 22-10-9 du code de commerce ;
+    - l'attestation de l'existence des informations requises par les articles L. 225-37-4 et L. 22-10-10 et, le cas échéant, par l'article L. 22-10-9 du code de commerce ;
 
-- le cas échéant, l'attestation de l'exactitude et de la sincérité des informations relatives aux rémunérations et aux avantages de toute nature versés ou attribués à chaque mandataire social, fournies en application de l'article L. 22-10-9 du code de commerce ;
+    - le cas échéant, l'attestation de l'exactitude et de la sincérité des informations relatives aux rémunérations et aux avantages de toute nature versés ou attribués à chaque mandataire social, fournies en application de l'article L. 22-10-9 du code de commerce ;
 
-- le cas échéant, les conclusions exprimées sous forme d'observation, ou d'absence d'observation, sur la conformité des informations prévues à l'article L. 22-10-11 du code de commerce, relatives aux éléments que la société a considéré susceptibles d'avoir une incidence en cas d'offre publique d'achat ou d'échange, avec les documents dont elles issues et qui ont été communiqués au commissaire aux comptes ;
+    - le cas échéant, les conclusions exprimées sous forme d'observation, ou d'absence d'observation, sur la conformité des informations prévues à l'article L. 22-10-11 du code de commerce, relatives aux éléments que la société a considéré susceptibles d'avoir une incidence en cas d'offre publique d'achat ou d'échange, avec les documents dont elles issues et qui ont été communiqués au commissaire aux comptes ;
 
-- la mention des éventuelles irrégularités résultant de l'omission d'informations ou de documents prévus par les textes légaux et réglementaires ou par les statuts ;
+    - la mention des éventuelles irrégularités résultant de l'omission d'informations ou de documents prévus par les textes légaux et réglementaires ou par les statuts ;
 
-- la mention des éventuelles autres inexactitudes relevées.
+    - la mention des éventuelles autres inexactitudes relevées.
 
-23. Dans le rapport sur les comptes consolidés, la partie relative à la vérification des informations relatives au groupe données dans le rapport de gestion comporte les éléments suivants :
+01. Dans le rapport sur les comptes consolidés, la partie relative à la vérification des informations relatives au groupe données dans le rapport de gestion comporte les éléments suivants :
 
-- une introduction par laquelle le commissaire aux comptes indique qu'il a effectué les vérifications spécifiques prévues par les textes légaux et réglementaires ;
+    - une introduction par laquelle le commissaire aux comptes indique qu'il a effectué les vérifications spécifiques prévues par les textes légaux et réglementaires ;
 
-- les conclusions, exprimées sous forme d'observation, ou d'absence d'observation, sur la sincérité et la concordance avec les comptes consolidés des informations relatives au groupe données dans le rapport de gestion ;
+    - les conclusions, exprimées sous forme d'observation, ou d'absence d'observation, sur la sincérité et la concordance avec les comptes consolidés des informations relatives au groupe données dans le rapport de gestion ;
 
-- la mention des éventuelles irrégularités résultant de l'omission d'informations ou de documents prévus par les textes légaux et réglementaires ou par les statuts ;
+    - la mention des éventuelles irrégularités résultant de l'omission d'informations ou de documents prévus par les textes légaux et réglementaires ou par les statuts ;
 
-- la mention des éventuelles autres inexactitudes relevées.
+    - la mention des éventuelles autres inexactitudes relevées.

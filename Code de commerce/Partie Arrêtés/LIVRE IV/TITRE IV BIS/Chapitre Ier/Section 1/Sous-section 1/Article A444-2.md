@@ -9,7 +9,7 @@ La prisée figurant au numéro 1 du tableau mentionné à l'article A. 444-1 don
 Selon le barème suivant :
 
 | Tranches d'assiette | Taux applicable |
-| --- | --- |
+| -- | -- |
 | De 0 à 1 725 € | 1,488 % |
 | De 1 726 € à 4 600 € | 0,496 % |
 | De 4 601 € à 34 500 € | 0,248 % |

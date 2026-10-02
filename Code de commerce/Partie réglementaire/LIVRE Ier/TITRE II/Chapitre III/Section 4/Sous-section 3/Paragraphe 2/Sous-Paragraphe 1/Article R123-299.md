@@ -9,4 +9,4 @@ S'agissant des décisions d'ouverture de procédures de sauvegarde ou de redress
 3° Le délai de déclaration des créances avec les références électroniques du portail prévu par les articles L. 814-2 et L. 814-13.
 
 NOTA:
-En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1<sup>er</sup> janvier 2023.

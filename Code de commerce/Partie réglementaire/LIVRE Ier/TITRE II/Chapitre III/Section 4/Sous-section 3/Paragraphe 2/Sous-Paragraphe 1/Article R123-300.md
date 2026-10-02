@@ -13,4 +13,4 @@ Pour les procédures ouvertes à compter du 1er janvier 2006, les informations s
 5° Les jugements prononçant la faillite personnelle ou l'interdiction prévue à l'article L. 653-8 en cas de clôture pour extinction du passif, relèvement total des déchéances ou amnistie.
 
 NOTA:
-En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1<sup>er</sup> janvier 2023.

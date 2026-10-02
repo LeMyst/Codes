@@ -102,9 +102,9 @@ Prise de connaissance de l'entité et de son environnement, notamment de son con
 
 21. Le commissaire aux comptes acquiert une connaissance de l'entité et de son environnement, notamment de son contrôle interne, afin :
 
-- d'identifier et d'évaluer le risque d'anomalies significatives dans les comptes pris dans leur ensemble et au niveau des assertions et de répondre à ce risque tout au long de son audit, et
+    - d'identifier et d'évaluer le risque d'anomalies significatives dans les comptes pris dans leur ensemble et au niveau des assertions et de répondre à ce risque tout au long de son audit, et
 
-- en outre d'identifier les catégories d'opérations, les soldes de comptes et les informations fournies dans l'annexe des comptes qui sont significatifs, afin de mettre en œuvre les "autres procédures de substance", conformément au paragraphe 27 de la norme d'exercice professionnel "Procédures d'audit mises en œuvre par le commissaire aux comptes à l'issue de sa prise de connaissance de l'entité et de son environnement et de son évaluation du risque d'anomalies significatives dans les comptes".
+    - en outre d'identifier les catégories d'opérations, les soldes de comptes et les informations fournies dans l'annexe des comptes qui sont significatifs, afin de mettre en œuvre les "autres procédures de substance", conformément au paragraphe 27 de la norme d'exercice professionnel "Procédures d'audit mises en œuvre par le commissaire aux comptes à l'issue de sa prise de connaissance de l'entité et de son environnement et de son évaluation du risque d'anomalies significatives dans les comptes".
 
 La prise de connaissance de l'entité et de son environnement, notamment de son contrôle interne, porte sur les éléments pertinents pour la préparation des comptes.
 

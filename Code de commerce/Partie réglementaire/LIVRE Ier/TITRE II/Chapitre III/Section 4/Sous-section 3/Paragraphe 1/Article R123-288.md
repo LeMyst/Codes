@@ -7,4 +7,4 @@ Les déclarations et dépôts sont établis dans les formes définies par l'arti
 Par dérogation au présent article, les documents comptables, les déclarations de confidentialité et les déclarations de publication simplifiées des comptes annuels prévus aux 3° et 4° de l'article R. 123-266 et au c du 3° de l'article R. 123-251 peuvent faire l'objet d'un dépôt, auprès du greffier du tribunal de commerce ou du tribunal judiciaire statuant en matière commerciale compétent, dans les conditions prévues par l'article R. 123-301.
 
 NOTA:
-En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1<sup>er</sup> janvier 2023.

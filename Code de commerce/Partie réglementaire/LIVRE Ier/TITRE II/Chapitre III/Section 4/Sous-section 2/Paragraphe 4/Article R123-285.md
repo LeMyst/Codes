@@ -9,4 +9,4 @@ A défaut de régularisation du dossier dans les conditions indiquées à l'alin
 Lorsque la caisse départementale ou pluridépartementale de mutualité sociale agricole n'a pas reçu la déclaration prévue à l'article R. 722-19 du code rural et de la pêche maritime, les délais prévus aux premier et deuxième alinéas ne commencent à courir qu'à la réception de cette déclaration.
 
 NOTA:
-En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1<sup>er</sup> janvier 2023.

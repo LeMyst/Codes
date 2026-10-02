@@ -13,7 +13,7 @@ b) D'une composante égale à l'émolument proportionnel au prix prévu aux arti
 a) Pure et simple, d'un émolument proportionnel au loyer des années restant à courir, selon le barème suivant :
 
 | Tranches d'assiette | Taux applicable |
-| --- | --- |
+| -- | -- |
 | De 0 à 6 500 € | 1,645 % |
 | De 6 500 € à 17 000 € | 0,905 % |
 | De 17 000 € à 30 000 € | 0,617 % |
@@ -22,7 +22,7 @@ a) Pure et simple, d'un émolument proportionnel au loyer des années restant à
 b) Avec stipulation de prix, d'un émolument proportionnel au prix de cession payé au cédant seulement dans le cas où cet émolument serait supérieur à celui prévu au a, selon le barème suivant :
 
 | Tranches d'assiette | Taux applicable |
-| --- | --- |
+| -- | -- |
 | De 0 à 6 500 € | 3,870 % |
 | De 6 500 € à 17 000 € | 1,596 % |
 | De 17 000 € à 60 000 € | 1,064 % |

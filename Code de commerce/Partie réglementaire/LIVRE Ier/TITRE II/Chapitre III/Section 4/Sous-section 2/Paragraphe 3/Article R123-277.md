@@ -7,4 +7,4 @@ Lorsque le dossier est incomplet, le président de la chambre de métiers et de 
 A défaut de régularisation du dossier dans les conditions indiquées à l'alinéa précédent, le président de la chambre de métiers et de l'artisanat de région ou, par délégation, le président de la chambre de métiers et de l'artisanat de niveau départemental prend une décision de refus de validation.
 
 NOTA:
-En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1<sup>er</sup> janvier 2023.

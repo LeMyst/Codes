@@ -13,4 +13,4 @@ Toute demande d'inscription complémentaire, d'inscription modificative et de ra
 Lorsque plusieurs inscriptions modificatives connexes concernant la même immatriculation sont rendues nécessaires, elles peuvent être effectuées par une seule déclaration, dans la mesure où elles sont réalisées dans le délai réglementaire d'un mois prévu à l'article R. 123-240.
 
 NOTA:
-En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1<sup>er</sup> janvier 2023.

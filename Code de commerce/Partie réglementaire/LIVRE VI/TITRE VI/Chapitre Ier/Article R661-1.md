@@ -11,5 +11,4 @@ Par dérogation aux dispositions de l'article 514-3 du code de procédure civile
 En cas d'appel du ministère public d'un jugement mentionné aux articles L. 645-11, L. 661-1, à l'exception du jugement statuant sur l'ouverture de la procédure de sauvegarde ou de redressement judiciaire, L. 661-6 et L. 661-11, l'exécution provisoire est arrêtée de plein droit à compter du jour de cet appel. Le premier président de la cour d'appel peut, sur requête du procureur général, prendre toute mesure conservatoire pour la durée de l'instance d'appel.
 
 NOTA:
-Conformément aux dispositions de l’article 55 du décret n° 2019-1333 du 11 décembre 2019 modifié
-par l'article 22 du décret n° 2019-1419 du 20 décembre 2019, ces dispositions s'appliquent aux instances introduites à compter du 1er janvier 2020.
+Conformément aux dispositions de l’article 55 du décret n° 2019-1333 du 11 décembre 2019 modifié par l'article 22 du décret n° 2019-1419 du 20 décembre 2019, ces dispositions s'appliquent aux instances introduites à compter du 1er janvier 2020.

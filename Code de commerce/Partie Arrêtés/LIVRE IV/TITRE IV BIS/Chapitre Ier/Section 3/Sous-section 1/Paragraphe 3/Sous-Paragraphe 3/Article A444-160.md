@@ -5,7 +5,7 @@ Les règlements d'indemnité en cas d'expropriation pour cause d'utilité publiq
 1° Avant expropriation prononcée, selon le barème suivant :
 
 | Tranches d'assiette | Taux applicable |
-| --- | --- |
+| -- | -- |
 | De 0 à 6 500 € | 3,870 % |
 | De 6 500 € à 17 000 € | 1,596 % |
 | De 17 000 € à 60 000 € | 1,064 % |
@@ -16,7 +16,7 @@ Les règlements d'indemnité en cas d'expropriation pour cause d'utilité publiq
 a) Sans traité d'adhésion, selon le barème suivant :
 
 | Tranches d'assiette | Taux applicable |
-| --- | --- |
+| -- | -- |
 | De 0 à 6 500 € | 1,935 % |
 | De 6 500 € à 17 000 € | 1,064 % |
 | De 17 000 € à 30 000 € | 0,726 % |
@@ -25,7 +25,7 @@ a) Sans traité d'adhésion, selon le barème suivant :
 b) Avec traité d'adhésion, selon le barème suivant :
 
 | Tranches d'assiette | Taux applicable |
-| --- | --- |
+| -- | -- |
 | De 0 à 6 500 € | 3,870 % |
 | De 6 500 € à 17 000 € | 1,596 % |
 | De 17 000 € à 60 000 € | 1,064 % |

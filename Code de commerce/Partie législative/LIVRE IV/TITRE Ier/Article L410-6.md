@@ -5,4 +5,4 @@ I.-A titre expérimental et pour une durée de cinq ans à compter du 1er juille
 II.-En l'absence d'accord dans un délai d'un mois à compter de l'ouverture des négociations, le représentant de l'Etat arrête, sur la base des négociations mentionnées au I, le tarif professionnel maximal ainsi que ses modalités d'encadrement. Les modalités de calcul d'un tarif maximal consistent en un pourcentage de majoration par rapport au prix d'achat des grandes et moyennes surfaces ou en un pourcentage de minoration par rapport aux prix facturés aux consommateurs.
 
 NOTA:
-Conformément au VII de l'article 52 de la loi n° 2025-797 du 11 août 2025, ces dispositions, dans leur rédaction résultant du titre VI de ladite loi, entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2026.
+Conformément au VII de l'article 52 de la loi n° 2025-797 du 11 août 2025, ces dispositions, dans leur rédaction résultant du titre VI de ladite loi, entrent en vigueur à une date fixée par décret, et au plus tard le 1<sup>er</sup> janvier 2026.

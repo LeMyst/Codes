@@ -2,8 +2,8 @@
 
 Les prestations figurant aux numéros 50 à 78 du tableau 3-1 donnent lieu à la perception des émoluments suivants :
 
-| Numéro de la prestation (tableau 3-1 de l'article annexe 4-7) | Désignation de la prestation | Emolument |
-| --- | --- | --- |
+| Numéro de<br>la prestation<br>(tableau 3-1<br>de l'article<br>annexe 4-7) | Désignation de la prestation | Emolument |
+| -- | -- | -- |
 | 50 | Acte de saisie-attribution | 44,05 € |
 | 51 | Acte de saisie-attribution, en cas de compte clôturé ou de solde négatif | 21,49 € |
 | 52 | Acte de saisie-vente ou acte de saisie-vente transformée en réception de deniers | 37,61 € |

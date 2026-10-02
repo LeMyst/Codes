@@ -2,8 +2,8 @@
 
 Les prestations figurant aux numéros 93 à 97 du tableau 3-1 donnent lieu à la perception des émoluments suivants :
 
-| Numéro de la prestation (tableau 3-1 de l'article annexe 4-7) | Désignation de la prestation | Emolument |
-| --- | --- | --- |
+| Numéro de<br>la prestation<br>(tableau 3-1<br>de l'article<br>annexe 4-7) | Désignation de la prestation | Emolument |
+| -- | -- | -- |
 | 93 | Certification d'accomplissement des formalités de publicité de vente | 37,61 € |
 | 94 | Acte de vérification et d'enlèvement | 56,95 € |
 | 95 | Acte d'inventaire et d'enlèvement des biens placés dans un coffre-fort | 56,95 € |

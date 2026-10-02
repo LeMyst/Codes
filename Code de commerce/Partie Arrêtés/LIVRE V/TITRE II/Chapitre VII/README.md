@@ -1,1 +1,1 @@
-Chapitre VII : Du gage des stocks
+# Chapitre VII : Du gage des stocks

@@ -1,1 +1,1 @@
-Chapitre II : Des pratiques restrictives de concurrence
+# Chapitre II : Des pratiques restrictives de concurrence

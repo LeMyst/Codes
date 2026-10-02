@@ -4,9 +4,8 @@ PARTICIPATION AU FINANCEMENT DE LA BOURSE COMMUNE
 
 Tableau n° 1
 
-| | | |
-| --- | --- | --- |
 | PRODUIT HORS TAXES | COEFFICIENT | CALCUL |
+| -- | -- | -- |
 | De 0 à 100 000 euros (a) | 0 | A = 0. |
 | De 100 000 à 200 000 euros (b) | 1 | B = (b) × coefficient × (tr %) : nombre de parts. |
 | De 200 000 à 500 000 euros (c) | 1,5 | C = (c) × coefficient × (tr %) : nombre de parts. |
@@ -15,9 +14,8 @@ Tableau n° 1
 
 Tableau n° 2
 
-| | |
-| --- | --- |
 | NOMBRE DE GREFFIERS | NOMBRE DE PARTS |
+| -- | -- |
 | 1 | 1 |
 | 2 | 3 |
 | 3 | 4,5 |

@@ -4,14 +4,13 @@ Sous réserve des adaptations prévues dans les chapitres ci-après, les disposi
 
 1° Les dispositions du livre Ier mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna dans leur rédaction indiquée dans la colonne de droite du même tableau.
 
-| | |
-| --- | --- |
-| DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION EN VIGUEUR le lendemain de la publication du |
-| TITRE Ier.-DE L'ACTE DE COMMERCE |
-| TITRE II.-DES COMMERÇANTS |
-| Chapitre Ier.-De la définition et du statut |
+| DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION EN VIGUEUR<br>le lendemain de la publication du |
+| -- | -- |
+| TITRE Ier.-DE L'ACTE DE COMMERCE |  |
+| TITRE II.-DES COMMERÇANTS |  |
+| Chapitre Ier.-De la définition et du statut |  |
 | Articles R. 121-1 à R. 121-5 | Décret n° 2007-431 du 27 mars 2007 |
-| Chapitre III.-Des obligations générales des commerçants |
+| Chapitre III.-Des obligations générales des commerçants |  |
 | Article R. 123-1 | Décret n° 2020-118 du 12 février 2020 |
 | Articles R. 123-2 à R. 123-4 | Décret n° 2007-431 du 27 mars 2007 |
 | Article R. 123-5 | Décret n° 2020-118 du 12 février 2020 |
@@ -148,16 +147,16 @@ Sous réserve des adaptations prévues dans les chapitres ci-après, les disposi
 | Article R. 123-237 | Décret n° 2010-1706 du 29 décembre 2010 |
 | Article D. 123-321 | Décret n° 2026-576 du 30 juin 2026 |
 | Article R. 123-238 | Décret n° 2007-431 du 27 mars 2007 |
-| Chapitre VII.-Du contrat d'appui au projet d'entreprise pour la création ou la reprise d'une activité économique |
+| Chapitre VII.-Du contrat d'appui au projet d'entreprise pour la création ou la reprise d'une activité économique |  |
 | Articles R. 127-1 à R. 127-3 | Décret n° 2007-431 du 27 mars 2007 |
-| TITRE III.-DES COURTIERS, DES COMMISSIONNAIRES, DES TRANSPORTEURS ET DES AGENTS COMMERCIAUX |
-| Chapitre Ier.-Des courtiers |
+| TITRE III.-DES COURTIERS, DES COMMISSIONNAIRES, DES TRANSPORTEURS ET DES AGENTS COMMERCIAUX |  |
+| Chapitre Ier.-Des courtiers |  |
 | Article R. 131-7 | Décret n° 2014-1315 du 3 novembre 2014 |
-| Chapitre II.-Des commissionnaires |
+| Chapitre II.-Des commissionnaires |  |
 | Article R. 132-1 | Décret n° 2007-431 du 27 mars 2007 |
-| Chapitre III.-Des transporteurs |
+| Chapitre III.-Des transporteurs |  |
 | Articles R. 133-1 et R. 133-2 | Décret n° 2007-431 du 27 mars 2007 |
-| Chapitre IV.-Des agents commerciaux |
+| Chapitre IV.-Des agents commerciaux |  |
 | Articles R. 134-1 à R. 134-4 | Décret n° 2007-431 du 27 mars 2007 |
 | Article R. 134-5 | Décret n° 2019-987 du 25 septembre 2019 |
 | Article R. 134-6 | Décret n° 2022-709 du 26 avril 2022 |
@@ -168,21 +167,21 @@ Sous réserve des adaptations prévues dans les chapitres ci-après, les disposi
 | Article R. 134-14 | Décret n° 2007-431 du 27 mars 2007 |
 | Article R. 134-15 | Décret n° 2010-1310 du 2 novembre 2010 |
 | Articles R. 134-16 et R. 134-17 | Décret n° 2007-431 du 27 mars 2007 |
-| TITRE IV.-DU FONDS DE COMMERCE |
-| Chapitre Ier.-De la vente du fonds de commerce |
+| TITRE IV.-DU FONDS DE COMMERCE |  |
+| Chapitre Ier.-De la vente du fonds de commerce |  |
 | Articles R. 141-1 et R. 141-1-1 | Décret n° 2020-106 du 10 février 2020 |
 | Article R. 141-2 | Décret n° 2007-431 du 27 mars 2007 |
 | Article R. 141-6 | Décret n° 2021-1887 du 29 décembre 2021 |
-| Chapitre III.-Dispositions communes à la vente et au nantissement de fonds de commerce |
+| Chapitre III.-Dispositions communes à la vente et au nantissement de fonds de commerce |  |
 | Articles R. 143-1 à R. 143-3 | Décret n° 2007-431 du 27 mars 2007 |
 | Article R. 143-4 | Décret n° 2021-1887 du 29 décembre 2021 |
 | Article R. 143-5 | Décret n° 2007-431 du 27 mars 2007 |
 | Article R. 143-10, R. 143-18 et R. 143-22 | Décret n° 2021-1887 du 29 décembre 2021 |
 | Article R. 143-23 | Décret n° 2008-484 du 22 mai 2008 |
-| Chapitre IV.-De la location-gérance |
+| Chapitre IV.-De la location-gérance |  |
 | Articles R. 144-1 | Décret n° 2020-106 du 10 février 2020 |
 | Articles D. 144-2 à D. 144-5 | Décret n° 2007-431 du 27 mars 2007 |
-| Chapitre V.-Du bail commercial |
+| Chapitre V.-Du bail commercial |  |
 | Articles R. 145-1 à R. 145-4 | Décret n° 2007-431 du 27 mars 2007 |
 | Article R. 145-5 | Décret n° 2014-1317 du 3 novembre 2014 |
 | Articles R. 145-6 à D. 145-19 | Décret n° 2007-431 du 27 mars 2007 |
@@ -195,12 +194,12 @@ Sous réserve des adaptations prévues dans les chapitres ci-après, les disposi
 | Article R. 145-32 et R. 145-33 | Décret n° 2007-431 du 27 mars 2007 |
 | Articles R. 145-35 à R. 145-37 | Décret n° 2014-1317 du 3 novembre 2014 |
 | Article R. 145-38 | Décret n° 2016-296 du 11 mars 2016 |
-| Chapitre VI.-Des gérants-mandataires |
+| Chapitre VI.-Des gérants-mandataires |  |
 | Articles D. 146-1 et D. 146-2 | Décret n° 2007-431 du 27 mars 2007 |
-| TITRE V.-DE LA PROTECTION DU SECRET DES AFFAIRES |
-| Chapitre II : Des actions en prévention, en cessation ou en réparation d'une atteinte au secret des affaires |
+| TITRE V.-DE LA PROTECTION DU SECRET DES AFFAIRES |  |
+| Chapitre II : Des actions en prévention, en cessation ou en réparation<br>d'une atteinte au secret des affaires |  |
 | Article R. 152-1 | Décret n° 2019-1333 du 11 décembre 2019 |
-| Chapitre III : Des mesures générales de protection du secret des affaires devant les juridictions civiles ou commerciales |
+| Chapitre III : Des mesures générales de protection du secret des affaires<br>devant les juridictions civiles ou commerciales |  |
 | R. 153-1 à R. 153-8 | Décret n° 2018-1126 du 11 décembre 2018 |
 | R. 153-9 | Décret n° 2023-1391 du 29 décembre 2023 |
 | R. 153-10 | Décret n° 2018-1126 du 11 décembre 2018 |
@@ -396,31 +395,31 @@ Les articles R. 22-10-30-1 et R. 22-10-32 sont applicables dans leur rédaction 
 4° Les dispositions du livre IV mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna dans leur rédaction indiquée dans la colonne de droite du même tableau.
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION RÉSULTANT DU |
-| --- | --- |
-| TITRE II | |
+| -- | -- |
+| TITRE II |  |
 | Articles R. 420-1 à R. 420-5 | décret n° 2007-431 du 25 mars 2007 |
-| TITRE III | |
+| TITRE III |  |
 | Articles R. 430-2 | décret n° 2021-715 du 2 juin 2021 |
 | Articles R. 430-3 et R. 430-4 | décret n° 2019-339 du 18 avril 2019 |
 | Articles R. 430-5, R. 430-6, R. 430-7, R. 430-9 et R. 430-10 | décret n° 2009-139 du 10 février 2009 |
 | Article D. 430-8 | décret n° 2009-186 du 17 février 2009 |
 | Articles R. 430-9 et R. 430-10 | décret n° 2007-431 du 25 mars 2007 |
-| TITRE IV | |
+| TITRE IV |  |
 | Article D. 440-1 | décret n° 2021-211 du 24 février 2021 |
 | Article D. 440-2 | décret n° 2022-483 du 4 avril 2022 |
 | Articles D. 440-3 à D. 440-13, R. 442-1, R. 442-4 et D. 443-2 | décret n° 2021-211 du 24 février 2021 |
-| TITRE IV BIS | |
+| TITRE IV BIS |  |
 | Articles R. 444-1, R. 444-4, R. 444-8, R. 444-11 à R. 444-14, R. 444-16, R. 444-19, R. 444-22 à R. 444-38, R. 444-40, R. 444-41, R. 444-44 à R. 444-56, R. 444-59 à R. 444-66, R. 444-69, R. 444-70 | Décret n° 2016-230 du 26 février 2016 |
 | Article R. 444-11-1 | Décret n° 2016-1369 du 12 octobre 2016 |
 | Articles R. 444-3, R. 444-9, R. 444-15, R. 444-20, R. 444-72 à R. 444-76 | Décret n° 2017-862 du 9 mai 2017 |
 | Article R. 444-18 | Décret n° 2025-553 du 18 juin 2025 |
 | Article R. 444-71 | Décret n° 2018-200 du 23 mars 2018 |
 | Articles R. 444-2, R. 444-5 à R. 444-7, R. 444-10, R. 444-10-1, R. 444-12-1, R. 444-17, R. 444-21, R. 444-39 et R. 444-43 | Décret n° 2020-179 du 28 février 2020 |
-| TITRE V | |
+| TITRE V |  |
 | Article R. 450-1 | décret n° 2022-973 du 1er juillet 2022 |
 | Article R. 450-2 | décret n° 2007-431 du 25 mars 2007 |
 | Articles R. 450-2-1 à R. 450-2-5 | décret n° 2021-1302 du 7 octobre 2021 |
-| TITRE VI | |
+| TITRE VI |  |
 | Article R. 461-10 | décret 2019-169 du 6 mars 2019 |
 | Articles R. 461-1 à R. 461-8 | décret n° 2007-431 du 25 mars 2007 |
 | Article R. 462-1 | décret n° 2007-431 du 25 mars 2007 |
@@ -463,10 +462,10 @@ Les articles R. 22-10-30-1 et R. 22-10-32 sont applicables dans leur rédaction 
 | Article R. 464-29 | décret n° 2015-521 du 11 mai 2015 |
 | Article R. 464-30 | décret n° 2017-823 du 5 mai 2017 |
 | Article R. 464-31 | décret n° 2008-484 du 22 mai 2008 |
-| TITRE VIII | |
+| TITRE VIII |  |
 | Articles R. 481-1 et R. 483-1 | décret n° 2017-305 du 9 mars 2017 |
 | Articles R. 483-11 à R. 483-14 | décret n° 2017-305 du 9 mars 2017 |
-| TITRE IX | |
+| TITRE IX |  |
 | Article R. 490-1 | décret n° 2017-305 du 9 mars 2017 |
 | Article R. 490-2 | décret n° 2022-973 du 1er juillet 2022 |
 | Articles R. 490-3 | décret n° 2017-305 du 9 mars 2017 |
@@ -481,9 +480,8 @@ a) Le titre Ier ;
 
 a bis) Les dispositions du chapitre Ier du titre II mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
-| | |
-| --- | --- |
 | R. 521-1 | Décret n° 2021-1887 du 29 décembre 2021 |
+| -- | -- |
 | R. 521-2 | Résultant du décret n° 2025-1101 du 19 novembre 2025 |
 | R. 521-3 à R. 521-4 | Décret n° 2021-1887 du 29 décembre 2021 |
 | R. 521-5 et R. 521-7 | Décret n° 2023-369 du 11 mai 2023 |
@@ -498,8 +496,8 @@ b) Le chapitre II du titre II ;
 
 c) Les dispositions du chapitre VI du titre II mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
-| DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION EN VIGUEUR le lendemain de la publication du |
-| --- | --- |
+| DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION EN VIGUEUR<br>le lendemain de la publication du |
+| -- | -- |
 | Articles R. 526-1 à R. 526-2 | Décret n° 2017-630 du 25 avril 2017 |
 | Article R. 526-3 | Décret n° 2019-987 du 25 septembre 2019 |
 | Articles R. 526-4 | Décret n° 2019-987 du 25 septembre 2019 |
@@ -528,8 +526,8 @@ L'article R. 527-16 est applicable dans sa rédaction issue du décret n° 2008-
 a) Les dispositions du titre I mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION RÉSULTANT DU |
-| --- | --- |
-| Chapitre Ier | |
+| -- | -- |
+| Chapitre Ier |  |
 | D. 611-1 à D. 611-7 | Décret n° 2007-431 du 25 mars 2007 |
 | D. 611-8 | Décret n° 2014-1316 du 3 novembre 2014 |
 | D. 611-9 | Décret n° 2007-431 du 25 mars 2007 |
@@ -572,7 +570,7 @@ a) Les dispositions du titre I mentionnées dans la colonne de gauche du tableau
 | R. 611-47 et R. 611-47-1 | Décret n° 2014-736 du 30 juin 2014 |
 | R. 611-48 | Décret n° 2007-431 du 25 mars 2007 |
 | R. 611-49 à R. 611-52 | Décret n° 2014-736 du 30 juin 2014 |
-| Chapitre II | |
+| Chapitre II |  |
 | R. 612-1 | Décret n° 2012-721 du 9 mai 2012 |
 | R. 612-2 | Ordonnance n° 2009-79 du 22 janvier 2009 |
 | R. 612-3 | Décret n° 2007-431 du 25 mars 2007 |
@@ -582,8 +580,8 @@ a) Les dispositions du titre I mentionnées dans la colonne de gauche du tableau
 b) Les dispositions des chapitres Ier, IV et VI du titre II mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau, ainsi que les chapitres II et III du titre II, le chapitre V à l'exception de l'article R. 625-4 et les chapitres VII et VIII de ce même titre :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION RÉSULTANT DU |
-| --- | --- |
-| Chapitre Ier | |
+| -- | -- |
+| Chapitre Ier |  |
 | R. 621-1 | Décret n° 2021-1218 du 23 septembre 2021 |
 | R. 621-2 | Décret n° 2021-1354 du 16 octobre 2021 |
 | R. 621-2-1 | Décret n° 2020-100 du 7 février 2020 |
@@ -609,7 +607,7 @@ b) Les dispositions des chapitres Ier, IV et VI du titre II mentionnées dans la
 | Articles R. 621-22 à R. 621-24 | Décret n° 2014-736 du 30 juin 2014 |
 | R. 621-25 | Décret n° 2007-431 du 25 mars 2007 relatif à la partie réglementaire du code de commerce |
 | R. 621-26 | Décret n° 2021-1218 du 23 septembre 2021 |
-| CHAPITRE IV | |
+| CHAPITRE IV |  |
 | R. 624-1 et R. 624-2 | Décret n° 2014-736 du 30 juin 2014 |
 | R. 624-3 | Décret n° 2021-1218 du 23 septembre 2021 |
 | R. 624-4 | Décret n° 2014-736 du 30 juin 2014 |
@@ -625,7 +623,7 @@ b) Les dispositions des chapitres Ier, IV et VI du titre II mentionnées dans la
 | R. 624-15 | Décret n° 2023-369 du 11 mai 2023 |
 | R. 624-16 | Décret n° 2009-160 du 12 février 2009 |
 | R. 624-17 et R. 624-18 | Décret n° 2014-736 du 30 juin 2014 |
-| Chapitre VI | |
+| Chapitre VI |  |
 | R. 626-1 et R. 626-2 | Décret n° 2007-431 du 25 mars 2007 |
 | R. 626-3 | Décret n° 2010-1619 du 23 décembre 2010 |
 | R. 626-7 et R. 626-8 | Décret n° 2011-236 du 3 mars 2011 |
@@ -662,13 +660,13 @@ L'article R. 631-1 est applicable dans sa rédaction issue du décret n° 2022-8
 d) Les dispositions du chapitre préliminaire et des chapitres Ier, II, III et V du titre IV mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau, ainsi que le chapitre IV de ce même titre :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION RÉSULTANT DU |
-| --- | --- |
-| Chapitre préliminaire | |
+| -- | -- |
+| Chapitre préliminaire |  |
 | R. 640-1 | Décret n° 2015-1009 du 18 août 2015 relatif à la mise en œuvre du portail électronique prévu aux articles L. 814-2 et L. 814-13 du code de commerce |
 | R. 640-1-1 | Décret n° 2014-736 du 30 juin 2014 pris pour l'application de l'ordonnance n° 2014-326 du 12 mars 2014 portant réforme de la prévention des difficultés des entreprises et des procédures collectives |
 | R. 640-2 | Décret n° 2009-160 du 12 février 2009 pris pour l'application de l'ordonnance n° 2008-1345 du 18 décembre 2008 portant réforme du droit des entreprises en difficulté et modifiant les procédures de saisie immobilière et de distribution du prix d'un immeuble |
 | R. 641-1 | Décret n° 2014-736 du 30 juin 2014 pris pour l'application de l'ordonnance n° 2014-326 du 12 mars 2014 portant réforme de la prévention des difficultés des entreprises et des procédures collectives |
-| Chapitre Ier | |
+| Chapitre Ier |  |
 | R. 641-2 et R. 641-4 | Décret n° 2007-431 du 25 mars 2007 relatif à la partie réglementaire du code de commerce |
 | R. 641-5 et R. 641-6 | Décret n° 2014-736 du 30 juin 2014 pris pour l'application de l'ordonnance n° 2014-326 du 12 mars 2014 portant réforme de la prévention des difficultés des entreprises et des procédures collectives |
 | R. 641-7 | Décret n° 2022-890 du 14 juin 2022 |
@@ -693,7 +691,7 @@ d) Les dispositions du chapitre préliminaire et des chapitres Ier, II, III et V
 | R. 641-38 | Décret n° 2023-434 du 3 juin 2023 |
 | R. 641-39 | Décret n° 2014-736 du 30 juin 2014 pris pour l'application de l'ordonnance n° 2014-326 du 12 mars 2014 portant réforme de la prévention des difficultés des entreprises et des procédures collectives |
 | R. 641-40 | Décret n° 2009-160 du 12 février 2009 pris pour l'application de l'ordonnance n° 2008-1345 du 18 décembre 2008 portant réforme du droit des entreprises en difficulté et modifiant les procédures de saisie immobilière et de distribution du prix d'un immeuble |
-| Chapitre II | |
+| Chapitre II |  |
 | R. 642-1 | Décret n° 2014-736 du 30 juin 2014 |
 | R. 642-2 à R. 642-4 | Décret n° 2007-431 du 25 mars 2007 |
 | R. 642-5 | Décret n° 2019-1333 du 11 décembre 2019 |
@@ -726,7 +724,7 @@ d) Les dispositions du chapitre préliminaire et des chapitres Ier, II, III et V
 | R. 642-39 | Décret n° 2014-736 du 30 juin 2014 |
 | R. 642-40 | Décret n° 2022-890 du 14 juin 2022 |
 | R. 642-41 | Décret n° 2007-431 du 25 mars 2007 |
-| Chapitre III | |
+| Chapitre III |  |
 | R. 643-1 et R. 643-2 | Décret n° 2007-431 du 25 mars 2007 |
 | R. 643-3 | Décret n° 2009-160 du 12 février 2009 |
 | R. 643-4 | Décret n° 2007-431 du 25 mars 2007 |
@@ -745,7 +743,7 @@ d) Les dispositions du chapitre préliminaire et des chapitres Ier, II, III et V
 | R. 643-22 | Décret n° 2007-431 du 25 mars 2007 |
 | R. 643-23 | Décret n° 2009-160 du 12 février 2009 |
 | R. 643-24 | Décret n° 2007-431 du 25 mars 2007 |
-| Chapitre V | |
+| Chapitre V |  |
 | R. 645-1 | Décret n° 2021-1218 du 23 septembre 2021 |
 | R. 645-2 à R. 645-8 | Décret n° 2014-736 du 30 juin 2014 |
 | R. 645-9 | Décret n° 2017-1225 du 2 août 2017 |
@@ -762,15 +760,15 @@ Les articles R. 651-5 et R. 651-6 sont applicables dans leur rédaction issue du
 f) Les dispositions des chapitres I à III du titre VI mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION RÉSULTANT DU |
-| --- | --- |
-| Chapitre I | |
+| -- | -- |
+| Chapitre I |  |
 | R. 661-1 | Décret n° 2019-1333 du 11 décembre 2019 |
 | R. 661-2 et R. 661-3 | Décret n° 2014-736 du 30 juin 2014 |
 | R. 661-4 | Décret n° 2009-160 du 12 février 2009 |
 | R. 661-5 | Décret n° 2021-1218 du 23 septembre 2021 |
 | R. 661-6 | Décret n° 2023-1391 du 29 décembre 2023 |
 | R. 661-7 et R661-8 | Décret n° 2007-431 du 25 mars 2007 |
-| Chapitre II | |
+| Chapitre II |  |
 | R. 662-1 | Décret n° 2014-736 du 30 juin 2014 pris pour l'application de l'ordonnance n° 2014-326 du 12 mars 2014 portant réforme de la prévention des difficultés des entreprises et des procédures collectives |
 | R. 662-1-1 et R. 662-1-2 | Décret n° 2012-1190 du 25 octobre 2012 pris pour l'application de la loi n° 2012-346 du 12 mars 2012 relative aux mesures conservatoires en matière de sauvegarde, de redressement judiciaire ou de liquidation judiciaire et aux biens qui en font l'objet |
 | R. 662-2 | Décret n° 2008-484 du 22 mai 2008 relatif à la procédure devant la Cour de cassation |
@@ -789,7 +787,7 @@ f) Les dispositions des chapitres I à III du titre VI mentionnées dans la colo
 | R. 662-15 | Décret n° 2009-160 du 12 février 2009 pris pour l'application de l'ordonnance n° 2008-1345 du 18 décembre 2008 portant réforme du droit des entreprises en difficulté et modifiant les procédures de saisie immobilière et de distribution du prix d'un immeuble |
 | R. 662-16 | Décret n° 2007-431 du 25 mars 2007 relatif à la partie réglementaire du code de commerce |
 | R. 662-17 | Décret n° 2014-736 du 30 juin 2014 pris pour l'application de l'ordonnance n° 2014-326 du 12 mars 2014 portant réforme de la prévention des difficultés des entreprises et des procédures collectives |
-| Chapitre III | |
+| Chapitre III |  |
 | R. 663-1 | Décret n° 2007-431 du 25 mars 2007 relatif à la partie réglementaire du code de commerce |
 | R. 663-1-1 | Décret n° 2023-434 du 3 juin 2023 |
 | R. 663-2 | Décret n° 2009-160 du 12 février 2009 pris pour l'application de l'ordonnance n° 2008-1345 du 18 décembre 2008 portant réforme du droit des entreprises en difficulté et modifiant les procédures de saisie immobilière et de distribution du prix d'un immeuble |
@@ -825,7 +823,7 @@ g) Le titre VIII ;
 h) Les dispositions du titre VIII bis mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | Dispositions applicables | Dans leur rédaction résultant du |
-| --- | --- |
+| -- | -- |
 | R. 681-1 à R. 681-7 | Décret n° 2022-890 du 14 juin 2022 |
 
 7° Le titre II du livre VII, à l'exception des articles R. 721-2 à R. 721-4 et R. 721-7 à R. 724-22 ;
@@ -839,8 +837,8 @@ Les articles R. 743-89, R. 743-142-6 et R. 743-142-7 sont applicables dans leur 
 a) Les dispositions du chapitre Ier mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION RÉSULTANT DU |
-| --- | --- |
-| Chapitre Ier | |
+| -- | -- |
+| Chapitre Ier |  |
 | R. 811-3 À R. 811-9 | Décret n° 2007-431 du 25 mars 2007 |
 | R. 811-10 | Décret n° 2017-1225 du 2 août 2017 |
 | R. 811-11 | Décret n° 2016-109 du 3 février 2016 relatif à la Commission nationale d'inscription et de discipline des administrateurs judiciaires et des mandataires judiciaires |
@@ -885,20 +883,20 @@ a) Les dispositions du chapitre Ier mentionnées dans la colonne de gauche du ta
 b) Les dispositions des sections 1 à 4 du chapitre IV mentionnées dans la colonne de gauche du tableau ci-après sont applicables dans les îles Wallis et Futuna aux administrateurs judiciaires, dans leur rédaction indiquée dans la colonne de droite du même tableau, ainsi que la section 5 du chapitre V :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION RÉSULTANT DU |
-| --- | --- |
-| Section 1 | |
+| -- | -- |
+| Section 1 |  |
 | R. 814-1 à R. 814-2-1 | Décret n° 2016-109 du 3 février 2016 relatif à la Commission nationale d'inscription et de discipline des administrateurs judiciaires et des mandataires judiciaires |
-| Section 2 | |
+| Section 2 |  |
 | R. 814-3 | Décret n° 2016-1851 du 23 décembre 2016 |
 | D. 814-3-1 | Décret n° 2011-1908 du 20 décembre 2011 |
 | R. 814-3-2 et R. 814-4 | Décret n° 2017-1225 du 2 août 2017 |
 | R. 814-5 à R. 814-15 | Décret n° 2007-431 du 25 mars 2007 |
-| Section 3 | |
+| Section 3 |  |
 | R. 814-16 à R. 814-26 | Décret n° 2007-431 du 25 mars 2007 relatif à la partie réglementaire du code de commerce |
 | R. 814-27 | Décret n° 2008-484 du 22 mai 2008 relatif à la procédure devant la Cour de cassation |
 | R. 814-28 | Décret n° 2007-431 du 25 mars 2007 relatif à la partie réglementaire du code de commerce |
 | R. 814-28-1 à R. 814-28-6 | Décret n° 2017-1225 du 2 août 2017 |
-| Section 4 | |
+| Section 4 |  |
 | R. 814-29 À R. 814-37 | Décret n° 2007-431 du 25 MARS 2007 |
 | D. 814-37-1 | Décret n° 2017-304 du 8 mars 2017 |
 | R. 814-28 à R. 814-41 | Décret n° 2007-431 du 25 mars 2007 |
@@ -936,4 +934,4 @@ Les articles R. 236-5, R. 236-5-1 et R. 236-5-2 sont applicables dans leur réda
 Les articles R. 822-77 et R. 822-108 sont applicables dans les îles Wallis et Futuna dans leur rédaction résultant du décret n° 2020-106 du 10 février 2020.
 
 NOTA:
-Conformément au 1° de l'article 21 du décret n° 2026-683 du 27 juillet 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er octobre 2026.
+Conformément au 1° de l'article 21 du décret n° 2026-683 du 27 juillet 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1<sup>er</sup> octobre 2026.

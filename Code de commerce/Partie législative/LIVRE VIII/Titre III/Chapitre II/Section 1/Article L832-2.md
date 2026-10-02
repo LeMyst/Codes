@@ -2,20 +2,20 @@
 
 Les titres légaux des ouvrages d'or, d'argent ou de platine sont les suivants :
 
-| Métal concerné | Titres légaux (en millièmes) |
-| --- | --- |
+| Métal concerné | Titres légaux<br>(en millièmes) |
+| -- | -- |
 | Or | 999 |
-| 916 |
-| 750 |
-| 585 |
-| 375 |
+|  | 916 |
+|  | 750 |
+|  | 585 |
+|  | 375 |
 | Argent | 999 |
-| 925 |
-| 800 |
+|  | 925 |
+|  | 800 |
 | Platine | 999 |
-| 950 |
-| 900 |
-| 850 |
+|  | 950 |
+|  | 900 |
+|  | 850 |
 
 L'iridium associé au platine est compté comme platine.
 

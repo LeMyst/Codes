@@ -5,4 +5,4 @@ La validation des inscriptions d'informations et des dépôts de pièces prévue
 Lorsqu'une personne physique ou morale transfère sa principale exploitation ou son siège dans le ressort d'une autre caisse que celle dont elle relève, elle déclare ce transfert, dans les conditions prévues à l'article R. 123-6, à l'organisme unique mentionné à l'article R. 123-1, lequel en informe, dans les conditions prévues à l'article R. 123-7, la caisse de rattachement dans les mêmes conditions. Après avoir procédé aux opérations de validation, cette dernière en informe sans délai et par tout moyen la caisse d'origine.
 
 NOTA:
-En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1<sup>er</sup> janvier 2023.

@@ -14,11 +14,11 @@ Selon la nature de l'élément devant être estimé, l'évaluation de l'estimati
 
 2. La présente norme a pour objet de définir les procédures d'audit à mettre en œuvre par le commissaire aux comptes afin d'obtenir des éléments suffisants et appropriés pour apprécier si les estimations comptables et les informations y afférentes fournies dans l'annexe sont raisonnables au regard des règles et principes prescrits par le référentiel comptable, c'est-à-dire si ces règles et principes ont été appliqués de manière appropriée, notamment en ce qui concerne :
 
-- l'établissement des estimations comptables, incluant le choix des méthodes, des hypothèses et des données au regard de la nature des estimations comptables et des faits et circonstances propres à l'entité ;
+   - l'établissement des estimations comptables, incluant le choix des méthodes, des hypothèses et des données au regard de la nature des estimations comptables et des faits et circonstances propres à l'entité ;
 
-- le choix des estimations retenues par la direction ;
+   - le choix des estimations retenues par la direction ;
 
-- les informations fournies dans l'annexe sur les estimations comptables.
+   - les informations fournies dans l'annexe sur les estimations comptables.
 
 Plus spécifiquement, cette norme précise, pour l'audit des estimations comptables et des informations y afférentes fournies dans l'annexe, certaines dispositions définies dans les normes d'exercice professionnel relatives à l'audit des comptes et en particulier celles relatives à la connaissance de l'entité et de son environnement et l'évaluation du risque d'anomalies significatives dans les comptes, aux procédures d'audit mises en œuvre par le commissaire aux comptes à l'issue de son évaluation des risques et au caractère probant des éléments collectés.
 
@@ -32,11 +32,11 @@ Définitions
 
 5. Estimation comptable : montant dont l'évaluation selon les règles et principes prescrits par le référentiel comptable applicable comporte une incertitude. Il peut s'agir :
 
-- d'un montant retenu par la direction pour être enregistré dans les comptes ou mentionné dans l'annexe ; ou
+   - d'un montant retenu par la direction pour être enregistré dans les comptes ou mentionné dans l'annexe ; ou
 
-- d'un montant utilisé par la direction pour prendre une décision quant à la comptabilisation ou à la mention d'informations dans l'annexe. Il pourrait s'agir par exemple d'un montant utilisé pour l'évaluation d'une valeur d'usage d'un actif qui justifie l'absence d''une provision pour dépréciation.
+   - d'un montant utilisé par la direction pour prendre une décision quant à la comptabilisation ou à la mention d'informations dans l'annexe. Il pourrait s'agir par exemple d'un montant utilisé pour l'évaluation d'une valeur d'usage d'un actif qui justifie l'absence d''une provision pour dépréciation.
 
-6. Estimation retenue par la direction : montant retenu par la direction pour une estimation comptable afin d'être enregistré dans les comptes ou mentionné dans l'annexe.
+1. Estimation retenue par la direction : montant retenu par la direction pour une estimation comptable afin d'être enregistré dans les comptes ou mentionné dans l'annexe.
 
 1. Biais introduit par la direction : manque de neutralité, volontaire ou non, de la direction dans l'établissement d'une estimation comptable ou des informations y afférentes fournies dans l'annexe.
 
@@ -132,11 +132,11 @@ Procédures d'audit à mettre en œuvre en réponse au risque d'anomalies signif
 
 16. En réponse à l'évaluation du risque d'anomalies significatives relatif à l'estimation comptable et aux informations y afférentes à fournir dans l'annexe et compte tenu des éléments qui sous-tendent cette évaluation, le commissaire aux comptes met en œuvre une ou plusieurs des procédures d'audit suivantes :
 
-- obtention d'éléments à partir d'événements survenus postérieurement à la clôture de l'exercice ;
+    - obtention d'éléments à partir d'événements survenus postérieurement à la clôture de l'exercice ;
 
-- appréciation du processus d'établissement de l'estimation comptable mis en œuvre par la direction ;
+    - appréciation du processus d'établissement de l'estimation comptable mis en œuvre par la direction ;
 
-- établissement d'une estimation ou d'une fourchette d'estimations.
+    - établissement d'une estimation ou d'une fourchette d'estimations.
 
 Obtention d'éléments à partir d'événements survenus postérieurement à la clôture de l'exercice
 
@@ -146,37 +146,37 @@ Appréciation du processus d'établissement de l'estimation comptable mis en œu
 
 18. Lorsque le commissaire aux comptes apprécie le processus d'établissement de l'estimation comptable, il conçoit et met en œuvre des procédures d'audit visant à apprécier :
 
-- le choix et l'application de la méthode, des hypothèses importantes et des données utilisées par la direction pour établir l'estimation comptable, conformément aux dispositions du paragraphe 19 ; et
+    - le choix et l'application de la méthode, des hypothèses importantes et des données utilisées par la direction pour établir l'estimation comptable, conformément aux dispositions du paragraphe 19 ; et
 
-- la manière dont la direction a choisi l'estimation qu'elle a retenue, le cas échéant à partir d'une fourchette des résultats raisonnablement possibles, et a établi les informations afférentes à cette estimation comptable fournies dans l'annexe, conformément aux dispositions des paragraphes 20 à 22.
+    - la manière dont la direction a choisi l'estimation qu'elle a retenue, le cas échéant à partir d'une fourchette des résultats raisonnablement possibles, et a établi les informations afférentes à cette estimation comptable fournies dans l'annexe, conformément aux dispositions des paragraphes 20 à 22.
 
 Appréciation du choix et de l'application de la méthode, des hypothèses importantes et des données
 
 19. Les procédures d'audit doivent permettre au commissaire aux comptes d'apprécier si :
 
-- le choix et l'application de la méthode, des hypothèses importantes et des données par la direction, y compris le cas échéant les éventuels ajustements apportés aux résultats issus des modèles, sont appropriés au regard du référentiel comptable applicable et si les modifications apportées par rapport aux périodes précédentes le sont également ;
+    - le choix et l'application de la méthode, des hypothèses importantes et des données par la direction, y compris le cas échéant les éventuels ajustements apportés aux résultats issus des modèles, sont appropriés au regard du référentiel comptable applicable et si les modifications apportées par rapport aux périodes précédentes le sont également ;
 
-- les jugements portés pour effectuer ces choix présentent des indices d'un biais introduit par la direction ;
+    - les jugements portés pour effectuer ces choix présentent des indices d'un biais introduit par la direction ;
 
-- les hypothèses importantes retenues par la direction pour l'établissement de l'estimation comptable sont cohérentes entre elles, sont cohérentes avec les hypothèses retenues pour d'autres estimations comptables, et le sont également avec les hypothèses utilisées par l'entité à d'autres fins dont le commissaire aux comptes a eu connaissance au cours de l'audit ;
+    - les hypothèses importantes retenues par la direction pour l'établissement de l'estimation comptable sont cohérentes entre elles, sont cohérentes avec les hypothèses retenues pour d'autres estimations comptables, et le sont également avec les hypothèses utilisées par l'entité à d'autres fins dont le commissaire aux comptes a eu connaissance au cours de l'audit ;
 
-- la direction a l'intention et la capacité de mettre en œuvre les plans d'actions qui sous-tendent les hypothèses retenues ;
+    - la direction a l'intention et la capacité de mettre en œuvre les plans d'actions qui sous-tendent les hypothèses retenues ;
 
-- les données sont pertinentes et fiables dans les circonstances et ont été correctement appréhendées par la direction ;
+    - les données sont pertinentes et fiables dans les circonstances et ont été correctement appréhendées par la direction ;
 
-- l'intégrité des hypothèses importantes et des données a été maintenue lors de l'application de la méthode retenue ;
+    - l'intégrité des hypothèses importantes et des données a été maintenue lors de l'application de la méthode retenue ;
 
-- les calculs ont été effectués conformément à la méthode retenue et sont arithmétiquement exacts.
+    - les calculs ont été effectués conformément à la méthode retenue et sont arithmétiquement exacts.
 
 Appréciation du choix de l'estimation retenue par la direction et de l'établissement des informations y afférentes fournies dans l'annexe
 
 20. Les procédures d'audit relatives à l'appréciation du choix par la direction de l'estimation retenue et de l'établissement des informations y afférentes fournies dans l'annexe doivent permettre au commissaire aux comptes de déterminer si la direction a mis en œuvre les moyens appropriés pour :
 
-- appréhender le degré d'incertitude attaché à l'évaluation ;
+    - appréhender le degré d'incertitude attaché à l'évaluation ;
 
-- prendre en compte ce degré d'incertitude dans le choix de l'estimation qu'elle a retenue, le cas échéant parmi une fourchette de résultats raisonnablement possibles, et dans l'établissement des informations afférentes à l'estimation fournies dans l'annexe.
+    - prendre en compte ce degré d'incertitude dans le choix de l'estimation qu'elle a retenue, le cas échéant parmi une fourchette de résultats raisonnablement possibles, et dans l'établissement des informations afférentes à l'estimation fournies dans l'annexe.
 
-21. Lorsque le commissaire aux comptes estime, sur la base des éléments collectés et de son jugement professionnel, que la direction n'a pas mis en œuvre des moyens appropriés, il lui demande de mettre en œuvre des procédures complémentaires pour appréhender le degré d'incertitude et le cas échéant, y répondre en reconsidérant le choix de l'estimation retenue ou les informations y afférentes fournies dans l'annexe.
+01. Lorsque le commissaire aux comptes estime, sur la base des éléments collectés et de son jugement professionnel, que la direction n'a pas mis en œuvre des moyens appropriés, il lui demande de mettre en œuvre des procédures complémentaires pour appréhender le degré d'incertitude et le cas échéant, y répondre en reconsidérant le choix de l'estimation retenue ou les informations y afférentes fournies dans l'annexe.
 
 Si les procédures complémentaires ne sont pas mises en œuvre ou si le commissaire aux comptes estime qu'elles ne sont pas suffisantes, il établit, si cela est faisable en pratique, sa propre estimation ou une fourchette d'estimations, en appliquant les dispositions des paragraphes 23 et 24.
 
@@ -204,15 +204,15 @@ Evaluation du caractère suffisant et approprié des éléments collectés
 
 01. Lorsqu'il apprécie le caractère suffisant et approprié des éléments collectés, le commissaire aux comptes :
 
-- tient compte à la fois des éléments qui confirment et de ceux qui contredisent le respect des assertions objets de ses vérifications ;
+    - tient compte à la fois des éléments qui confirment et de ceux qui contredisent le respect des assertions objets de ses vérifications ;
 
-- évalue si les jugements et les décisions de la direction relatifs aux estimations comptables et aux informations y afférentes fournies dans l'annexe, même s'ils apparaissent raisonnables pris individuellement, présentent des indices de biais introduit par la direction en tenant compte du fait qu'ils peuvent constituer des facteurs de risque de fraude.
+    - évalue si les jugements et les décisions de la direction relatifs aux estimations comptables et aux informations y afférentes fournies dans l'annexe, même s'ils apparaissent raisonnables pris individuellement, présentent des indices de biais introduit par la direction en tenant compte du fait qu'ils peuvent constituer des facteurs de risque de fraude.
 
-27. A l'issue des procédures d'audit mises en œuvre et en fonction des éléments collectés, le commissaire aux comptes apprécie si :
+01. A l'issue des procédures d'audit mises en œuvre et en fonction des éléments collectés, le commissaire aux comptes apprécie si :
 
-- l'évaluation du risque d'anomalies significatives au niveau des assertions reste appropriée, notamment quand des indices d'un biais introduit par la direction ont été identifiés et met en œuvre, le cas échéant, des procédures d'audit complémentaires ;
+    - l'évaluation du risque d'anomalies significatives au niveau des assertions reste appropriée, notamment quand des indices d'un biais introduit par la direction ont été identifiés et met en œuvre, le cas échéant, des procédures d'audit complémentaires ;
 
-- les estimations comptables et les informations y afférentes fournies dans l'annexe sont raisonnables au regard du référentiel comptable applicable, ou si elles comportent des anomalies.
+    - les estimations comptables et les informations y afférentes fournies dans l'annexe sont raisonnables au regard du référentiel comptable applicable, ou si elles comportent des anomalies.
 
 Si le commissaire aux comptes n'est pas en mesure de collecter des éléments suffisants et appropriés, il en tire les conséquences éventuelles sur l'expression de son opinion sur les comptes.
 
@@ -238,16 +238,16 @@ Documentation
 
 30. Le commissaire aux comptes consigne notamment dans son dossier les éléments suivants :
 
-- les éléments-clés de sa prise de connaissance de l'entité et de son environnement, ainsi que de son contrôle interne, pour ce qui concerne les estimations comptables et les informations y afférentes fournies dans l'annexe ;
+    - les éléments-clés de sa prise de connaissance de l'entité et de son environnement, ainsi que de son contrôle interne, pour ce qui concerne les estimations comptables et les informations y afférentes fournies dans l'annexe ;
 
-- le cas échéant, son appréciation de la nécessité de recourir à des experts, les travaux réalisés par ces experts et l'utilisation de leurs travaux ;
+    - le cas échéant, son appréciation de la nécessité de recourir à des experts, les travaux réalisés par ces experts et l'utilisation de leurs travaux ;
 
-- son évaluation du risque d'anomalies significatives au niveau des assertions se rattachant aux estimations comptables en distinguant le risque inhérent et le risque lié au contrôle ;
+    - son évaluation du risque d'anomalies significatives au niveau des assertions se rattachant aux estimations comptables en distinguant le risque inhérent et le risque lié au contrôle ;
 
-- les procédures d'audit mises en œuvre en réponse à son évaluation du risque d'anomalies significatives et le lien entre ces procédures et cette évaluation ;
+    - les procédures d'audit mises en œuvre en réponse à son évaluation du risque d'anomalies significatives et le lien entre ces procédures et cette évaluation ;
 
-- les indices d'un biais introduit par la direction et leurs incidences sur l'approche d'audit ;
+    - les indices d'un biais introduit par la direction et leurs incidences sur l'approche d'audit ;
 
-- les jugements importants à partir desquels il a déterminé si les estimations comptables et les informations y afférentes fournies dans l'annexe étaient raisonnables au regard du référentiel comptable applicable, ou si elles comportaient des anomalies ;
+    - les jugements importants à partir desquels il a déterminé si les estimations comptables et les informations y afférentes fournies dans l'annexe étaient raisonnables au regard du référentiel comptable applicable, ou si elles comportaient des anomalies ;
 
-- les éléments communiqués aux organes mentionnés à l'article L. 821-63 du code de commerce en application du paragraphe 29.
+    - les éléments communiqués aux organes mentionnés à l'article L. 821-63 du code de commerce en application du paragraphe 29.

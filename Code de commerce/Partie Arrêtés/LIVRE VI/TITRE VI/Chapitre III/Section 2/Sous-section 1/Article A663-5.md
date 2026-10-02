@@ -3,7 +3,7 @@
 L'émolument prévu à l'article R. 663-5 au titre de la mission d'assistance du débiteur (numéro 4 du tableau 4-1), est fixé proportionnellement au chiffre d'affaires de ce débiteur, selon le barème suivant :
 
 | Chiffre d'affaires | Taux de l'émolument |
-| --- | --- |
+| -- | -- |
 | De 0,00 € à 150 000,00 € | 1,771 % |
 | De 150 001,00 € à 750 000,00 € | 0,886 % |
 | De 750 001,00 € à 3 000 000,00 € | 0,531 % |

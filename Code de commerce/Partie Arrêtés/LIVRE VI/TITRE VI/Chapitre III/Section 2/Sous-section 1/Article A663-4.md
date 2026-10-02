@@ -5,7 +5,7 @@ L'émolument prévu au premier alinéa de l'article R. 663-4 au titre du diagnos
 1° Lorsque le total du bilan du débiteur est inférieur à 3 650 000 €, cet émolument varie en fonction du nombre de salariés employés par le débiteur ou du montant de son chiffre d'affaires, selon le barème suivant :
 
 | Nombre de salariés | Chiffre d'affaires | Emolument |
-| --- | --- | --- |
+| -- | -- | -- |
 | De 0 à 5 | De 0,00 € à 750 000,00 € | 884,93 € |
 | De 6 à 19 | De 750 001,00 € à 3 000 000,00 € | 1 769,84 € |
 | De 20 à 49 | De 3 000 001,00 € à 7 000 000,00 € | 3 539,67 € |

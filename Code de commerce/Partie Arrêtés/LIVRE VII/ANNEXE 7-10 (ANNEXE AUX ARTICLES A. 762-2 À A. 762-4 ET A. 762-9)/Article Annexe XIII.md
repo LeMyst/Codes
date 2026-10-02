@@ -76,17 +76,17 @@ Ce contrôle est de type comptable, sur pièces, soit sur place chez l'organisat
 
 1. Sur le nombre d'exposants :
 
-- rapprochement du nombre d'exposants vérifiés avec la liste des exposants fournie par l'organisateur ;
+   - rapprochement du nombre d'exposants vérifiés avec la liste des exposants fournie par l'organisateur ;
 
-- rapprochement des données mentionnées aux dossiers d'inscription des exposants (surfaces occupées et montants facturés) avec celles de la liste des exposants et avec le plan d'implantation de la manifestation ;
+   - rapprochement des données mentionnées aux dossiers d'inscription des exposants (surfaces occupées et montants facturés) avec celles de la liste des exposants et avec le plan d'implantation de la manifestation ;
 
-- rapprochement des tarifs de location relevés avec les tarifs mentionnés sur les dossiers d'inscription ainsi que sur un échantillonnage aléatoire de factures émises ;
+   - rapprochement des tarifs de location relevés avec les tarifs mentionnés sur les dossiers d'inscription ainsi que sur un échantillonnage aléatoire de factures émises ;
 
-- rapprochement du montant des recettes issues de la location de stands avec les extraits de comptes relatifs aux recettes afférentes aux exposants ;
+   - rapprochement du montant des recettes issues de la location de stands avec les extraits de comptes relatifs aux recettes afférentes aux exposants ;
 
-- rapprochement de la liste des coexposants vérifiés avec les attestations des exposants principaux hébergeurs.
+   - rapprochement de la liste des coexposants vérifiés avec les attestations des exposants principaux hébergeurs.
 
-2. Sur le nombre de visiteurs :
+1. Sur le nombre de visiteurs :
 
 Pour les visiteurs munis d'un ticket acheté aux guichets de la manifestation ou en prévente :
 

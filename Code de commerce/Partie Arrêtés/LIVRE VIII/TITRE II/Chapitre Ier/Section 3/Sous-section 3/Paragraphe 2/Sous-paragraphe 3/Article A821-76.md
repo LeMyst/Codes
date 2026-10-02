@@ -18,11 +18,11 @@ Caractéristiques de la demande de confirmation des tiers
 
 1. Cette technique de contrôle est généralement utilisée pour confirmer un solde de compte et les éléments le composant, mais elle peut aussi permettre de confirmer :
 
-- les termes d'un contrat ou l'absence d'accords particuliers susceptibles d'avoir une incidence sur la comptabilisation de produits ;
+   - les termes d'un contrat ou l'absence d'accords particuliers susceptibles d'avoir une incidence sur la comptabilisation de produits ;
 
-- ou encore l'absence d'engagements hors bilan.
+   - ou encore l'absence d'engagements hors bilan.
 
-6. Le commissaire aux comptes utilise cette technique de contrôle lorsqu'il l'estime nécessaire à la collecte d'éléments suffisants et appropriés pour vérifier une assertion.
+1. Le commissaire aux comptes utilise cette technique de contrôle lorsqu'il l'estime nécessaire à la collecte d'éléments suffisants et appropriés pour vérifier une assertion.
 
 Pour ce faire, il prend en compte le risque d'anomalies significatives au niveau de l'assertion et ce qui est attendu des autres procédures d'audit planifiées en terme de réduction de ce risque.
 

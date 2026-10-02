@@ -7,4 +7,4 @@ Le cas échéant, sont également inscrits au Registre national des entreprises,
 2° Si la personne le souhaite, l'adresse et l'activité principale de ces établissements sur présentation des justificatifs définis par l'arrêté prévu à l'article R. 123-292.
 
 NOTA:
-En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1<sup>er</sup> janvier 2023.

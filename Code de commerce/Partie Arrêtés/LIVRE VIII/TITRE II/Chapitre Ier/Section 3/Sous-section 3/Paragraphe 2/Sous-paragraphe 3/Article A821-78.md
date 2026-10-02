@@ -34,9 +34,9 @@ Sélection d'éléments spécifiques
 
 6. En fonction de la connaissance qu'il a acquise de l'entité et de son environnement et de son évaluation du risque d'anomalies significatives, le commissaire aux comptes peut décider d'utiliser cette méthode de sélection notamment lorsqu'il estime pertinent :
 
-- de couvrir, en valeur, une large proportion de la population. Dans ce cas et lorsque les caractéristiques de la population le permettent, le commissaire aux comptes sélectionne les éléments dont le montant est supérieur à un montant donné qu'il fixe pour cette sélection, conformément aux principes définis dans la norme relative aux anomalies significatives et au seuil de signification ;
+   - de couvrir, en valeur, une large proportion de la population. Dans ce cas et lorsque les caractéristiques de la population le permettent, le commissaire aux comptes sélectionne les éléments dont le montant est supérieur à un montant donné qu'il fixe pour cette sélection, conformément aux principes définis dans la norme relative aux anomalies significatives et au seuil de signification ;
 
-- de contrôler des éléments inhabituels en raison de leur importance ou de leur nature.
+   - de contrôler des éléments inhabituels en raison de leur importance ou de leur nature.
 
 Sondages
 
@@ -48,13 +48,13 @@ Analyse des résultats des contrôles et conséquences sur l'audit
 
 8. Quelle que soit la méthode de sélection des éléments à contrôler qu'il retient, le commissaire aux comptes en fonction du résultat des procédures mises en œuvre :
 
-- apprécie si l'évaluation du risque d'anomalies significatives au niveau des a assertions, qu'il avait définie pour cette population, reste appropriée ;
+   - apprécie si l'évaluation du risque d'anomalies significatives au niveau des a assertions, qu'il avait définie pour cette population, reste appropriée ;
 
-- conclut sur le caractère suffisant et approprié des éléments collectés ;
+   - conclut sur le caractère suffisant et approprié des éléments collectés ;
 
-- tire les conséquences, sur sa mission, des anomalies identifiées conformément aux principes définis dans les normes d'exercice professionnel relatives aux anomalies significatives et au seuil de signification.
+   - tire les conséquences, sur sa mission, des anomalies identifiées conformément aux principes définis dans les normes d'exercice professionnel relatives aux anomalies significatives et au seuil de signification.
 
-9. En outre, lorsque le commissaire aux comptes a sélectionné des éléments d'une population par sondages, il tire du contrôle de ces éléments une conclusion sur toute la population.
+1. En outre, lorsque le commissaire aux comptes a sélectionné des éléments d'une population par sondages, il tire du contrôle de ces éléments une conclusion sur toute la population.
 
 Lorsque les résultats de ce contrôle révèlent des anomalies, le commissaire aux comptes en apprécie la nature et la cause.
 

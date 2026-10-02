@@ -1,1 +1,17 @@
-Section 2 : De l'entrepreneur individuel à responsabilité limitée
+# Section 2 : De l'entrepreneur individuel à responsabilité limitée
+
+- [Article L526-6](Article%20L526-6.md)
+- [Article L526-7](Article%20L526-7.md)
+- [Article L526-8](Article%20L526-8.md)
+- [Article L526-8-1](Article%20L526-8-1.md)
+- [Article L526-9](Article%20L526-9.md)
+- [Article L526-11](Article%20L526-11.md)
+- [Article L526-12](Article%20L526-12.md)
+- [Article L526-13](Article%20L526-13.md)
+- [Article L526-14](Article%20L526-14.md)
+- [Article L526-15](Article%20L526-15.md)
+- [Article L526-17](Article%20L526-17.md)
+- [Article L526-18](Article%20L526-18.md)
+- [Article L526-19](Article%20L526-19.md)
+- [Article L526-20](Article%20L526-20.md)
+- [Article L526-21](Article%20L526-21.md)

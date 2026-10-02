@@ -15,4 +15,4 @@ Sont inscrits au sein du Registre national des entreprises, sur déclaration de 
 Constitue un établissement secondaire au sens de la présente section tout établissement permanent, distinct du siège social ou de l'établissement principal et dirigé par la personne tenue à l'immatriculation, un préposé ou une personne ayant le pouvoir de lier des rapports juridiques avec les tiers.
 
 NOTA:
-En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1<sup>er</sup> janvier 2023.

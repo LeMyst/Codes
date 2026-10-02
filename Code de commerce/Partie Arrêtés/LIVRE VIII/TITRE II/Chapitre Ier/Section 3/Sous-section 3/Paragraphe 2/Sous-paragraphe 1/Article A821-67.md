@@ -12,11 +12,11 @@ Introduction
 
 1. La présente norme a pour objet de préciser :
 
-- les éléments sur lesquels portent les communications avec les organes mentionnés à l'article L. 821-63 ;
+   - les éléments sur lesquels portent les communications avec les organes mentionnés à l'article L. 821-63 ;
 
-- les modalités de ces communications ;
+   - les modalités de ces communications ;
 
-- les incidences sur la mission du commissaire aux comptes des échanges avec les organes mentionnés à l'article L. 821-63.
+   - les incidences sur la mission du commissaire aux comptes des échanges avec les organes mentionnés à l'article L. 821-63.
 
 Eléments sur lesquels portent les communications
 
@@ -50,17 +50,17 @@ Le commissaire aux comptes communique également aux organes mentionnés à l'ar
 
 5. Lorsque le commissaire aux comptes intervient auprès d'une entité d'intérêt public :
 
-- il communique aux organes mentionnés à l'article L. 821-63 du code de commerce les risques d'anomalies significatives qu'il considère comme des points clés de l'audit ;
+   - il communique aux organes mentionnés à l'article L. 821-63 du code de commerce les risques d'anomalies significatives qu'il considère comme des points clés de l'audit ;
 
-- en cas de soupçons ou de bonnes raisons de soupçonner que des irrégularités, y compris des fraudes concernant les comptes annuels ou consolidés, peuvent être commises ou ont été commises, il en informe la direction ou, lorsque l'information de la direction n'apparaît pas souhaitable ou est restée sans suite pertinente, les organes mentionnés à l'article L. 821-63 du code de commerce. Il leur demande que des investigations soient menées sur les éléments relevés et que des mesures appropriées soient prises pour traiter ces irrégularités et éviter qu'elles ne se répètent.
+   - en cas de soupçons ou de bonnes raisons de soupçonner que des irrégularités, y compris des fraudes concernant les comptes annuels ou consolidés, peuvent être commises ou ont été commises, il en informe la direction ou, lorsque l'information de la direction n'apparaît pas souhaitable ou est restée sans suite pertinente, les organes mentionnés à l'article L. 821-63 du code de commerce. Il leur demande que des investigations soient menées sur les éléments relevés et que des mesures appropriées soient prises pour traiter ces irrégularités et éviter qu'elles ne se répètent.
 
 Lorsque ces investigations ne sont pas menées, le commissaire aux comptes en informe les autorités chargées d'enquêter sur de telles irrégularités.
 
 6. En outre, lorsque le commissaire aux comptes intervient auprès d'entités soumises aux dispositions de l'article L. 821-67 ou qui se sont volontairement dotées d'un comité spécialisé au sens dudit article, il :
 
-- examine avec ce comité spécialisé les risques pesant sur son indépendance et les mesures de sauvegarde prises pour atténuer ces risques ;
+   - examine avec ce comité spécialisé les risques pesant sur son indépendance et les mesures de sauvegarde prises pour atténuer ces risques ;
 
-- porte à sa connaissance les faiblesses significatives du contrôle interne, en faisant application de la norme d'exercice professionnel relative à la communication des faiblesses du contrôle interne.
+   - porte à sa connaissance les faiblesses significatives du contrôle interne, en faisant application de la norme d'exercice professionnel relative à la communication des faiblesses du contrôle interne.
 
 Il communique chaque année au comité spécialisé :
 
@@ -78,11 +78,11 @@ Modalités des communications
 
 1. Le commissaire aux comptes communique par écrit :
 
-- les éléments importants relatifs à son audit lorsqu'il considère qu'une communication orale ne serait pas appropriée ou lorsque des dispositions légales ou réglementaires le prévoient spécifiquement ;
+   - les éléments importants relatifs à son audit lorsqu'il considère qu'une communication orale ne serait pas appropriée ou lorsque des dispositions légales ou réglementaires le prévoient spécifiquement ;
 
-- les éléments relatifs à son indépendance définis au paragraphe 6.
+   - les éléments relatifs à son indépendance définis au paragraphe 6.
 
-11. Lorsque le commissaire aux comptes intervient auprès d'entités soumises aux dispositions de l'article L. 821-67, il remet au comité spécialisé au sens dudit article, ou à l'organe qui en exerce les fonctions, un rapport complémentaire comprenant les informations requises à l'article 11 du règlement (UE) N° 537/2014 du 16 avril 2014.
+1. Lorsque le commissaire aux comptes intervient auprès d'entités soumises aux dispositions de l'article L. 821-67, il remet au comité spécialisé au sens dudit article, ou à l'organe qui en exerce les fonctions, un rapport complémentaire comprenant les informations requises à l'article 11 du règlement (UE) N° 537/2014 du 16 avril 2014.
 
 Incidences sur la mission des échanges avec les organes mentionnés à l'article L. 821-63
 
@@ -98,6 +98,6 @@ Documentation
 
 13. Le commissaire aux comptes fait figurer dans son dossier :
 
-- la formalisation des échanges verbaux avec les organes mentionnés à l'article L. 821-63 et la date de ces échanges ;
+    - la formalisation des échanges verbaux avec les organes mentionnés à l'article L. 821-63 et la date de ces échanges ;
 
-- une copie des communications écrites.
+    - une copie des communications écrites.

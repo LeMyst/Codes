@@ -2,8 +2,8 @@
 
 Les actes relatifs au mandat posthume (numéros 35 à 38 du tableau 5) donnent lieu à la perception des émoluments suivants :
 
-| Numéro de la prestation (tableau 5 de l'article annexe 4-7) | Désignation de la prestation | Émolument |
-| --- | --- | --- |
+| Numéro de<br>la prestation<br>(tableau 5<br>de l'article<br>annexe 4-7) | Désignation de la prestation | Émolument |
+| -- | -- | -- |
 | 34 | Établissement du mandat posthume | 113,20 € |
 | 35 | Acceptation du mandat posthume par acte séparé | 56,59 € |
 | 36 | Révocation par le mandant | 56,59 € |

@@ -7,7 +7,7 @@ La prestation de recouvrement ou d'encaissement figurant au numéro 128 du table
 2° Au-delà du seuil de 44 € mentionné au 1°, dans la limite de 550 €, un émolument proportionnel aux sommes encaissées ou recouvrées au titre du principal de la créance ou du montant de la condamnation, à l'exclusion des dépens, selon le barème suivant :
 
 | Tranches d'assiette | Taux applicable |
-| --- | --- |
+| -- | -- |
 | De 0 à 125 € | 9,77 % |
 | De 125 € à 610 € | 6,35 % |
 | De 610 € à 1525 € | 3,41 % |

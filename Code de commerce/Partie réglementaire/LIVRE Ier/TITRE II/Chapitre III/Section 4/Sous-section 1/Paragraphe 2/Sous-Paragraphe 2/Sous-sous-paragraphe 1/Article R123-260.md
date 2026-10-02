@@ -31,4 +31,4 @@ h) Les références, le cas échéant, des établissements principaux ou seconda
 2° En ce qui concerne l'activité et l'établissement, les renseignements prévus aux articles R. 123-243 à R. 123-245. Les informations relatives aux sociétés commerciales ou relevant du secteur des métiers et de l'artisanat sont déclarées par le groupement d'intérêt économique, lorsque son objet relève de ces natures d'activités.
 
 NOTA:
-En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1<sup>er</sup> janvier 2023.

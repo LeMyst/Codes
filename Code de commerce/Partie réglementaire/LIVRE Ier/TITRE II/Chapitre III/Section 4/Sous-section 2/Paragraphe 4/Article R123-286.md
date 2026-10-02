@@ -7,4 +7,4 @@ La caisse départementale ou pluridépartementale de mutualité sociale agricole
 2° Pour les personnes morales, celles relatives à la description d'une activité principale ou secondaire lorsqu'elle relève des activités mentionnées au 1° de l'article L. 311-2 du code rural et de la pêche maritime.
 
 NOTA:
-En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1<sup>er</sup> janvier 2023.

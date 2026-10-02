@@ -2,8 +2,8 @@
 
 Les prestations figurant aux numéros 41 à 49 du tableau 3-1 donnent lieu à la perception des émoluments suivants :
 
-| Numéro de la prestation (tableau 3-1 de l'article annexe 4-7) | Désignation de la prestation | Emolument |
-| --- | --- | --- |
+| Numéro de<br>la prestation<br>(tableau 3-1<br>de l'article<br>annexe 4-7) | Désignation de la prestation | Emolument |
+| -- | -- | -- |
 | 41 | Injonction de communiquer et commandement de payer | 20,42 € |
 | 42 | Commandement de payer précédant la saisie-vente | 20,42 € |
 | 43 | Signification du certificat de non-paiement valant commandement de payer | 26,86 € |

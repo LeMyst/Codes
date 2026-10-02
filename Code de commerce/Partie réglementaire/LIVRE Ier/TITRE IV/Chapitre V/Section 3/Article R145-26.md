@@ -5,4 +5,4 @@ Les mémoires sont signés par les avocats des parties. Les copies des pièces q
 Une fois le juge saisi, les notifications des mémoires sont faites conformément aux règles des notifications entre avocats, sauf à procéder par signification à l'égard du défendeur n'ayant pas constitué avocat.
 
 NOTA:
-Conformément au 1° de l'article 21 du décret n° 2026-683 du 27 juillet 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er octobre 2026.
+Conformément au 1° de l'article 21 du décret n° 2026-683 du 27 juillet 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1<sup>er</sup> octobre 2026.

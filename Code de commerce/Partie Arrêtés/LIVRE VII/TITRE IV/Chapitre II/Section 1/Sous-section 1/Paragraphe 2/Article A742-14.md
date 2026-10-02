@@ -6,19 +6,19 @@ L'entretien de fin de stage, comporte :
 
 2° Une conversation avec le jury, d'une durée de vingt minutes, pouvant comprendre des questions en lien avec la présentation effectuée, ainsi que des questions théoriques ou de cas pratiques portant sur :
 
-– l'organisation et le fonctionnement d'un tribunal de commerce,
+- l'organisation et le fonctionnement d'un tribunal de commerce,
 
-– la procédure civile et commerciale ;
+- la procédure civile et commerciale ;
 
-– la tenue des registres de publicité légale,
+- la tenue des registres de publicité légale,
 
-– les sûretés et privilèges commerciaux,
+- les sûretés et privilèges commerciaux,
 
-– la pratique des greffes des tribunaux de commerce ;
+- la pratique des greffes des tribunaux de commerce ;
 
-– la réglementation professionnelle et l'administration du greffe d'un tribunal de commerce.
+- la réglementation professionnelle et l'administration du greffe d'un tribunal de commerce.
 
-– les outils numériques utilisés par la profession.
+- les outils numériques utilisés par la profession.
 
 3° Le cas échéant, l'audition du maître de stage, dont la durée est librement appréciée par le président du jury. Le président du jury met en mesure le candidat de répondre aux observations formulées.
 

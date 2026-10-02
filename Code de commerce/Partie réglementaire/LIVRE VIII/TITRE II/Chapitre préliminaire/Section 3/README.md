@@ -1,1 +1,19 @@
-Section 3 : Du régime budgétaire et comptable de la Haute autorité
+# Section 3 : Du régime budgétaire et comptable de la Haute autorité
+
+- [Article R820-16](Article%20R820-16.md)
+- [Article R820-17](Article%20R820-17.md)
+- [Article R820-18](Article%20R820-18.md)
+- [Article R820-19](Article%20R820-19.md)
+- [Article R820-20](Article%20R820-20.md)
+- [Article R820-21](Article%20R820-21.md)
+- [Article R820-22](Article%20R820-22.md)
+- [Article R820-23](Article%20R820-23.md)
+- [Article R820-24](Article%20R820-24.md)
+- [Article R820-25](Article%20R820-25.md)
+- [Article R820-26](Article%20R820-26.md)
+- [Article R820-27](Article%20R820-27.md)
+- [Article R820-28](Article%20R820-28.md)
+- [Article R820-29](Article%20R820-29.md)
+- [Article R820-30](Article%20R820-30.md)
+- [Article R820-31](Article%20R820-31.md)
+- [Article R820-32](Article%20R820-32.md)

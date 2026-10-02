@@ -8,15 +8,15 @@ Introduction
 
 1. La présente norme a pour objet de définir les procédures d'audit à mettre en œuvre par le commissaire aux comptes pour collecter des éléments qui lui permettent d'aboutir à des conclusions au titre :
 
-- de l'inventaire physique des stocks ;
+   - de l'inventaire physique des stocks ;
 
-- des procès, contentieux et litiges ;
+   - des procès, contentieux et litiges ;
 
-- des immobilisations financières ;
+   - des immobilisations financières ;
 
-- des informations sectorielles données dans l'annexe des comptes.
+   - des informations sectorielles données dans l'annexe des comptes.
 
-2. Les procédures définies dans cette norme ne dispensent pas le commissaire aux comptes de mettre en œuvre les principes et les procédures définies dans les autres normes d'exercice professionnel pour les éléments mentionnés ci-dessus.
+1. Les procédures définies dans cette norme ne dispensent pas le commissaire aux comptes de mettre en œuvre les principes et les procédures définies dans les autres normes d'exercice professionnel pour les éléments mentionnés ci-dessus.
 
 Inventaire physique des stocks
 
@@ -30,9 +30,9 @@ Pour ce faire, il tient compte du risque d'anomalies significatives au niveau de
 
 5. Si, en raison de circonstances imprévues, le commissaire aux comptes ne peut être présent à la date prévue pour la prise d'inventaire physique, et dans la mesure où il existe un inventaire permanent, il intervient à une autre date :
 
-- soit en procédant lui-même à des comptages physiques ;
+   - soit en procédant lui-même à des comptages physiques ;
 
-- soit en assistant à des tels comptages.
+   - soit en assistant à des tels comptages.
 
 Il effectue également, s'il le juge nécessaire, des contrôles sur les mouvements intercalaires.
 

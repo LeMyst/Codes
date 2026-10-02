@@ -14,17 +14,17 @@ Définitions
 
 3. Procédures de substance : procédures d'audit mises en œuvre pour détecter les anomalies significatives au niveau des assertions. Elles incluent :
 
-- les tests de détail ;
+   - les tests de détail ;
 
-- les procédures analytiques de substance.
+   - les procédures analytiques de substance.
 
-4. Procédures analytiques : techniques de contrôle qui consistent à apprécier des informations financières à partir :
+1. Procédures analytiques : techniques de contrôle qui consistent à apprécier des informations financières à partir :
 
-- de leurs corrélations avec d'autres informations, issues ou non des comptes, ou avec des données antérieures, postérieures ou prévisionnelles de l'entité ou d'entités similaires ; et
+   - de leurs corrélations avec d'autres informations, issues ou non des comptes, ou avec des données antérieures, postérieures ou prévisionnelles de l'entité ou d'entités similaires ; et
 
-- de l'analyse des variations significatives ou des tendances inattendues.
+   - de l'analyse des variations significatives ou des tendances inattendues.
 
-5. Procédures analytiques de substance : procédures analytiques menées en déterminant les montants ou ratios attendus dans les comptes et les écarts jugés acceptables entre ces montants ou ratios et ceux enregistrés.
+1. Procédures analytiques de substance : procédures analytiques menées en déterminant les montants ou ratios attendus dans les comptes et les écarts jugés acceptables entre ces montants ou ratios et ceux enregistrés.
 
 Mise en œuvre des procédures analytiques
 

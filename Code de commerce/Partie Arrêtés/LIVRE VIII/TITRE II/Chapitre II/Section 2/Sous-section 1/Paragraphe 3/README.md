@@ -1,1 +1,1 @@
-Paragraphe 3 : Des recours contre les décisions d'inscription
+# Paragraphe 3 : Des recours contre les décisions d'inscription

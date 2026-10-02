@@ -5,4 +5,4 @@ Le teneur du Registre national des entreprises, informé par toute autorité adm
 Il procède à la radiation des mêmes personnes physiques et selon les mêmes conditions, lorsqu'il est informé, par les organismes sociaux dont ces personnes relèvent, d'une décision définitive de refus d'affiliation ou de radiation des régimes des travailleurs indépendants prévus à l'article L. 611-1 du code de la sécurité sociale et à l'article L. 731-1 du code rural et de la pêche maritime.
 
 NOTA:
-En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1<sup>er</sup> janvier 2023.

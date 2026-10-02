@@ -1,1 +1,1 @@
-Chapitre IV : Des sociétés coopératives de commerçants détaillants
+# Chapitre IV : Des sociétés coopératives de commerçants détaillants

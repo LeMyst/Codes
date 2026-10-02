@@ -9,7 +9,7 @@ Les actes relatifs à la location-accession à la propriété immobilière (num�
 Selon le barème suivant :
 
 | Tranches d'assiette | Taux applicable |
-| --- | --- |
+| -- | -- |
 | De 0 à 6 500 € | 1,935 % |
 | De 6 500 € à 17 000 € | 0,799 % |
 | De 17 000 € à 60 000 € | 0,532 % |

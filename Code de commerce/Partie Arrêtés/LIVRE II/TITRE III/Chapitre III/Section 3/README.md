@@ -1,1 +1,1 @@
-Section 3 : Des participations réciproques
+# Section 3 : Des participations réciproques

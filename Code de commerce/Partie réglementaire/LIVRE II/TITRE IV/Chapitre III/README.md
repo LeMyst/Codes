@@ -1,1 +1,1 @@
-Chapitre III : des infractions concernant les sociétés en commandite par actions.
+# Chapitre III : des infractions concernant les sociétés en commandite par actions.

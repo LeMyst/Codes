@@ -73,4 +73,4 @@ III. - Les honoraires de la négociation et de la transaction, respectivement me
 L'honoraire de transaction ne peut être perçu par le notaire qu'à la réception de l'acte et seulement si ce dernier mentionne les points sur lesquels portait le désaccord.
 
 NOTA:
-Conformément au I de l’article 17 du décret n° 2024-673 du 3 juillet 2024, ces dispositions entrent en vigueur le 1er septembre 2024. Elles sont applicables aux instances en cours à cette date.
+Conformément au I de l’article 17 du décret n° 2024-673 du 3 juillet 2024, ces dispositions entrent en vigueur le 1<sup>er</sup> septembre 2024. Elles sont applicables aux instances en cours à cette date.

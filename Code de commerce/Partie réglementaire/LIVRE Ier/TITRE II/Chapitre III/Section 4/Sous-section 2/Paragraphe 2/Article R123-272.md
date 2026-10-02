@@ -7,4 +7,4 @@ Le greffier du tribunal de commerce ou du tribunal judiciaire statuant en matiè
 2° Pour les personnes morales, celles mentionnées aux articles R. 123-252 à R. 123-258, aux 1°, 3° et 4° de l'article R. 123-259 et aux articles R. 123-260 à R. 123-266.
 
 NOTA:
-En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1<sup>er</sup> janvier 2023.

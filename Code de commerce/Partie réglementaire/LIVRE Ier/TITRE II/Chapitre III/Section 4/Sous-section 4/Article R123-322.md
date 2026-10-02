@@ -5,4 +5,4 @@ La collecte des droits mentionnés aux II et III de l'article L. 123-54 est réa
 Par exception au premier alinéa, la collecte des droits mentionnés au II de l'article L. 123-54 est réalisée par le greffier du tribunal de commerce ou du tribunal judiciaire statuant en matière commerciale compétent lorsque des documents mentionnés à l'article R. 123-301 sont déposés auprès de lui en application du même article.
 
 NOTA:
-En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1<sup>er</sup> janvier 2023.

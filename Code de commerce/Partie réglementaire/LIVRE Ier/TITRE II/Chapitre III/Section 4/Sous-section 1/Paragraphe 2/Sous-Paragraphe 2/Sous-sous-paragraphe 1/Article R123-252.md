@@ -31,4 +31,4 @@ Sont inscrits au sein du Registre national des entreprises, sur déclaration de 
 14° Pour les groupements agricoles d'exploitation en commun, les éléments mentionnés à l'article R. 323-15 du code rural et de la pêche maritime .
 
 NOTA:
-En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1<sup>er</sup> janvier 2023.

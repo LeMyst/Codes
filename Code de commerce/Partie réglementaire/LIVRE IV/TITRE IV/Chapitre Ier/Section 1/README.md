@@ -1,1 +1,1 @@
-Section 1 : Les conditions générales de vente
+# Section 1 : Les conditions générales de vente

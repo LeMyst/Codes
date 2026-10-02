@@ -2,8 +2,8 @@
 
 Les prestations figurant aux numéros 151 à 203 du tableau 3-3 donnent lieu à la perception par l'huissier de justice des émoluments suivants :
 
-| Numéro de la prestation (tableau 3-3 de l'article annexe 4-7) | Désignation de la prestation | Emolument |
-| --- | --- | --- |
+| Numéro de<br>la prestation (tableau 3-3 de l'article annexe 4-7) | Désignation de la prestation | Emolument |
+| -- | -- | -- |
 | 151 | Requête aux fins de recherche des informations. | 21,50 € |
 | 152 | Copie des pièces accompagnant le bordereau annexé à l'assignation, par tranche de 100 feuilles | 21,50 € |
 | 153 | Requête au greffe aux fins de saisie des rémunérations ou en intervention | 30,09 € |

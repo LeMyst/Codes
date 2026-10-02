@@ -9,4 +9,4 @@ En cas de modifications des informations ou justification réalisées en applica
 3° Dans le délai de six mois, en cas de départ du titulaire de l'attestation de capacité au sein d'une entreprise de transport fluvial de marchandises, l'identité et la qualité du nouveau titulaire de l'attestation de capacité. Ce délai est porté à un an, prorogeable de six mois au plus, en cas de décès ou d'incapacité physique ou légale de la personne titulaire de l'attestation de capacité, conformément au premier alinéa de l'article R. 4421-5 du code des transports. La déclaration est accompagnée de l'attestation prévue à l'article R. 4421-4 du même code.
 
 NOTA:
-En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1<sup>er</sup> janvier 2023.

@@ -8,11 +8,11 @@ Introduction
 
 1. Lors de la prise de connaissance de l'entité, notamment de son contrôle interne, effectuée en application de la norme d'exercice professionnel relative à la connaissance de l'entité et de son environnement et à l'évaluation du risque d'anomalies dans les comptes, et tout au long de son audit, le commissaire aux comptes peut relever des faiblesses du contrôle interne. Ces faiblesses sont les faiblesses du contrôle interne lié à l'information comptable et financière qui se caractérisent par :
 
-- l'absence d'un contrôle nécessaire pour prévenir, détecter ou corriger des anomalies dans les comptes ; ou
+   - l'absence d'un contrôle nécessaire pour prévenir, détecter ou corriger des anomalies dans les comptes ; ou
 
-- l'incapacité d'un contrôle à prévenir, détecter ou corriger des anomalies dans les comptes du fait de sa conception, de sa mise en œuvre ou de son fonctionnement.
+   - l'incapacité d'un contrôle à prévenir, détecter ou corriger des anomalies dans les comptes du fait de sa conception, de sa mise en œuvre ou de son fonctionnement.
 
-2. Une faiblesse significative du contrôle interne est une faiblesse ou un ensemble de faiblesses du contrôle interne lié à l'information comptable et financière suffisamment importante pour mériter l'attention de l'organe collégial chargé de l'administration ou de l'organe chargé de la direction et de l'organe de surveillance, ainsi que, le cas échéant, du comité spécialisé.
+1. Une faiblesse significative du contrôle interne est une faiblesse ou un ensemble de faiblesses du contrôle interne lié à l'information comptable et financière suffisamment importante pour mériter l'attention de l'organe collégial chargé de l'administration ou de l'organe chargé de la direction et de l'organe de surveillance, ainsi que, le cas échéant, du comité spécialisé.
 
 1. Lorsqu'il fait application de la norme d'exercice professionnel relative aux procédures d'audit mises en œuvre à l'issue de l'évaluation des risques, le commissaire aux comptes apprécie l'efficacité des contrôles pertinents pour l'audit lorsqu'il a décidé de s'appuyer sur ces contrôles ou lorsqu'il considère que les procédures de substance seules ne sont pas suffisantes. Ainsi, les procédures d'audit mises en œuvre par le commissaire aux comptes n'ont pas pour objectif d'exprimer une opinion sur l'efficacité du contrôle interne.
 
@@ -30,12 +30,12 @@ Contenu de la communication écrite des faiblesses significatives du contrôle i
 
 7. La communication écrite des faiblesses significatives du contrôle interne comprend :
 
-- une description des faiblesses significatives du contrôle interne et de leurs effets potentiels sur les comptes ;
+   - une description des faiblesses significatives du contrôle interne et de leurs effets potentiels sur les comptes ;
 
-- une information sur la portée et les limites de cette communication. Cette information rappelle notamment que :
+   - une information sur la portée et les limites de cette communication. Cette information rappelle notamment que :
 
-- l'objectif de l'audit est de formuler une opinion sur les comptes ;
+   - l'objectif de l'audit est de formuler une opinion sur les comptes ;
 
-- le commissaire aux comptes prend connaissance des éléments du contrôle interne pertinents pour l'audit afin de prendre en considération les facteurs pouvant engendrer des risques d'anomalies significatives dans les comptes et non dans le but de formuler une opinion sur l'efficacité du contrôle interne.
+   - le commissaire aux comptes prend connaissance des éléments du contrôle interne pertinents pour l'audit afin de prendre en considération les facteurs pouvant engendrer des risques d'anomalies significatives dans les comptes et non dans le but de formuler une opinion sur l'efficacité du contrôle interne.
 
 Seules sont communiquées les faiblesses significatives du contrôle interne qu'il a identifiées au cours de l'audit.

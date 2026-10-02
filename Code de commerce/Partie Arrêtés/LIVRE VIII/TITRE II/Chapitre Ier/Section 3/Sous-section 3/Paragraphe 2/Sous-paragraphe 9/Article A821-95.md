@@ -12,19 +12,19 @@ Introduction
 
 1. La présente norme, établie en application de l'article L. 114-8 du code de la sécurité sociale, a pour objet de définir les principes relatifs à l'audit des comptes annuels et combinés et de préciser les incidences sur l'audit de certaines spécificités du fonctionnement des organismes de sécurité sociale, que sont tout particulièrement :
 
-- la validation interne effectuée par le directeur comptable et financier national des organismes de base de la sécurité sociale ;
+   - la validation interne effectuée par le directeur comptable et financier national des organismes de base de la sécurité sociale ;
 
-- le fait générateur de la comptabilisation des prestations en nature maladie-maternité-invalidité-décès ;
+   - le fait générateur de la comptabilisation des prestations en nature maladie-maternité-invalidité-décès ;
 
-- l'externalisation de certaines opérations auprès d'entités dont les comptes sont soumis à la certification de la Cour des comptes.
+   - l'externalisation de certaines opérations auprès d'entités dont les comptes sont soumis à la certification de la Cour des comptes.
 
 Principes relatifs à l'audit des comptes annuels et combinés des organismes de sécurité sociale
 
 4. Pour fonder son opinion sur les comptes, le commissaire aux comptes accomplit les diligences prévues par l'ensemble des normes d'exercice professionnel relatives à la certification des comptes. Pour la mise en œuvre des normes d'exercice professionnel relatives à la “prise en compte du risque d'anomalies significatives dans les comptes résultant du non-respect de textes légaux et réglementaires”, à la “connaissance de l'entité et de son environnement et évaluation du risque d'anomalies significatives dans les comptes”, et aux “procédures d'audit mises en œuvre par le commissaire aux comptes à l'issue de son évaluation du risque”, le commissaire aux comptes tient compte :
 
-- de l'importance du volume des opérations traitées par l'entité ;
+   - de l'importance du volume des opérations traitées par l'entité ;
 
-- de l'existence de textes légaux et réglementaires spécifiques qui régissent la détermination des charges et des produits, tels que ceux fixant la nomenclature et la tarification des actes ou les taux des cotisations.
+   - de l'existence de textes légaux et réglementaires spécifiques qui régissent la détermination des charges et des produits, tels que ceux fixant la nomenclature et la tarification des actes ou les taux des cotisations.
 
 Il évalue la conception et la mise en œuvre des contrôles réalisés par l'entité pour traiter ces volumes d'opérations et garantir le respect de ces textes légaux et réglementaires.
 

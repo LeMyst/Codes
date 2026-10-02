@@ -1,1 +1,7 @@
-Section 3 : De l'instauration d'un délai permettant aux salariés de présenter une offre en cas de vente d'un fonds de commerce dans les entreprises qui ne sont pas soumises à l'obligation de mettre en place un comité social et économique exerçant les attributions mentionnées au deuxième alinéa de l'article L. 2312-1 du code du travail
+# Section 3 : De l'instauration d'un délai permettant aux salariés de présenter une offre en cas de vente d'un fonds de commerce dans les entreprises qui ne sont pas soumises à l'obligation de mettre en place un comité social et économique exerçant les attributions mentionnées au deuxième alinéa de l'article L. 2312-1 du code du travail
+
+- [Article L141-23](Article%20L141-23.md)
+- [Article L141-24](Article%20L141-24.md)
+- [Article L141-25](Article%20L141-25.md)
+- [Article L141-26](Article%20L141-26.md)
+- [Article L141-27](Article%20L141-27.md)

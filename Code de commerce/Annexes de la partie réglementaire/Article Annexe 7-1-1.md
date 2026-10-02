@@ -3,7 +3,7 @@
 Siège et ressort des tribunaux de commerce spécialisés
 
 | SIÈGE | RESSORT |
-| --- | --- |
+| -- | -- |
 | Bobigny | Tribunaux de commerce de Bobigny, de Créteil, de Meaux |
 | Bordeaux | Tribunaux de commerce d'Angoulême, de Bayonne, de Bergerac, de Bordeaux, de Dax, de Libourne, de Mont-de-Marsan, de Pau, de Périgueux, de Tarbes |
 | Dijon | Tribunaux de commerce de Bar-le-Duc, de Belfort, de Besançon, de Val de Briey, de Chalon-sur-Saône, de Chaumont, de Dijon, d'Epinal, de Lons-le-Saunier, de Mâcon, de Nancy, de Vesoul |

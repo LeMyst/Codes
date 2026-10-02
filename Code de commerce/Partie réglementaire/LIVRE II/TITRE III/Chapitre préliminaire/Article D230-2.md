@@ -15,6 +15,5 @@ Le nombre moyen de salariés est apprécié selon les modalités prévues au I d
 Sauf disposition contraire, ces seuils sont réputés franchis à la date de clôture de deux exercices consécutifs sur la base des derniers comptes annuels arrêtés.
 
 NOTA:
-Conformément à l'article 4 du décret n° 2024-152 du 28 février 2024, ces dispositions entrent en vigueur le 1er mars 2024.
-
+Conformément à l'article 4 du décret n° 2024-152 du 28 février 2024, ces dispositions entrent en vigueur le 1er mars 2024.\
 Ces mêmes dispositions s'appliquent aux comptes et rapports afférents aux exercices ouverts à compter du 1er janvier 2024. Toutefois, les mandats de commissaires aux comptes en cours à l'entrée en vigueur du présent décret se poursuivent jusqu'à leur date d'expiration dans les conditions prévues à l’article L. 821-44 du code de commerce.

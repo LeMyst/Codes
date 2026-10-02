@@ -1,1 +1,1 @@
-Chapitre III : Autres pratiques prohibées
+# Chapitre III : Autres pratiques prohibées

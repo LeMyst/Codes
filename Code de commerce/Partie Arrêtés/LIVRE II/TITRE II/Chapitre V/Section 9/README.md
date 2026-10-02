@@ -1,1 +1,1 @@
-Section 9 : Des sociétés anonymes à participation ouvrière
+# Section 9 : Des sociétés anonymes à participation ouvrière

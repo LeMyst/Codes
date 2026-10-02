@@ -6,22 +6,22 @@ MODÈLE D'ÉTAT DESCRIPTIF DES BIENS, DROITS, OBLIGATIONS, SURETÉS AFFECTÉS A 
 
 A. - ÉLÉMENTS D'ACTIF
 
-| Fiche Signalétique (2) | Description (3) | Valeur Déclarée | Sûretés (4) grevant le bien (le cas échéant) | Documents à annexer (5) |
-| --- | --- | --- | --- | --- |
-| A1 | | | | |
-| A2 | | | | |
-| A3 | | | | |
-| | | | | |
+| Fiche<br>Signalétique (2) | Description (3) | Valeur<br>Déclarée | Sûretés (4) grevant le bien<br>(le cas échéant) | Documents à<br>annexer (5) |
+| -- | -- | -- | -- | -- |
+| A1 |  |  |  |  |
+| A2 |  |  |  |  |
+| A3 |  |  |  |  |
+|  |  |  |  |  |
 | Total | \_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_ |
 
 B. - ÉLÉMENTS DE PASSIF
 
 | Elément | Description (6) | Encours |
-| --- | --- | --- |
-| B1 | | |
-| B2 | | |
-| B3 | | |
-| | | |
+| -- | -- | -- |
+| B1 |  |  |
+| B2 |  |  |
+| B3 |  |  |
+|  |  |  |
 | Total | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
 
 Fait le

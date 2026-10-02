@@ -13,4 +13,4 @@ c) Le cas échéant, la date de publication au Journal officiel de l'acte qui a 
 2° En ce qui concerne l'activité et l'établissement, les renseignements prévus à l'article R. 123-244.
 
 NOTA:
-En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1<sup>er</sup> janvier 2023.

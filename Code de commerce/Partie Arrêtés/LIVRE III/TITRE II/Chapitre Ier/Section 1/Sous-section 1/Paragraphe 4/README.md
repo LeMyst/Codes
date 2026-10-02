@@ -1,1 +1,1 @@
-Paragraphe 4 : Des mesures d'information et de publicité
+# Paragraphe 4 : Des mesures d'information et de publicité

@@ -14,11 +14,11 @@ Il revient ensuite à l'entité d'inclure lesdits comptes dans le rapport financ
 
 2. La présente norme a pour objet de définir :
 
-- les diligences relatives aux comptes annuels et le cas échéant aux comptes consolidés présentés selon le format d'information électronique unique européen ;
+   - les diligences relatives aux comptes annuels et le cas échéant aux comptes consolidés présentés selon le format d'information électronique unique européen ;
 
-- les incidences des éventuelles anomalies relevées ; et
+   - les incidences des éventuelles anomalies relevées ; et
 
-- la forme et le contenu de la partie du rapport sur les comptes relative à ces diligences.
+   - la forme et le contenu de la partie du rapport sur les comptes relative à ces diligences.
 
 Diligences du commissaire aux comptes.
 
@@ -26,21 +26,21 @@ Prise de connaissance des éléments du contrôle interne pertinents pour la pr�
 
 3. Afin d'appréhender les éléments du contrôle interne pertinents pour la préparation des comptes annuels et le cas échéant des comptes consolidés au format d'information électronique unique européen, le commissaire aux comptes prend notamment connaissance des éléments suivants :
 
-- le processus de préparation de ces comptes ;
+   - le processus de préparation de ces comptes ;
 
-- la façon dont l'entité s'est assurée de la compétence des personnes internes ou externes à l'entité en charge de préparer ces comptes ;
+   - la façon dont l'entité s'est assurée de la compétence des personnes internes ou externes à l'entité en charge de préparer ces comptes ;
 
-- les outils informatiques utilisés ;
+   - les outils informatiques utilisés ;
 
-- les contrôles conçus et mis en œuvre par l'entité pour prévenir, détecter ou corriger les anomalies dans la présentation des comptes selon le format d'information électronique unique européen.
+   - les contrôles conçus et mis en œuvre par l'entité pour prévenir, détecter ou corriger les anomalies dans la présentation des comptes selon le format d'information électronique unique européen.
 
 Diligences relatives au format XHTML
 
 4. Le commissaire aux comptes vérifie que :
 
-- les comptes annuels et le cas échéant les comptes consolidés sont préparés au format XHTML ; et
+   - les comptes annuels et le cas échéant les comptes consolidés sont préparés au format XHTML ; et
 
-- que les comptes annuels et le cas échéant les comptes consolidés au format XHTML correspondent à ceux qui ont fait l'objet de son audit.
+   - que les comptes annuels et le cas échéant les comptes consolidés au format XHTML correspondent à ceux qui ont fait l'objet de son audit.
 
 Diligences relatives au balisage des comptes consolidés
 
@@ -56,9 +56,9 @@ Application de la notion de caractère significatif
 
 8. Le commissaire aux comptes utilise les seuils de signification définis pour son audit des comptes :
 
-- pour déterminer l'étendue des procédures à mettre en œuvre sur les informations balisées définies au paragraphe 07 ; et
+   - pour déterminer l'étendue des procédures à mettre en œuvre sur les informations balisées définies au paragraphe 07 ; et
 
-- pour évaluer l'incidence des anomalies relevées sur les comptes présentés selon le format d'information électronique unique européen. Pour ce faire, le commissaire aux comptes applique les principes définis dans la norme d'exercice professionnel “évaluation des anomalies relevées au cours de l'audit”.
+   - pour évaluer l'incidence des anomalies relevées sur les comptes présentés selon le format d'information électronique unique européen. Pour ce faire, le commissaire aux comptes applique les principes définis dans la norme d'exercice professionnel “évaluation des anomalies relevées au cours de l'audit”.
 
 Procédures à mettre en œuvre sur les informations balisées dans les comptes consolidés
 
@@ -72,13 +72,13 @@ Pour ce faire le commissaire aux comptes tient compte :
 
 10. Le commissaire aux comptes vérifie pour chaque information balisée contrôlée que :
 
-- le choix des éléments de la taxonomie retenus est approprié ou les extensions créées sont pertinentes ;
+    - le choix des éléments de la taxonomie retenus est approprié ou les extensions créées sont pertinentes ;
 
-- les attributs de la balise sont corrects ;
+    - les attributs de la balise sont corrects ;
 
-- les liens de présentation, de calcul, des libellés et de définition entre ces attributs sont corrects.
+    - les liens de présentation, de calcul, des libellés et de définition entre ces attributs sont corrects.
 
-11. Lorsque le commissaire aux comptes choisit de s'appuyer sur certains des contrôles mis en œuvre par l'entité, il applique les principes définis dans la norme d'exercice professionnel “procédures d'audit mises en œuvre par le commissaire aux comptes à l'issue de son évaluation des risques”.
+01. Lorsque le commissaire aux comptes choisit de s'appuyer sur certains des contrôles mis en œuvre par l'entité, il applique les principes définis dans la norme d'exercice professionnel “procédures d'audit mises en œuvre par le commissaire aux comptes à l'issue de son évaluation des risques”.
 
 01. Lorsque le commissaire aux comptes envisage de faire appel à un expert, notamment en matière de technologies de l'information, il applique les principes définis dans la norme d'exercice professionnel “intervention d'un expert”.
 
@@ -98,32 +98,32 @@ Forme et contenu de la partie du rapport sur les comptes relatifs à la vérific
 
 15. A l'issue de ses travaux, le commissaire aux comptes :
 
-- conclut que la présentation des comptes annuels et le cas échéant des comptes consolidés inclus ou destinés à être inclus dans le rapport financier annuel :
+    - conclut que la présentation des comptes annuels et le cas échéant des comptes consolidés inclus ou destinés à être inclus dans le rapport financier annuel :
 
-- soit respecte, dans tous ses aspects significatifs, le format d'information électronique unique européen ;
+    - soit respecte, dans tous ses aspects significatifs, le format d'information électronique unique européen ;
 
-- soit respecte le format d'information électronique unique européen à l'exception des anomalies significatives dont il fait mention dans son rapport ;
+    - soit respecte le format d'information électronique unique européen à l'exception des anomalies significatives dont il fait mention dans son rapport ;
 
-- soit ne respecte pas le format d'information électronique unique européen en raison des multiples anomalies significatives relevées dont il fait mention dans son rapport ; ou
+    - soit ne respecte pas le format d'information électronique unique européen en raison des multiples anomalies significatives relevées dont il fait mention dans son rapport ; ou
 
-- mentionne qu'il est dans l'impossibilité de conclure sur le respect, dans la présentation des comptes annuels et le cas échéant des comptes consolidés inclus ou destinés à être inclus dans le rapport financier annuel, du format d'information électronique unique européen lorsqu'il n'a pas pu mettre en œuvre les procédures nécessaires pour vérifier ce respect. Il en fournit les raisons dans son rapport.
+    - mentionne qu'il est dans l'impossibilité de conclure sur le respect, dans la présentation des comptes annuels et le cas échéant des comptes consolidés inclus ou destinés à être inclus dans le rapport financier annuel, du format d'information électronique unique européen lorsqu'il n'a pas pu mettre en œuvre les procédures nécessaires pour vérifier ce respect. Il en fournit les raisons dans son rapport.
 
-16. Le commissaire aux comptes, dans la partie du rapport sur les comptes annuels et le cas échéant, sur les comptes consolidés relative aux “autres vérifications ou informations prévues par les textes légaux et réglementaires” :
+01. Le commissaire aux comptes, dans la partie du rapport sur les comptes annuels et le cas échéant, sur les comptes consolidés relative aux “autres vérifications ou informations prévues par les textes légaux et réglementaires” :
 
-- indique qu'il a effectué ses vérifications conformément à la présente norme, afin de formuler sa conclusion prévue à l'article R. 821-180 du code de commerce ;
+    - indique qu'il a effectué ses vérifications conformément à la présente norme, afin de formuler sa conclusion prévue à l'article R. 821-180 du code de commerce ;
 
-- formule sa conclusion conformément aux dispositions du paragraphe 15.
+    - formule sa conclusion conformément aux dispositions du paragraphe 15.
 
 Co-commissariat aux comptes
 
 17. Lorsque la mission de contrôle légal est dévolue à plusieurs commissaires aux comptes, ceux-ci conviennent entre eux de la répartition des diligences sur les comptes annuels et le cas échéant sur les comptes consolidés présentés selon le format d'information électronique unique européen. Chaque commissaire aux comptes procède à une revue des diligences mises en œuvre par les co-commissaires aux comptes, ce qui lui permet d'apprécier si :
 
-- les diligences mises en œuvre :
+    - les diligences mises en œuvre :
 
-- correspondent à celles définies lors de la répartition ;
+    - correspondent à celles définies lors de la répartition ;
 
-- ont permis de collecter des éléments suffisants et appropriés sur lesquels il pourra fonder sa conclusion sur les comptes annuels et le cas échéant sur les comptes consolidés présentés selon le format d'information électronique unique européen ; et
+    - ont permis de collecter des éléments suffisants et appropriés sur lesquels il pourra fonder sa conclusion sur les comptes annuels et le cas échéant sur les comptes consolidés présentés selon le format d'information électronique unique européen ; et
 
-- la conclusion à laquelle les co-commissaires aux comptes ont abouti est pertinente et cohérente.
+    - la conclusion à laquelle les co-commissaires aux comptes ont abouti est pertinente et cohérente.
 
-18. Les commissaires aux comptes communiquent ensemble et de manière concertée avec les personnes qui assument la responsabilité des comptes annuels et le cas échéant des comptes consolidés présentés selon le format d'information électronique unique européen.
+01. Les commissaires aux comptes communiquent ensemble et de manière concertée avec les personnes qui assument la responsabilité des comptes annuels et le cas échéant des comptes consolidés présentés selon le format d'information électronique unique européen.

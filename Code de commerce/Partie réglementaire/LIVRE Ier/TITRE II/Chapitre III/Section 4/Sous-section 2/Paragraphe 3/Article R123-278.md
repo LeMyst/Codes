@@ -9,4 +9,4 @@ Le président de la chambre de métiers et de l'artisanat de région ou, par dé
 Le président de la chambre de métiers et de l'artisanat de région ou, par délégation, le président de la chambre de métiers et de l'artisanat de niveau départemental ne peut pas valider les informations déclarées et les pièces déposées ou procéder aux contrôles prévus lorsqu'il exerce la même activité que la personne concernée. Dans ce cas, le secrétaire général de la chambre le supplée.
 
 NOTA:
-En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1<sup>er</sup> janvier 2023.

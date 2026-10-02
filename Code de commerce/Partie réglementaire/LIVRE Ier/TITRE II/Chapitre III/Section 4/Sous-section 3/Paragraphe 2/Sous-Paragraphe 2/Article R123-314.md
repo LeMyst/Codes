@@ -17,4 +17,4 @@ Le greffier du tribunal de commerce ou du tribunal judiciaire sollicite du teneu
 Les radiations prévues aux 4° et 5° font obstacle à toute nouvelle mention intéressant l'exécution du plan de sauvegarde ou de redressement, sauf si celle-ci est relative à une mesure d'inaliénabilité décidée par le tribunal ou à une décision prononçant la résolution du plan.
 
 NOTA:
-En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1<sup>er</sup> janvier 2023.

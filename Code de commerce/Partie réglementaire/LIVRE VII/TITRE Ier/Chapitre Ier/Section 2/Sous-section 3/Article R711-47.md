@@ -19,4 +19,4 @@ IV.- (Abrogé).
 V.-Le nombre de membres des chambres de commerce et d'industrie locales, départementales d'Ile-de-France et territoriales, et leur répartition entre catégories professionnelles et, le cas échéant, sous-catégories, est fixé dans les mêmes conditions.
 
 NOTA:
-Conformément à l'article 5 du décret n° 2025-1248 du 19 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er janvier 2026.
+Conformément à l'article 5 du décret n° 2025-1248 du 19 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1<sup>er</sup> janvier 2026.

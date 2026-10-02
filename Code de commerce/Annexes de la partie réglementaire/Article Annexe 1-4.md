@@ -4,24 +4,22 @@ ANNEXE À L'ARTICLE D. 123-321
 
 I.-Les montants des droits dus au teneur du Registre national des entreprises par les personnes mentionnées au 1° de l'article L. 123-36, en application du II de l'article L. 123-54, sont établis selon le tableau suivant :
 
-| | |
-| --- | --- |
 | **Nature de la prestation** | **Montant en euros** |
-| Toute inscription complémentaire : | |
+| -- | -- |
+| Toute inscription complémentaire : |  |
 | -personne physique | 5,90 |
 | -personne morale | 5,90 |
-| Toute inscription modificative y compris transfert autre que transfert hors ressort et prise d'activité d'une personne morale : | |
+| Toute inscription modificative y compris transfert autre que transfert hors ressort et prise d'activité d'une personne morale : |  |
 | -personne physique | 5,90 |
 | -personne morale | 5,90 |
 | Dépôts des comptes annuels pour les sociétés | 5,45 |
-| Dépôt d'actes pour les personnes morales : | |
+| Dépôt d'actes pour les personnes morales : |  |
 | -acte modificatif | 5,90 |
 
 II.-Les montants dus à la chambre de métiers et de l'artisanat de région compétente par les personnes mentionnées au 3° de l'article L. 123-36, en application du III de l'article L. 123-54, sont établis selon le tableau suivant :
 
-| | |
-| --- | --- |
 | **Nature de la prestation** | **Montant en euros** |
+| -- | -- |
 | Toute immatriculation | 45 |
 | Toute immatriculation pour les personnes physiques ou morales qui sont immatriculées ou en cours d'immatriculation au registre du commerce et des sociétés | 15 |
 | Toute inscription modificative | 40 |

@@ -11,4 +11,4 @@ La mention de cette décision est radiée d'office, selon des modalités identiq
 3° Lorsque le dirigeant qui fait l'objet d'une incapacité ou d'une interdiction n'exerce plus ses fonctions.
 
 NOTA:
-En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1<sup>er</sup> janvier 2023.

@@ -2,9 +2,9 @@
 
 Les produits de grande consommation mentionnés au I de l'article L. 441-4 et les références auxquelles ils correspondent dans l'annexe II du règlement (CE) n° 1749/1999 de la Commission du 23 juillet 1999 modifiant le règlement (CE) n° 2214/96 relatif aux sous-indices des indices des prix à la consommation harmonisés sont les suivants :
 
-| Liste des produits de grande consommation mentionnée au I de l'article L. 441-4 |
-| --- |
-| Référence des produits de l'annexe II du règlement (CE) n° 1749/1999 de la Commission du 23 juillet 1999 modifiant le règlement (CE) n° 2214/96 relatif aux sous-indices des indices des prix à la consommation harmonisés | Produits |
+| Liste des produits de grande consommation mentionnée au I de l'article L. 441-4 |  |
+| -- | -- |
+| Référence des produits de l'annexe II du règlement (CE)<br>n° 1749/1999 de la Commission du 23 juillet 1999 modifiant<br>le règlement (CE) n° 2214/96 relatif aux sous-indices<br>des indices des prix à la consommation harmonisés | Produits |
 | Division 01 | Produits alimentaires et boissons non alcoolisées |
 | Groupe 02.1 | Boissons alcoolisées |
 | Classe 05.5.1/2 (septième tiret) | Piles électriques pour tous usages |

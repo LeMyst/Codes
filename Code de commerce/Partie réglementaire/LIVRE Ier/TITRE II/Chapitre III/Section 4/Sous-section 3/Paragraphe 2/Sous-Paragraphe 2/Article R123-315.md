@@ -9,4 +9,4 @@ Le teneur du Registre national des entreprises, informé par toute autorité adm
 Lorsqu'il est informé de la radiation prononcée par un organisme de sécurité sociale en application de l'article L. 613-4 du code de la sécurité sociale, le teneur du Registre national des entreprises procède à la radiation du Registre national des entreprises de l'entreprise individuelle concernée.
 
 NOTA:
-En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1<sup>er</sup> janvier 2023.

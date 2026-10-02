@@ -23,4 +23,4 @@ d) Le cas échéant, le bénéfice d'un contrat d'appui au projet d'entreprise p
 e) Le cas échéant, les nom, nom d'usage, pseudonyme, prénoms, date et lieu de naissance, adresse du domicile personnel et nationalité des personnes ayant le pouvoir d'engager à titre habituel par leur signature la responsabilité de la personne physique immatriculée.
 
 NOTA:
-En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1er janvier 2023.
+En application des dispositions de l’article 45 du décret n° 2022-1014 (ECOI2206712D), ces dispositions entrent en vigueur à compter du 1<sup>er</sup> janvier 2023.

@@ -1,1 +1,1 @@
-Section 2 : Des infractions relatives à la publicité
+# Section 2 : Des infractions relatives à la publicité

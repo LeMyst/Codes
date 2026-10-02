@@ -2,8 +2,8 @@
 
 Les prestations figurant aux numéros 98 à 101 du tableau 3-1 donnent lieu à la perception des émoluments suivants :
 
-| Numéro de la prestation (tableau 3-1 de l'article annexe 4-7) | Désignation de la prestation | Emolument |
-| --- | --- | --- |
+| Numéro de<br>la prestation<br>(tableau 3-1<br>de l'article<br>annexe 4-7) | Désignation de la prestation | Emolument |
+| -- | -- | -- |
 | 98 | Acte de tentative d'exécution, notamment en l'absence de l'occupant du local ou si ce dernier en refuse l'accès | 20,43 € |
 | 99 | Acte attestant la découverte de la nouvelle adresse du destinataire hors du ressort de compétence de l'huissier de justice | 20,43 € |
 | 100 | Acte constatant une difficulté d'exécution, notamment en cas d'appel interjeté par le débiteur | 20,43 € |

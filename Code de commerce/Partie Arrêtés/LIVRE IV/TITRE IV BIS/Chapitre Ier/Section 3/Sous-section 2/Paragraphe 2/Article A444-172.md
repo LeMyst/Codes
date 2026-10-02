@@ -2,8 +2,8 @@
 
 Les prestations figurant aux numéros 196 à 211 du tableau mentionné à l'article A. 444-53 donnent lieu à la perception des émoluments suivants :
 
-| Numéro de la prestation (tableau 5 de l'article annexe 4-7) | Désignation de la prestation | Émolument |
-| --- | --- | --- |
+| Numéro de<br>la prestation<br>(tableau 5<br>de l'article<br>annexe 4-7) | Désignation de la prestation | Émolument |
+| -- | -- | -- |
 | 196 | Ensemble des demandes concernant l'état civil des personnes physiques et l'immatriculation des personnes morales (actes de l'état civil) | 11,24 € |
 | 197 | Attestation en général ou la certification écrite d'une situation de fait ou de droit délivrée par le notaire (par attestation délivrée) | 3,77 € |
 | 198 | Demande de renseignements en matière de législation sociale (par demande) | 3,77 € |

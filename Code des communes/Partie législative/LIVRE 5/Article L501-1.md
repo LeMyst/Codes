@@ -418,8 +418,9 @@ Administration et services communaux et livre IV : Personnel communal) énumér�
 
 - 624, 625, 626.
 
-- 628 (premier alinéa),\
-  tels qu'ils ont été, s'il y a lieu, modifiés et complétés par la loi n° 57-801 du 19 juillet 1957, l'ordonnance n° 58-937 du 11 octobre 1958, les ordonnances n° 59-29, n° 59-30, n° 59-31 et n° 59-33 du 5 janvier 1959, les ordonnances n° 59-110 et n° 59-115 du 7 janvier 1959, les lois n° 61-750 du 22 juillet 1961 et n° 61-825 du 29 juillet 1961, la loi n° 64-707 du 7 juillet 1964, les lois n° 65-503 du 29 juin 1965, n° 65-560 du 10 juillet 1965, n° 66-407 du 18 juin 1966, n° 69-1137 du 20 décembre 1969, n° 70-1200 du 21 décembre 1970, n° 70-1297 du 31 décembre 1970, n° 71-588 du 16 juillet 1971, n° 72-658 du 13 juillet 1972, n° 73-1150 du 27 décembre 1973, n° 74-1114 du 27 décembre 1974, n° 75-1225 du 26 décembre 1975, n° 76-617 du 9 juillet 1976 et n° 76-665 du 19 juillet 1976.
+- 628 (premier alinéa),
+
+tels qu'ils ont été, s'il y a lieu, modifiés et complétés par la loi n° 57-801 du 19 juillet 1957, l'ordonnance n° 58-937 du 11 octobre 1958, les ordonnances n° 59-29, n° 59-30, n° 59-31 et n° 59-33 du 5 janvier 1959, les ordonnances n° 59-110 et n° 59-115 du 7 janvier 1959, les lois n° 61-750 du 22 juillet 1961 et n° 61-825 du 29 juillet 1961, la loi n° 64-707 du 7 juillet 1964, les lois n° 65-503 du 29 juin 1965, n° 65-560 du 10 juillet 1965, n° 66-407 du 18 juin 1966, n° 69-1137 du 20 décembre 1969, n° 70-1200 du 21 décembre 1970, n° 70-1297 du 31 décembre 1970, n° 71-588 du 16 juillet 1971, n° 72-658 du 13 juillet 1972, n° 73-1150 du 27 décembre 1973, n° 74-1114 du 27 décembre 1974, n° 75-1225 du 26 décembre 1975, n° 76-617 du 9 juillet 1976 et n° 76-665 du 19 juillet 1976.
 
 NOTA:
 Ordonnance 2005-432 du 6 mai 2005, art. 30 1° : Est abrogé le code des communes (partie Législative) en tant qu'il est applicable à Saint-Pierre-et-Miquelon.

@@ -1,1 +1,4 @@
-CHAPITRE 3 : Rémunération et effectifs.
+# CHAPITRE 3 : Rémunération et effectifs.
+
+- [Article R\*413-1](Article%20R413-1.md)
+- [Article R413-2](Article%20R413-2.md)

@@ -4,4 +4,7 @@ Le financement des charges de gestion est couvert par des virements effectués p
 
 Les ministres peuvent apporter à ce budget les modifications nécessaires.
 
-L'agence centrale des organismes de sécurité sociale accorde des avances à l'organisme agréé dans les conditions fixées par la convention prévue au dernier alinéa de l'article R. 382-29.
+L'agence centrale des organismes de sécurité sociale accorde des avances à l'association agréée dans les conditions fixées par la convention prévue au dernier alinéa de l'article R. 382-29.
+
+NOTA:
+Conformément au II de l'article 2 du décret n° 2026-897 du 24 septembre 2026, ces dispositions, dans leur rédaction résultant dudit décret, s'appliquent conformément au IV de l'article 8 de la loi du 30 décembre 2025 de financement de la sécurité sociale pour 2026 susvisée.

@@ -1,12 +1,12 @@
 # Article D178-3
 
-I.-Le concours mentionné au c du 3° de l'article L. 223-8 versé pour l'installation ou le fonctionnement des maisons départementales des personnes handicapées est composé, pour chaque département, d'une part forfaitaire et d'une part variable.
+I. - Le concours mentionné au c du 3° de l'article L. 223-8 versé pour l'installation ou le fonctionnement des maisons départementales des personnes handicapées est composé, pour chaque département, d'une part forfaitaire et d'une part variable.
 
 Le montant total réparti au titre de la part forfaitaire représente au moins 75 % et au plus 90 % du concours attribué par la Caisse nationale de solidarité pour l'autonomie.
 
-II.-La part forfaitaire attribuée à chaque département est déterminée chaque année selon la formule suivante :
+II. - La part forfaitaire attribuée à chaque département est déterminée chaque année selon la formule suivante :
 
-PFd = (Fx + Fdd)-(SEd + MADd) + E
+PFd = (Fx + Fdd)-(SEd-SE1d + MADd) + E
 
 Pour laquelle :
 
@@ -18,13 +18,15 @@ c) Fdd représente la dotation dont le montant est fixé par le conseil de la Ca
 
 d) SEd représente la subvention mentionnée au III de l'article L. 223-13, versée à la maison départementale des personnes handicapées du département l'année précédant celle au titre de laquelle le concours mentionné au I est déterminé ;
 
-e) MADd représente la valorisation des personnels mis à disposition par l'Etat auprès de la maison départementale des personnes handicapées du département en application du 1° de l'article L. 146-4-1 du code de l'action sociale et des familles, au titre de la pénultième année. Chaque poste est valorisé en tenant compte des modalités applicables pour le calcul de la compensation par l'Etat de la vacance des postes occupés par ces personnels consécutive à un départ de leur administration d'origine.
+e) SE1d représente la part, fixée par arrêté des ministres en charge des personnes handicapées et du budget, de la subvention SEd susmentionnée, destinée à soutenir des actions de la maison départementale des personnes handicapées en matière de gestion du risque dans l'évaluation des demandes qui lui sont adressées ;
 
-f) E représente le montant correspondant, pour chaque département, à la différence entre le montant du concours hors part variable perçu au titre de l'année 2021 et celui résultant, au titre de l'année 2021, de l'application de la formule suivante : (Fx + Fdd)-(SEd + MADd). Ce montant est réduit chaque année à due concurrence de l'augmentation des autres composantes de la part forfaitaire.
+f) MADd représente la valorisation des personnels mis à disposition par l'Etat auprès de la maison départementale des personnes handicapées du département en application du 1° de l'article L. 146-4-1 du code de l'action sociale et des familles, au titre de la pénultième année. Chaque poste est valorisé en tenant compte des modalités applicables pour le calcul de la compensation par l'Etat de la vacance des postes occupés par ces personnels consécutive à un départ de leur administration d'origine.
+
+g) E représente le montant correspondant, pour chaque département, à la différence entre le montant du concours hors part variable perçu au titre de l'année 2021 et celui résultant, au titre de l'année 2021, de l'application de la formule suivante : (Fx + Fdd)-(SEd + MADd). Ce montant est réduit chaque année à due concurrence de l'augmentation des autres composantes de la part forfaitaire.
 
 Pour chaque département, la somme de Fx et Fdd ne peut être inférieure à la somme de SEd et MADd.
 
-III.-La part variable attribuée à chaque département est déterminée selon la formule suivante :
+III. - La part variable attribuée à chaque département est déterminée selon la formule suivante :
 
 PVd = (C-∑ PFd) x [(PAEEHd/ ∑ PAEEHd) x 30 % + (PPCHd/ ∑ PPCHd) x 30 % + (POMSd/ ∑ POMSd) x 40 %]
 

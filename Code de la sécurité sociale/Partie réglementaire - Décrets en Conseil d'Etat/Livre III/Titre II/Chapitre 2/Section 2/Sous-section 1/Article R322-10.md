@@ -6,7 +6,7 @@ Sont pris en charge les frais de transport de l'assuré ou de l'ayant droit se t
 
 a) Transports liés à une hospitalisation ;
 
-b) Transports liés aux traitements ou examens prescrits en application de l'article L. 324-1 pour les malades reconnus atteints d'une affection de longue durée et présentant l'une des déficiences ou incapacités définies par le référentiel de prescription mentionné à l'article R. 322-10-1 ;
+b) Transports liés aux traitements ou examens prescrits en application de l'article L. 324-1 pour les malades reconnus atteints d'une affection de longue durée, relevant des 3° et 4° de l'article L. 160-14, et présentant l'une des déficiences ou incapacités définies par le référentiel de prescription mentionné à l'article R. 322-10-1 ;
 
 c) Transports par ambulance justifiés par l'état du malade dans les conditions prévues par l'arrêté mentionné à l'article R. 322-10-1 ;
 
@@ -29,4 +29,4 @@ d) Pour se rendre à la consultation d'un expert désigné en application de l'a
 e) Pour se rendre à la convocation de la commission saisie en application de l'article R. 142-8 ou du médecin désigné par cette dernière en application de l'article R. 142-8-4.
 
 NOTA:
-Conformément au II de l'article 9 du décret n° 2019-1506 du 30 décembre 2019, sous réserve des IV, V et VI de l'article 96 de la loi n° 2019-222 du 23 mars 2019, les dispositions résultant du décret précité s'appliquent aux recours préalables et aux recours juridictionnels introduits à compter du 1er janvier 2020.
+Conformément au second alinéa de l'article 2 du décret n° 2026-812 du 21 août 2026, ces dispositions, dans leur rédaction issue du 1° de l'article 1er du décret précité, entrent en vigueur le 1er octobre 2026.

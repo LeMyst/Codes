@@ -16,6 +16,8 @@ II.-Sont précisés par décret en Conseil d'Etat :
 
 4° Les modalités de fixation des tarifs de ces séances, notamment au regard des 1° et 2° du présent II ;
 
+4° bis Les modalités d'application du tiers payant sur la part des dépenses prise en charge par les régimes obligatoires d'assurance maladie pour les séances mentionnées au I ;
+
 5° La possibilité pour le directeur de l'organisme local d'assurance maladie de mettre à la charge du psychologue participant au dispositif une partie de la dépense des régimes obligatoires d'assurance maladie correspondant aux honoraires perçus au titre des soins dispensés dans des conditions ne respectant pas ses engagements conventionnels et les dispositions législatives et réglementaires applicables à la mise en œuvre des séances et, le cas échéant, la possibilité de l'exclure du dispositif.
 
 Des dépassements d'honoraires ne peuvent être pratiqués sur des séances prises en charge.
@@ -23,4 +25,4 @@ Des dépassements d'honoraires ne peuvent être pratiqués sur des séances pris
 III. - Par dérogation au 1° du II, aucun plafond ne s'applique au nombre de séances d'accompagnement psychologique mentionnées au I pouvant être prises en charge par les régimes obligatoires d'assurance maladie par année civile lorsque celles-ci sont prescrites à un mineur atteint d'une affection relevant des 3° et 4° de l'article L. 160-14 dans le cadre d'un protocole de soins mentionné à l'article L. 324-1.
 
 NOTA:
-Conformément au II de l'article 66 de la loi n° 2025-299 du 28 février 2025, ces dispositions sont également applicables aux séances d'accompagnement psychologique réalisées par les psychologues ayant signé une convention avec leur organisme local d'assurance maladie avant l'entrée en vigueur de ladite loi.
+Conformément au II de l'article 56 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction issue du I de l'article 56 précité, entrent en vigueur le 1er octobre 2026.

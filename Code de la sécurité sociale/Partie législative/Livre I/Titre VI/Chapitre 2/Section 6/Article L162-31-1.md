@@ -1,6 +1,6 @@
 # Article L162-31-1
 
-I.-Des expérimentations dérogatoires à au moins une des dispositions mentionnées au II peuvent être mises en œuvre, pour une durée qui ne peut excéder cinq ans.
+I. - Des expérimentations dérogatoires à au moins une des dispositions mentionnées au II peuvent être mises en œuvre, pour une durée qui ne peut excéder cinq ans.
 
 Ces expérimentations ont l'un ou l'autre des buts suivants :
 
@@ -22,7 +22,7 @@ b) Les modalités de rémunération, les dispositions prévoyant des mesures inc
 
 c) Les conditions d'accès au dispositif prévu à l'article L. 165-1-1.
 
-II.-Pour la mise en œuvre de ces expérimentations, il peut être dérogé en tant que de besoin :
+II. - Pour la mise en œuvre de ces expérimentations, il peut être dérogé en tant que de besoin :
 
 1° Aux dispositions suivantes :
 
@@ -66,13 +66,13 @@ l) Les articles L. 6211-13, L. 6211-14 et L. 6211-18, afin de permettre l'extens
 
 m) Le deuxième alinéa du I de l'article L. 6312-4, en tant qu'il concerne l'agrément, le nombre théorique de véhicules et les catégories de moyens de transport ;
 
-n) Les 2°, 3° et 4° de l'article L. 5125-1-1 A, le premier alinéa de l'article L. 5125-16, le deuxième alinéa de l'article L. 5125-17 et le troisième alinéa de l'article L. 5125-18, afin de permettre au directeur général de l'agence régionale de santé de garantir l'approvisionnement en médicaments et produits pharmaceutiques de la population d'une commune dont la dernière officine a cessé définitivement son activité, lorsque celui-ci est compromis au sens de l'article L. 5125-3 en autorisant la création d'une seule antenne par le ou les pharmaciens titulaires d'une officine d'une commune limitrophe ou de l'officine la plus proche. L'antenne fait partie de cette officine et relève de la même entité juridique. L'avis du conseil de l'ordre des pharmaciens territorialement compétent et des syndicats représentatifs de la profession est sollicité ;
+n) Les 2°, 3° et 4° de l'article L. 5125-1-1 A, le premier alinéa de l'article L. 5125-16, le deuxième alinéa de l'article L. 5125-17 et le troisième alinéa de l'article L. 5125-18, afin de permettre au directeur général de l'agence régionale de santé de garantir l'approvisionnement en médicaments et produits pharmaceutiques de la population d'une commune ou d'une ancienne commune constitutive d'une commune nouvelle située dans une zone de montagne dont la dernière officine a cessé définitivement son activité, lorsque celui-ci est compromis au sens de l'article L. 5125-3 en autorisant la création d'une seule antenne par le ou les pharmaciens titulaires d'une officine d'une commune limitrophe ou de l'officine la plus proche. L'antenne fait partie de cette officine et relève de la même entité juridique. L'avis du conseil de l'ordre des pharmaciens territorialement compétent et des syndicats représentatifs de la profession est sollicité ;
 
 o) Les articles L. 2112-1 à L. 2112-10, L. 2311-1 à L. 2311-6, L. 3111-11, L. 3112-2, L. 3121-2, L. 3311-2, L. 3411-9 et L. 6325-1, en tant qu'ils concernent le financement, l'organisation et les compétences de structures œuvrant en faveur de la prévention en santé.
 
 3° Aux règles de tarification et d'organisation applicables aux établissements et services mentionnés à l'article L. 312-1 du code de l'action sociale et des familles.
 
-III.-Les expérimentations à dimension nationale sont autorisées, le cas échéant après avis de la Haute Autorité de santé, par arrêté des ministres chargés de la sécurité sociale et de la santé. Les expérimentations à dimension régionale sont autorisées, le cas échéant après avis conforme de la Haute Autorité de santé, par arrêté des directeurs généraux des agences régionales de santé.
+III. - Les expérimentations à dimension nationale sont autorisées, le cas échéant après avis de la Haute Autorité de santé, par arrêté des ministres chargés de la sécurité sociale et de la santé. Les expérimentations à dimension régionale sont autorisées, le cas échéant après avis conforme de la Haute Autorité de santé, par arrêté des directeurs généraux des agences régionales de santé.
 
 Un conseil stratégique, institué au niveau national, est chargé de formuler des propositions sur les innovations dans le système de santé. Il est associé au suivi des expérimentations et formule un avis en vue de leur éventuelle généralisation.
 
@@ -82,19 +82,16 @@ Le comité technique saisit pour avis la Haute Autorité de santé des projets d
 
 Les catégories d'expérimentations, les modalités de sélection, d'autorisation, de financement et d'évaluation des expérimentations selon le niveau territorial ou national de celles-ci, les modalités d'information des patients ainsi que la composition et les missions du conseil stratégique et du comité technique sont précisées par décret en Conseil d'Etat.
 
-IV.-Les expérimentations mentionnées au I du présent article dérogeant à une ou plusieurs règles mentionnées au II et comportant la réalisation d'actes de télésurveillance tels que ceux mentionnés au V de l'article 54 de la loi n° 2017-1836 du 30 décembre 2017 de financement de la sécurité sociale pour 2018 sont soumises à la procédure et au financement prévus au III du présent article, qui se substituent à la procédure et au financement prévus au V de l'article 54 de la loi n° 2017-1836 du 30 décembre 2017 précitée.
+IV. - Les expérimentations mentionnées au I du présent article dérogeant à une ou plusieurs règles mentionnées au II et comportant la réalisation d'actes de télésurveillance tels que ceux mentionnés au V de l'article 54 de la loi n° 2017-1836 du 30 décembre 2017 de financement de la sécurité sociale pour 2018 sont soumises à la procédure et au financement prévus au III du présent article, qui se substituent à la procédure et au financement prévus au V de l'article 54 de la loi n° 2017-1836 du 30 décembre 2017 précitée.
 
-V.-Les professionnels intervenant dans le cadre d'une expérimentation prévue au présent article sont réputés appartenir à des équipes de soins, au sens de l'article L. 1110-12 du code de la santé publique.
+V. - Les professionnels intervenant dans le cadre d'une expérimentation prévue au présent article sont réputés appartenir à des équipes de soins, au sens de l'article L. 1110-12 du code de la santé publique.
 
 Les personnes chargées de l'évaluation des expérimentations ont accès aux données individuelles non nominatives contenues dans le système d'information prévu à l'article L. 161-28-1 du présent code lorsque ces données sont nécessaires à la préparation, à la mise en œuvre et à l'évaluation prévues au présent article, dans le respect des conditions prévues au chapitre Ier du titre VI du livre IV de la première partie du code de la santé publique, sous réserve, le cas échéant, d'adaptations établies par décret en Conseil d'Etat.
 
-VI.-Sans préjudice des règles de financement prévues au titre VI du livre Ier du présent code ou des missions du fonds d'intervention régional mentionné à l'article L. 1435-8 du code de la santé publique, le financement de tout ou partie des expérimentations peut être assuré par un fonds pour l'innovation du système de santé, géré par la Caisse nationale d'assurance maladie.
+VI. - Sans préjudice des règles de financement prévues au titre VI du livre Ier du présent code ou des missions du fonds d'intervention régional mentionné à l'article L. 1435-8 du code de la santé publique, le financement de tout ou partie des expérimentations peut être assuré par un fonds pour l'innovation du système de santé, géré par la Caisse nationale d'assurance maladie.
 
 Les ressources du fonds sont constituées par une dotation de la branche maladie, maternité, invalidité et décès du régime général, dont le montant est fixé chaque année par arrêté des ministres chargés de la sécurité sociale et de la santé. L'évaluation des expérimentations régies par le présent article est financée par le fonds pour l'innovation du système de santé.
 
 Les expérimentations dont la généralisation fait l'objet d'un avis favorable du conseil stratégique et du comité technique de l'innovation en santé peuvent être financées par ce même fonds, selon les modalités précisées au III du présent article, au delà de leur échéance et pour une durée qui ne peut excéder dix-huit mois.
 
-VII.-Le Gouvernement présente chaque année au Parlement un état des lieux des expérimentations en cours et lui remet, au plus tard un an après la fin de chaque expérimentation, le rapport d'évaluation la concernant.
-
-NOTA:
-Conformément au 6° du A du VII de l’article 49 de la loi n° 2023-1250 du 26 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.
+VII. - Le Gouvernement présente chaque année au Parlement un état des lieux des expérimentations en cours et lui remet, au plus tard un an après la fin de chaque expérimentation, le rapport d'évaluation la concernant.

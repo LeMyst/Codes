@@ -8,7 +8,7 @@ Il est créé un système national d'information interrégimes de l'assurance ma
 
 3° (Abrogé) ;
 
-4° A la constitution du système national des données de santé, mentionné à l' article L. 1461-1 du code de la santé publique.
+4° A la constitution du système national des données de santé, mentionné à l'article L. 1461-1 du code de la santé publique.
 
 Le système national d'information interrégimes est mis en place par les organismes gérant un régime de base d'assurance maladie. Ces derniers transmettent au système national d'information interrégimes de l'assurance maladie les données nécessaires.
 

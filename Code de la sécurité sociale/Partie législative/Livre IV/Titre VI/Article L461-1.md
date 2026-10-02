@@ -8,7 +8,7 @@ Les dispositions du présent livre sont applicables aux maladies d'origine profe
 
 3° Pour l'application des règles de prescription de l'article L. 431-2, la date à laquelle la victime est informée par un certificat médical du lien possible entre sa maladie et une activité professionnelle.
 
-Est présumée d'origine professionnelle toute maladie désignée dans un tableau de maladies professionnelles et contractée dans les conditions mentionnées à ce tableau.
+Est présumée d'origine professionnelle toute maladie désignée dans un tableau de maladies professionnelles et contractée dans les conditions mentionnées à ce tableau. Un décret en Conseil d'Etat, pris après avis des organisations syndicales de salariés et d'employeurs représentatives au niveau national, détermine les modalités générales d'établissement du diagnostic de ces maladies, qui tiennent compte des données acquises de la science.
 
 Si une ou plusieurs conditions tenant au délai de prise en charge, à la durée d'exposition ou à la liste limitative des travaux ne sont pas remplies, la maladie telle qu'elle est désignée dans un tableau de maladies professionnelles peut être reconnue d'origine professionnelle lorsqu'il est établi qu'elle est directement causée par le travail habituel de la victime.
 
@@ -19,4 +19,6 @@ Dans les cas mentionnés aux deux alinéas précédents, la caisse primaire reco
 Les pathologies psychiques peuvent être reconnues comme maladies d'origine professionnelle, dans les conditions prévues aux septième et avant-dernier alinéas du présent article. Les modalités spécifiques de traitement de ces dossiers sont fixées par voie réglementaire.
 
 NOTA:
-Conformément au II de l'article 44 de la loi n° 2017-1836 du 30 décembre 2017, ces dispositions s'appliquent aux maladies professionnelles déclarées à compter du 1er juillet 2018.
+Conformément au II de l'article 95 de la loi n° 2025-1403 du 31 décembre 2025, ces dispositions, dans leur rédaction résultant du 1° du I dudit article, entrent en vigueur à une date fixée par décret, et au plus tard le 30 septembre 2026.
+
+Conformément à l'article 3 du décret n° 2026-901 du 24 septembre 2026, la date mentionnée à la première phrase du II de l'article 95 de la loi n° 2025-1403 du 31 décembre 2025 est fixée au 30 septembre 2026.

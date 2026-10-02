@@ -4,7 +4,7 @@ I.-La déclaration de maladie professionnelle est effectuée par l'assuré aupr�
 
 II.-La caisse dispose d'un délai de quatre-vingt-dix jours francs pour statuer sur le caractère professionnel de la maladie ou saisir le comité régional de reconnaissance des maladies professionnelles mentionné à l'article L. 461-1.
 
-Ce délai court à compter de la date à laquelle la caisse dispose de la déclaration de la maladie professionnelle intégrant le certificat médical initial mentionné à l'article L. 461-5 et à laquelle le médecin-conseil dispose du résultat des examens médicaux complémentaires le cas échéant prévus par les tableaux de maladies professionnelles.
+Ce délai court à compter de la date à laquelle la caisse dispose de la déclaration de la maladie professionnelle intégrant le certificat médical initial mentionné à l'article L. 461-5 et à laquelle le médecin-conseil dispose, lorsqu'ils sont nécessaires pour établir le diagnostic de la maladie, du résultat des examens médicaux complémentaires conformes aux données acquises de la science au regard des recommandations de bonnes pratiques de la Haute Autorité de santé ou des sociétés savantes.
 
 III.-La caisse engage des investigations et, dans ce cadre, elle adresse, par tout moyen conférant date certaine à sa réception, un questionnaire à la victime ou à ses représentants. Le questionnaire est retourné dans un délai de trente jours francs à compter de sa date de réception. La caisse peut en outre recourir à une enquête complémentaire.
 
@@ -19,4 +19,6 @@ La caisse informe la victime ou ses représentants des échéances mentionnées 
 Le comité régional rend son avis motivé à la caisse dans un délai de cent jours francs à compter de sa saisine.
 
 NOTA:
-Conformément au I de l'article 4 du décret n° 2021-554 du 5 mai 2021, ces dispositions, dans leur rédaction issue du I de l'article 2 dudit décret, s'appliquent aux accidents du travail, maladies professionnelles, rechutes et nouvelles lésions déclarés à compter du 1er janvier 2022.
+Ces dispositions conformément à l'article 2 du décret n°2026-900 du 24 septembre 2026, dans leur rédaction résultant dudit décret, entrent en vigueur conformément aux dispositions du II de l'article 95 de la loi du 30 décembre 2025 de financement de la sécurité sociale pour 2026.
+
+Elles sont applicables aux procédures de reconnaissance de maladies professionnelles pour lesquelles le certificat médical initial est établi à compter de leur entrée en vigueur.

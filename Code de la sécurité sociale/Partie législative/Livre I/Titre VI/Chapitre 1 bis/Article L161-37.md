@@ -48,7 +48,9 @@ La Haute Autorité de santé, autorité publique indépendante à caractère sci
 
 21° Rendre l'avis mentionné à l'article L. 162-1-24 du présent code ;
 
-22° Etablir un référentiel de bonnes pratiques professionnelles relatives à la qualité et à l'accessibilité de la téléconsultation, applicable aux sociétés de téléconsultation mentionnées au I de l'article L. 162-1-7, et proposer des méthodes d'évaluation de ces sociétés.
+22° Etablir un référentiel de bonnes pratiques professionnelles relatives à la qualité et à l'accessibilité de la téléconsultation, applicable aux sociétés de téléconsultation mentionnées au I de l'article L. 162-1-7, et proposer des méthodes d'évaluation de ces sociétés ;
+
+23° Définir les substances létales susceptibles d'être utilisées pour l'aide à mourir définie à l'article L. 1111-12-1 du code de la santé publique et élaborer des recommandations de bonnes pratiques portant sur ces substances et sur les conditions de leur utilisation, en tenant compte notamment des comptes rendus mentionnés au V de l'article L. 1111-12-7 du même code.
 
 La Haute Autorité de santé peut participer à des activités de coopération internationale se rapportant à ses missions. Dans ce cadre, elle peut notamment fournir des prestations de conseil et d'expertise par le biais de conventions et percevoir des recettes.
 
@@ -75,6 +77,3 @@ Le rapport annuel comporte également une analyse prospective du système de san
 Les décisions et communications prises en vertu des 1° et 2° du présent article sont transmises sans délai à la Conférence nationale de santé prévue à l'article L. 1411-3 du code de la santé publique.
 
 Pour l'application des 2°, 4°, 5°, 8°, 15° et 16°, la Haute Autorité de santé prend en compte les risques de maltraitance.
-
-NOTA:
-Conformément au A du III de l'article unique de la loi n° 2025-74 du 29 janvier 2025, ces dispositions s'appliquent à compter d'une date fixée par décret, et au plus tard le 31 décembre 2024.

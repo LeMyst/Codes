@@ -6,7 +6,7 @@ La protection sociale contre le risque et les conséquences de la maladie prévu
 
 2° La couverture des frais de transport des personnes se trouvant dans l'obligation de se déplacer pour recevoir les soins ou subir les examens appropriés à leur état ainsi que pour se soumettre à un contrôle prescrit en application de la législation de sécurité sociale, selon les règles définies aux articles L. 162-4-1 et L. 322-5 et dans les conditions et limites tenant compte de l'état du malade et du coût du transport fixées par décret en Conseil d'Etat ;
 
-3° (Abrogé) ;
+3° La couverture des frais afférents à la mise en œuvre de la procédure prévue à la section 2 bis du chapitre Ier du titre Ier du livre Ier de la première partie du code de la santé publique ;
 
 4° La couverture des frais de soins et d'hospitalisation afférents à l'interruption volontaire de grossesse effectuée dans les conditions prévues au titre Ier du livre II de la deuxième partie du code de la santé publique ;
 

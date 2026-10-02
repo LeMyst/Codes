@@ -1,6 +1,6 @@
 # Article R163-50
 
-Le titulaire des droits d'exploitation adresse annuellement aux ministres chargés de la santé et de la sécurité sociale, pour chaque indication d'une spécialité bénéficiant de la prise en charge mentionnée à l'article L. 162-16-5-2 au titre d'une autorisation d'accès ou d'un cadre de prescription compassionnels définis au deuxième alinéa du II et au III de l'article L. 5121-12-1 du code de la santé publique, au plus tard au 1er mai de chaque année une mise à jour des éléments suivants :
+Soit le titulaire des droits d'exploitation ou son mandataire, soit l'entreprise qui assure l'exploitation au sens du 3° de l'article R. 5124-2 du code de la santé publique adresse annuellement aux ministres chargés de la santé et de la sécurité sociale, pour chaque indication d'une spécialité bénéficiant de la prise en charge mentionnée à l'article L. 162-16-5-2 au titre d'une autorisation d'accès ou d'un cadre de prescription compassionnels définis au deuxième alinéa du II et au III de l'article L. 5121-12-1 du code de la santé publique, au plus tard au 1er mai de chaque année une mise à jour des éléments suivants :
 
 1° Une estimation du nombre cible de patients qui pourraient bénéficier de cette spécialité pharmaceutique dans cette indication, compte tenu des données médicales et épidémiologiques disponibles ;
 
@@ -19,4 +19,6 @@ Le titulaire des droits d'exploitation adresse annuellement aux ministres charg�
 8° Le cas échant, les extensions d'indication susceptibles de faire l'objet d'une demande de prise en charge dans les deux années suivant la demande ainsi que leur calendrier prévisionnel de mise sur le marché.
 
 NOTA:
-Conformément à l’article 4 du décret n° 2021-869 du 30 juin 2021, ces dispositions entrent en vigueur le 1er juillet 2021 sous réserve des dispositions mentionnées au présent article.
+Conformément à l’article 3 du décret n° 2026-488 du 3 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le 1er septembre 2026.
+
+Les demandes d'autorisation d'accès précoce ou compassionnel introduites avant l'entrée en vigueur dudit décret demeurent régies par les dispositions antérieurement applicables.

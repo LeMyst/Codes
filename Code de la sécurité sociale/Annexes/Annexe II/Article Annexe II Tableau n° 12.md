@@ -12,12 +12,15 @@
 | - C - | - C - | - C - |
 | Néphropathies tubulaires régressant après l'arrêt de l'exposition. | 30 jours | Préparation, emploi, manipulation des agents nocifs limitativement énumérés ci-après, trichlorométhane, tétrabromométhane, 1,2-dichlo-roéthane, 1,2-dibromoéthane, pentachloroéthane, 1,2-dichloropropane. |
 | - D - | - D - | - D - |
-| Polyneuropathhies (après exclusion de la polyneuropathie alcoolique) ou neuropathies trigéminales, confirmées par des examens électrophysiologiques. | 30 jours | Préparation, emploi, manipulation des agents nocifs limitativement énumérés ci-après : 1-bromopropane, 2-bromopropane, dichloroacétylène (notamment en tant que contaminant du trichloroéthylène). |
+| Polyneuropathhies (après exclusion de la polyneuropathie alcoolique) ou neuropathies trigéminales. | 30 jours | Préparation, emploi, manipulation des agents nocifs limitativement énumérés ci-après : 1-bromopropane, 2-bromopropane, dichloroacétylène (notamment en tant que contaminant du trichloroéthylène). |
 | - E - | - E - | - E - |
-| Neuropathies optiques rétrobulbaires bilatérales confirmées par des examens complémentaires, après exclusion de la neuropathie alcoolique. | 30 jours | Préparation, emploi, manipulation des agents nocifs limitativement énumérés ci-après : dichloroacétylène, notamment en tant que contaminant du trichloroéthylène. |
+| Neuropathies optiques rétrobulbaires bilatérales après exclusion de la neuropathie alcoolique. | 30 jours | Préparation, emploi, manipulation des agents nocifs limitativement énumérés ci-après : dichloroacétylène, notamment en tant que contaminant du trichloroéthylène. |
 | - F - | - F - | - F - |
 | Anémies hémolythiques de survenue brutale. | 7 jours | Préparation, emploi, manipulation des agents nocifs limitativement énumérés ci-après : 1,2-dichloropropane. |
 | - G - | - G - | - G - |
 | Aplasies ou hypoplasies médullaires entraînant :- anémies ;- leucopénies ;- neutropénies. | 30 jours | Préparation, emploi, manipulation des agents nocifs limitativement énumérés ci-après : 2-bromopropane. |
 | - H - | - H - | - H - |
 | Manifestations d'intoxication oxycarbonnée résultant du métabolisme du dichlorométhane, avec une oxycarbonémie supérieure à 15 ml/litre de sang, ou une carboxyhémoglobine supérieure à 10 %. | 3 jours | Préparation, emploi, manipulation des agents nocifs limitativement énumérés ci-après : dichlorométhane. |
+
+NOTA:
+Conformément à l'article 3 du décret n° 2026-901 du 24 septembre 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur à compter du 30 septembre 2026. Elles sont applicables aux procédures de reconnaissance de maladies professionnelles pour lesquelles le certificat médical initial est établi à compter de leur entrée en vigueur.

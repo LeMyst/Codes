@@ -68,11 +68,10 @@ b) Cette ou ces affections nécessitent un traitement prolongé et une thérapeu
 
 31° Pour les frais d'acquisition du vaccin contre la rougeole, les oreillons et la rubéole pour les personnes âgées de moins de dix-huit ans ;
 
-32° Pour les frais occasionnés par une prise en charge dans les centres de santé et de médiation en santé sexuelle mentionnés à l'article L. 6323-1-14-1 du code de la santé publique.
+32° Pour les frais occasionnés par une prise en charge dans les centres de santé et de médiation en santé sexuelle mentionnés à l'article L. 6323-1-14-1 du code de la santé publique ;
+
+33° Pour les frais afférents à la mise en œuvre de la procédure prévue à la section 2 bis du chapitre Ier du titre Ier du livre Ier de la première partie du code de la santé publique.
 
 La liste mentionnée au 3° du présent article comporte également en annexe les critères médicaux utilisés pour la définition de l'affection et ouvrant droit à la limitation ou à la suppression de la participation de l'assuré.
 
 Sur proposition de l'Union nationale des caisses d'assurance maladie, un décret, pris après avis de la haute autorité mentionnée à l'article L. 161-37, peut réserver la limitation ou la suppression de la participation des assurés en application des 3° et 4° du présent article aux prestations exécutées dans le cadre d'un dispositif d'appui à la coordination mentionné à l'article L. 6327-2 du code de la santé publique, d'un dispositif spécifique régional mentionné à l'article L. 6327-6 du même code ou d'un dispositif coordonné de soins.
-
-NOTA:
-Conformément au III de l'article 63 de la loi n° 2025-199 du 28 février 2025, ces dispositions et l'ensemble des mesures afférentes prévues aux articles 24.1 à 24.2.1.4 du sous-titre I du titre III et à l'article 28 du sous-titre II du titre III de la convention nationale organisant les rapports entre les chirurgiens-dentistes libéraux et l'assurance maladie publiée au Journal officiel du 25 août 2023 sont applicables à compter du 1er avril 2025.

@@ -18,9 +18,11 @@ b) 20 et 30 points lorsque la spécialité pharmaceutique fait l'objet d'une abs
 
 c) 30 et 40 points lorsque la spécialité pharmaceutique fait l'objet d'un service médical rendu insuffisant pour justifier d'une inscription sur les listes de remboursement ;
 
+4° bis Dans le cas où est constaté par tout moyen que le laboratoire exploitant n'a pas respecté son engagement d'approvisionnement mentionné au IV de l'article L. 5121-12 du code de la santé publique, les taux de remises sont majorés d'un nombre de points qui est compris entre 20 et 30 points ;
+
 5° Ces majorations sont cumulatives et reconductibles, le cas échéant, chaque année.
 
-III.-Pour l'application du 2° du B du II de l'article L. 162-16-5-1-1, le délai de cent quatre-vingt jours court à compter de la réception par le ministre chargé de la sécurité sociale de la demande d'inscription sur une des listes mentionnées aux articles L. 162-17 et L. 162-22-7.
+III.-Pour l'application du 2° du B du II de l'article L. 162-16-5-1-1 du présent code, le délai de cent quatre-vingt jours court à compter de la réception par le ministre chargé de la sécurité sociale de la demande d'inscription sur une des listes mentionnées aux articles L. 162-17 et L. 162-22-7.
 
 Ce délai est suspendu dans les situations et les conditions suivantes :
 
@@ -37,4 +39,6 @@ V.-Les taux de remises mentionnés au présent article sont appliqués sur les t
 VI.-Le Comité économique des produits de santé informe le titulaire des droits d'exploitation de la spécialité concernée, pour chaque indication considérée, par tout moyen donnant date certaine à la réception de cette information, du montant des remises dues en application des dispositions du II de l'article L. 162-16-5-1-1, et le cas échéant des majorations dont elles sont assorties. Celui-ci dispose d'un délai de vingt jours à compter de cette notification pour présenter des observations écrites au comité et, le cas échéant, demander à être entendu par lui. Le Comité économique des produits de santé communique au laboratoire titulaire des droits d'exploitation, ainsi qu'à l'Agence centrale des organismes de sécurité sociale, le montant des remises dues, le cas échéant majorées, les motifs qui les justifient, le délai de règlement, le cas échéant, ainsi que les voies et délais de recours.
 
 NOTA:
-Conformément à l’article 4 du décret n° 2021-869 du 30 juin 2021, ces dispositions entrent en vigueur le 1er juillet 2021 sous réserve des dispositions mentionnées au présent article.
+Conformément à l’article 3 du décret n° 2026-488 du 3 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le 1er septembre 2026.
+
+Les demandes d'autorisation d'accès précoce ou compassionnel introduites avant l'entrée en vigueur dudit décret demeurent régies par les dispositions antérieurement applicables.

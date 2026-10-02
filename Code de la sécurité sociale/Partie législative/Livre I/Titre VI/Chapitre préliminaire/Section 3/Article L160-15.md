@@ -1,5 +1,7 @@
 # Article L160-15
 
-La participation de l'assuré mentionnée au II de l'article L. 160-13 n'est pas exigée pour les mineurs et les bénéficiaires de la protection complémentaire en matière de santé mentionnée à l'article L. 861-1 .
+Ni la participation de l'assuré, ni la franchise mentionnées respectivement aux II et III de l'article L. 160-13 ne sont exigées pour :
 
-Il en est de même pour la franchise prévue au III de l'article L. 160-13.
+1° Les mineurs et les bénéficiaires de la protection complémentaire en matière de santé mentionnée à l'article L. 861-1 ;
+
+2° Les frais prévus au 3° de l'article L. 160-8.

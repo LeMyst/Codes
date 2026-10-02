@@ -1,11 +1,10 @@
 # Article Annexe II : Tableau n° 51
 
-**MALADIES PROFESSIONNELLES PROVOQUEES PAR LES RESINES EPOXYDIQUES ET LEURS CONSTITUANTS**
+**Maladies professionnelles provoquées par les résines époxydiques et leurs constituants (\*)**
 
-| | | |
+| DÉSIGNATION DES MALADIES | DÉLAI DE PRISE en charge | LISTE LIMITATIVE des travaux susceptibles de provoquer ces maladies |
 | --- | --- | --- |
-| DÉSIGNATION DES MALADIES | DÉLAI de prise en charge | LISTE LIMITATIVE DES TRAVAUX SUSCEPTIBLES de provoquer ces maladies |
-| Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par un test épicutané. | 15 jours | Préparation des résines époxydiques. Emploi des résines époxydiques : - fabrication des stratifiés ; - fabrication et utilisation de colles, vernis, peintures à base de résines époxydiques. |
+| Lésions eczématiformes récidivant en cas de nouvelle exposition au risque ou confirmées par un test. | 15 jours | Préparation des résines époxydiques. Emploi des résines époxydiques : – fabrication des stratifiés ; – fabrication et utilisation de colles, vernis, peintures à base de résines époxydiques. |
 
 (\*) Certains constituants des résines époxydiques, utilisés comme durcisseurs ou adjuvants, peuvent induire des maladies respiratoires allergiques professionnelles indemnisables. Il s'agit en particulier :
 
@@ -16,3 +15,6 @@
 - des anhydrides d'acides volatils : rhinite et asthme (tableau 66), pneumopathie d'hypersensibilité (tableau 66 bis) ;
 
 - de l'azodicarbonamide : rhinite et asthme (tableau 66).
+
+NOTA:
+Conformément à l'article 3 du décret n° 2026-901 du 24 septembre 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur à compter du 30 septembre 2026. Elles sont applicables aux procédures de reconnaissance de maladies professionnelles pour lesquelles le certificat médical initial est établi à compter de leur entrée en vigueur.

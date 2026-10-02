@@ -2,7 +2,7 @@
 
 I.-La caisse dispose d'un délai de cent-vingt jours francs pour statuer sur le caractère professionnel de la maladie ou saisir le comité régional de reconnaissance des maladies professionnelles mentionné à l'article L. 461-1.
 
-Ce délai court à compter de la date à laquelle la caisse dispose de la déclaration de la maladie professionnelle intégrant le certificat médical initial mentionné à l'article L. 461-5 et à laquelle le médecin-conseil dispose du résultat des examens médicaux complémentaires le cas échéant prévus par les tableaux de maladies professionnelles.
+Ce délai court à compter de la date à laquelle la caisse dispose de la déclaration de la maladie professionnelle intégrant le certificat médical initial mentionné à l'article L. 461-5 et à laquelle le médecin-conseil dispose, lorsqu'ils sont nécessaires pour établir le diagnostic de la maladie, du résultat des examens médicaux complémentaires conformes aux données acquises de la science au regard des recommandations de bonnes pratiques de la Haute Autorité de santé ou des sociétés savantes.
 
 La caisse adresse un double de la déclaration de maladie professionnelle intégrant le certificat médical initial à l'employeur auquel la décision est susceptible de faire grief par tout moyen conférant date certaine à sa réception ainsi qu'au médecin du travail compétent.
 
@@ -17,3 +17,8 @@ III.-A l'issue de ses investigations et au plus tard cent jours francs à compte
 La victime ou ses représentants et l'employeur disposent d'un délai de dix jours francs pour le consulter et faire connaître leurs observations, qui sont annexées au dossier. Au terme de ce délai, la victime ou ses représentants et l'employeur peuvent consulter le dossier sans formuler d'observations.
 
 La caisse informe la victime ou ses représentants et l'employeur des dates d'ouverture et de clôture de la période au cours de laquelle ils peuvent consulter le dossier ainsi que de celle au cours de laquelle ils peuvent formuler des observations, par tout moyen conférant date certaine à la réception de cette information et au plus tard dix jours francs avant le début de la période de consultation.
+
+NOTA:
+Ces dispositions conformément à l'article 2 du décret n°2026-900 du 24 septembre 2026, dans leur rédaction résultant dudit décret, entrent en vigueur conformément aux dispositions du II de l'article 95 de la loi du 30 décembre 2025 de financement de la sécurité sociale pour 2026.
+
+Elles sont applicables aux procédures de reconnaissance de maladies professionnelles pour lesquelles le certificat médical initial est établi à compter de leur entrée en vigueur.

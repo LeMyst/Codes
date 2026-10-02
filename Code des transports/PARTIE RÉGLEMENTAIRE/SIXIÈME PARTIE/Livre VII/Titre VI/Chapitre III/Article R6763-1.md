@@ -29,14 +29,15 @@ Sous réserve des adaptations prévues par le présent chapitre et des compéten
 | R. 6325-49-3 | Décret n° 2025-377 du 25 avril 2025 |
 | R. 6325-50 | |
 | R. 6325-51 | Décret n° 2025-377 du 25 avril 2025 |
-| R. 6325-52 à R. 6325-54 | |
+| R. 6325-52 | Décret n° 2026-748 du 5 août 2026 |
+| R. 6325-53 et R. 6325-54 | |
 | R. 6325-55 | Décret n° 2025-377 du 25 avril 2025 |
 | R. 6325-56 et R. 6325-57 | |
 | R. 6325-58 | Décret n° 2025-377 du 25 avril 2025 |
-| R. 6325-59 à R. 6325-60 | |
+| R. 6325-59 | Décret n° 2026-748 du 5 août 2026 |
+| R. 6325-60 | |
 | R. 6325-61 et R. 6325-62 | Décret n° 2025-377 du 25 avril 2025 |
 | R. 6325-63 | |
-| R. 6325-82 et R. 6325-83 | |
 | R. 6325-93 et R. 6325-94 | |
 | Titre III | |
 | R. 6331-3 à R. 6331-12 | |

@@ -1,6 +1,6 @@
 # Article L5785-1
 
-I.-Sont applicables à Wallis-et-Futuna, sous réserve des dispositions d'adaptations prévues au présent chapitre, les dispositions des titres Ier à VII du livre V et des titres II à IV du livre VI de la présente partie mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
+I. - Sont applicables à Wallis-et-Futuna, sous réserve des dispositions d'adaptations prévues au présent chapitre, les dispositions des titres Ier à VII du livre V et des titres II à IV du livre VI de la présente partie mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
 | --- | --- |
@@ -38,9 +38,12 @@ I.-Sont applicables à Wallis-et-Futuna, sous réserve des dispositions d'adapta
 | L. 5531-14-1 et L. 5531-14-2 | Résultant de l'ordonnance n° 2012-1218 du 2 novembre 2012 |
 | L. 5531-15 à L. 5531-18 | Résultant de l'ordonnance n° 2010-1307 du 28 octobre 2010 |
 | L. 5531-19 | Résultant de la loi n° 2013-431 du 28 mai 2013 |
-| L. 5531-20 à L. 5531-44 | Résultant de l'ordonnance n° 2016-1686 du 8 décembre 2016 |
-| L. 5531-45 et L. 5531-46 | Résultant de l'ordonnance n° 2019-950 du 11 septembre 2019 |
+| L. 5531-20 | Résultant de la loi n° 2026-798 du 18 août 2026 visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens |
+| L. 5531-21 à L. 5531-44 | Résultant de l'ordonnance n° 2016-1686 du 8 décembre 2016 |
+| L. 5531-45 | Résultant de la loi n° 2026-798 du 18 août 2026 visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens |
+| L. 5531-46 | Résultant de l'ordonnance n° 2019-950 du 11 septembre 2019 |
 | L. 5531-47 à L. 5531-49 | Résultant de l'ordonnance n° 2016-1686 du 8 décembre 2016 |
+| L. 5531-50 | Résultant de la loi n° 2026-798 du 18 août 2026 visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens |
 | L. 5532-1 | Résultant de la loi n° 2016-816 du 20 juin 2016 |
 | L. 5533-1 à L. 5533-2 | Résultant de la loi n° 2013-619 du 16 juillet 2013 |
 | L. 5533-3 à L. 5533-3-2 | Résultant de l'ordonnance n° 2021-77 du 27 janvier 2021 |
@@ -95,7 +98,7 @@ I.-Sont applicables à Wallis-et-Futuna, sous réserve des dispositions d'adapta
 | L. 5631-4 | Résultant de la loi n° 2013-619 du 16 juillet 2013 |
 | L. 5642-1 | Résultant de l'ordonnance n° 2021-77 du 27 janvier 2021 |
 
-II.-Sous réserve des dispositions d'adaptations prévues au présent chapitre, les dispositions des titres Ier à VII du livre V et des titres II à IV du livre VI de la présente partie applicables aux marins mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau sont également applicables aux gens de mer autres que marins :
+II. - Sous réserve des dispositions d'adaptations prévues au présent chapitre, les dispositions des titres Ier à VII du livre V et des titres II à IV du livre VI de la présente partie applicables aux marins mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau sont également applicables aux gens de mer autres que marins :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
 | --- | --- |

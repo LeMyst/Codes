@@ -1,6 +1,6 @@
 # Article L5775-1
 
-I.-Sont applicables en Polynésie française, compte tenu, le cas échéant, de l'association de la Polynésie française à l'exercice des compétences de l'Etat en matière de police de la circulation maritime dans les eaux intérieures prévue à l'article 34 de la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française et sous réserve des dispositions d'adaptations prévues au présent chapitre, les dispositions des titres Ier à VII du livre V de la présente partie mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
+I. - Sont applicables en Polynésie française, compte tenu, le cas échéant, de l'association de la Polynésie française à l'exercice des compétences de l'Etat en matière de police de la circulation maritime dans les eaux intérieures prévue à l'article 34 de la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française et sous réserve des dispositions d'adaptations prévues au présent chapitre, les dispositions des titres Ier à VII du livre V de la présente partie mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
 | --- | --- |
@@ -33,13 +33,16 @@ I.-Sont applicables en Polynésie française, compte tenu, le cas échéant, de 
 | L. 5531-1 à L. 5531-3 | Résultant de l'ordonnance n° 2010-1307 du 28 octobre 2010 |
 | L. 5531-3-1 et L. 5531-3-2 | Résultant de l'ordonnance n° 2016-1686 du 8 décembre 2016 |
 | L. 5531-4 | Résultant de l'ordonnance n° 2010-1307 du 28 octobre 2010 |
-| L. 5531-20 à L. 5531-29 | Résultant de l'ordonnance n° 2016-1686 du 8 décembre 2016 |
+| L. 5531-20 | Résultant de la loi n° 2026-798 du 18 août 2026 visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens |
+| L. 5531-21 à L. 5531-29 | Résultant de l'ordonnance n° 2016-1686 du 8 décembre 2016 |
 | L. 5531-31 et L. 5531-32 | Résultant de l'ordonnance n° 2016-1686 du 8 décembre 2016 |
 | L. 5531-34 | Résultant de l'ordonnance n° 2016-1686 du 8 décembre 2016 |
 | L. 5531-36 à L. 5531-42 | Résultant de l'ordonnance n° 2016-1686 du 8 décembre 2016 |
 | L. 5531-44 | Résultant de l'ordonnance n° 2016-1686 du 8 décembre 2016 |
-| L. 5531-45 et L. 5531-46 | Résultant de l'ordonnance n° 2019-950 du 11 septembre 2019 |
+| L. 5531-45 | Résultant de la loi n° 2026-798 du 18 août 2026 visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens |
+| L. 5531-46 | Résultant de l'ordonnance n° 2019-950 du 11 septembre 2019 |
 | L. 5531-47 à L. 5531-49 | Résultant de l'ordonnance n° 2016-1686 du 8 décembre 2016 |
+| L. 5531-50 | Résultant de la loi n° 2026-798 du 18 août 2026 visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens |
 | L. 5532-1 | Résultant de la loi n° 2016-816 du 20 juin 2016 |
 | L. 5533-2 | Résultant de la loi n° 2013-619 du 16 juillet 2013 |
 | L. 5533-4 | Résultant de la loi n° 2013-619 du 16 juillet 2013 |
@@ -54,7 +57,7 @@ I.-Sont applicables en Polynésie française, compte tenu, le cas échéant, de 
 | L. 5571-1 à L. 5571-3 | Résultant de la loi n° 2013-619 du 16 juillet 2013 |
 | L. 5571-4 | Résultant de la loi n° 2016-816 du 20 juin 2016 |
 
-II.-Sous réserve des dispositions d'adaptations prévues au présent chapitre, les dispositions des titres Ier à VII du livre V de la présente partie applicables aux marins mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau sont également applicables aux gens de mer autres que marins :
+II. - Sous réserve des dispositions d'adaptations prévues au présent chapitre, les dispositions des titres Ier à VII du livre V de la présente partie applicables aux marins mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau sont également applicables aux gens de mer autres que marins :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
 | --- | --- |

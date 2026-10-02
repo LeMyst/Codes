@@ -1,6 +1,6 @@
 # Article L5531-45
 
-I.-Même en l'absence de tout signe d'ivresse manifeste, le fait pour le capitaine, le chef de quart ou toute personne exerçant la responsabilité de la conduite d'un navire, le chef mécanicien, toute personne assurant la veille visuelle et auditive ou le pilote, de se trouver, dans l'exercice de ses fonctions, sous l'empire d'un état alcoolique caractérisé par une concentration d'alcool dans le sang égale ou supérieure à 0,50 gramme par litre ou par une concentration d'alcool dans l'air expiré égale ou supérieure à 0,25 milligramme par litre est puni de deux ans d'emprisonnement et de 4 500 € d'amende.
+I.-Même en l'absence de tout signe d'ivresse manifeste, le fait pour toute personne mentionnée au II de l'article L. 5531-20 de se trouver, dans l'exercice de ses fonctions, sous l'empire d'un état alcoolique caractérisé par une concentration d'alcool dans le sang égale ou supérieure à 0,50 gramme par litre ou par une concentration d'alcool dans l'air expiré égale ou supérieure à 0,25 milligramme par litre est puni detrois ans d'emprisonnement et de 9 000 € d'amende.
 
 II.-Le fait pour les personnes mentionnées au I d'exercer leurs fonctions en état d'ivresse manifeste est puni des mêmes peines.
 
@@ -21,8 +21,3 @@ VI.-Le tribunal peut également prononcer, à titre complémentaire ou principal
 3° Une obligation d'accomplir, à ses frais, un stage de sensibilisation aux addictions.
 
 Toute condamnation d'un marin ou d'un pilote pour l'une des infractions prévues au présent article, commise en état de récidive au sens de l'article 132-10 du code pénal, donne lieu de plein droit, pour les marins, au retrait total des droits ou prérogatives afférents aux titres ou du visa de reconnaissance de l'intéressé, avec interdiction de solliciter la délivrance d'un nouveau titre ou visa de reconnaissance pendant trois ans au plus et, pour les pilotes, à l'interdiction du droit d'exercer le métier de pilote.
-
-NOTA:
-Se reporter aux conditions d'application prévues à l'article 10 de l'ordonnance n° 2019-950 du 11 septembre 2019.
-
-Conformément à l'article 25 de la loi n°2020-734, l'ordonnance n°2019-950 entre en vigueur le 31 mars 2021. Cette date a été reportée au 30 septembre 2021 par l'article 2 de la loi n° 2021-218 du 26 février 2021.

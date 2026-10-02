@@ -4,6 +4,8 @@ Les dispositions du livre II, à l'exception de celles de la sous-section 3 de l
 
 L'article L. 5211-3-1 est applicable aux Terres australes et antarctiques françaises dans sa rédaction résultant de l'ordonnance n° 2020-234 du 11 mars 2020 modifiant le champ d'application du permis d'armement et du régime des fouilles de sûreté des navires.
 
+L'article L. 5223-2 est applicable dans les Terres australes et antarctiques françaises dans sa rédaction résultant de la loi n° 2026-791 du 16 août 2026 actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense.
+
 Les articles L. 5232-1 et L. 5234-1 sont applicables aux Terres australes et antarctiques françaises dans leur rédaction résultant de l'ordonnance n° 2020-234 du 11 mars 2020 modifiant le champ d'application du permis d'armement et du régime des fouilles de sûreté des navires.
 
 Les articles L. 5241-1 et L. 5242-17 sont applicables dans les Terres australes et antarctiques françaises dans leur rédaction résultant de la loi n° 2023-703 du 1er août 2023 relative à la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense.

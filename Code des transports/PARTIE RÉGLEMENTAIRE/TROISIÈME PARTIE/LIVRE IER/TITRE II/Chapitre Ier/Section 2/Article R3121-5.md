@@ -4,4 +4,6 @@ L'autorité compétente pour délivrer les autorisations de stationnement fixe, 
 
 L'autorité compétente communique, par voie électronique, au gestionnaire du registre de disponibilité des taxis mentionné à l'article L. 3121-11-1 les informations mentionnées au premier alinéa dans un délai d'un mois suivant la transaction.
 
+La délivrance, le renouvellement et le retrait de chaque autorisation de stationnement font l'objet d'un arrêté.
+
 L'augmentation du nombre d'autorisations de stationnement offertes à l'exploitation ainsi que le retrait définitif d'une autorisation de stationnement ou son non-renouvellement donne lieu, dans un délai de trois mois, à la délivrance de nouvelles autorisations dans les conditions prévues au III de l'article R. 3121-13.

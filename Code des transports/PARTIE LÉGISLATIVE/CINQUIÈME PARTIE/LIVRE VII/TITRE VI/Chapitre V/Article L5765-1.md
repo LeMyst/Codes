@@ -30,13 +30,16 @@ I. - Sont applicables en Nouvelle-Calédonie, en tant qu'elles concernent les co
 | L. 5524-4 | Résultant de l'ordonnance n° 2010-1307 du 28 octobre 2010 |
 | L. 5531-1 à L. 5531-3 | Résultant de l'ordonnance n° 2010-1307 du 28 octobre 2010 |
 | L. 5531-4 | Résultant de l'ordonnance n° 2010-1307 du 28 octobre 2010 |
-| L. 5531-20 à L. 5531-28 | Résultant de l'ordonnance n° 2016-1686 du 8 décembre 2016 |
+| L. 5531-20 | Résultant de la loi n° 2026-798 du 18 août 2026 visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens |
+| L. 5531-21 à L. 5531-28 | Résultant de l'ordonnance n° 2016-1686 du 8 décembre 2016 |
 | L 5531-31 et L. 5531-32 | Résultant de l'ordonnance n° 2016-1686 du 8 décembre 2016 |
 | L 5531-34 | Résultant de l'ordonnancen° 2016-1686 du 8 décembre 2016 |
 | L 5531-36 à L 5531-42 | Résultant de l'ordonnance n° 2016-1686 du 8 décembre 2016 |
 | L5531-44 | Résultant de l'ordonnance n° 2016-1686 du 8 décembre 2016 |
-| L. 5531-45 et L. 5531-46 | Résultant de l'ordonnance n° 2019-950 du 11 septembre 2019 |
+| L. 5531-45 | Résultant de la loi n° 2026-798 du 18 août 2026 visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens |
+| L. 5531-46 | Résultant de l'ordonnance n° 2019-950 du 11 septembre 2019 |
 | L. 5531-47 à L. 5531-49 | Résultant de l'ordonnance n° 2016-1686 du 8 décembre 2016 |
+| L. 5531-50 | Résultant de la loi n° 2026-798 du 18 août 2026 visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens |
 | L. 5532-1 | Résultant de la loi n° 2016-816 du 20 juin 2016 |
 | L. 5533-2 | Résultant de la loi n° 2013-619 du 16 juillet 2013 |
 | L. 5533-4 | Résultant de la loi n° 2013-619 du 16 juillet 2013 |

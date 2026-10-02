@@ -12,10 +12,12 @@ Les autres membres, au nombre de six à quinze, sont nommés sur proposition de 
 
 3° Le cas échéant, un ou plusieurs représentants des entreprises d'assistance en escale ou de leurs organisations professionnelles dont deux adhérents au moins exercent leur activité sur l'aérodrome ou le groupe d'aérodromes ;
 
-4° Représentants des collectivités territoriales intéressées, à raison d'un à trois membres.
+4° Représentants des collectivités territoriales intéressées, à raison d'un à trois membres. Les commissions communes à plusieurs aérodromes proches dont l'exploitant est identique, au sens de l'article R. 6325-54, peuvent compter jusqu'à quatre représentants des collectivités territoriales intéressées.
 
 Chaque membre dispose d'une voix délibérative.
 
 Les représentants des collectivités territoriales ne participent pas aux votes relatifs aux tarifs des redevances au titre de la consultation des usagers prévue à l'article R. 6325-18.
 
 A l'exception du président, les membres peuvent être suppléés aux réunions de la commission par une personne dûment mandatée par eux. Ils peuvent également se faire accompagner par des personnes n'ayant pas voix délibérative et dont le nombre maximal est fixé dans le règlement intérieur.
+
+En cas d'absence ou d'empêchement du président lors d'une réunion de la commission, le ministre chargé de l'aviation civile ou son représentant peut présider la réunion, sans voix délibérative.

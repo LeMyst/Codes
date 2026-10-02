@@ -2,6 +2,8 @@
 
 Les dispositions du livre II à l'exception de celles des chapitres Ier à IV du titre III et de la sous-section 3 de la section 1, de la section 3 du chapitre II du titre IV et du titre VII, sont applicables en Polynésie française sous réserve des compétences dévolues à cette collectivité par la loi organique n° 2004-192 du 27 février 2004 dans les eaux intérieures et en matière de sécurité des navires de moins de 160 tonneaux de jauge brute qui ne sont pas destinés au transport des passagers.
 
+L'article L. 5223-2 est applicable en Polynésie française dans sa rédaction résultant de la loi n° 2026-791 du 16 août 2026 actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense.
+
 Les articles L. 5241-1 et L. 5242-17 sont applicables en Polynésie française dans leur rédaction résultant de la loi n° 2023-703 du 1er août 2023 relative à la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense.
 
 Les articles L. 5241-2-1 A, L. 5241-3-1, L. 5242-1 A et L. 5263-7 sont applicables en Polynésie française dans leur rédaction résultant de l'ordonnance n° 2021-1330 du 13 octobre 2021.

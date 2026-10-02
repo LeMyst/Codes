@@ -46,7 +46,6 @@ Sous réserve des adaptations prévues par le présent chapitre, les disposition
 | R. 6325-59 et R. 6325-60 | |
 | R. 6325-61 et R. 6325-62 | Décret n° 2025-377 du 25 avril 2025 |
 | R. 6325-63 | |
-| R. 6325-82 et R. 6325-83 | |
 | R. 6325-93 et R. 6325-94 | |
 | Titre III | |
 | R. 6331-3 à R. 6331-12 | |

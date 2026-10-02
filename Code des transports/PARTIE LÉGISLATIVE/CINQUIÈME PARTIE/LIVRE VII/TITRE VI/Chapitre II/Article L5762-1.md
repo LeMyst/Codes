@@ -2,6 +2,8 @@
 
 Les dispositions du livre II, à l'exception de celles des chapitres Ier à IV du titre III et de la sous-section 3 de la section 1 et de la section 3 du chapitre II du titre IV sont applicables en Nouvelle-Calédonie sous réserve des compétences dévolues à la collectivité en matière de police et sécurité de la circulation maritime et de sauvegarde de la vie humaine en mer par la loi organique n° 99-209 du 19 mars 1999.
 
+L'article L. 5223-2 est applicable en Nouvelle-Calédonie dans sa rédaction résultant de la loi n° 2026-791 du 16 août 2026 actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense.
+
 Les articles L. 5241-1 et L. 5242-17 sont applicables en Nouvelle-Calédonie dans leur rédaction résultant de la loi n° 2023-703 du 1er août 2023 relative à la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense.
 
 Les articles L. 5241-2-1 A, L. 5241-3-1, L. 5242-1 A et L. 5263-7 sont applicables en Nouvelle-Calédonie dans leur rédaction résultant de l'ordonnance n° 2021-1330 du 13 octobre 2021.

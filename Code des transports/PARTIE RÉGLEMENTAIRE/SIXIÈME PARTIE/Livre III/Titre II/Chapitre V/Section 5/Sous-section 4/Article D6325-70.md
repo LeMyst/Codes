@@ -15,3 +15,5 @@ Sur proposition de l'organisme qu'ils représentent, sont nommés :
 Chaque membre dispose d'une voix délibérative.
 
 A l'exception du président, les membres peuvent être suppléés aux réunions de la commission par une personne dûment mandatée par eux. Ils peuvent également se faire accompagner par des personnes n'ayant pas voix délibérative et dont le nombre maximal est fixé dans le règlement intérieur.
+
+En cas d'absence ou d'empêchement du président lors d'une réunion de la commission, le ministre chargé de l'aviation civile ou son représentant peut présider la réunion, sans voix délibérative.

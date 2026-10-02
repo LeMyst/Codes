@@ -4,7 +4,9 @@ Sous réserve des adaptations prévues au présent chapitre et sauf mention cont
 
 | Dispositions applicables | Dans leur rédaction |
 | --- | --- |
-| L. 6200-1 à L. 6212-2 | |
+| L. 6200-1 à L. 6212-1 | |
+| L. 6212-1-1 | Résultant de la loi n° 2026-201 du 20 mars 2026 relative à l'organisation des jeux Olympiques et Paralympiques de 2030 |
+| L. 6212-2 | |
 | L. 6214-1 à L. 6214-2 | Résultant de l'ordonnance n° 2022-456 du 30 mars 2022 |
 | L. 6221-1 | Résultant de l'ordonnance n° 2022-456 du 30 mars 2022 |
 | L. 6221-2 | |
@@ -20,9 +22,11 @@ Sous réserve des adaptations prévues au présent chapitre et sauf mention cont
 | L. 6225-1 à L. 6225-10 | Résultant de l'ordonnance n° 2022-830 du 1er juin 2022 |
 | L. 6231-1 et L. 6231-2 | |
 | L. 6231-3 à L. 6231-10 | Résultant de l'ordonnance n° 2022-830 du 1er juin 2022 |
-| L. 6232-1 à L. 6232-3 | |
+| L. 6232-1 et L. 6232-2 | |
+| L. 6232-2-1 | Résultant de la loi n° 2026-201 du 20 mars 2026 relative à l'organisation des jeux Olympiques et Paralympiques de 2030 |
+| L. 6232-3 | |
 | L. 6232-4 | Résultant de l'ordonnance n° 2022-456 du 30 mars 2022 |
-| L. 6232-5 | Résultant de la loi n° 2022-52 du 24 janvier 2022 relative à la responsabilité pénale et à la sécurité intérieure |
+| L. 6232-5 | Résultant de la loi n° 2026-201 du 20 mars 2026 relative à l'organisation des jeux Olympiques et Paralympiques de 2030 |
 | L. 6232-6 | Résultant de l'ordonnance n° 2022-456 du 30 mars 2022 |
 | L. 6232-7 | |
 | L. 6232-8 à L. 6232-9 | Résultant de la loi n° 2022-52 du 24 janvier 2022 relative à la responsabilité pénale et à la sécurité intérieure |

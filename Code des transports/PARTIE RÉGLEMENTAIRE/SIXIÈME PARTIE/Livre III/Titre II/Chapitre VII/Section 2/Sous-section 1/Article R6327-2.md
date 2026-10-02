@@ -2,9 +2,6 @@
 
 L'Autorité de régulation des transports peut être saisie par le ministre chargé de l'aviation civile d'un avant-projet de contrat de régulation économique prévu par le I de l'article L. 6327-3 en application des articles R. 6325-46 et R. 6325-49-2. Elle rend son avis motivé au plus tard deux mois après avoir été saisie par le ministre chargé de l'aviation civile.
 
-Lorsqu'elle est saisie en application de l'article R. 6325-46, elle peut, avant de rendre son avis, consulter toute partie intéressée ou entendre toute partie intéressée à la demande de celle-ci.
+Lorsqu'elle est saisie en application de l'article R. 6325-46, l'Autorité peut, avant de rendre son avis, consulter ou entendre à sa demande toute partie intéressée. Néanmoins, lorsqu'elle est saisie en application de l'article R. 6325-49-2, l'Autorité ne peut répondre à la demande d'une partie intéressée d'être entendue.
 
-Lorsqu'elle est saisie en application de l'article R. 6325-49-2, elle ne rend public cet avis qu'après la signature du contrat de concession.
-
-NOTA:
-Conformément à l’article 27 du décret n° 2025-377 du 25 avril 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux procédures de passation des contrats de concession portant sur l'exploitation d'un aérodrome appartenant à l'Etat en cours à la date d'entrée en vigueur du décret précité.
+Lorsqu'elle est saisie en application de l'article R. 6325-49-2, l'Autorité transmet à l'autorité concédante les consultations des personnes intéressées qu'elle a choisi de consulter ou les demandes d'audition du candidat auquel il est envisagé d'attribuer le contrat de concession. Afin de lui permettre de remplir ses obligations au titre de l'article L. 3122-2 du code de la commande publique, le ministre chargé de l'aviation civile ou son représentant assiste aux auditions du candidat par l'Autorité. Dans l'exercice de sa mission, l'Autorité ne peut révéler les informations confidentielles qui lui sont transmises et qui ne peuvent, en application du code de la commande publique et notamment de son article L. 3122-3, être divulguées à des tiers.

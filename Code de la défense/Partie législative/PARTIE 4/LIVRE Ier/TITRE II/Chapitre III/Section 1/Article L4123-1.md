@@ -14,6 +14,6 @@ Toute mesure de portée générale affectant la rémunération des fonctionnaire
 
 Lorsque l'affectation entraîne des difficultés de logement, les militaires bénéficient d'une aide appropriée.
 
-Les volontaires dans les armées et les élèves ayant le statut de militaire en formation dans les écoles désignées par arrêté du ministre de la défense reçoivent une rémunération fixée par décret qui peut être inférieure à la rémunération prévue à l'article L. 3231-2 du code du travail.
+Les volontaires militaires et les élèves ayant le statut de militaire en formation dans les écoles désignées par arrêté du ministre de la défense reçoivent une rémunération fixée par décret qui peut être inférieure à la rémunération prévue à l'article L. 3231-2 du code du travail.
 
 En cas de décès du militaire en service, sa rémunération est versée pour l'intégralité du mois concerné.

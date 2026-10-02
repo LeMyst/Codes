@@ -1,0 +1,11 @@
+# Article L2352-4
+
+Si la personne concernée ne s'est pas dessaisie des produits, des articles ou des précurseurs mentionnés au premier alinéa de l'article L. 2352-3 dans le délai fixé par la décision mentionnée au dernier alinéa du même article L. 2352-3, le représentant de l'Etat dans le département ou, à Paris, le préfet de police lui ordonne de les remettre sans délai au service compétent, sous le contrôle d'un officier de police judiciaire.
+
+Sans préjudice des sanctions pénales applicables, si la personne n'exécute pas la décision prévue au premier alinéa du présent article, le représentant de l'Etat dans le département ou, à Paris, le préfet de police peut demander au juge des libertés et de la détention l'autorisation de procéder à la saisie des produits, des articles et des précurseurs dans tout lieu privé, y compris au domicile, ou dans tout véhicule où ils sont entreposés, entre 6 heures et 21 heures. La demande d'autorisation comporte toutes les informations de nature à justifier cette saisie afin de permettre au juge des libertés et de la détention de vérifier que cette demande est fondée.
+
+La saisie mentionnée au deuxième alinéa s'effectue sous l'autorité et le contrôle du juge des libertés et de la détention qui l'a autorisée ou d'un juge désigné par lui. Ce magistrat peut se rendre sur les lieux. A tout moment, il peut suspendre ou interrompre la saisie.
+
+Celle-ci est effectuée en présence de l'occupant des lieux ou du propriétaire du véhicule, ou de son représentant. En cas d'impossibilité, l'officier de police judiciaire chargé de la saisie requiert deux témoins choisis en dehors des personnes relevant de son autorité. Le procès-verbal de saisie est dressé sur-le-champ. Il relate les modalités et le déroulement de l'intervention et comporte, s'il y a lieu, un inventaire des biens saisis. Il est signé par l'officier de police judiciaire ainsi que par les personnes présentes. En cas de refus de signature, mention en est faite au procès-verbal. Ce dernier est transmis dans les meilleurs délais au juge des libertés et de la détention.
+
+La remise ou la saisie des produits explosifs, des articles pyrotechniques ou des précurseurs d'explosifs ne donne lieu à aucune indemnisation.

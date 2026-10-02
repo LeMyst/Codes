@@ -4,4 +4,4 @@ Toute personne physique ou morale qui désire faire des études ou recherches re
 
 Toutefois, cette autorisation n'est pas requise pour les études et recherches poursuivies par le ministère de la défense et le Commissariat à l'énergie atomique et aux énergies alternatives ou pour leur compte.
 
-Un arrêté conjoint des ministres de la défense, de l'intérieur et du ministre chargé de l'industrie fixe les modalités de présentation de la demande ainsi que la composition du dossier qui doit être joint à celle-ci.
+Un arrêté conjoint des ministres de la défense, de l'intérieur fixe les modalités de présentation de la demande ainsi que la composition du dossier qui doit être joint à celle-ci.

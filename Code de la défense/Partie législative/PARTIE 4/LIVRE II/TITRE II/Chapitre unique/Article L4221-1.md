@@ -14,6 +14,8 @@ Le contrat d'engagement à servir dans la réserve opérationnelle est souscrit 
 
 6° De contribuer aux actions de la réserve sanitaire définie au I de l'article L. 3132-1 du code de la santé publique dans les conditions prévues au III de cet article.
 
+Sauf opposition du volontaire, l'autorité militaire informe sans délai son employeur de la signature du contrat.
+
 Le contrat peut comporter, en outre, une clause de réactivité permettant à l'autorité compétente de faire appel aux réservistes dans les conditions prévues au troisième alinéa de l'article L. 4221-4.
 
 Cette clause est soumise à l'accord de l'employeur.

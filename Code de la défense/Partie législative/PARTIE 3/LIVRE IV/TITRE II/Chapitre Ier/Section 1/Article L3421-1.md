@@ -4,4 +4,6 @@ L'économat des armées constitue un établissement public de l'Etat, de caract�
 
 Il a pour objet le soutien logistique et la fourniture de services, de denrées et de marchandises diverses aux formations militaires en France et à l'étranger ainsi qu'aux parties prenantes collectives et individuelles autorisées par le ministre de la défense.
 
+Avec l'accord du ministre de la défense, il peut, pour l'exercice de ses missions, faire usage de la mesure prévue au I de l'article L. 1339-2.
+
 Le ministre de la défense oriente l'action de l'économat des armées et exerce une surveillance générale sur son activité.

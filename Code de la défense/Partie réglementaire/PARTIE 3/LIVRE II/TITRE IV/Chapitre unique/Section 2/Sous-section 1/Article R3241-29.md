@@ -1,6 +1,6 @@
 # Article R3241-29
 
-Le service de l'énergie opérationnelle assure le recrutement, la formation, la gestion et l'administration des militaires d'active et de réserve des corps et spécialités qui lui sont propres. Il exerce les mêmes attributions pour les militaires sous contrat rattachés à ces corps.
+Le service de l'énergie opérationnelle assure le recrutement, la formation, la gestion et l'administration des militaires des corps et spécialités qui lui sont propres, ainsi que des militaires d'active et de réserve rattachés à ces corps. A ce titre, il peut également les assurer pour des militaires du rang engagés et de réserve, des volontaires dans les armées et des appelés du service national au sens de l'article L. 4132-11-1.
 
 Il assure la programmation et le suivi des effectifs et de la masse salariale correspondante.
 

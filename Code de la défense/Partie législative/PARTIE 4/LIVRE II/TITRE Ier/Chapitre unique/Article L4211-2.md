@@ -2,7 +2,7 @@
 
 Pour être admis dans la réserve, il faut :
 
-1° Etre de nationalité française ou ancien militaire engagé à titre étranger volontaire pour servir comme réserviste dans la légion étrangère ;
+1° Etre de nationalité française. Toutefois, un ressortissant étranger peut être admis à servir comme réserviste dans la légion étrangère, lorsqu'il est un ancien militaire engagé à titre étranger, ou comme réserviste spécialiste ;
 
 2° Etre âgé de dix-sept ans au moins ;
 

@@ -4,4 +4,4 @@ En cas de menace actuelle ou prévisible, pesant sur les activités essentielles
 
 Le dispositif de réserve de sécurité nationale a pour objectif de renforcer les moyens mis en œuvre par les services de l'Etat, les collectivités territoriales ou par toute autre personne de droit public ou privé participant à une mission de service public.
 
-Il est constitué des réservistes de la réserve opérationnelle militaire, de la réserve opérationnelle de la police nationale, de la réserve sanitaire, de la réserve civile pénitentiaire et des réserves de sécurité civile.
+Il est constitué des réservistes de la réserve opérationnelle militaire, de la réserve opérationnelle de la police nationale, de la réserve sanitaire, de la réserve opérationnelle de l'administration des douanes et de la réserve opérationnelle pénitentiaire.

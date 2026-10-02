@@ -6,10 +6,13 @@ Peuvent notamment être habilités à procéder aux réquisitions prévues aux a
 
 2° Le ministre de la défense ou les autres ministres, dans l'exercice de leurs attributions respectives en matière de défense et de sécurité nationale ;
 
-3° Les préfets de zone de défense et de sécurité, les préfets de région, les préfets de département ou les préfets maritimes ;
+3° Les préfets de zone de défense et de sécurité, les préfets de région, les préfets de département, le préfet de police ou les préfets maritimes ;
 
 4° Les maires, les maires délégués et leurs adjoints ;
 
 5° Les officiers généraux exerçant un commandement organique, opérationnel ou territorial.
 
 Les autorités mentionnées aux 1° à 5°, ainsi que, le cas échéant, toute autre autorité désignée par les décrets mentionnés aux articles L. 2212-1 et L. 2212-2, peuvent sous-déléguer en tout ou partie l'exercice du droit de réquisition aux agents publics de catégorie A ou assimilés ou aux officiers placés sous leur autorité.
+
+NOTA:
+Conformément à l'article 8 du décret n° 2026-814 du 24 août 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le premier jour du mois qui suit celui de sa publication.

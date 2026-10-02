@@ -4,9 +4,9 @@ Les ressources de l'établissement comprennent :
 
 1° Pour le fonds de prévoyance militaire :
 
-a) Une cotisation à la charge des militaires à solde mensuelle et des volontaires dans les armées, placés dans une situation statutaire rémunérée autre que la position hors cadres, dont le montant est fixé par arrêté du ministre de la défense, du ministre de l'intérieur et du ministre chargé du budget en fonction du grade et du nombre de personnes composant le foyer fiscal du militaire concerné ;
+a) Une cotisation à la charge des militaires à solde mensuelle et des militaires à solde des volontaires, placés dans une situation statutaire rémunérée autre que la position hors cadres, dont le montant est fixé par arrêté du ministre de la défense, du ministre de l'intérieur et du ministre chargé du budget en fonction du grade et du nombre de personnes composant le foyer fiscal du militaire concerné ;
 
-b) Une cotisation à la charge de l'Etat pour les militaires à solde mensuelle ou les volontaires dans les armées, placés dans une situation non rémunérée de la position d'activité ou de la position de non-activité, et pour les militaires à solde spéciale ainsi que pour les personnes engagées pour tout ou partie de la durée de la guerre et les jeunes gens participant aux séances d'instruction ou d'examen dans le cadre de périodes militaires d'initiation ou de perfectionnement à la défense nationale. Le montant de cette cotisation est fixé par arrêté du ministre de la défense, du ministre de l'intérieur, du ministre chargé des transports et du ministre chargé du budget ;
+b) Une cotisation à la charge de l'Etat pour les militaires à solde mensuelle et les militaires à solde des volontaires, placés dans une situation non rémunérée de la position d'activité ou de la position de non-activité, et pour les militaires à solde spéciale ainsi que pour les personnes engagées pour tout ou partie de la durée de la guerre et les jeunes gens participant aux séances d'instruction ou d'examen dans le cadre de périodes militaires d'initiation ou de perfectionnement à la défense nationale. Le montant de cette cotisation est fixé par arrêté du ministre de la défense, du ministre de l'intérieur, du ministre chargé des transports et du ministre chargé du budget ;
 
 c) Une cotisation à la charge de l'Etat lorsque les circonstances le justifient ;
 
@@ -41,6 +41,3 @@ j) Les produits des dons et legs ;
 3° Pour le siège :
 
 Le prélèvement annuel pour le financement des dépenses de personnel et de fonctionnement du siège.
-
-NOTA:
-Conformément à l'article 10 du décret n° 2023-394 du 24 mai 2023, ces dispositions entrent en vigueur le 1er octobre 2023.

@@ -1,6 +1,6 @@
 # Article L4139-16
 
-I.-Les limites d'âge et âges maximaux de maintien en première section des militaires sont :
+I. - Les limites d'âge et âges maximaux de maintien en première section des militaires sont :
 
 1° Dans le corps militaire du contrôle général des armées au grade de contrôleur adjoint, de contrôleur et de contrôleur général, soixante-six ans.
 
@@ -43,7 +43,7 @@ Les officiers du corps technique et administratif de la marine admis d'office, l
 
 Les musiciens des orchestres de la garde républicaine peuvent, sur demande agréée, être maintenus en service au-delà de cette limite d'âge par périodes de deux ans renouvelables.
 
-II.-Sans préjudice des dispositions de l'article L. 4132-12, les limites de durée de service des militaires sous contrat sont les suivantes :
+II. - Les limites de durée de service des militaires servant en vertu d'un contrat sont les suivantes :
 
 | | |
 | --- | --- |
@@ -53,11 +53,10 @@ II.-Sans préjudice des dispositions de l'article L. 4132-12, les limites de dur
 | Militaires engagés | 27 |
 | Volontaires dans les armées | 5 |
 
+Les limites de durée de service des appelés du service national, des volontaires stagiaires du service militaire adapté et des volontaires stagiaires du service militaire volontaire sont fixées respectivement aux articles L. 4132-11-1 et L. 4132-12 du présent code et à l'article 32 de la loi n° 2018-607 du 13 juillet 2018 relative à la programmation militaire pour les années 2019 à 2025 et portant diverses dispositions intéressant la défense.
+
 Le chef des orchestres de la garde républicaine et le chef adjoint des orchestres de la garde républicaine peuvent, sur demande agréée, être maintenus en service au-delà de la durée de service par périodes de deux ans renouvelables.
 
 Les officiers sous contrat et les militaires commissionnés atteignant leur limite de durée de service sont, sur leur demande, maintenus en service pour une durée maximum de dix trimestres et dans la limite de la durée d'assurance nécessaire pour obtenir le pourcentage maximum de la pension mentionné à l'article L. 13 du code des pensions civiles et militaires de retraite.
 
 Cette prolongation de service est prise en compte au titre de la constitution et de la liquidation du droit à pension.
-
-NOTA:
-Conformément au B du XXX de l'article 10 de la loi n° 2023-270 du 14 avril 2023, ces dispositions s'appliquent aux pensions prenant effet à compter du 1er septembre 2023.

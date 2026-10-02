@@ -6,9 +6,9 @@ I. - Les matériels de guerre, armes, munitions et leurs éléments désignés p
 
 Cette catégorie comprend :
 
-– A1 : les armes et éléments d'armes interdits à l'acquisition et à la détention ;
+- A1 : les armes et éléments d'armes interdits à l'acquisition et à la détention ;
 
-– A2 : les armes relevant des matériels de guerre, les matériels destinés à porter ou à utiliser au combat les armes à feu, les matériels de protection contre les gaz de combat ;
+- A2 : les armes relevant des matériels de guerre, les matériels destinés à porter ou à utiliser au combat les armes à feu, les matériels de protection contre les gaz de combat ;
 
 2° Catégorie B : armes soumises à autorisation pour l'acquisition et la détention ;
 

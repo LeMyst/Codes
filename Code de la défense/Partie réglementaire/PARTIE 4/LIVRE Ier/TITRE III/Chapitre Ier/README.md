@@ -1,1 +1,16 @@
-Chapitre Ier : Hiérarchie militaire
+# Chapitre Ier : Hiérarchie militaire
+
+- [Article D4131-1](Article%20D4131-1.md)
+- [Article D4131-2](Article%20D4131-2.md)
+- [Article D4131-3](Article%20D4131-3.md)
+- [Article D4131-4](Article%20D4131-4.md)
+- [Article D4131-5](Article%20D4131-5.md)
+- [Article R4131-6](Article%20R4131-6.md)
+- [Article R4131-7](Article%20R4131-7.md)
+- [Article R4131-8](Article%20R4131-8.md)
+- [Article R4131-9](Article%20R4131-9.md)
+- [Article R4131-10](Article%20R4131-10.md)
+- [Article R4131-11](Article%20R4131-11.md)
+- [Article R4131-12](Article%20R4131-12.md)
+- [Article R4131-13](Article%20R4131-13.md)
+- [Article R4131-14](Article%20R4131-14.md)

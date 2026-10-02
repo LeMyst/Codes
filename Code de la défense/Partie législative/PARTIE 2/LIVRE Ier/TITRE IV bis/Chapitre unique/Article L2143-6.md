@@ -14,7 +14,7 @@ C. - Les projets mentionnés au premier alinéa du présent I ne peuvent faire l
 
 II. - Durant l'état d'alerte de sécurité nationale, l'autorité administrative peut, au cas par cas, lorsque les besoins mentionnés au premier alinéa du I le justifient, décider d'autoriser les projets mentionnés au même premier alinéa selon les règles de procédure prévues au présent II.
 
-A. - Les projets sont dispensés de l'évaluation environnementale prévue à la section 1 du chapitre II du titre II du livre Ier du code de l'environnement et de toutes les formes de participation du public aux décisions ayant une incidence sur l'environnement régies par le chapitre III du même titre II.
+A. - Les projets sont dispensés de l'évaluation environnementale prévue à la section 1 du chapitre II du titre II du livre I<sup>er</sup> du code de l'environnement et de toutes les formes de participation du public aux décisions ayant une incidence sur l'environnement régies par le chapitre III du même titre II.
 
 B. - Pour la délivrance de l'autorisation mentionnée à l'article L. 181-1 du même code ou l'enregistrement mentionné à l'article L. 512-7 dudit code, le pétitionnaire dépose, auprès de l'autorité compétente, un dossier dont le contenu est fixé par décret en Conseil d'Etat. Ce dossier comprend une étude d'incidence environnementale, dont le contenu est adapté aux nécessités de l'urgence.
 

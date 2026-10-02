@@ -2,7 +2,7 @@
 
 La commission de réforme des militaires comprend :
 
-1° Un médecin chef des services ou un médecin en chef, président de 1re classe ou de 2e classe ;
+1° Un médecin chef des services ou un médecin en chef, président de 1<sup>re</sup> classe ou de 2<sup>e</sup> classe ;
 
 2° Un médecin principal ou un médecin ;
 

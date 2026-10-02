@@ -5,4 +5,4 @@ Lorsque des aumôniers militaires sont impliqués dans une même affaire aux cô
 Ce conseil délibère et vote distinctement par comparant. Prennent part à chaque délibération et à chaque vote le membre du conseil mentionné au 1° de l'article R. 4137-86 et, selon le comparant, soit les deux militaires mentionnés au 2° du même article, soit les deux aumôniers mentionnés à l'alinéa précédent.
 
 NOTA:
-Conformément à l'article 35 du décret n° 2025-1141 du 28 novembre 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur le 1er janvier 2026. Les procédures liées à une demande de sanction déposée avant cette date demeurent régies par les dispositions en vigueur au 31 décembre 2025.
+Conformément à l'article 35 du décret n° 2025-1141 du 28 novembre 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur le 1<sup>er</sup> janvier 2026. Les procédures liées à une demande de sanction déposée avant cette date demeurent régies par les dispositions en vigueur au 31 décembre 2025.

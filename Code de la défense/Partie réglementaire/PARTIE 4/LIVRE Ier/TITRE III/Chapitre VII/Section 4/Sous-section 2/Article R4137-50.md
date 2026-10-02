@@ -7,4 +7,4 @@ Lorsque le comparant est un militaire de carrière, le conseil est composé au m
 Lorsque la hiérarchie militaire générale d'un corps statutaire ne prévoit pas de grade supérieur à celui du comparant, il est fait appel pour l'application du cinquième alinéa de l'article L. 4137-3 à des militaires d'un grade supérieur à celui du comparant d'un autre corps statutaire au sein de la même force armée ou formation rattachée ou, à défaut, d'une autre force armée ou formation rattachée.
 
 NOTA:
-Conformément à l'article 35 du décret n° 2025-1141 du 28 novembre 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur le 1er janvier 2026. Les procédures liées à une demande de sanction déposée avant cette date demeurent régies par les dispositions en vigueur au 31 décembre 2025.
+Conformément à l'article 35 du décret n° 2025-1141 du 28 novembre 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur le 1<sup>er</sup> janvier 2026. Les procédures liées à une demande de sanction déposée avant cette date demeurent régies par les dispositions en vigueur au 31 décembre 2025.

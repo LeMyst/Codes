@@ -1,1 +1,15 @@
-Section 1 : Responsabilités générales du chef d'état-major des armées
+# Section 1 : Responsabilités générales du chef d'état-major des armées
+
+- [Paragraphe 1 : Emploi des forces](Paragraphe%201/README.md)
+- [Paragraphe 2 : Préparation et mise en condition d'emploi des armées](Paragraphe%202/README.md)
+- [Paragraphe 3 : Constitution des capacités militaires](Paragraphe%203/README.md)
+- [Paragraphe 4 : Ressources humaines](Paragraphe%204/README.md)
+- [Paragraphe 5 : Relations internationales militaires](Paragraphe%205/README.md)
+- [Paragraphe 5 bis : Défense des systèmes d'information](Paragraphe%205%20bis/README.md)
+- [Paragraphe 6 : Soutien des armées](Paragraphe%206/README.md)
+- [Paragraphe 7 : Responsabilités diverses](Paragraphe%207/README.md)
+- [Article R\*3121-1](Article%20R3121-1.md)
+- [Article R\*3121-2](Article%20R3121-2.md)
+- [Article R\*3121-3](Article%20R3121-3.md)
+- [Article R\*3121-4](Article%20R3121-4.md)
+- [Article R\*3121-5](Article%20R3121-5.md)

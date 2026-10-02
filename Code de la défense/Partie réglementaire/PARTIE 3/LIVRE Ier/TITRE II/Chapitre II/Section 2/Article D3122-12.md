@@ -7,4 +7,4 @@ L'inspection générale de la gendarmerie nationale est chargée de s'assurer de
 Les attributions et l'organisation de l'inspection générale de la gendarmerie nationale sont précisées par arrêté du ministre de l'intérieur.
 
 NOTA:
-Conformément à l’article 2 du décret n° 2023-679 du 28 juillet 2023, ces dispositions entrent en vigueur le 1er août 2023.
+Conformément à l’article 2 du décret n° 2023-679 du 28 juillet 2023, ces dispositions entrent en vigueur le 1<sup>er</sup> août 2023.

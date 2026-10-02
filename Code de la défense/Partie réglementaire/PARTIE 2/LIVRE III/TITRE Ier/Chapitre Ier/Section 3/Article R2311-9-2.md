@@ -7,4 +7,4 @@ La détention et l'usage d'appareils photographiques, cinématographiques, tél�
 La publication ou la cession de films, de photographies ou d'enregistrements pris dans les enceintes, établissements militaires, bâtiments de la flotte et aéronefs, ou à l'occasion d'opérations, de manœuvre ou de toute autre activité militaire est soumise à l'autorisation préalable du chef de l'organisme militaire ou du commandant de la formation administrative.
 
 NOTA:
-Conformément à l'article 4 du du décret n° 2025-783 du 6 août 2025, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le 1er septembre 2025.
+Conformément à l'article 4 du du décret n° 2025-783 du 6 août 2025, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le 1<sup>er</sup> septembre 2025.

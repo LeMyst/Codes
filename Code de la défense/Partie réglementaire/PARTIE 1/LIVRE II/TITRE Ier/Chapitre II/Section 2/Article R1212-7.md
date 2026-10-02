@@ -3,7 +3,7 @@
 La composition des régions de gendarmerie et des groupements de gendarmerie départementale est fixée conformément au tableau suivant :
 
 | RÉGIONS DE GENDARMERIE | GROUPEMENTS DE GENDARMERIE DÉPARTEMENTALE |
-| --- | --- |
+| -- | -- |
 | Ile-de-France | Essonne, Seine-et-Marne, Val-d'Oise, Yvelines. |
 | Grand Est | Aube, Ardennes, Bas-Rhin, Haut-Rhin, Haute-Marne, Marne, Meurthe-et-Moselle, Meuse, Moselle, Vosges. |
 | Nouvelle-Aquitaine | Charente, Charente-Maritime, Corrèze, Creuse, Deux-Sèvres, Dordogne, Gironde, Haute-Vienne, Landes, Lot-et-Garonne, Pyrénées-Atlantiques, Vienne. |

@@ -7,4 +7,4 @@ Les armes de dotation réglementaire sont obligatoirement portées par les milit
 II. – Il est interdit aux militaires de détenir dans les enceintes et établissements militaires ou en campagne, dans les cantonnements et véhicules, ainsi qu'à bord des bâtiments de la flotte et des aéronefs, et de porter, même en uniforme, une arme personnelle, sauf autorisation préalable du chef de l'organisme militaire ou du commandant de la formation administrative.
 
 NOTA:
-Conformément à l’article 12 du décret n° 2025-784 du 6 août 2025, les dispositions issues de la rédaction du décret précité entrent en vigueur le 1er septembre 2025.
+Conformément à l’article 12 du décret n° 2025-784 du 6 août 2025, les dispositions issues de la rédaction du décret précité entrent en vigueur le 1<sup>er</sup> septembre 2025.

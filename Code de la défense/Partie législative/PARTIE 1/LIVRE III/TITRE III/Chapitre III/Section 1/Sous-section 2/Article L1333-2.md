@@ -11,4 +11,4 @@ L'exportateur est tenu de stipuler aux acquéreurs et sous-acquéreurs les condi
 Dans les cas prévus par l'article L. 1333-9 du code de la santé publique, l'autorisation délivrée au titre du présent article assure la prise en compte des obligations mentionnées à l'article L. 1333-7 de ce code en matière de protection contre les actes de malveillance
 
 NOTA:
-Conformément à l’article 20 de la loi n° 2024-450 du 21 mai 2024, ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément à l’article 20 de la loi n° 2024-450 du 21 mai 2024, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2025.

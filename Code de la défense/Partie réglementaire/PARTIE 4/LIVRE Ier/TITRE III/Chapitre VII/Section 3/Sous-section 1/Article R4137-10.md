@@ -9,4 +9,4 @@ La liste des fonctions pour lesquelles les autorités militaires sont investies 
 Tout commandement impliquant la délivrance d'un titre de commandement comporte pour son titulaire les prérogatives d'autorité militaire de premier ou de deuxième niveau.
 
 NOTA:
-Conformément à l'article 35 du décret n° 2025-1141 du 28 novembre 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur le 1er janvier 2026. Les procédures liées à une demande de sanction déposée avant cette date demeurent régies par les dispositions en vigueur au 31 décembre 2025.
+Conformément à l'article 35 du décret n° 2025-1141 du 28 novembre 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur le 1<sup>er</sup> janvier 2026. Les procédures liées à une demande de sanction déposée avant cette date demeurent régies par les dispositions en vigueur au 31 décembre 2025.

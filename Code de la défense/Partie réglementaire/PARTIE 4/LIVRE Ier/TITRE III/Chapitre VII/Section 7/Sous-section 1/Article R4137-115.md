@@ -13,4 +13,4 @@ Ils sont attribués par le ministre de la défense qui fixe par arrêté le bar�
 4° Lorsqu'un militaire s'est déjà vu infliger sur une période de douze mois plusieurs attributions de points négatifs relatives à des fautes de même gravité dont le cumul est supérieur à 40 points, une nouvelle faute ou manquement de gravité équivalente ou supérieure peut faire l'objet d'une sanction de retrait de qualification.
 
 NOTA:
-Conformément à l'article 35 du décret n° 2025-1141 du 28 novembre 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur le 1er janvier 2026. Les procédures liées à une demande de sanction déposée avant cette date demeurent régies par les dispositions en vigueur au 31 décembre 2025.
+Conformément à l'article 35 du décret n° 2025-1141 du 28 novembre 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur le 1<sup>er</sup> janvier 2026. Les procédures liées à une demande de sanction déposée avant cette date demeurent régies par les dispositions en vigueur au 31 décembre 2025.

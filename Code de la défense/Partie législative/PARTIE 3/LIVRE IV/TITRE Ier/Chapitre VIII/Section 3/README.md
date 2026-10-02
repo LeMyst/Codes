@@ -1,1 +1,4 @@
-Section 3 : Dispositions diverses
+# Section 3 : Dispositions diverses
+
+- [Article L3418-8](Article%20L3418-8.md)
+- [Article L3418-9](Article%20L3418-9.md)

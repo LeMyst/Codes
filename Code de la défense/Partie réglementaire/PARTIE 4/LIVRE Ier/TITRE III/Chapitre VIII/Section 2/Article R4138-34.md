@@ -9,4 +9,4 @@ La mise en détachement est prononcée par arrêté du ministre de la défense, 
 II.-La nomination dans un des emplois régis par le décret n° 2022-1453 du 23 novembre 2022 relatif aux conditions de classement, d'avancement et de rémunération applicables à certains emplois supérieurs de la fonction publique de l'Etat emporte détachement dans l'emploi correspondant. Le détachement prend effet à la date d'effet de la nomination, ou à la date de l'installation dans l'emploi si celle-ci est postérieure à la première.
 
 NOTA:
-Conformément à l'article 35 du décret n° 2025-1141 du 28 novembre 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur le 1er janvier 2026. Les procédures liées à une demande de sanction déposée avant cette date demeurent régies par les dispositions en vigueur au 31 décembre 2025.
+Conformément à l'article 35 du décret n° 2025-1141 du 28 novembre 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur le 1<sup>er</sup> janvier 2026. Les procédures liées à une demande de sanction déposée avant cette date demeurent régies par les dispositions en vigueur au 31 décembre 2025.

@@ -1,1 +1,15 @@
-Sous-section 6 : Permissions et congé de fin de campagne
+# Sous-section 6 : Permissions et congé de fin de campagne
+
+- [Article R4138-16](Article%20R4138-16.md)
+- [Article R4138-17](Article%20R4138-17.md)
+- [Article R4138-18](Article%20R4138-18.md)
+- [Article R4138-19](Article%20R4138-19.md)
+- [Article R4138-20](Article%20R4138-20.md)
+- [Article R4138-21](Article%20R4138-21.md)
+- [Article R4138-22](Article%20R4138-22.md)
+- [Article R4138-23](Article%20R4138-23.md)
+- [Article R4138-24](Article%20R4138-24.md)
+- [Article R4138-25](Article%20R4138-25.md)
+- [Article R4138-26](Article%20R4138-26.md)
+- [Article R4138-26-1](Article%20R4138-26-1.md)
+- [Article R4138-27](Article%20R4138-27.md)

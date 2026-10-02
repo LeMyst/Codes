@@ -1,1 +1,15 @@
-Chapitre II : Obligations et responsabilités
+# Chapitre II : Obligations et responsabilités
+
+- [Article L4122-1](Article%20L4122-1.md)
+- [Article L4122-2](Article%20L4122-2.md)
+- [Article L4122-3](Article%20L4122-3.md)
+- [Article L4122-4](Article%20L4122-4.md)
+- [Article L4122-5](Article%20L4122-5.md)
+- [Article L4122-6](Article%20L4122-6.md)
+- [Article L4122-7](Article%20L4122-7.md)
+- [Article L4122-8](Article%20L4122-8.md)
+- [Article L4122-9](Article%20L4122-9.md)
+- [Article L4122-10](Article%20L4122-10.md)
+- [Article L4122-11](Article%20L4122-11.md)
+- [Article L4122-12](Article%20L4122-12.md)
+- [Article L4122-13](Article%20L4122-13.md)

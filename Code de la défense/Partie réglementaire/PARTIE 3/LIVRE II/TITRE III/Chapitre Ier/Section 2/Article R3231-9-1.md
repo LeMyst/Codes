@@ -15,4 +15,4 @@ Ils exercent, le cas échéant par délégation de pouvoirs du ministre, les att
 III. - Les commandants de base de défense peuvent recevoir des délégations de pouvoirs et déléguer leur signature à leurs subordonnés.
 
 NOTA:
-Conformément à l'article 4 du du décret n° 2025-783 du 6 août 2025, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le 1er septembre 2025.
+Conformément à l'article 4 du du décret n° 2025-783 du 6 août 2025, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le 1<sup>er</sup> septembre 2025.

@@ -13,4 +13,4 @@ Le ministre de la défense désigne l'autorité chargée de constituer le consei
 Ce conseil délibère et vote distinctement par comparant. Prennent part à chaque délibération et à chaque vote les membres du conseil mentionnés au 1° ci-dessus et les membres mentionnés au 2° pour la délibération et le vote relatifs au comparant au titre duquel ils ont été désignés.
 
 NOTA:
-Conformément à l'article 35 du décret n° 2025-1141 du 28 novembre 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur le 1er janvier 2026. Les procédures liées à une demande de sanction déposée avant cette date demeurent régies par les dispositions en vigueur au 31 décembre 2025.
+Conformément à l'article 35 du décret n° 2025-1141 du 28 novembre 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur le 1<sup>er</sup> janvier 2026. Les procédures liées à une demande de sanction déposée avant cette date demeurent régies par les dispositions en vigueur au 31 décembre 2025.

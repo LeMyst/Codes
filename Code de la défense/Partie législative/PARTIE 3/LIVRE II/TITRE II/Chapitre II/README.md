@@ -1,1 +1,1 @@
-Chapitre II : Organisation de l'armée de terre.
+# Chapitre II : Organisation de l'armée de terre.

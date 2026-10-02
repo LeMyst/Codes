@@ -1,1 +1,21 @@
-Chapitre III : Le contrôle général des armées
+# Chapitre III : Le contrôle général des armées
+
+- [Article D3123-1](Article%20D3123-1.md)
+- [Article D3123-2](Article%20D3123-2.md)
+- [Article D3123-3](Article%20D3123-3.md)
+- [Article D3123-4](Article%20D3123-4.md)
+- [Article D3123-5](Article%20D3123-5.md)
+- [Article D3123-6](Article%20D3123-6.md)
+- [Article D3123-7](Article%20D3123-7.md)
+- [Article D3123-8](Article%20D3123-8.md)
+- [Article D3123-9](Article%20D3123-9.md)
+- [Article D3123-10](Article%20D3123-10.md)
+- [Article D3123-11](Article%20D3123-11.md)
+- [Article D3123-12](Article%20D3123-12.md)
+- [Article D3123-13](Article%20D3123-13.md)
+- [Article D3123-14](Article%20D3123-14.md)
+- [Article D3123-15](Article%20D3123-15.md)
+- [Article D3123-16](Article%20D3123-16.md)
+- [Article D3123-18](Article%20D3123-18.md)
+- [Article D3123-19](Article%20D3123-19.md)
+- [Article D3123-20](Article%20D3123-20.md)

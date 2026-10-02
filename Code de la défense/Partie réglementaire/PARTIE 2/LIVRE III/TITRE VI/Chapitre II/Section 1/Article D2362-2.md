@@ -11,4 +11,4 @@ Les autorités suivantes ont délégation du ministre de la défense pour déter
 4° Le directeur de la protection des installations, moyens et activités de la défense pour les formations, services, établissements et entreprises ne relevant de la responsabilité d'aucune des autorités mentionnées aux 1°, 2° et 3°.
 
 NOTA:
-Conformément à l’article 12 du décret n° 2025-784 du 6 août 2025, les dispositions issues de la rédaction du décret précité entrent en vigueur le 1er septembre 2025.
+Conformément à l’article 12 du décret n° 2025-784 du 6 août 2025, les dispositions issues de la rédaction du décret précité entrent en vigueur le 1<sup>er</sup> septembre 2025.

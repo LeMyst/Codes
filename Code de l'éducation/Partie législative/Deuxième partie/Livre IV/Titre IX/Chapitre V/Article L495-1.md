@@ -1,10 +1,10 @@
 # Article L495-1
 
-I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
+I. - Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR REDACTION |
 | --- | --- |
-| L. 401-1 et L. 401-2 | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
+| L. 401-1 et L. 401-2 | Résultant de la loi n° 2026-813 du 24 août 2026 |
 | L. 401-3 | Résultant de la loi n° 2010-1127 du 28 septembre 2010 |
 | L. 411-1 | Résultant de la loi n° 2013-595 du 8 juillet 2013 |
 | L. 411-3 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
@@ -32,33 +32,33 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 | L. 471-5 | Résultant de l'ordonnance n° 2000-916 du 19 septembre 2000 |
 | L. 472-1 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
 
-II.-Pour l'application du I :
+II. - Pour l'application du I :
 
 1° L'article L. 411-3 est ainsi rédigé :
 
-“ Art. L. 411-3.-Le premier alinéa de l'article L. 421-7 est applicable aux écoles. ” ;
+"Art. L. 411-3.-Le premier alinéa de l'article L. 421-7 est applicable aux écoles." ;
 
 2° A l'article L. 441-1 :
 
-a) Au I, les mots : “ au maire de la commune dans laquelle l'établissement est situé, ” et les mots : “ dans le département ” sont supprimés ;
+a) Au I, les mots : "au maire de la commune dans laquelle l'établissement est situé," et les mots : "dans le département" sont supprimés ;
 
-b) Au premier alinéa du II, les mots : “ le maire, ” et les mots : “ dans le département ” sont supprimés ;
+b) Au premier alinéa du II, les mots : "le maire," et les mots : "dans le département" sont supprimés ;
 
-3° Aux premier et second alinéas du II de l'article L. 441-2, les mots : “ au maire, ” et les mots : “ dans le département ” sont supprimés ;
+3° Aux premier et second alinéas du II de l'article L. 441-2, les mots : "au maire," et les mots : "dans le département" sont supprimés ;
 
-3° bis A la première phrase du premier alinéa et au deuxième alinéa de l'article L. 441-3-1, les mots : “ dans le département ” sont supprimés ;
+3° bis A la première phrase du premier alinéa et au deuxième alinéa de l'article L. 441-3-1, les mots : "dans le département" sont supprimés ;
 
-4° A l'article L. 442-2, les mots : “ dans le département ” sont supprimés ;
+4° A l'article L. 442-2, les mots : "dans le département" sont supprimés ;
 
 5° A l'article L. 444-3 :
 
 a) Au premier alinéa, la seconde phrase est supprimée ;
 
-b) Au deuxième alinéa, les mots : “ ; ils peuvent, en outre, les traduire, ainsi que leurs responsables et leurs personnels pris individuellement, devant le recteur d'académie ” sont supprimés ;
+b) Au deuxième alinéa, les mots : "; ils peuvent, en outre, les traduire, ainsi que leurs responsables et leurs personnels pris individuellement, devant le recteur d'académie" sont supprimés ;
 
-6° Au premier et deuxième alinéas de l'article L. 471-3, les mots : “ recteur d'académie ” sont remplacés par les mots : “ vice-recteur ” ;
+6° Au premier et deuxième alinéas de l'article L. 471-3, les mots : "recteur d'académie" sont remplacés par les mots : "vice-recteur" ;
 
 7° Les montants exprimés en euros sont applicables dans les îles Wallis et Futuna sous réserve de leur contrevaleur en monnaie locale.
 
 NOTA:
-Conformément à l’article 13 de l’ordonnance n° 2021-552 du 5 mai 2021, ces dispositions entrent en vigueur à la date d'entrée en vigueur des décrets portant actualisation et adaptation des dispositions réglementaires du code de l'éducation relatives à l'outre-mer et, au plus tard, le 1er janvier 2022.
+Conformément au II de l'article 3 de la loi n° 2026-813 du 24 août 2026, ces dispositions, dans leur rédaction issue du I de l'article 3 précité, entrent en vigueur à la date de la rentrée scolaire 2026-2027.

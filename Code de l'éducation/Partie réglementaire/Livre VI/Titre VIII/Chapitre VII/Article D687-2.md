@@ -1,6 +1,6 @@
 # Article D687-2
 
-I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
+I. - Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR REDACTION |
 | --- | --- |
@@ -53,11 +53,12 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | D. 612-30 | Résultant du décret n° 2022-850 du 3 juin 2022 |
 | D. 612-31 | Résultant du décret n° 2021-227 du 26 février 2021 |
 | D. 612-32-1 | Résultant du décret n° 2017-83 du 25 janvier 2017 |
-| D. 612-32-2 | Résultant du décret n° 2025-846 du 26 août 2025 |
-| D. 612-32-3 et D. 612-32-4 | Résultant du décret n° 2015-1168 du 21 septembre 2015 |
+| D. 612-32-2 | Résultant du décret n° 2026-752 du 6 août 2026 |
+| D. 612-32-3 | Résultant du décret n° 2015-1168 du 21 septembre 2015 |
 | D. 612-32-5 D. 612-33 | Résultant du décret n° 2017-83 du 25 janvier 2017 |
-| D. 612-34 | Résultant du décret n° 2025-144 du 17 février 2025 |
-| D. 612-35 et D. 612-36 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| D. 612-34 | Résultant du décret n° 2026-752 du 6 août 2026 |
+| D. 612-35 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| D. 612-36 | Résultant du décret n° 2026-752 du 6 août 2026 |
 | D. 612-36-1 | Résultant du décret n° 2016-672 du 25 mai 2016 |
 | D. 612-36-2 et D. 612-36-2-1 | Résultant du décret n° 2026-91 du 13 février 2026 |
 | D. 612-36-2-2 | Résultant du décret n° 2025-151 du 19 février 2025 |
@@ -70,7 +71,7 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | D. 612-36-4 | Résultant du décret n° 2017-83 du 25 janvier 2017 |
 | D. 612-37 à D. 612-41 D. 613-1 à D. 613-5 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 613-6 | Résultant du décret n° 2020-1180 du 25 septembre 2020 |
-| D. 613-7 | Résultant du décret n° 2018-633 du 18 juillet 2018 |
+| D. 613-7 | Résultant du décret n° 2026-130 du 20 février 2026 |
 | D. 613-8 à D. 613-25 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 613-25-1 | Décret n° 2020-1273 du 20 octobre 2020 |
 | D. 613-25-2 et D. 613-25-3 | Décret n° 2020-1273 du 20 octobre 2020 |
@@ -105,8 +106,7 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | D. 636-4 à D. 636-17 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 636-18 à D. 636-22 | Résultant du décret n° 2020-579 du 14 mai 2020 |
 | D. 636-48 à D. 636-53 | Résultant du décret n° 2020-1163 du 23 septembre 2020 |
-| D. 636-68 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| D. 636-69 | Résultant du décret n° 2016-21 du 14 janvier 2016 |
+| D. 636-68 et D. 636-69 | Résultant du décret n° 2026-130 du 20 février 2026 |
 | D. 636-69-1 | Résultant du décret n° 2021-1085 du 13 août 2021 |
 | D. 636-70, 1er et 4e alinéas | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
 | D. 636-71 | Résultant du décret n° 2015-652 du 10 juin 2015 |
@@ -114,6 +114,7 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | D. 636-73 à D. 636-76 | Résultant du décret n° 2018-633 du 18 juillet 2018 |
 | D. 636-77 | Résultant du décret n° 2019-836 du 12 août 2019 |
 | D. 636-78 à D. 636-81 | Résultant du décret n° 2018-633 du 18 juillet 2018 |
+| D. 636-85 à D. 636-87, à l'exception du 7° et du dernier alinéa | Résultant du décret n° 2026-130 du 20 février 2026 |
 | D. 642-1 à D. 642-4D. 642-11 à D. 642-13 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 642-14 et D. 642-15D. 642-17 à D. 642-31 | Résultant du décret n° 2025-144 du 17 février 2025 |
 | D. 642-33 | Résultant du décret n° 2013-756 du 19 août 2013 |
@@ -174,33 +175,18 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | D. 643-34 | Résultant du décret n° 2024-788 du 8 juillet 2024 |
 | D. 643-35 | Résultant du décret n° 2018-172 du 9 mars 2018 |
 | D. 643-35-1 | Résultant du décret n° 2014-791 du 9 juillet 2014 |
-| D. 643-36 et D. 643-37 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| D. 643-38 | Résultant du décret n° 2015-652 du 10 juin 2015 |
-| D. 643-39 à D. 643-41 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| D. 643-42 et D. 643-43 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
-| D. 643-44 et D. 643-45 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| D. 643-46 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
-| D. 643-47 à D. 643-49 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| D. 643-50 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
-| D. 643-51 à D. 643-53 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| D. 643-54 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
-| D. 643-55 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| D. 643-56 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
-| D. 643-57 | Résultant du décret n° 2020-1677 du 23 décembre 2020 |
-| D. 643-58 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
 | D. 651-1 | Résultant du décret n° 2021-441 du 13 avril 2021 |
 | D. 652-1 | Résultant du décret n° 2019-77 du 5 février 2019 |
 | D. 653-1 | Résultant du décret n° 2023-1321 du 27 décembre 2023 |
 | D. 672-15 à D. 672-24 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 674-1 | Résultant du décret n° 2017-959 du 10 mai 2017 |
 | D. 675-1 à D. 675-19 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| D. 675-20 | Résultant du décret n° 2015-1168 du 21 septembre 2015 |
 | D. 675-21 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 676-1 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
 | D. 677-1 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 678-1 | Résultant du décret n° 2015-1168 du 21 septembre 2015 |
 
-II.-Pour l'application du I :
+II. - Pour l'application du I :
 
 1° Dans toutes les dispositions mentionnées au I et à moins qu'il en soit disposé autrement au présent chapitre :
 
@@ -336,14 +322,15 @@ a) Au 2°, après les mots : " titre ou diplôme " est inséré le mot : " natio
 
 b) Au 3°, après les mots : " établissement public " est inséré le mot : " national " ;
 
-32° Au premier alinéa de l'article D. 643-40, les mots : " et par la voie de l'apprentissage " sont supprimés ;
+32° (Abrogé) ;
 
-33° Le quatrième alinéa de l'article D. 643-50 est remplacé par un alinéa ainsi rédigé :
+33° (Abrogé) ;
 
-" Pour les candidats mentionnés à l'article D. 643-48, dans le cas d'une réduction à un an du contrat d'apprentissage, la durée de formation ne peut être inférieure à 675 heures. " ;
+34° (Abrogé) ;
 
-34° Au 1° de l'article D. 643-56, les mots : " en centre de formation d'apprentis ou en section d'apprentissage " sont remplacés par les mots : " dans un organisme offrant des formations par la voie de l'apprentissage " ;
-
-35° A l'article D. 643-58, la deuxième phrase est supprimée ;
+35° (Abrogé) ;
 
 36° Au premier alinéa de l'article D. 672-17, les mots : " de haut niveau, mentionnés aux articles L. 221-3 et L. 221-5 du code du sport " sont remplacés par les mots : " inscrits sur la liste nationale des sportifs, entraîneurs, arbitres et juges sportifs de haut niveau ou y ayant figuré pendant trois ans au moins ".
+
+NOTA:
+Conformément au I de l'article 3 du décret n° 2026-130 du 20 février 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur pour les étudiants qui débutent leur formation après le 1er septembre 2026. Les étudiants ayant débuté leur formation avant cette date restent régis par les dispositions du code de l'éducation et du code de la santé publique dans leur rédaction antérieure à l'entrée en vigueur du décret précité.

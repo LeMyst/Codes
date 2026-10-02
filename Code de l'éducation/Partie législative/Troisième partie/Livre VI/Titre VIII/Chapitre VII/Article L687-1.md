@@ -12,10 +12,10 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | L. 611-6 | Résultant de la loi n° 2013-660 du 22 juillet 2013 |
 | L. 611-7 | Résultant de la loi n° 2010-241 du 10 mars 2010 |
 | L. 611-8 | Résultant de la loi n° 2024-449 du 21 mai 2024 |
-| L. 611-9 | Résultant de la loi n° 2025-1249 du 22 décembre 2025 |
+| L. 611-9 | Résultant de la loi n° 2026-791 du 16 août 2026 actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense |
 | L. 611-10 | Résultant de la loi n° 2017-86 du 27 janvier 2017 |
 | L. 611-11 | Résultant de la loi n° 2025-1249 du 22 décembre 2025 |
-| L. 611-12 | Résultant de la loi n° 2018-166 du 8 mars 2018 |
+| L. 611-12 | Résultant de la loi n° 2026-791 du 16 août 2026 actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense |
 | L. 612-1 | Résultant de la loi n° 2021-1774 du 24 décembre 2021 visant à accélérer l'égalité économique et professionnelle |
 | L. 612-1-1 et L. 612-2 | Résultant de la loi n° 2018-166 du 8 mars 2018 |
 | L. 612-3 | Résultant de la loi n° 2025-1249 du 22 décembre 2025 |
@@ -132,6 +132,3 @@ b) Au second alinéa, les mots : “ des premier et second degrés ” sont remp
 16° Au cinquième alinéa de l'article L. 634-1, les mots : “ dans les structures définies au chapitre VI du titre IV du livre Ier de la partie VI du code de la santé publique ” sont remplacés par les mots : “ dans des établissements publics de santé ” ;
 
 17° Au premier alinéa de l'article L. 641-2, les mots : “ et celles de l'article L. 6113-1 du code du travail ” sont supprimés.
-
-NOTA:
-Conformément à l’article 55 de l’ordonnance n° 2026-468 du 10 juin 2026, ces dispositions, dans leur rédaction résultant de ladite ordonnance, entrent en vigueur le lendemain de sa publication au Journal officiel de la République française dans les collectivités de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon, soit le 12 juin 2026 ; et le dixième jour suivant sa publication en Polynésie française, dans les îles Wallis et Futuna et en Nouvelle-Calédonie, soit le 21 juin 2026.

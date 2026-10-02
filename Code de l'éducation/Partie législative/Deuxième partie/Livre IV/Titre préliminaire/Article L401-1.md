@@ -4,7 +4,7 @@ Dans chaque école et établissement d'enseignement scolaire public, un projet d
 
 Le projet d'école ou d'établissement définit les modalités particulières de mise en oeuvre des objectifs et des programmes nationaux et précise les activités scolaires et périscolaires qui y concourent. Il précise les voies et moyens qui sont mis en oeuvre pour assurer la réussite de tous les élèves et pour associer les parents à cette fin. Il détermine également les modalités d'évaluation des résultats atteints.
 
-NOTA:
-Conformément à l'article 38, II de la loi n° 2019-791 du 26 juillet 2019 : Lorsque des expérimentations ont été autorisées sur le fondement de l'article L. 401-1 du code de l'éducation dans sa rédaction antérieure à la présente loi, elles se poursuivent jusqu'au terme de la période pour laquelle elles ont été autorisées.
+Le projet d'école ou d'établissement comporte une partie portant sur l'utilisation des technologies numériques au sein de l'école ou de l'établissement ainsi que des actions menées auprès des élèves, du personnel et des parents en matière de sensibilisation aux effets nocifs d'une exposition non raisonnée aux écrans et au caractère addictif des réseaux sociaux, notamment au regard des enjeux de santé publique.
 
-Conformément à l'article 63 de la loi n° 2019-791 du 26 juillet 2019, ces dispositions entrent en vigueur à la rentrée scolaire 2019.
+NOTA:
+Conformément au II de l'article 3 de la loi n° 2026-813 du 24 août 2026, ces dispositions, dans leur rédaction issue du I de l'article 3 précité, entrent en vigueur à la date de la rentrée scolaire 2026-2027.

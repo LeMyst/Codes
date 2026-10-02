@@ -42,7 +42,8 @@ Les dispositions relatives aux formations dispensées dans les instituts et éco
 
 20° Le décret n° 2023-1356 du 29 décembre 2023 relatif à la transformation du centre universitaire de formation et de recherche de Mayotte en établissement public à caractère scientifique, culturel et professionnel ;
 
-21° Le décret n° 2024-522 du 7 juin 2024 relatif à l'Institut national polytechnique de Bretagne.
+21° Le décret n° 2024-522 du 7 juin 2024 relatif à l'Institut national polytechnique de Bretagne ;
 
-NOTA:
-Conformément à l'article 16 du décret n° 2025-177 du 24 février 2025, ces dispositions entrent en vigueur le premier jour du premier mois qui suit celui de sa publication, soit le 1er mars 2025.
+22° Le décret n° 2026-762 du 8 août 2026 relatif à l'Ecole nationale supérieure de l'électronique et de ses applications ;
+
+23° Le décret n° 2026-878 du 17 septembre 2026 relatif à l'Ecole nationale supérieure de chimie de Rennes.

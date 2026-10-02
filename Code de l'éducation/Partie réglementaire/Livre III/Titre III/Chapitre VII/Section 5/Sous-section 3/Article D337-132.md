@@ -1,6 +1,6 @@
 # Article D337-132
 
-Le brevet des métiers d'art est obtenu par le succès à un examen ou par la validation des acquis de l'expérience en application de l'article L. 335-5 du code de l'éducation et dans les conditions fixées par les articles R. 335-5 à R. 335-11.
+Le brevet des métiers d'art est obtenu par le succès à un examen ou par la validation des acquis de l'expérience en application de l'article L. 335-5 du code de l'éducation et dans les conditions fixées par l'article R. 335-5.
 
 Les candidats qui n'obtiennent qu'une validation partielle reçoivent une attestation reconnaissant l'acquisition des blocs de compétences correspondant aux unités qu'ils ont validées. Cette attestation est délivrée par le recteur d'académie.
 

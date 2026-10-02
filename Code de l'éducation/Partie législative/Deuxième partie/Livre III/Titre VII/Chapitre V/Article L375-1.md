@@ -1,6 +1,6 @@
 # Article L375-1
 
-I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
+I. - Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
 | --- | --- |
@@ -19,7 +19,7 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 | L. 312-9-2 | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
 | L. 312-10 et L. 312-11 | Résultant de la loi n° 2013-595 du 8 juillet 2013 |
 | L. 312-12 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
-| L. 312-13, 1er alinéa | Résultant de la loi n° 2015-990 du 6 août 2015 |
+| L. 312-13, premier alinéa | Résultant de la loi n° 2026-798 du 18 août 2026 visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens |
 | L. 312-13-1 | Résultant de la loi n° n° 2022-217 du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale |
 | L. 312-13-2 | Résultant de la loi n° 2019-1428 du 24 décembre 2019 |
 | L. 312-14 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
@@ -30,7 +30,7 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 | L. 312-17-1-1 | Résultant de la loi n° 2016-444 du 13 avril 2016 |
 | L. 312-17-2 | Résultant de la loi n° 2011-814 du 7 juillet 2011 |
 | L. 312-17-3 | Résultant de la loi n° 2018-938 du 30 octobre 2018 |
-| L. 312-18 | Résultant de la loi n° 2004-806 du 9 août 2004 |
+| L. 312-18 | Résultant de la loi n° 2026-798 du 18 août 2026 visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens |
 | L. 312-19 | Résultant de la loi n° 2026-602 du 8 juillet 2026 visant à réduire l'impact environnemental de l'industrie textile |
 | L. 313-1 | Résultant de la loi n° 2021-1774 du 24 décembre 2021 visant à accélérer l'égalité économique et professionnelle |
 | L. 313-2 et L. 313-3 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
@@ -64,7 +64,7 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 | L. 336-1 et L. 336-2, L. 337-1 et L. 337-2 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
 | L. 341-1 | Résultant de la loi n° 2014-288 du 5 mars 2014 |
 
-II.-Pour l'application du I :
+II. - Pour l'application du I :
 
 1° Après le dernier alinéa de l'article L. 311-1, il est inséré un alinéa ainsi rédigé :
 

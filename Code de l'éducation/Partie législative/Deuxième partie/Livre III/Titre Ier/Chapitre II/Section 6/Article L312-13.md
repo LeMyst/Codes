@@ -1,6 +1,6 @@
 # Article L312-13
 
-L'enseignement du code de la route est obligatoire et est inclus dans les programmes d'enseignement des premier et second degrés.
+L'enseignement du code de la route est obligatoire et est inclus dans les programmes d'enseignement des premier et second degrés. Cet enseignement comprend une sensibilisation aux risques routiers induits par les conduites addictives, dont l'usage détourné du protoxyde d'azote pour en obtenir des effets psychoactifs.
 
 Le passage et la préparation de l'épreuve théorique du permis de conduire peuvent être organisés, en dehors du temps scolaire, dans les locaux des lycées et établissements régionaux d'enseignement adapté au bénéfice des élèves qui le souhaitent et qui remplissent les conditions fixées par le code de la route pour apprendre à conduire un véhicule à moteur en vue de l'obtention du permis de conduire.
 

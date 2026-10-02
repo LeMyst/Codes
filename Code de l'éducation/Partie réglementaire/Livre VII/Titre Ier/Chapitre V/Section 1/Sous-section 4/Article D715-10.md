@@ -20,9 +20,10 @@ Les dispositions relatives aux autres écoles ou instituts extérieurs au sens d
 
 9° Ecole nationale supérieure de mécanique et des microtechniques : décret n° 2018-285 du 18 avril 2018 relatif à l'Ecole nationale supérieure de mécanique et des microtechniques, établissement-composante de l'Université Marie et Louis Pasteur ;
 
-10° Etablissement public à caractère scientifique, culturel et professionnel dénommé “ Université de Mayotte ” ;
+10° Etablissement public à caractère scientifique, culturel et professionnel dénommé "Université de Mayotte" ;
 
-11° Institut national polytechnique de Bretagne : décret n° 2024-522 du 7 juin 2024 relatif à Institut national polytechnique de Bretagne.
+11° Institut national polytechnique de Bretagne : décret n° 2024-522 du 7 juin 2024 relatif à Institut national polytechnique de Bretagne ;
 
-NOTA:
-Conformément à l'article 16 du décret n° 2025-177 du 24 février 2025, ces dispositions entrent en vigueur le premier jour du premier mois qui suit celui de sa publication, soit le 1er mars 2025.
+12° Ecole nationale supérieure de l'électronique et de ses applications : décret n° 2026-762 du 8 août 2026 relatif à l'Ecole nationale supérieure de l'électronique et de ses applications ;
+
+13° Ecole nationale supérieure de chimie de Rennes : décret n° 2026-878 du 17 septembre 2026 relatif à l'Ecole nationale supérieure de chimie de Rennes.

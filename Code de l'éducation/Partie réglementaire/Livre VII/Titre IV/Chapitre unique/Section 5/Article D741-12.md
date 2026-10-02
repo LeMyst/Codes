@@ -6,7 +6,7 @@ Les dispositions relatives aux établissements publics administratifs autres que
 
 2° Académie des sciences d'outre-mer : décret n° 72-1038 du 16 novembre 1972 portant refonte des statuts et approbation du règlement intérieur de l'Académie des sciences d'outre-mer et décret n° 2009-200 du 18 février 2009 portant approbation du règlement intérieur de l'Académie des sciences d'outre-mer ;
 
-3° Ecole nationale supérieure de l'électronique et de ses applications de Cergy : décret n° 75-29 du 15 janvier 1975 portant statut de l'Ecole nationale supérieure de l'électronique et de ses applications ;
+3° (Abrogé)
 
 4° (Abrogé)
 

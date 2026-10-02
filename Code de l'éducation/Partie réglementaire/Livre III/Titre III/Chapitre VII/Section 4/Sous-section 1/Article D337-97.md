@@ -4,4 +4,4 @@ Le référentiel de certification de chaque spécialité de brevet professionnel
 
 Le référentiel de certification est organisé en unités constituées d'un ensemble, cohérent au regard de la finalité du diplôme, de capacités, savoir-faire, compétences et savoirs. Certaines unités peuvent être communes à plusieurs diplômes. Il peut comporter des unités, dans la limite de trois, dont l'obtention est facultative.
 
-Une unité correspond à un bloc de compétences mentionné au 1° du II de l'article L. 6323-6 du code du travail.
+Une unité correspond à un bloc de compétences mentionné à l'article L. 6113-1 du code du travail.

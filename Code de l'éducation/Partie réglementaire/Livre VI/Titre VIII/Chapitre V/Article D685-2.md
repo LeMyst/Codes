@@ -1,6 +1,6 @@
 # Article D685-2
 
-I.-Sont applicables dans les Îles Wallis et Futuna, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
+I. - Sont applicables dans les Îles Wallis et Futuna, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR REDACTION |
 | --- | --- |
@@ -53,11 +53,12 @@ I.-Sont applicables dans les Îles Wallis et Futuna, sous réserve des adaptatio
 | D. 612-30 | Résultant du décret n° 2022-850 du 3 juin 2022 |
 | D. 612-31 | Résultant du décret n° 2021-227 du 26 février 2021 |
 | D. 612-32-1 | Résultant du décret n° 2017-83 du 25 janvier 2017 |
-| D. 612-32-2 | Résultant du décret n° 2025-846 du 26 août 2025 |
-| D. 612-32-3 et D. 612-32-4 | Résultant du décret n° 2015-1168 du 21 septembre 2015 |
+| D. 612-32-2 | Résultant du décret n° 2026-752 du 6 août 2026 |
+| D. 612-32-3 | Résultant du décret n° 2015-1168 du 21 septembre 2015 |
 | D. 612-32-5 D. 612-33 | Résultant du décret n° 2017-83 du 25 janvier 2017 |
-| D. 612-34 | Résultant du décret n° 2025-144 du 17 février 2025 |
-| D. 612-35 et D. 612-36 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| D. 612-34 | Résultant du décret n° 2026-752 du 6 août 2026 |
+| D. 612-35 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| D. 612-36 | Résultant du décret n° 2026-752 du 6 août 2026 |
 | D. 612-36-1 | Résultant du décret n° 2016-672 du 25 mai 2016 |
 | D. 612-36-2 et D. 612-36-2-1 | Résultant du décret n° 2026-91 du 13 février 2026 |
 | D. 612-36-2-2 | Résultant du décret n° 2025-151 du 19 février 2025 |
@@ -173,33 +174,18 @@ I.-Sont applicables dans les Îles Wallis et Futuna, sous réserve des adaptatio
 | D. 643-34 | Résultant du décret n° 2024-788 du 8 juillet 2024 |
 | D. 643-35 | Résultant du décret n° 2018-172 du 9 mars 2018 |
 | D. 643-35-1 | Résultant du décret n° 2014-791 du 9 juillet 2014 |
-| D. 643-36 et D. 643-37 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| D. 643-38 | Résultant du décret n° 2015-652 du 10 juin 2015 |
-| D. 643-39 à D. 643-41 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| D. 643-42 et D. 643-43 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
-| D. 643-44 et D. 643-45 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| D. 643-46 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
-| D. 643-47 à D. 643-49 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| D. 643-50 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
-| D. 643-51 à D. 643-53 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| D. 643-54 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
-| D. 643-55 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| D. 643-56 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
-| D. 643-57 | Résultant du décret n° 2020-1677 du 23 décembre 2020 |
-| D. 643-58 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
 | D. 651-1 | Résultant du décret n° 2021-441 du 13 avril 2021 |
 | D. 652-1 | Résultant du décret n° 2019-77 du 5 février 2019 |
 | D. 653-1 | Résultant du décret n° 2023-1321 du 27 décembre 2023 |
 | D. 672-15 à D. 672-24 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 674-1 | Résultant du décret n° 2017-959 du 10 mai 2017 |
 | D. 675-1 à D. 675-19 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| D. 675-20 | Résultant du décret n° 2015-1168 du 21 septembre 2015 |
 | D. 675-21 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 676-1 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
 | D. 677-1 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 678-1 | Résultant du décret n° 2015-1168 du 21 septembre 2015 |
 
-II.-Pour l'application du I :
+II. - Pour l'application du I :
 
 1° Dans toutes les dispositions mentionnées au I et à moins qu'il en soit disposé autrement au présent chapitre :
 
@@ -293,8 +279,11 @@ b) Au 5°, la phrase : " Celui-ci est désigné sur proposition du conseil acad�
 
 25° A l'article D. 643-34, les mots : " ou privé sous contrat " sont supprimés ;
 
-26° Au 1° de l'article D. 643-56, les mots : " appartenant à l'enseignement privé sous contrat ou " sont supprimés ;
+26° (Abrogé) ;
 
-27° A l'article D. 643-58, la deuxième phrase est supprimée ;
+27° (Abrogé) ;
 
 28° Au premier alinéa de l'article D. 672-17, les mots : " de haut niveau, mentionnés aux articles L. 221-3 et L. 221-5 du code du sport " sont remplacés par les mots : " inscrits sur la liste nationale des sportifs, entraîneurs, arbitres et juges sportifs de haut niveau ou y ayant figuré pendant trois ans au moins ".
+
+NOTA:
+Conformément à l'article 4 du décret n° 2025-788 du 7 août 2025, ces dispositions, dans leur rédaction résultant de l'article 2 dudit décret, entrent en vigueur le 31 août 2026.

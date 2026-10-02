@@ -1,7 +1,11 @@
 # Article L755-1
 
-L'Ecole polytechnique constitue un établissement public doté de la personnalité civile et de l'autonomie financière, placé sous la tutelle du ministre chargé de la défense.
+L'Ecole polytechnique constitue un établissement public de l'Etat jouissant de la personnalité morale et de l'autonomie pédagogique et scientifique, administrative et financière et placé sous la tutelle du ministre de la défense.
 
-L'administration de l'école est assurée par un conseil d'administration et le président de ce conseil. Un officier général assure, sous l'autorité du président du conseil d'administration, la direction générale et le commandement militaire de l'école.
+L'école est administrée par un conseil d'administration comprenant, outre son président nommé par décret, des représentants de l'Etat et de collectivités territoriales, des personnalités qualifiées, des représentants élus du personnel et des représentants élus ou désignés des usagers. Elle est dirigée par un directeur général, qui est un officier général et assure le commandement militaire de l'école. Le directeur général participe au conseil d'administration sans voix délibérative.
 
-Un décret en Conseil d'Etat précise la répartition des pouvoirs et des responsabilités entre le conseil d'administration et son président. Il fixe également les règles relatives à l'organisation et au régime administratif et financier de l'école, qui est soumise, sauf dérogation prévue par le même décret, aux dispositions réglementaires concernant l'administration et le contrôle financier des établissements publics à caractère administratif dotés de l'autonomie financière.
+Ses principales ressources sont constituées par des subventions de personnes publiques ou privées, françaises ou étrangères, le produit des droits de scolarité, les dons et legs faits à son profit, toute recette provenant de l'exercice de ses activités, les revenus des biens meubles et immeubles, les produits des emprunts et les revenus issus de ses prises de participation.
+
+Le titre Ier du présent livre lui est applicable, à l'exception de la première phrase du deuxième alinéa de l'article L. 717-1.
+
+Un décret en Conseil d'Etat détermine les modalités d'application du présent article.

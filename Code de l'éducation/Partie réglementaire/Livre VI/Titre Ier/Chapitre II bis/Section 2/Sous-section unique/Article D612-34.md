@@ -1,72 +1,55 @@
 # Article D612-34
 
-Le grade de master est conféré de plein droit aux titulaires :
+Le grade de master est conféré de plein droit :
 
-1° D'un diplôme de master ;
+I. - Aux titulaires des diplômes nationaux et diplômes d'Etat suivants :
 
-2° D'un diplôme d'études approfondies ou d'un diplôme d'études supérieures spécialisées ;
+1° D'un diplôme d'études approfondies ou d'un diplôme d'études supérieures spécialisées ;
+
+2° D'un diplôme national de master ;
 
 3° D'un diplôme d'ingénieur ;
 
-4° Des diplômes délivrés :
+4° D'un diplôme national supérieur d'expression plastique mentionné à l'article D. 759-5, à compter de l'année universitaire 2011-2012 ;
 
-a) Par l'Institut d'études politiques de Paris, en application de l'article 2 du décret 2016-24 du 18 janvier 2016 relatif à l'Institut d'études politiques de Paris et figurant sur une liste arrêtée par le ministre chargé de l'enseignement supérieur ;
+5° D'un diplôme d'études fondamentales vétérinaires délivré par les écoles nationales vétérinaires, mentionné à l'article R. 812-58 du code rural et de la pêche maritime ;
 
-b) Par les instituts d'études politiques, en application de l'article D. 741-10 et figurant sur une liste arrêtée par le ministre chargé de l'enseignement supérieur ;
+6° D'un diplôme d'Etat de paysagiste mentionné à l'article D. 812-27 du code rural et de la pêche maritime à compter de l'année universitaire 2017-2018 ;
 
-c) Par l'université Paris-Dauphine, par délégation et au nom de l'Université Paris sciences et lettres et figurant sur une liste arrêtée par le ministre chargé de l'enseignement supérieur.
+7° Du diplôme d'Etat d'architecte mentionné à l'article R. 672-5 dans les conditions fixées par les articles R. 672-7 et R. 672-14 ;
 
-d) Par les écoles normales supérieures et figurant sur une liste arrêtée par le ministre chargé de l'enseignement supérieur ;
+8° Du diplôme supérieur de comptabilité et de gestion à compter de l'année universitaire 2010-2011 ;
 
-e) Par l'Ecole nationale supérieure des arts et techniques du théâtre et figurant sur une liste arrêtée par le ministre chargé de l'enseignement supérieur ;
+9° D'un diplôme supérieur d'arts appliqués à l'issue de l'année universitaire 2025-2026 ;
 
-f) Par l'Ecole nationale supérieure Louis Lumière et figurant sur une liste arrêtée par le ministre chargé de l'enseignement supérieur ;
+10° D'un diplôme national d'œnologue à compter de l'année universitaire 2022-2023 ;
 
-g) Par Université Côté d'Azur et figurant sur une liste arrêtée par le ministre chargé de l'enseignement supérieur ;
+11° D'un des diplômes de santé suivants :
 
-h) Par l'université de Montpellier et figurant sur une liste arrêtée par le ministre chargé de l'enseignement supérieur ;
+a) D'un diplôme de formation approfondie en sciences médicales à compter de l'année universitaire 2015-2016 ;
 
-i) Par l'Université Paris sciences et lettres (Université PSL) et figurant sur une liste arrêtée par le ministre chargé de l'enseignement supérieur ;
+b) D'un diplôme de formation approfondie en sciences pharmaceutiques à compter de l'année universitaire 2014-2015 ;
 
-j) Par CY Cergy Paris Université et figurant sur une liste arrêtée par le ministre chargé de l'enseignement supérieur ;
+c) D'un diplôme de formation approfondie en sciences odontologiques à compter de l'année universitaire 2014-2015 ;
 
-k) Par CentraleSupélec et figurant sur une liste arrêtée par le ministre chargé de l'enseignement supérieur ;
+d) D'un diplôme d'Etat de sage-femme, à compter de l'année universitaire 2014-2015 ;
 
-l) Par l'université de Brest et figurant sur une liste arrêtée par le ministre chargé de l'enseignement supérieur ;
+e) D'un diplôme de formation approfondie en sciences maïeutiques, à compter de l'année universitaire 2027-2028 ;
 
-m) Par l'Ecole d'économie et de sciences sociales quantitatives de Toulouse-TSE et figurant sur une liste arrêtée par le ministre chargé de l'enseignement supérieur.
+f) D'un certificat de capacité d'orthophoniste mentionné à l'article D. 636-18, à compter de l'année universitaire 2017-2018 ;
 
-Ces diplômes font l'objet d'une évaluation nationale périodique.
+g) D'un diplôme d'Etat d'infirmier en pratique avancée mentionné à l'article D. 636-73 ;
 
-En outre, le grade de master est également conféré de plein droit aux titulaires des diplômes délivrés au nom de l'Etat, de niveau analogue, figurant sur une liste établie après une évaluation nationale périodique de ces diplômes, par arrêté du ministre chargé de l'enseignement supérieur après avis conforme du ou des ministres dont relèvent les établissements concernés et après avis du Conseil national de l'enseignement supérieur et de la recherche.
+h) D'un diplôme d'Etat d'infirmier de bloc opératoire à compter de l'année universitaire 2023-2024, mentionné à l'article D. 636-82 ;
 
-5° Des diplômes de santé suivants :
+i) D'un des diplômes relevant du code de la santé publique mentionnés à l'article D. 636-69-1 dans les conditions fixées par les articles D. 636-70 à D. 636-72.
 
-a) D'un diplôme de formation approfondie en sciences médicales à l'issue de l'année universitaire 2015-2016 ;
+II. - Aux titulaires des diplômes d'établissements suivants :
 
-b) D'un diplôme de formation approfondie en sciences pharmaceutiques à l'issue de l'année universitaire 2014-2015 ;
+1° D'un diplôme de deuxième cycle délivré par un établissement public figurant sur une liste arrêtée par le ministre chargé de l'enseignement supérieur après avis du Conseil national de l'enseignement supérieur et de la recherche pour une première attribution de grade. Lorsque l'établissement ne relève pas de la tutelle exclusive du ministre chargé de l'enseignement supérieur, l'avis conforme du ou des ministres dont il relève est requis ;
 
-c) D'un diplôme de formation approfondie en sciences odontologiques à l'issue de l'année universitaire 2014-2015 ;
+2° D'un diplôme de deuxième cycle délivré par un établissement d'enseignement supérieur privé mentionné à l'article L. 641-3 et les écoles supérieures de commerce relevant de l'article L. 753-1 et figurant sur une liste arrêtée par le ministre chargé de l'enseignement supérieur pris après avis du Conseil national de l'enseignement supérieur et de la recherche.
 
-d) D'un diplôme d'Etat de sage-femme à l'issue de l'année universitaire 2014-2015 ;
+III. - Ces diplômes font l'objet d'une évaluation nationale périodique.
 
-e) Du certificat de capacité d'orthophoniste à l'issue de l'année universitaire 2017-2018 ;
-
-f) du diplôme d'Etat d'infirmier en pratique avancée ;
-
-g) Du diplôme d'Etat d'infirmier de bloc opératoire obtenu à l'issue de l'année universitaire 2023-2024 ;
-
-h) D'un diplôme de formation approfondie en sciences maïeutiques à l'issue de l'année universitaire 2027-2028.
-
-6° D'un diplôme supérieur de comptabilité et de gestion ;
-
-Ce diplôme fait l'objet d'une évaluation nationale périodique.
-
-7° D'un diplôme d'études fondamentales vétérinaires délivré par les écoles nationales vétérinaires ;
-
-8° D'un diplôme national d'œnologue à l'issue de l'année universitaire 2022-2023 ;
-
-9° D'un diplôme supérieur d'arts appliqués à l'issue de l'année universitaire 2025-2026.
-
-NOTA:
-Conformément à l'article 6 du décret n° 2025-144 du 17 février 2025, ledit décret entre en vigueur à compter de la rentrée universitaire 2025. Les candidats engagés dans les formations n'ayant pas obtenu d'autorisation d'ouverture au terme de l'article R. 642-16 restent régis par les dispositions de la section 4 du chapitre II du titre IV du livre VI de la partie réglementaire du code de l'éducation dans sa version antérieure à l'entrée en vigueur du décret précité.
+Le ministre chargé de l'enseignement supérieur fixe le cahier des charges que doivent respecter les diplômes permettant de conférer à leurs titulaires le grade de master.

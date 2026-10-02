@@ -74,7 +74,7 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 | L. 752-1 | Résultant de l'ordonnance n° 2021-1747 du 22 décembre 2021 |
 | L. 752-2 | Résultant de la loi n° 2020-105 du 10 février 2020 |
 | L. 753-1 | Résultant de la loi n° 2014-1545 du 20 décembre 2014 |
-| L. 755-1 | Résultant de la loi n° 2012-347 du 12 mars 2012 |
+| L. 755-1 | Résultant de la loi n° 2026-791 du 16 août 2026 actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense |
 | L. 755-2 et L. 755-3 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
 | L. 757-1 | Résultant de la loi n° 2018-1203 du 22 décembre 2018 |
 | L. 758-1 | Résultant du décret n° 2015-396 du 7 avril 2015 |

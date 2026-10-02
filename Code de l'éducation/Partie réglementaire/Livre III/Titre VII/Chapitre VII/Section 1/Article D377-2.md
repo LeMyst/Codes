@@ -91,13 +91,13 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | D. 336-22-1 | Résultant du décret n° 2012-640 du 3 mai 2012 |
 | D. 336-49 à D. 336-58 | Résultant du décret n° 2015-652 du 10 juin 2015 |
 | D. 337-1 | Résultant du décret n° 2024-122 du 19 février 2024 |
-| D. 337-2 | Résultant du décret n° 2019-640 du 25 juin 2019 |
+| D. 337-2 | Résultant du décret n° 2026-876 du 17 septembre 2026 |
 | D. 337-3 | Résultant du décret n° 2019-907 du 30 août 2019 |
-| D. 337-3-1 | Résultant du décret n° 2019-1236 du 26 novembre 2019 |
+| D. 337-3-1 | Résultant du décret n° 2026-876 du 17 septembre 2026 |
 | D. 337-4 | Résultant du décret n° 2024-122 du 19 février 2024 |
 | D. 337-5 | Résultant du décret n° 2020-726 du 12 juin 2020 |
 | D. 337-6 | Résultant du décret n° 2020-624 du 22 mai 2020 |
-| D. 337-7 | Résultant du décret n° 2024-122 du 19 février 2024 |
+| D. 337-7 | Résultant du décret n° 2026-876 du 17 septembre 2026 |
 | D. 337-8 | Résultant du décret n° 2020-726 du 12 juin 2020 |
 | D. 337-9 | Résultant du décret n° 2019-155 8 du 30 décembre 2019 |
 | D. 337-10 | Résultant du décret n° 2006-583 du 23 mai 2006 |
@@ -105,11 +105,12 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | D. 337-12 | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 337-13 | Résultant du décret n° 2024-122 du 19 février 2024 |
 | D. 337-14 | Résultant du décret n° 2021-940 du 15 juillet 2021 |
-| D. 337-15 | Résultant du décret n° 2006-583 du 23 mai 2006 |
-| D. 337-16 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
+| D. 337-16 | Résultant du décret n° 2026-876 du 17 septembre 2026 |
 | D. 337-16-1 | Résultant du décret n° 2024-122 du 19 février 2024 |
 | D. 337-17 et D. 337-18 | Résultant du décret n° 2020-726 du 12 juin 2020 |
-| D. 337-19 et D. 337-20 | Résultant du décret n° 2006-583 du 23 mai 2006 |
+| D. 337-18-1 | Résultant du décret n° 2026-876 du 17 septembre 2026 |
+| D. 337-19 | Résultant du décret n° 2006-583 du 23 mai 2006 |
+| D. 337-20 et D. 337-20-1 | Résultant du décret n° 2026-876 du 17 septembre 2026 |
 | D. 337-21 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
 | D. 337-21-1 | Résultant du décret n° 2015-520 du 11 mai 2015 |
 | D. 337-22 et D. 337-23 | Résultant du décret n° 2021-64 du 25 janvier 2021 |
@@ -117,8 +118,7 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | D. 337-24 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
 | D. 337-25-1 | Résultant du décret n° 2021-64 du 25 janvier 2021 |
 | D. 337-51 | Résultant du décret n° 2024-122 du 19 février 2024 |
-| D. 337-52 | Résultant du décret n° 2016-771 du 10 juin 2016 |
-| D. 337-53 | Résultant du décret n° 2019-640 du 25 juin 2019 |
+| D. 337-52 et 337-53 | Résultant du décret n° 2026-876 du 17 septembre 2026 |
 | D. 337-54 | Résultant du décret n° 2019-907 du 30 août 2019 |
 | D. 337-55 | Résultant du décret n° 2021-1910 du 30 décembre 2021 |
 | D. 337-59 | Résultant du décret n° 2020-1277 du 20 octobre 2020 |
@@ -128,21 +128,18 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | D. 337-63 | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 337-64, 1er, 2e, 4e et 6e alinéas | Résultant du décret n° 2019-907 du 30 août 2019 |
 | D. 337-65 | Résultant du décret n° 2024-542 du 13 juin 2024 |
-| D. 337-66 | Résultant du décret n° 2009-145 du 10 février 2009 |
 | D. 337-66-1 | Résultant du décret n° 2024-542 du 13 juin 2024 |
-| D. 337-67 | Résultant du décret n° 2006-583 du 23 mai 2006 |
-| D. 337-68 | Résultant du décret n° 2009-145 du 10 février 2009 |
-| D. 337-69 | Résultant du décret n° 2024-542 du 13 juin 2024 |
+| D. 337-67 à D. 337-69 | Résultant du décret n° 2026-876 du 17 septembre 2026 |
 | D. 337-70 | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 337-71 | Résultant du décret n° 2020-726 du 12 juin 2020 |
-| D. 337-72 et D. 337-73 | Résultant du décret n° 2006-583 du 23 mai 2006 |
+| D. 337-72 et D. 337-73 | Résultant du décret n° 2026-876 du 17 septembre 2026 |
 | D. 337-74 et D. 337-74-1 | Résultant du décret n° 2021-940 du 15 juillet 2021 |
 | D. 337-76 | Résultant du décret n° 2009-145 du 10 février 2009 |
 | D. 337-77 | Résultant du décret n° 2015-846 du 9 juillet 2015 |
-| D. 337-78 et D. 337-79 | Résultant du décret n° 2021-1524 du 25 novembre 2021 |
+| D. 337-78 et D. 337-79 | Résultant du décret n° 2026-876 du 17 septembre 2026 |
 | D. 337-80 | Résultant du décret n° 2009-145 du 10 février 2009 |
 | D. 337-81 | Résultant du décret n° 2021-1524 du 25 novembre 2021 |
-| D. 337-82 | Résultant du décret n° 2024-542 du 13 juin 2024 |
+| D. 337-82 | Résultant du décret n° 2026-876 du 17 septembre 2026 |
 | D. 337-83 à D. 337-85 | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 337-86 | Résultant du décret n° 2024-122 du 19 février 2024 |
 | D. 337-87 | Résultant du décret n° 2009-145 du 10 février 2009 |
@@ -151,11 +148,10 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | D. 337-90 | Résultant du décret n° 2012-197 du 8 février 2012 |
 | D. 337-91 à D. 337-93 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
 | D. 337-93-1 | Résultant du décret n° 2014-314 du 10 mars 2014 |
-| D. 337-94 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
+| D. 337-94 | Résultant du décret n° 2026-876 du 17 septembre 2026 |
 | D. 337-94-1 | Résultant du décret n° 2012-640 du 3 mai 2012 |
 | D. 337-95 | Résultant du décret n° 2024-122 du 19 février 2024 |
-| D. 337-96 | Résultant du décret n° 2006-583 du 23 mai 2006 |
-| D. 337-97 | Résultant du décret n° 2017-790 du 5 mai 2017 |
+| D. 337-96 et D. 337-97 | Résultant du décret n° 2026-876 du 17 septembre 2026 |
 | D. 337-98 | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 337-99 | Résultant du décret n° 2019-907 du 30 août 2019 |
 | D. 337-100 | Résultant du décret n° 2006-583 du 23 mai 2006 |
@@ -164,10 +160,13 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | D. 337-105 | Résultant du décret n° 2019-907 du 30 août 2019 |
 | D. 337-105-1 | Résultant du décret n° 2024-122 du 19 février 2024 |
 | D. 337-106 | Résultant du décret n° 2006-583 du 23 mai 2006 |
-| D. 337-107 à D. 337-109 | Résultant du décret n° 2020-726 du 12 juin 2020 |
+| D. 337-107 et D. 337-108 | Résultant du décret n° 2020-726 du 12 juin 2020 |
+| D. 337-109 | Résultant du décret n° 2026-876 du 17 septembre 2026 |
 | D. 337-110 | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 337-111 D. 337-113 | Résultant du décret n° 2021-940 du 15 juillet 2021 |
-| D. 337-114 à D. 337-116 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
+| D. 337-114 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
+| D. 337-115 | Résultant du décret n° 2026-876 du 17 septembre 2026 |
+| D. 337-116 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
 | D. 337-117 et D. 337-118 | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 337-119 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
 | D. 337-119-1 | Résultant du décret n° 2015-520 du 11 mai 2015 |
@@ -177,29 +176,53 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | D. 337-123 | Résultant du décret n° 2020-1677 du 23 décembre 2020 |
 | D. 337-123-1 | Résultant du décret n° 2015-520 du 11 mai 2015 |
 | D. 337-124 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
-| D. 337-125 | Résultant du décret n° 2024-122 du 19 février 2024 |
-| D. 337-126 | Résultant du décret n° 2017-790 du 5 mai 2017 |
+| D. 337-125 et D. 337-126 | Résultant du décret n° 2026-876 du 17 septembre 2026 |
 | D. 337-127, 1er, 2e, 3e, 4e, 5e et 7e alinéas | Résultant du décret n° 2019-907 du 30 août 2019 |
-| D. 337-129, 2e à 6e alinéas | Résultant du décret n° 2017-790 du 5 mai 2017 |
+| D. 337-129, 2e à 6e alinéas | Résultant du décret n° 2020-624 du 22 mai 2020 |
 | D. 337-130, 1er alinéa | Résultant du décret n° 2019-907 du 30 août 2019 |
 | D. 337-131 | Résultant du décret n° 2024-122 du 19 février 2024 |
-| D. 337-132 à D. 337-135 | Résultant du décret n° 2020-726 du 12 juin 2020 |
-| D. 337-136 à D. 337-137-1 | Résultant du décret n° 2015-652 du 10 juin 2015 |
-| D. 337-138 | Résultant du décret n° 2017-960 du 10 mai 2017 |
+| D. 337-132 | Résultant du décret n° 2026-876 du 17 septembre 2026 |
+| D. 337-133 | Résultant du décret n° 2020-726 du 12 juin 2020 |
+| D. 337-134 | Résultant du décret n° 2026-876 du 17 septembre 2026 |
+| D. 337-135 | Résultant du décret n° 2020-726 du 12 juin 2020 |
+| D. 337-136 | Résultant du décret n° 2017-793 du 5 mai 2017 |
+| D. 337-137 | Résultant du décret n° 2026-876 du 17 septembre 2026 |
+| D. 337-137-1 | Résultant du décret n° 2015-520 du 11 mai 2015 |
+| D. 337-138 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
 | D. 337-138-1 | Résultant du décret n° 2015-652 du 10 juin 2015 |
-| D. 337-139 à D. 337-142 | Résultant du décret n° 2023-824 du 25 août 2023 |
-| D. 337-145 | Résultant du décret n° 2023-824 du 25 août 2023 |
+| D. 337-139 | Résultant du décret n° 2023-824 du 25 août 2023 |
+| D. 337-140 | Résultant du décret n° 2026-876 du 17 septembre 2026 |
+| D. 337-141 | Résultant du décret n° 2023-824 du 25 août 2023 |
+| D. 337-142 et D. 337-145 | Résultant du décret n° 2026-876 du 17 septembre 2026 |
 | D. 337-146 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
-| D. 337-147 à D. 337-150 | Résultant du décret n° 2023-824 du 25 août 2023 |
+| D. 337-147 et D. 337-148 | Résultant du décret n° 2026-876 du 17 septembre 2026 |
+| D. 337-149 | Résultant du décret n° 2023-824 du 25 août 2023 |
+| D. 337-150 | Résultant du décret n° 2026-876 du 17 septembre 2026 |
 | D. 337-150-1 | Résultant du décret n° 2024-122 du 19 février 2024 |
-| D. 337-151 et D. 337-152 | Résultant du décret n° 2023-824 du 25 août 2023 |
+| D. 337-151 | Résultant du décret n° 2023-824 du 25 août 2023 |
+| D. 337-152 | Résultant du décret n° 2026-876 du 17 septembre 2026 |
 | D. 337-153 | Résultant du décret n° 2006-583 du 23 mai 2006 |
-| D. 337-154 à D. 337-155 | Résultant du décret n° 2023-824 du 25 août 2023 |
+| D. 337-154 et D. 337-154-1 | Résultant du décret n° 2026-876 du 17 septembre 2026 |
+| D. 337-155 | Résultant du décret n° 2023-824 du 25 août 2023 |
 | D. 337-156 et D. 337-157 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
-| D. 337-158 | Résultant du décret n° 2023-824 du 25 août 2023 |
+| D. 337-158 | Résultant du décret n° 2026-876 du 17 septembre 2026 |
 | D. 337-158-1 | Résultant du décret n° 2015-520 du 11 mai 2015 |
 | D. 337-159 et D. 337-160 | Résultant du décret n° 2023-824 du 25 août 2023 |
-| D. 337-183 à D. 337-186 et D. 337-190 à D. 337-225 | Résultant du décret n° 2026-88 du 13 février 2026 |
+| D. 337-183 | Résultant du décret n° 2026-88 du 13 février 2026 |
+| D. 337-184 | Résultant du décret n° 2026-876 du 17 septembre 2026 |
+| D. 337-185, D. 337-186 et D. 337-190 à D. 337-196 | Résultant du décret n° 2026-88 du 13 février 2026 |
+| D. 337-197 | Résultant du décret n° 2026-876 du 17 septembre 2026 |
+| D. 337-198 | Résultant du décret n° 2026-88 du 13 février 2026 |
+| D. 337-199 | Résultant du décret n° 2026-876 du 17 septembre 2026 |
+| D. 337-200 et D. 337-201 | Résultant du décret n° 2026-88 du 13 février 2026 |
+| D. 337-202 et D. 337-203 | Résultant du décret n° 2026-876 du 17 septembre 2026 |
+| D. 337-204 à D. 337-205 | Résultant du décret n° 2026-88 du 13 février 2026 |
+| D. 337-206 | Résultant du décret n° 2026-876 du 17 septembre 2026 |
+| D. 337-207 et D. 337-208 | Résultant du décret n° 2026-88 du 13 février 2026 |
+| D. 337-209 | Résultant du décret n° 2026-876 du 17 septembre 2026 |
+| D. 337-210 à D. 337-218 | Résultant du décret n° 2026-88 du 13 février 2026 |
+| D. 337-219 | Résultant du décret n° 2026-876 du 17 septembre 2026 |
+| D. 337-220 à D. 337-225 | Résultant du décret n° 2026-88 du 13 février 2026 |
 | D. 338-9 | Résultant du décret n° 2024-122 du 19 février 2024 |
 | D. 338-11 | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 338-12 et D. 338-13 | Résultant du décret n° 2009-1145 du 22 septembre 2009 |
@@ -261,7 +284,7 @@ b) Les mots : " dans le cadre du plan d'accompagnement personnalisé " sont remp
 
 10° A l'article D. 312-43, les mots : " du premier et ", " des horaires et " et " en vue d'assurer, notamment, une continuité dans l'apprentissage des règles de sécurité routière " sont supprimés ;
 
-10° bis Au dernier alinéa de l'article D. 313-14, les mots : “, et notamment à France compétences instituée aux articles L. 6123-5 à L. 6123-14 du code du travail en vue de l'élaboration et de la mise en œuvre de la politique coordonnée de formation professionnelle et de promotion sociale ” sont supprimés ;
+10° bis Au dernier alinéa de l'article D. 313-14, les mots : “, et notamment à France compétences instituée aux articles L. 6123-5 à L. 6123-14 du code du travailen vue de l'élaboration et de la mise en œuvre de la politique coordonnée de formation professionnelle et de promotion sociale ” sont supprimés ;
 
 11° A l'article D. 314-71 :
 
@@ -301,7 +324,7 @@ c) Au dernier alinéa, les mots : " notamment un représentant de chacun des min
 
 18° A l'article D. 333-9, après les mots : " arrêté du ministre chargé de l'éducation, " sont insérés les mots : " sous réserve de l'accord des autorités compétentes de la Nouvelle-Calédonie, " ;
 
-19° Au septième alinéa de l'article D. 334-8, au premier alinéa de l'article D. 334-14, au septième alinéa de l'article D. 336-8 et au premier alinéa de l'article D. 334-14, les mots : “ tel que défini à l'article L. 114 du code de l'action sociale et des familles ” sont supprimés ;
+19° Au septième alinéa de l'article D. 334-8, au premier alinéa de l'article D. 334-14, au septième alinéa de l'article D. 336-8 et au premier alinéa de l'article D. 334-14, les mots : “ tel que défini à l'article L. 114 du code de l'action sociale et des familles” sont supprimés ;
 
 20° Au deuxième alinéa de l'article D. 334-21, il est ajouté une phrase ainsi rédigée : " Toutefois, à défaut d'un président membre de l'enseignement supérieur, un professeur agrégé de l'enseignement du second degré peut être désigné. " ;
 
@@ -309,21 +332,21 @@ c) Au dernier alinéa, les mots : " notamment un représentant de chacun des min
 
 22° Au deuxième alinéa de l'article D. 336-20, il est ajouté une phrase ainsi rédigée : " Toutefois, à défaut d'un président membre de l'enseignement supérieur, un professeur agrégé de l'enseignement du second degré peut être désigné. " ;
 
-23° Au chapitre VII du titre III, la référence aux articles R. 335-5 à R. 335-11 est remplacée par la référence aux articles R. 335-5 et R. 335-6 ;
+23° (Abrogé) ;
 
-24° Au quatrième alinéa de l'article D. 337-2, les mots : " mentionné au 1° du II de l'article L. 6323-6 du code du travail " sont remplacés par les mots : " permettant de faire valider les acquis de l'expérience " ;
+24° Au quatrième alinéa de l'article D. 337-2, les mots : " mentionné à l'article L. 6113-1 du code du travail" sont remplacés par les mots : " permettant de faire valider les acquis de l'expérience " ;
 
 25° A l'article D. 337-6 :
 
-a) Au premier alinéa, d'une part, les mots : " établissement public local d'enseignement " sont remplacés par les mots : " établissement d'enseignement secondaire public ", d'autre part, les mots : " défini au livre II de la sixième partie du code du travail " et les mots : " définie au livre III de la sixième partie du même code " sont supprimés ;
+a) Au premier alinéa, d'une part, les mots : " établissement public local d'enseignement " sont remplacés par les mots : " établissement d'enseignement secondaire public ", d'autre part, les mots : " défini au livre II de la sixième partie du code du travail" et les mots : " définie au livre III de la sixième partie du même code" sont supprimés ;
 
-b) Au deuxième alinéa, les mots : " et conformément aux dispositions prévues au cinquième alinéa de l'article L. 6211-2 du code du travail , " sont supprimés ;
+b) Au deuxième alinéa, les mots : " et conformément aux dispositions prévues au cinquième alinéa de l'article L. 6211-2 du code du travail, " sont supprimés ;
 
 26° A l'article D. 337-7 :
 
 a) Au a, les mots : " dans un établissement public local d'enseignement " sont remplacés par les mots : " dans un établissement d'enseignement secondaire public " ;
 
-b) Au c, les mots : " définie au livre III de la sixième partie du code du travail " sont supprimés ;
+b) Au c, les mots : " définie au livre III de la sixième partie du code du travail" sont supprimés ;
 
 27° Le 2° de l'article D. 337-11 est ainsi rédigé :
 
@@ -333,7 +356,7 @@ b) Au c, les mots : " définie au livre III de la sixième partie du code du tra
 
 a) Au premier et au quatrième alinéas, les mots : " au sein d'une académie ou d'un groupement d'académies " sont remplacés par les mots : " dans le cadre du vice-rectorat, le cas échéant en collaboration avec un autre vice-rectorat, une académie ou un groupement d'académies " ;
 
-b) Au troisième alinéa, les mots : " conclu en application de l'article L. 6222-5-1 du code du travail , " et les mots : " conclu en application de l'article L. 6325-4-1 du même code , " sont supprimés ;
+b) Au troisième alinéa, les mots : " conclu en application de l'article L. 6222-5-1 du code du travail, " et les mots : " conclu en application de l'article L. 6325-4-1 du même code, " sont supprimés ;
 
 29° A l'article D. 337-22 :
 
@@ -341,7 +364,7 @@ a) Au premier alinéa, les mots : " au sein d'une académie ou d'un groupement d
 
 b) Au troisième alinéa, les mots : " par le ou les recteurs d'académie ou, par délégation de ceux-ci, par le ou les directeurs académiques des services de l'éducation nationale agissant sur délégation du recteur d'académie " sont remplacés par les mots : " par le vice-recteur ou par l'autorité chargée d'organiser la session d'examen du certificat d'aptitude professionnelle " ;
 
-30° Au quatrième alinéa de l'article D. 337-52, les mots : " mentionné au 1° du II de l'article L. 6323-6 du code du travail " sont remplacés par les mots : " permettant de faire valider les acquis de l'expérience " ;
+30° Au quatrième alinéa de l'article D. 337-52, les mots : " mentionné à l'article L. 6113-1 du code du travail" sont remplacés par les mots : " permettant de faire valider les acquis de l'expérience " ;
 
 31° Les quatre premiers alinéas de l'article D. 337-55 sont remplacés par un alinéa ainsi rédigé : " Le baccalauréat professionnel est préparé par la voie scolaire, par la voie de l'apprentissage ou par la voie de la formation professionnelle continue. " ;
 
@@ -349,17 +372,17 @@ b) Au troisième alinéa, les mots : " par le ou les recteurs d'académie ou, pa
 
 33° A l'article D. 337-60 :
 
-a) Au premier alinéa, les mots : " conformément aux dispositions prévues au cinquième alinéa de l'article L. 6211-2 du code du travail " sont supprimés ;
+a) Au premier alinéa, les mots : " conformément aux dispositions prévues au cinquième alinéa de l'article L. 6211-2 du code du travail" sont supprimés ;
 
-b) Au deuxième alinéa, les mots : " dans les conditions fixées par le troisième alinéa de l'article L. 6222-7-1 du code du travail " sont supprimés ;
+b) Au deuxième alinéa, les mots : " dans les conditions fixées par le troisième alinéa de l'article L. 6222-7-1 du code du travail" sont supprimés ;
 
 34° A l'article D. 337-63, après le mot : " français " est inséré le mot : ", néo-calédoniens " ;
 
 35° Au premier alinéa de l'article D. 337-74, les mots : " porté par un établissement public local d'enseignement, à l'exception de ceux prévus à l'article D. 337-74-1, par un groupement d'établissements (GRETA) ou par un groupement d'intérêt public “ formation continue et insertion professionnelle ” (GIP-FCIP) " sont remplacés par les mots : " relevant d'un organisme public " ;
 
-36° A l'article D. 337-89, les mots : " d'une académie ou d'un groupement d'académies " sont remplacés par les mots : " du territoire ou par mutualisation avec " ;
+36° A l'article D. 337-89, les mots : " d'une académie ou d'un groupement d'académies " sont remplacés par les mots : " du territoire ou par mutualisation avec des académies de métropole ou d'outre-mer " ;
 
-37° Au deuxième alinéa de l'article D. 337-90, les mots : " conclu en application de l'article L. 6222-5-1 du code du travail , ou d'un contrat de professionnalisation conclu en application de l'article L. 6325-4-1 du même code " sont remplacés par les mots : " ou d'un contrat de professionnalisation " ;
+37° Au deuxième alinéa de l'article D. 337-90, les mots : " conclu en application de l'article L. 6222-5-1 du code du travail, ou d'un contrat de professionnalisation conclu en application de l'article L. 6325-4-1 du même code" sont remplacés par les mots : " ou d'un contrat de professionnalisation " ;
 
 38° A l'article D. 337-93 :
 
@@ -369,29 +392,29 @@ b) Au huitième alinéa, après la deuxième phrase, il est inséré une phrase 
 
 39° Aux deuxième et troisième alinéas de l'article D. 337-94, les références : " D. 337-57, D. 337-58, " sont supprimées ;
 
-40° Au troisième alinéa de l'article D. 337-97, les mots : " mentionné au 1° du II de l'article L. 6323-6 du code du travail " sont remplacés par les mots : " permettant de faire valider les acquis de l'expérience " ;
+40° Au troisième alinéa de l'article D. 337-97, les mots : " mentionné à l'article L. 6113-1 du code du travail" sont remplacés par les mots : " permettant de faire valider les acquis de l'expérience " ;
 
 41° Aux 1° et 2° de l'article D. 337-99, la référence, respectivement, aux livres III et II
 
-de la sixième partie réglementaire du code du travail est supprimée ;
+de la sixième partie réglementaire du code du travailest supprimée ;
 
 42° A l'article D. 337-101 :
 
-a) Au deuxième alinéa, les mots : " conformément aux dispositions prévues au cinquième alinéa de l'article L. 6211-2 du code du travail " sont supprimés ;
+a) Au deuxième alinéa, les mots : " conformément aux dispositions prévues au cinquième alinéa de l'article L. 6211-2 du code du travail" sont supprimés ;
 
-b) Au troisième alinéa, les mots : " dans les conditions prévues au troisième alinéa de l'article L. 6222-7-1 du code du travail " sont supprimés ;
+b) Au troisième alinéa, les mots : " dans les conditions prévues au troisième alinéa de l'article L. 6222-7-1 du code du travail" sont supprimés ;
 
 43° Au premier alinéa de l'article D. 337-108, après le mot " français " sont insérés les mots : " ou néo-calédoniens " :
 
 44° Au premier alinéa de l'article D. 337-111, les mots : " porté par un établissement public local d'enseignement, par un groupement d'établissements (GRETA) ou par un groupement d'intérêt public “ formation continue et insertion professionnelle ” (GIP-FCIP) " sont remplacés par les mots : " relevant d'un organisme public " ;
 
-45° Au premier alinéa de l'article D. 337-114, les mots : " dans les conditions prévues par le code du travail " sont supprimés ;
+45° Au premier alinéa de l'article D. 337-114, les mots : " dans les conditions prévues par le code du travail" sont supprimés ;
 
 46° Au troisième alinéa de l'article D. 337-116, les mots : " sur autorisation du recteur d'académie " sont remplacés par les mots : " sur autorisation du vice-recteur ou de l'autorité chargée de l'organisation de l'examen du brevet professionnel " et les mots : " par le recteur au sein d'une académie ou d'un groupement d'académies " sont remplacés par les mots : " par le vice-recteur en Nouvelle-Calédonie ou par l'autorité chargée de l'organisation de l'examen au sein d'une académie ou d'un groupement d'académies " ;
 
 47° A l'article D. 337-122, les mots : " dans un cadre académique ou interacadémique, par décision du ou des recteurs d'académie concernés " sont remplacés par les mots : " en Nouvelle-Calédonie ou dans un cadre académique ou inter-académique, par le vice-recteur ou le ou les recteurs concernés " ;
 
-48° Au cinquième alinéa de l'article D. 337-126, les mots : " mentionné au 1° du II de l'article L. 6323-6 du code du travail " sont remplacés par les mots : " permettant de faire valider les acquis de l'expérience " ;
+48° Au cinquième alinéa de l'article D. 337-126, les mots : " mentionné à l'article L. 6113-1 du code du travail" sont remplacés par les mots : " permettant de faire valider les acquis de l'expérience " ;
 
 49° Les quatre premiers alinéas de l'article D. 337-127 sont remplacés par un alinéa ainsi rédigé :
 
@@ -399,9 +422,9 @@ b) Au troisième alinéa, les mots : " dans les conditions prévues au troisièm
 
 50° A l'article D. 337-129 :
 
-a) Au troisième alinéa, les mots : " pour les candidats relevant du 2° de l'article D. 337-127 " et les mots : " conformément aux dispositions prévues au cinquième alinéa de l'article L. 6211-2 du code du travail " sont supprimés ;
+a) Au troisième alinéa, les mots : " pour les candidats relevant du 2° de l'article D. 337-127 " et les mots : " conformément aux dispositions prévues au cinquième alinéa de l'article L. 6211-2 du code du travail" sont supprimés ;
 
-b) Au quatrième alinéa, les mots :, dans les conditions prévues au troisième alinéa de l'article L. 6222-7-1 du code du travail , " sont supprimés ;
+b) Au quatrième alinéa, les mots :, dans les conditions prévues au troisième alinéa de l'article L. 6222-7-1 du code du travail, " sont supprimés ;
 
 51° Au sixième alinéa de l'article D. 337-132, les mots : " porté par un établissement public local d'enseignement, par un groupement d'établissements (GRETA) ou par un groupement d'intérêt public “ formation continue et insertion professionnelle ” (GIP-FCIP) " sont remplacés par les mots : " relevant d'un organisme public " ;
 
@@ -413,7 +436,7 @@ a) Au premier alinéa, après les mots : " chaque année scolaire, " sont insér
 
 b) Au troisième alinéa, les mots : " Sur autorisation du recteur d'académie " sont remplacés par les mots : " Sur autorisation du vice-recteur ou de l'autorité chargée de l'organisation de l'examen " et les mots : " au sein d'une académie ou d'un groupement d'académies " sont remplacés par les mots : ", dans le même cadre " ;
 
-54° Au troisième alinéa de l'article D. 337-140, les mots : " mentionné au 1° du II de l'article L. 6323-6 du code du travail " sont remplacés par les mots : " permettant de faire valider les acquis de l'expérience " ;
+54° Au troisième alinéa de l'article D. 337-140, les mots : " mentionné à l'article L. 6113-1 du code du travail" sont remplacés par les mots : " permettant de faire valider les acquis de l'expérience " ;
 
 55° Les quatre premiers alinéas de l'article D. 337-142 sont remplacés par un alinéa ainsi rédigé :
 
@@ -421,11 +444,11 @@ b) Au troisième alinéa, les mots : " Sur autorisation du recteur d'académie "
 
 56° A l'article D. 337-145 :
 
-a) Au premier alinéa, les mots : ", conformément aux dispositions prévues au cinquième alinéa de l'article L. 6211-2 du code du travail , " sont supprimés et les mots : " mentionnés au 3° de l'article D. 337-142 " sont remplacés par les mots : " préparant le certificat de spécialisation par la voie de la formation professionnelle continue " ;
+a) Au premier alinéa, les mots : ", conformément aux dispositions prévues au cinquième alinéa de l'article L. 6211-2 du code du travail, " sont supprimés et les mots : " mentionnés au 3° de l'article D. 337-142 " sont remplacés par les mots : " préparant le certificat de spécialisation par la voie de la formation professionnelle continue " ;
 
 b) Au deuxième alinéa, les mots : " mentionnés au 1° de l'article D. 337-142 " sont remplacés par les mots : " préparant le certificat de spécialisation par la voie scolaire " et les mots : " ou par une décision de positionnement prise par le recteur d'académie après avis de l'équipe pédagogique " sont supprimés ;
 
-c) Au troisième alinéa, les mots : " mentionnés au 2° de l'article D. 337-142 " sont remplacés par les mots : " préparant le certificat de spécialisation par la voie de l'apprentissage " et les mots : " dans les conditions prévues au troisième alinéa de l'article L 6222-7-1 du code du travail et " sont supprimés ;
+c) Au troisième alinéa, les mots : " mentionnés au 2° de l'article D. 337-142 " sont remplacés par les mots : " préparant le certificat de spécialisation par la voie de l'apprentissage " et les mots : " dans les conditions prévues au troisième alinéa de l'article L 6222-7-1 du code du travailet " sont supprimés ;
 
 57° Au deuxième alinéa de l'article D. 337-146, les mots : " ou par une décision de positionnement prise par le recteur d'académie après avis de l'équipe pédagogique " sont supprimés ;
 
@@ -457,13 +480,13 @@ b) Au deuxième alinéa, les mots : “dans les conditions fixées par le troisi
 
 61° sexies A l'article D. 337-194, après le mot : “français”, est inséré le mot : “, néo-calédoniens” ;
 
-61° septies Au 2° de l'article D. 337-197, les mots : “, et dans les conditions fixées par les articles R. 6412-1 à R. 6412-6 du code du travail” sont supprimés ;
+61° septies (Abrogé) ;
 
-61° octies Au dernier alinéa du 1° de l'article D. 337-199, les mots : “, dans les conditions prévues par l'article R. 6412-7 du code du travail” sont supprimés ;
+61° octies (Abrogé) ;
 
-61° nonies A l'article D. 337-202, les mots : “conformément aux articles R. 6412-1 à R. 6412-7 du code du travail” sont supprimés ;
+61° nonies (Abrogé) ;
 
-61° decies A l'article D. 337-203, les mots : “, dans les conditions prévues par les articles R. 6412-1 à R. 6412-7 du code du travail,”sont supprimés ;
+61° decies (Abrogé) ;
 
 61° undecies Au premier alinéa de l'article D. 337-204, les mots : “porté par un établissement public local d'enseignement, par un groupement d'établissements (GRETA) ou par un groupement d'intérêt public “formation continue et insertion professionnelle” (GIP-FCIP)” sont remplacés par les mots : “relevant d'un organisme public” ;
 
@@ -504,6 +527,3 @@ b) Au troisième alinéa, les mots : " Le médecin " sont remplacés par les mot
 68° Le premier alinéa de l'article D. 351-28-1 est ainsi rédigé :
 
 " Par dérogation aux dispositions du premier et du troisième alinéa de l'article D. 351-28, les candidats qui bénéficient d'une scolarité spécialement adaptée pour tenir compte d'un trouble du neuro-développement adressent directement leur demande d'aménagements des conditions d'examen ou de concours national à l'autorité administrative compétente pour ouvrir et organiser l'examen ou le concours dans les délais prévus au deuxième alinéa de l'article D. 351-28. "
-
-NOTA:
-Conformément au I de l'article 3 du décret n° 2026-114 du 20 février 2026, ces dispositions, dans leur rédaction issue de l'article 2 du décret précité, entrent en vigueur à compter de la session 2026 des baccalauréats général et technologique.

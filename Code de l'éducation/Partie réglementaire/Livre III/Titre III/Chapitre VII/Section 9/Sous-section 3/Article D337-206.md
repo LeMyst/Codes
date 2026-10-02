@@ -12,6 +12,6 @@ Peuvent également se présenter à l'épreuve de contrôle les candidats ayant 
 
 Les candidats qui ont obtenu une moyenne générale au moins égale à 10 sur 20 à l'ensemble des épreuves prévues au 1° et au 2° de l'article D. 337-199 sont déclarés admis, après délibération du jury.
 
-Les candidats ajournés à l'examen sont tenus, lorsqu'ils tentent à nouveau d'obtenir le diplôme considéré au titre de la voie scolaire ou de l'apprentissage, de le représenter sous la forme globale. Dans ce cas, ils conservent, à leur demande et dans les conditions précisées à l'article D. 337-199, le bénéfice des notes obtenues aux épreuves ou unités prévues au 1° de l'article D. 337-199 lorsqu'elles sont supérieures ou égales à 10 sur 20 et présentent alors l'ensemble des unités non détenues.
+Les candidats ajournés à l'examen sont tenus, lorsqu'ils tentent à nouveau d'obtenir le diplôme considéré au titre de la voie scolaire ou de l'apprentissage, de le représenter sous la forme globale. Dans ce cas, ils conservent, à leur demande et dans les conditions précisées à l'article D. 337-199, le bénéfice des notes obtenues aux unités prévues au 1° de l'article D. 337-199 lorsqu'elles sont supérieures ou égales à 10 sur 20 et présentent alors l'ensemble des unités non détenues.
 
 Le calcul de la moyenne générale s'effectue sur la base des notes conservées et des notes obtenues aux évaluations à nouveau présentées.

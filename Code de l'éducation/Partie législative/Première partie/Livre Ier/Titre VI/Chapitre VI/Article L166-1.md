@@ -18,7 +18,7 @@ I.-Sont applicables en Polynésie française, sous réserve des adaptations pré
 | L. 123-3 à L. 123-4-1 | Résultant de la loi n° 2013-660 du 22 juillet 2013 |
 | L. 123-4-2 | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
 | L. 123-5 à L. 123-7 | Résultant de la loi n° 2013-660 du 22 juillet 2013 |
-| L. 123-7-1 | Résultant de l'ordonnance n° 2014-807 du 17 juillet 2014 |
+| L. 123-7-1 | Résultant de la loi n° 2026-791 du 16 août 2026 actualisant la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense |
 | L. 123-8 et L. 123-9 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
 | L. 124-1 | Résultant de la loi n° 2014-788 du 10 juillet 2014 |
 | L. 124-1-1 | Résultant de la loi n° 2020-1674 du 24 décembre 2020 |

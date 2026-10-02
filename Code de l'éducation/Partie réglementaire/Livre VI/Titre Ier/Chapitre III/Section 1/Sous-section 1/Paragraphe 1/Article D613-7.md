@@ -60,9 +60,9 @@ Les grades ou titres universitaires des disciplines de santé sont conférés pa
 
 24° Diplôme d'Etat d'infirmier en pratique avancée ;
 
-25° Diplôme d'Etat d'infirmier de bloc opératoire à l'issue de l'année universitaire 2023-2024.
+25° Diplôme d'Etat d'infirmier de bloc opératoire à l'issue de l'année universitaire 2023-2024 ;
+
+26° Diplôme d'Etat d'infirmier à l'issue de l'année universitaire 2028-2029.
 
 NOTA:
-Conformément aux I et II de l'article 3 du décret n° 2024-679 du 3 juillet 2024, ces dispositions s'appliquent aux étudiants qui débutent la deuxième année du premier cycle des études de maïeutique après le 1er septembre 2024.
-
-Sont régis par les dispositions des articles D. 635-1 et D. 635-5 du code de l'éducation, et D. 4151-1 du code de la santé publique dans leur rédaction antérieure à l'entrée en vigueur dudit décret, les étudiants qui ont validé la deuxième année du premier cycle des études de maïeutique, avant le 1er septembre 2024.
+Conformément au premier alinéa de l'article 3 du décret n° 2026-130 du 20 février 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur pour les étudiants qui débutent leur formation après le 1er septembre 2026. Les étudiants ayant débuté leur formation avant cette date restent régis par les dispositions du code de l'éducation et du code de la santé publique dans leur rédaction antérieure à l'entrée en vigueur du décret précité.

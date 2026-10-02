@@ -8,6 +8,8 @@ Le référentiel des activités professionnelles décrit les activités et les t
 
 Le référentiel de certification énumère les compétences et les connaissances ainsi que les niveaux d'exigence requis pour l'obtention du diplôme. Il les regroupe en unités qui peuvent être communes à plusieurs spécialités de brevets des métiers d'art.
 
-Une unité correspond à un bloc de compétences mentionné au 1° du II de l'article L. 6323-6 du code du travail.
+Une unité correspond à un bloc de compétences mentionné à l'article L. 6113-1 du code du travail.
 
 Le règlement d'examen du diplôme fixe la liste des épreuves, ainsi que leur coefficient et leurs modalités d'évaluation.
+
+Lorsqu'une dernière session d'examen est organisée au titre d'une spécialité, la dernière année d'entrée en formation ainsi que, pour les candidats en formulant la demande, l'année durant laquelle peut être organisée la dernière séance d'évaluation des acquis de l'expérience par un jury, sont fixées par un arrêté du ministre chargé de l'éducation.

@@ -44,7 +44,7 @@ Le statut d'institut et d'école extérieurs aux universités fixé par les arti
 
 13° Institut supérieur de mécanique de Paris ;
 
-13-1° Etablissement public à caractère scientifique, culturel et professionnel dénommé " Université de Mayotte " ;
+13-1° Etablissement public à caractère scientifique, culturel et professionnel dénommé "Université de Mayotte" ;
 
 14° Université de technologie de Compiègne ;
 
@@ -54,7 +54,8 @@ Le statut d'institut et d'école extérieurs aux universités fixé par les arti
 
 17° Université de technologie de Tarbes ;
 
-18° Institut national polytechnique de Bretagne.
+18° Institut national polytechnique de Bretagne ;
 
-NOTA:
-Conformément à l'article 16 du décret n° 2025-177 du 24 février 2025, ces dispositions entrent en vigueur le premier jour du premier mois qui suit celui de sa publication, soit le 1er mars 2025.
+19° Ecole nationale supérieure de l'électronique et de ses applications ;
+
+20° Ecole nationale supérieure de chimie de Rennes.

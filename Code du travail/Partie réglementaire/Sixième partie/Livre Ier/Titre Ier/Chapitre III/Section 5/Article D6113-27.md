@@ -11,4 +11,4 @@ Les projets de création, de révision ou de suppression des diplômes de l'ense
 4° Les diplômes de gestion relevant des articles L. 641-4 et L. 641-5 et revêtus d'un visa de l'Etat sont examinés par l'autorité mentionnée à l'article L. 114-3-1 du code de la recherche.
 
 NOTA:
-Conformément à l’article 2 du décret n° 2026-663 du 22 juillet 2026, ces dispositions, dans leur rédaction résultant dudit décret, entrent en vigueur le 1er septembre 2026.
+Conformément à l’article 2 du décret n° 2026-663 du 22 juillet 2026, ces dispositions, dans leur rédaction résultant dudit décret, entrent en vigueur le 1<sup>er</sup> septembre 2026.

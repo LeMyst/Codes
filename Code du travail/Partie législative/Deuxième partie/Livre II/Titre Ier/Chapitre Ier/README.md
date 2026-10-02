@@ -1,1 +1,1 @@
-Chapitre Ier : Champ d'application.
+# Chapitre Ier : Dialogue social.

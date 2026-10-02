@@ -49,8 +49,8 @@ V. ― Lors du premier entretien de parcours professionnel qui intervient au cou
 NOTA:
 Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.
 
-Conformément au X de l'article 99 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de l'article précité, sont applicables pour les enfants nés ou adoptés à compter du 1er janvier 2026 ainsi que pour les enfants nés avant cette date dont la naissance était censée intervenir à compter de cette date.
+Conformément au X de l'article 99 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de l'article précité, sont applicables pour les enfants nés ou adoptés à compter du 1<sup>er</sup> janvier 2026 ainsi que pour les enfants nés avant cette date dont la naissance était censée intervenir à compter de cette date.
 
 Conformément au II de l'article 3 de la loi n° 2025-989 du 24 octobre 2025, les entreprises ou, à défaut, les branches ayant conclu un accord en application du III de l'article L. 6315-1 du code du travail, dans sa rédaction antérieure à la loi précitée, engagent une négociation en vue de réviser ces accords pour les rendre conformes au présent article.
 
-L'article L. 6315-1 du code du travail, dans sa rédaction résultant de ladite loi, s'applique à compter du 1er octobre 2026 aux accords collectifs d'entreprise ou de branche en cours de validité à cette date portant sur la périodicité des entretiens professionnels.
+L'article L. 6315-1 du code du travail, dans sa rédaction résultant de ladite loi, s'applique à compter du 1<sup>er</sup> octobre 2026 aux accords collectifs d'entreprise ou de branche en cours de validité à cette date portant sur la périodicité des entretiens professionnels.

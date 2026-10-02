@@ -9,7 +9,7 @@ Lorsque les membres du comité social et économique sont également représenta
 Les effectifs s'apprécient dans le cadre de l'entreprise ou dans le cadre de chaque établissement distinct.
 
 | Effectif (nombre de salariés) | Nombre de titulaires | Nombre mensuel d'heures de délégation | Total heures de délégation |
-| --- | --- | --- | --- |
+| -- | -- | -- | -- |
 | 11 à 24 | 1 | 10 | 10 |
 | 25 à 49 | 2 | 10 | 20 |
 | 50 à 74 | 4 | 18 | 72 |

@@ -1,1 +1,17 @@
-Sous-section 7 : Cotisations et péréquation des charges.
+# Sous-section 7 : Cotisations et péréquation des charges.
+
+- [Article D5424-29](Article%20D5424-29.md)
+- [Article D5424-30](Article%20D5424-30.md)
+- [Article D5424-31](Article%20D5424-31.md)
+- [Article D5424-32](Article%20D5424-32.md)
+- [Article D5424-33](Article%20D5424-33.md)
+- [Article D5424-34](Article%20D5424-34.md)
+- [Article D5424-35](Article%20D5424-35.md)
+- [Article D5424-36](Article%20D5424-36.md)
+- [Article D5424-37](Article%20D5424-37.md)
+- [Article D5424-38](Article%20D5424-38.md)
+- [Article D5424-39](Article%20D5424-39.md)
+- [Article D5424-40](Article%20D5424-40.md)
+- [Article D5424-41](Article%20D5424-41.md)
+- [Article D5424-42](Article%20D5424-42.md)
+- [Article D5424-43](Article%20D5424-43.md)

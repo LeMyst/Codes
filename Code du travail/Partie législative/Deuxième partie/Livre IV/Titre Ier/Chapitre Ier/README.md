@@ -1,1 +1,17 @@
-Chapitre Ier : Protection en cas de licenciement
+# Chapitre Ier : Protection en cas de licenciement
+
+- [Section 1 : Champ d'application.](Section%201/README.md)
+- [Section 2 : Licenciement d'un délégué syndical ou d'un salarié mandaté](Section%202/README.md)
+- [Section 3 : Licenciement d'un membre de la délégation du personnel du comité social et économique](Section%203/README.md)
+- [Section 4 : Licenciement d'un représentant de proximité](Section%204/README.md)
+- [Section 5 : Licenciement d'un membre de la délégation du personnel du comité social et économique interentreprises](Section%205/README.md)
+- [Section 6 : Licenciement d'un membre du groupe spécial de négociation ou d'un membre du comité d'entreprise européen.](Section%206/README.md)
+- [Section 7 : Licenciement d'un membre du groupe spécial de négociation, d'un représentant au comité de la société européenne, d'un représentant au comité de la société coopérative européenne ou d'un représentant au comité de la société issue d'une fusion transfrontalière.](Section%207/README.md)
+- [Section 8 : Licenciement d'un représentant du personnel d'une entreprise extérieure à la commission santé, sécurité et condition de travail](Section%208/README.md)
+- [Section 9 : Licenciement d'un salarié membre d'une commission paritaire d'hygiène, de sécurité et des conditions de travail en agriculture.](Section%209/README.md)
+- [Section 10 : Licenciement de salariés titulaires d'autres mandats de représentation](Section%2010/README.md)
+- [Section 11 : Licenciement du conseiller du salarié.](Section%2011/README.md)
+- [Section 12 : Licenciement du conseiller prud'homme.](Section%2012/README.md)
+- [Section 13 : Licenciement d'un assesseur maritime.](Section%2013/README.md)
+- [Section 14 : Licenciement du défenseur syndical](Section%2014/README.md)
+- [Section 15 : Licenciement d'un salarié membre de la commission paritaire régionale interprofessionnelle](Section%2015/README.md)

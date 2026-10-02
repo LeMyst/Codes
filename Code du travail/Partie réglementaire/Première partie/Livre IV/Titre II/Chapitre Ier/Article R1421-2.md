@@ -7,4 +7,4 @@ Le président et le vice-président du conseil de prud'hommes en exercice remett
 L'autorité destinataire de la déclaration en accuse réception.
 
 NOTA:
-Conformément à l'article 4 du décret n° 2025-1088 du 17 novembre 2025, ces dispositions, dans leur rédaction issue de l'article 1er dudit décret, entrent en vigueur dans les conditions fixées au VIII de l'article 60 de la loi n° 2023-1059 du 20 novembre 2023 d'orientation et de programmation du ministère de la justice 2023-2027.
+Conformément à l'article 4 du décret n° 2025-1088 du 17 novembre 2025, ces dispositions, dans leur rédaction issue de l'article 1<sup>er</sup> dudit décret, entrent en vigueur dans les conditions fixées au VIII de l'article 60 de la loi n° 2023-1059 du 20 novembre 2023 d'orientation et de programmation du ministère de la justice 2023-2027.

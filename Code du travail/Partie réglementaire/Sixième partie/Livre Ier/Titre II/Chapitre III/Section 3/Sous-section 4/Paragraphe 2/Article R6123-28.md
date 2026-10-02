@@ -1,6 +1,6 @@
 # Article R6123-28
 
-Les dotations aux régions mentionnées à l'article R. 6123-24 leur sont versées avant le 1 er juin de chaque année.
+Les dotations aux régions mentionnées à l'article R. 6123-24 leur sont versées avant le 1 <sup>er</sup> juin de chaque année.
 
 La dotation au Centre national de la fonction publique territoriale prévue au 1° de l'article L. 6123-5 est versée selon des modalités fixées par décret.
 

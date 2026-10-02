@@ -15,4 +15,4 @@ II.-En cas de refus d'agrément par l'autorité administrative, celle-ci émet d
 III.-A défaut d'agrément ou en cas de dysfonctionnement répété ou de défaillances de l'instance paritaire nationale, l'autorité administrative désigne un administrateur provisoire.
 
 NOTA:
-Conformément au II de l'article 13 de la loi n° 2025-989 du 24 octobre 2025, ces dispositions, dans leur rédaction issue de ladite loi, entrent en vigueur le 1er janvier 2026.
+Conformément au II de l'article 13 de la loi n° 2025-989 du 24 octobre 2025, ces dispositions, dans leur rédaction issue de ladite loi, entrent en vigueur le 1<sup>er</sup> janvier 2026.

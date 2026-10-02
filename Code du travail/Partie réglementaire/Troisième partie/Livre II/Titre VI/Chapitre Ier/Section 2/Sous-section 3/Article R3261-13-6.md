@@ -7,4 +7,4 @@ Chaque entreprise agréée met en place une procédure garantissant que les titr
 Tout manquement aux obligations définies aux deux premiers alinéas est puni par une amende prévue pour les contraventions de quatrième classe.
 
 NOTA:
-Conformément à l’article 2 du décret n° 2021-1663 du 16 décembre 2021, ces dispositions entrent en vigueur au 1er janvier 2022.
+Conformément à l’article 2 du décret n° 2021-1663 du 16 décembre 2021, ces dispositions entrent en vigueur au 1<sup>er</sup> janvier 2022.

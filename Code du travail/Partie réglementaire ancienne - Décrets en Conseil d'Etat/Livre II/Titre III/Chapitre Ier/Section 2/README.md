@@ -1,1 +1,1 @@
-Section 2 : Pouvoirs de l'inspection du travail
+# Section 2 : Pouvoirs de l'inspection du travail

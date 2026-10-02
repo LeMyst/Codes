@@ -1,1 +1,1 @@
-Chapitre VI : Information et formation des travailleurs.
+# Chapitre VI : Information et formation des travailleurs.

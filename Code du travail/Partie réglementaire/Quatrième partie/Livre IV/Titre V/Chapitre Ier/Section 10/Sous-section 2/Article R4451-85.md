@@ -11,6 +11,6 @@ II.-Un arrêté conjoint des ministres chargés du travail et de l'agriculture d
 3° Les conditions pour qu'un organisme de formation puisse dispenser cette formation.
 
 NOTA:
-Conformément au I de l’article 4 du décret n° 2023-489 du 21 juin 2023, ces dispositions entrent en vigueur au 1er janvier 2024.
+Conformément au I de l’article 4 du décret n° 2023-489 du 21 juin 2023, ces dispositions entrent en vigueur au 1<sup>er</sup> janvier 2024.
 
 Se reporter aux conditions d’application prévues au II du même article.

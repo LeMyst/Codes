@@ -1,1 +1,1 @@
-Paragraphe 3 : Exceptions.
+# Paragraphe 3 : Exceptions.

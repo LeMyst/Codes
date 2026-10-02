@@ -1,1 +1,1 @@
-Section 4 : Règles comptables
+# Section 4 : Règles comptables

@@ -57,4 +57,4 @@ b) La date de début et de fin de fonction ou de mandat.
 La déclaration complémentaire prévue au sixième alinéa de l'article L. 1421-3 indique la nature et la date de l'événement ayant conduit à la modification substantielle des intérêts.
 
 NOTA:
-Conformément à l'article 4 du décret n° 2025-1088 du 17 novembre 2025, ces dispositions, dans leur rédaction issue de l'article 1er dudit décret, entrent en vigueur dans les conditions fixées au VIII de l'article 60 de la loi n° 2023-1059 du 20 novembre 2023 d'orientation et de programmation du ministère de la justice 2023-2027.
+Conformément à l'article 4 du décret n° 2025-1088 du 17 novembre 2025, ces dispositions, dans leur rédaction issue de l'article 1<sup>er</sup> dudit décret, entrent en vigueur dans les conditions fixées au VIII de l'article 60 de la loi n° 2023-1059 du 20 novembre 2023 d'orientation et de programmation du ministère de la justice 2023-2027.

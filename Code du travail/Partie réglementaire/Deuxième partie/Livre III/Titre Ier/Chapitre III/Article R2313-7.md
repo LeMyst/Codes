@@ -11,4 +11,4 @@ La décision du tribunal est notifiée par le greffe dans les trois jours par le
 La décision est susceptible d'un pourvoi en cassation dans un délai de dix jours. Le pourvoi est formé, instruit et jugé dans les conditions fixées par les articles 999 à 1008 du code de procédure civile.
 
 NOTA:
-Conformément à la première phrase du I de l'article 14 du décret n° 2025-619 du 8 juillet 2025, sous réserve des dispositions d'entrée en vigueur prévues par la loi du 13 juin 2024 suvisée pour l'article 10, ces dispositions entrent en vigueur le 1er septembre 2025 et sont applicables aux instances en cours à cette date.
+Conformément à la première phrase du I de l'article 14 du décret n° 2025-619 du 8 juillet 2025, sous réserve des dispositions d'entrée en vigueur prévues par la loi du 13 juin 2024 suvisée pour l'article 10, ces dispositions entrent en vigueur le 1<sup>er</sup> septembre 2025 et sont applicables aux instances en cours à cette date.

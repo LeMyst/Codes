@@ -11,4 +11,4 @@ Un décret en Conseil d'Etat détermine les modalités d'application des article
 4° Les règles applicables aux excédents financiers dont est susceptible de disposer l'instance paritaire nationale et les conditions de reversement de ces fonds à France compétences.
 
 NOTA:
-Conformément au II de l'article 13 de la loi n° 2025-989 du 24 octobre 2025, ces dispositions, dans leur rédaction issue de ladite loi, entrent en vigueur le 1er janvier 2026.
+Conformément au II de l'article 13 de la loi n° 2025-989 du 24 octobre 2025, ces dispositions, dans leur rédaction issue de ladite loi, entrent en vigueur le 1<sup>er</sup> janvier 2026.

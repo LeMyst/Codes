@@ -1,1 +1,15 @@
-Sous-section 1 : Allocation de professionnalisation et de solidarité et allocation de fin de droits.
+# Sous-section 1 : Allocation de professionnalisation et de solidarité et allocation de fin de droits.
+
+- [Article D5424-50](Article%20D5424-50.md)
+- [Article D5424-51](Article%20D5424-51.md)
+- [Article D5424-51-1](Article%20D5424-51-1.md)
+- [Article D5424-52](Article%20D5424-52.md)
+- [Article D5424-53](Article%20D5424-53.md)
+- [Article D5424-54](Article%20D5424-54.md)
+- [Article D5424-55](Article%20D5424-55.md)
+- [Article D5424-56](Article%20D5424-56.md)
+- [Article D5424-57](Article%20D5424-57.md)
+- [Article D5424-58](Article%20D5424-58.md)
+- [Article D5424-59](Article%20D5424-59.md)
+- [Article D5424-60](Article%20D5424-60.md)
+- [Article D5424-61](Article%20D5424-61.md)

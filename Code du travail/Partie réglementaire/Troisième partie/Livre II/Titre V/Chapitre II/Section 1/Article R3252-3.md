@@ -11,4 +11,4 @@ Pour l'application du premier alinéa, sont considérés comme personnes à char
 3° L'ascendant dont les ressources personnelles sont inférieures au montant forfaitaire du revenu de solidarité active mentionné à l'article L. 262-2 du code de l'action sociale et des familles, fixé pour un foyer composé d'une seule personne et qui habite avec le débiteur ou auquel le débiteur verse une pension alimentaire.
 
 NOTA:
-Conformément à l'article 3 du décret n° 2025-1299 du 24 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er janvier 2026.
+Conformément à l'article 3 du décret n° 2025-1299 du 24 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1<sup>er</sup> janvier 2026.

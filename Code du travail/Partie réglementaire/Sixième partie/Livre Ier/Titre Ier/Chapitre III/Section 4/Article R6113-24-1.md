@@ -9,4 +9,4 @@ Les programmes biennaux sont présentés par les ministres aux commissions profe
 Les programmes biennaux sont approuvés par un arrêté du ministre chargé de la formation professionnelle publié au plus tard le 15 février de la première année du programme biennal.
 
 NOTA:
-Conformément au a) du III de l'article 6 du décret n° 2025-800 du 12 août 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux programmes biennaux prévisionnels faisant l'objet d'un arrêté du ministre chargé de la formation professionnelle publié à compter du 1er janvier 2026.
+Conformément au a) du III de l'article 6 du décret n° 2025-800 du 12 août 2025, ces dispositions, dans leur rédaction issue dudit décret, s'appliquent aux programmes biennaux prévisionnels faisant l'objet d'un arrêté du ministre chargé de la formation professionnelle publié à compter du 1<sup>er</sup> janvier 2026.

@@ -9,4 +9,4 @@ Sont revalorisés le 1er avril de chaque année par application du coefficient m
 3° Le montant des acomptes mensuels versés en application de l'article R. 6341-40.
 
 NOTA:
-Conformément à l’article 2 du décret n° 2022-477 du 4 avril 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
+Conformément à l’article 2 du décret n° 2022-477 du 4 avril 2022, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2023.

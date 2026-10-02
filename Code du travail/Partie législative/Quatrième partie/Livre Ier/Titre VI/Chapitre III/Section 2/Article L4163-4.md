@@ -5,4 +5,4 @@ Les salariés des employeurs de droit privé, les salariés régis par un statut
 Les salariés affiliés à un régime spécial de retraite comportant un dispositif spécifique de reconnaissance et de compensation des effets de l'exposition à certains risques professionnels n'acquièrent pas de droits au titre du compte professionnel de prévention. Un décret fixe la liste des régimes concernés.
 
 NOTA:
-Conformément au IX de l’article 1er de la loi n° 2023-270 du 14 avril 2023, ces dispositions entrent en vigueur le 1er septembre 2023.
+Conformément au IX de l’article 1er de la loi n° 2023-270 du 14 avril 2023, ces dispositions entrent en vigueur le 1<sup>er</sup> septembre 2023.

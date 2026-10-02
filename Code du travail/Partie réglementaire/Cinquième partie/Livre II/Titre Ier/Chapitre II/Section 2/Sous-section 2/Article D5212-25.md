@@ -2,8 +2,8 @@
 
 Les catégories d'emploi exigeant des conditions d'aptitude particulières sont énumérées dans la liste ci-dessous :
 
-| NUMÉRO DE LA NOMENCLATURE | INTITULÉ DE LA NOMENCLATURE DES PROFESSIONS ET CATÉGORIESsocioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) |
-| --- | --- |
+| NUMÉRO DE LA NOMENCLATURE | INTITULÉ DE LA NOMENCLATURE DES PROFESSIONS ET CATÉGORIES<br>socioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) |
+| -- | -- |
 | 389b | Officiers et cadres navigants techniques et commerciaux de l'aviation civile. |
 | 389c | Officiers et cadres navigants techniques de la marine marchande. |
 | 480b | Maîtres d'équipage de la marine marchande et de la pêche. |

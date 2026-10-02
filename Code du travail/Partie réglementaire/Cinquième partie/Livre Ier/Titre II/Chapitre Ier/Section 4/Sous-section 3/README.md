@@ -1,1 +1,1 @@
-Sous-section 3 : Pénalités
+# Sous-section 3 : Pénalités

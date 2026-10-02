@@ -31,6 +31,6 @@ III. - La participation de l'employeur mentionnée au 1° du I du présent artic
 Les modalités de mise en œuvre du présent III sont fixées par décret en Conseil d'Etat.
 
 NOTA:
-Conformément au II de l’article 11 de la loi n° 2025-989 du 24 octobre 2025, ces dispositions, dans leur rédaction issue du I dudit article, entrent en vigueur le 1er janvier 2026.
+Conformément au II de l’article 11 de la loi n° 2025-989 du 24 octobre 2025, ces dispositions, dans leur rédaction issue du I dudit article, entrent en vigueur le 1<sup>er</sup> janvier 2026.
 
-Conformément au III dudit article, ces dispositions, dans leur rédaction antérieure à la présente loi, s'appliquent aux actions engagées pour lesquelles l'avenant qui précise la durée de la reconversion ou de la promotion par l'alternance a été conclu avant le 1er janvier 2026.
+Conformément au III dudit article, ces dispositions, dans leur rédaction antérieure à la présente loi, s'appliquent aux actions engagées pour lesquelles l'avenant qui précise la durée de la reconversion ou de la promotion par l'alternance a été conclu avant le 1<sup>er</sup> janvier 2026.

@@ -39,4 +39,4 @@ e) La durée, l'aménagement du temps de travail, la période de prise des cong�
 9° Les informations relatives aux contrats de mise à disposition conclus avec les entreprises de travail temporaires, aux contrats d'accompagnement dans l'emploi, aux contrats initiative emploi et les éléments qui l'ont conduit à faire appel, au titre de l'année écoulée, et qui pourraient le conduire à faire appel pour l'année à venir, à des contrats de travail à durée déterminée, à des contrats de mission conclus avec une entreprise de travail temporaire ou à des contrats conclus avec une entreprise de portage salarial.
 
 NOTA:
-Conformément au II de l’article 11 de la loi n° 2025-989 du 24 octobre 2025, ces dispositions, dans leur rédaction issue du I dudit article, entrent en vigueur le 1er janvier 2026.
+Conformément au II de l’article 11 de la loi n° 2025-989 du 24 octobre 2025, ces dispositions, dans leur rédaction issue du I dudit article, entrent en vigueur le 1<sup>er</sup> janvier 2026.

@@ -17,4 +17,4 @@ Est joint à la convocation un exemplaire de la requête et du bordereau énumé
 Lorsque le défendeur est attrait par plusieurs demandeurs, le greffe peut, avec son accord, lui notifier les requêtes et bordereaux par remise contre émargement ou récépissé, le cas échéant en plusieurs fois.
 
 NOTA:
-Conformément au 1° et au b) du 2° de l'article 21 du décret n° 2026-683 du 27 juillet 2026, ces dispositions, dans leur rédaction résultant de l'article 10 du décret précité, entrent en vigueur le 1er octobre 2026 et sont applicables aux instances introduites à compter de la date d'entrée en vigueur du décret.
+Conformément au 1° et au b) du 2° de l'article 21 du décret n° 2026-683 du 27 juillet 2026, ces dispositions, dans leur rédaction résultant de l'article 10 du décret précité, entrent en vigueur le 1<sup>er</sup> octobre 2026 et sont applicables aux instances introduites à compter de la date d'entrée en vigueur du décret.

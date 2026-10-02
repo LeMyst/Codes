@@ -11,4 +11,4 @@ Par dérogation à l'article L. 1251-36, aucun délai de carence n'est applicabl
 2° En cas d'embauche du salarié par l'entreprise utilisatrice, à l'issue de son contrat de mission, en contrat à durée déterminée d'une durée d'au moins deux mois.
 
 NOTA:
-Conformément au II de l’article 10 de la loi n° 2023-1196, ces dispositions entrent en vigueur le 1er janvier 2024.
+Conformément au II de l’article 10 de la loi n° 2023-1196, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2024.

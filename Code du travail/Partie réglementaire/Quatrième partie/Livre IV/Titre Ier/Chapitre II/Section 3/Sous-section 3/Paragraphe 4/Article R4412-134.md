@@ -15,4 +15,4 @@ Le plan de démolition, de retrait ou d'encapsulage est tenu à disposition sur 
 6° Les auditeurs des organismes certificateurs.
 
 NOTA:
-Conformément à l’article 2 du décret n° 2022-1748 du 30 décembre 2022, ces dispositions entrent en vigueur la 1er février 2023. Se reporter aux conditions d’application prévues audit article.
+Conformément à l’article 2 du décret n° 2022-1748 du 30 décembre 2022, ces dispositions entrent en vigueur la 1<sup>er</sup> février 2023. Se reporter aux conditions d’application prévues audit article.

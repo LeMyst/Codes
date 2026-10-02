@@ -1,1 +1,3 @@
-Section 2 : Désignation, élection et statut des membres
+# Section 2 : Désignation, élection et statut des membres
+
+- [Article R2344-3](Article%20R2344-3.md)

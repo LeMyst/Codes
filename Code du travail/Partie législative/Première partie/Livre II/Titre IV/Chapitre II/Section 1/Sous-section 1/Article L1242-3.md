@@ -13,4 +13,4 @@ Outre les cas prévus à l'article L. 1242-2, un contrat de travail à durée d�
 5° Au titre de la période de reconversion mentionnée à l'article L. 6324-1 du présent code, pour une durée d'au moins six mois.
 
 NOTA:
-Conformément au II de l’article 11 de la loi n° 2025-989 du 24 octobre 2025, ces dispositions, dans leur rédaction issue du I dudit article, entrent en vigueur le 1er janvier 2026.
+Conformément au II de l’article 11 de la loi n° 2025-989 du 24 octobre 2025, ces dispositions, dans leur rédaction issue du I dudit article, entrent en vigueur le 1<sup>er</sup> janvier 2026.

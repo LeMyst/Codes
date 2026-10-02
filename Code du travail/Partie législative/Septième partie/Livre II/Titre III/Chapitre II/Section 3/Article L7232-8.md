@@ -9,4 +9,4 @@ Le contribuable de bonne foi conserve le bénéfice du crédit d'impôt prévu �
 Un décret en Conseil d'Etat détermine les modalités d'application des deux premiers alinéas du présent article.
 
 NOTA:
-Conformément au II de l’article 34 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément au II de l’article 34 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2025.

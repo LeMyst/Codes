@@ -7,4 +7,4 @@ La personne morale ou l'entreprise individuelle déclarée qui exerce, à titre 
 2° De l'aide sous les conditions prévues à l'article 199 sexdecies du même code.
 
 NOTA:
-Conformément au II de l’article 34 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément au II de l’article 34 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2025.

@@ -31,8 +31,7 @@ En cas de trop perçu au titre des avances versées par la commission paritaire 
 IV.-Pour les particuliers employeurs, la rémunération du salarié bénéficiaire d'un projet de transition professionnelle et les cotisations sociales légales et conventionnelles assises sur cette rémunération lui sont versées mensuellement par la commission paritaire interprofessionnelle régionale.
 
 NOTA:
-Conformément à l'article 3 du décret n° 2018-1339 du 28 décembre 2018, ces dispositions entrent en vigueur le 1er janvier 2019.
-
+Conformément à l'article 3 du décret n° 2018-1339 du 28 décembre 2018, ces dispositions entrent en vigueur le 1er janvier 2019.\
 A titre transitoire, par dérogation au I, les dispositions prévues au III de l'article D. 6323-18-1 entrent en vigueur le 1er janvier 2020.
 
 Du 1er janvier au 31 décembre 2019, la rémunération du bénéficiaire d'un projet de transition professionnelle et les cotisations sociales légales et conventionnelles à la charge de l'employeur assises sur cette rémunération sont versées mensuellement par l'employeur, qui est remboursé par la commission paritaire interprofessionnelle régionale selon les modalités prévues au II de l'article D. 6323-18-1.

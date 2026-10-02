@@ -1,1 +1,1 @@
-Sous-section 2 : Composition et fonctionnement
+# Sous-section 2 : Composition et fonctionnement

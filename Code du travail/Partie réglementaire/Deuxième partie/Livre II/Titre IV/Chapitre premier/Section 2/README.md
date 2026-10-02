@@ -1,1 +1,1 @@
-Section 2 : Champ de la négociation collective
+# Section 2 : Champ de la négociation collective

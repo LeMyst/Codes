@@ -7,4 +7,4 @@ S'il ne justifie pas d'une formation en médecine du travail, un médecin peut t
 Pour l'application à Saint-Pierre-et-Miquelon de l'article L. 4622-2-1, les mots : “ les organismes locaux et régionaux d'assurance maladie ” sont remplacés par les mots : “ la caisse de prévoyance sociale de Saint-Pierre-et-Miquelon ”.
 
 NOTA:
-Conformément au IV de l’article 19 de la loi n° 2021-1018 du 2 août 2021, ces dispositions entrent en vigueur le 1er janvier 2024.
+Conformément au IV de l’article 19 de la loi n° 2021-1018 du 2 août 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2024.

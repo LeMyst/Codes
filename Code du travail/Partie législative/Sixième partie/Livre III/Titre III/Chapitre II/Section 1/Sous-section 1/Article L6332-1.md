@@ -31,4 +31,4 @@ b) Une convention-cadre de coopération définissant les conditions de leur part
 2° Avec les régions, des conventions dans les conditions déterminées à l'article L. 6211-3.
 
 NOTA:
-Conformément au II de l’article 11 de la loi n° 2025-989 du 24 octobre 2025, ces dispositions, dans leur rédaction issue du I dudit article, entrent en vigueur le 1er janvier 2026.
+Conformément au II de l’article 11 de la loi n° 2025-989 du 24 octobre 2025, ces dispositions, dans leur rédaction issue du I dudit article, entrent en vigueur le 1<sup>er</sup> janvier 2026.

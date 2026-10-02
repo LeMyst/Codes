@@ -27,4 +27,4 @@ L'accord portant rupture conventionnelle collective détermine :
 Conformément aux dispositions du X de l'article 40 et du III de l'article 10 de l'ordonnance n° 2017-1387 du 22 septembre 2017, les dispositions résultant de l'article 10 de ladite ordonnance et nécessitant des mesures d'application entrent en vigueur à la date de publication des décrets d'application, et au plus tard le 1er janvier 2018.
 
 NOTA:
-Conformément au II de l’article 11 de la loi n° 2025-989 du 24 octobre 2025, ces dispositions, dans leur rédaction issue du I dudit article, entrent en vigueur le 1er janvier 2026.
+Conformément au II de l’article 11 de la loi n° 2025-989 du 24 octobre 2025, ces dispositions, dans leur rédaction issue du I dudit article, entrent en vigueur le 1<sup>er</sup> janvier 2026.

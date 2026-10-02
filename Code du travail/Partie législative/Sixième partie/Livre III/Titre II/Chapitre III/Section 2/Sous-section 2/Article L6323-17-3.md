@@ -9,4 +9,4 @@ Dans la lettre de notification, l'employeur précise que le salarié dispose d'u
 A défaut de réponse dans le délai imparti, le salarié est réputé accepter de réintégrer l'entreprise à l'issue de l'action de formation.
 
 NOTA:
-Conformément au II de l'article 13 de la loi n° 2025-989 du 24 octobre 2025, ces dispositions, dans leur rédaction issue de ladite loi, entrent en vigueur le 1er janvier 2026.
+Conformément au II de l'article 13 de la loi n° 2025-989 du 24 octobre 2025, ces dispositions, dans leur rédaction issue de ladite loi, entrent en vigueur le 1<sup>er</sup> janvier 2026.

@@ -15,4 +15,4 @@ Le secrétariat du conseil est assuré par l'institution paritaire nationale men
 III.-Un décret en Conseil d'Etat détermine les modalités d'application du présent article, notamment la composition ainsi que les modalités d'organisation et de fonctionnement du conseil.
 
 NOTA:
-Conformément au II de l’article 12 de la loi n° 2025-989 du 24 octobre 2025, ces dispositions, dans leur rédaction issue du I dudit article, entrent en vigueur le 1er janvier 2026.
+Conformément au II de l’article 12 de la loi n° 2025-989 du 24 octobre 2025, ces dispositions, dans leur rédaction issue du I dudit article, entrent en vigueur le 1<sup>er</sup> janvier 2026.

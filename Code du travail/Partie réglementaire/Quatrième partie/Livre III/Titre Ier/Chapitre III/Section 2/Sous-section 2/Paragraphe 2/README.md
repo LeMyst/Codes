@@ -1,1 +1,22 @@
-Paragraphe 2 : Examen CE de type
+# Paragraphe 2 : Examen CE de type
+
+- [Article R4313-23](Article%20R4313-23.md)
+- [Article R4313-24](Article%20R4313-24.md)
+- [Article R4313-25](Article%20R4313-25.md)
+- [Article R4313-26](Article%20R4313-26.md)
+- [Article R4313-27](Article%20R4313-27.md)
+- [Article R4313-28](Article%20R4313-28.md)
+- [Article R4313-29](Article%20R4313-29.md)
+- [Article R4313-30](Article%20R4313-30.md)
+- [Article R4313-31](Article%20R4313-31.md)
+- [Article R4313-32](Article%20R4313-32.md)
+- [Article R4313-33](Article%20R4313-33.md)
+- [Article R4313-34](Article%20R4313-34.md)
+- [Article R4313-35](Article%20R4313-35.md)
+- [Article R4313-36](Article%20R4313-36.md)
+- [Article R4313-37](Article%20R4313-37.md)
+- [Article R4313-38](Article%20R4313-38.md)
+- [Article R4313-39](Article%20R4313-39.md)
+- [Article R4313-40](Article%20R4313-40.md)
+- [Article R4313-41](Article%20R4313-41.md)
+- [Article R4313-42](Article%20R4313-42.md)

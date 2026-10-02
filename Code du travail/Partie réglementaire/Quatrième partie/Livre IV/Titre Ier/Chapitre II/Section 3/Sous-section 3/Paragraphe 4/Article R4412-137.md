@@ -13,4 +13,4 @@ La transmission effectuée par l'employeur au titre du premier ou quatrième ali
 II.-Le plan de démolition, de retrait ou d'encapsulage est transmis à ou aux organismes certificateurs concernés par la plateforme DEMAT @ MIANTE.
 
 NOTA:
-Conformément à l’article 2 du décret n° 2022-1748 du 30 décembre 2022, ces dispositions entrent en vigueur la 1er février 2023. Se reporter aux conditions d’application prévues audit article.
+Conformément à l’article 2 du décret n° 2022-1748 du 30 décembre 2022, ces dispositions entrent en vigueur la 1<sup>er</sup> février 2023. Se reporter aux conditions d’application prévues audit article.

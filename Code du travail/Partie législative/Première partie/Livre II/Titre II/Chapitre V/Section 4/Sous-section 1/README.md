@@ -1,1 +1,15 @@
-Sous-section 1 : Congé parental d'éducation et passage à temps partiel.
+# Sous-section 1 : Congé parental d'éducation et passage à temps partiel.
+
+- [Article L1225-47](Article%20L1225-47.md)
+- [Article L1225-48](Article%20L1225-48.md)
+- [Article L1225-49](Article%20L1225-49.md)
+- [Article L1225-50](Article%20L1225-50.md)
+- [Article L1225-51](Article%20L1225-51.md)
+- [Article L1225-52](Article%20L1225-52.md)
+- [Article L1225-53](Article%20L1225-53.md)
+- [Article L1225-54](Article%20L1225-54.md)
+- [Article L1225-55](Article%20L1225-55.md)
+- [Article L1225-56](Article%20L1225-56.md)
+- [Article L1225-57](Article%20L1225-57.md)
+- [Article L1225-58](Article%20L1225-58.md)
+- [Article L1225-59](Article%20L1225-59.md)

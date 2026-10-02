@@ -1,1 +1,1 @@
-Paragraphe 2 : Information des autorités.
+# Paragraphe 2 : Information des autorités.

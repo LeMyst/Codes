@@ -21,4 +21,4 @@ S'il considère que l'état de santé du travailleur ou les risques professionne
 Les modalités d'application du présent II sont déterminées par décret en Conseil d'Etat.
 
 NOTA:
-Conformément au II de l’article 31 de la loi n° 2021-1018 du 2 août 2021, ces dispositions entrent en vigueur à compter d'une date fixée par décret, et au plus tard le 1er janvier 2023.
+Conformément au II de l’article 31 de la loi n° 2021-1018 du 2 août 2021, ces dispositions entrent en vigueur à compter d'une date fixée par décret, et au plus tard le 1<sup>er</sup> janvier 2023.

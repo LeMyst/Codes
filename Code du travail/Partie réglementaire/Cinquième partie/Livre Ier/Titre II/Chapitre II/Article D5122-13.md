@@ -5,4 +5,4 @@ Le taux horaire de l'allocation d'activité partielle est égal pour chaque sala
 Ce taux horaire ne peut être inférieur à 8,57 euros. Ce minimum n'est pas applicable lorsque leur rémunération est inférieure au salaire minimum interprofessionnel de croissance, aux salariés en contrat d'apprentissage ou de professionnalisation, aux journalistes pigistes en collaboration régulière entrant dans le champ d'application de l'article L. 7112-1 et aux salariés mentionnés au titre Ier du livre III de la septième partie du présent code.
 
 NOTA:
-Conformément à l’article 3 du décret n° 2026-35 du 29 janvier 2026, ces dispositions, dans leur rédaction issue de l'article 1er du décret précité, s'appliquent aux demandes d'indemnisation adressées à l'autorité administrative au titre des heures chômées par les salariés à compter du 1er janvier 2026.
+Conformément à l’article 3 du décret n° 2026-35 du 29 janvier 2026, ces dispositions, dans leur rédaction issue de l'article 1er du décret précité, s'appliquent aux demandes d'indemnisation adressées à l'autorité administrative au titre des heures chômées par les salariés à compter du 1<sup>er</sup> janvier 2026.

@@ -7,4 +7,4 @@ Pour les personnes âgées de quinze à vingt ans, l'attribution de l'allocation
 L'orientation vers un établissement ou un service d'accompagnement par le travail ou vers un établissement ou un service de réadaptation professionnelle vaut reconnaissance de la qualité de travailleur handicapé.
 
 NOTA:
-Conformément au II de l’article 10 de la loi n° 2023-1196, ces dispositions entrent en vigueur le 1er janvier 2024.
+Conformément au II de l’article 10 de la loi n° 2023-1196, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2024.

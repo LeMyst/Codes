@@ -1,1 +1,4 @@
-Section 3 : Les procédures d'évaluation de la conformité applicables à chaque catégorie de machines, équipements de travail ou d'équipements de protection individuelle
+# Section 3 : Les procédures d'évaluation de la conformité applicables à chaque catégorie de machines, équipements de travail ou d'équipements de protection individuelle
+
+- [Paragraphe 1 : Machines et autres équipements de travail](Paragraphe%201/README.md)
+- [Paragraphe 2 : Equipements de protection individuelle](Paragraphe%202/README.md)

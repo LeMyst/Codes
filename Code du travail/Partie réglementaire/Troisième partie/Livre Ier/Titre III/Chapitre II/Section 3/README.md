@@ -1,1 +1,3 @@
-Section 3 : Procédure de référé de l'inspecteur du travail
+# Section 3 : Procédure de référé de l'inspecteur du travail
+
+- [Article D3132-24](Article%20D3132-24.md)

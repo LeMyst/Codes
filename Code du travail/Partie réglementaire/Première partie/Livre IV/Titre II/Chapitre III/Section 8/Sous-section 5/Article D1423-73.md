@@ -2,8 +2,8 @@
 
 Le nombre d'heures indemnisées pour le temps que consacrent à leurs activités administratives les présidents et vice-présidents des sections des activités diverses, du commerce et des services commerciaux, de l'encadrement et de l'industrie ne peut dépasser les durées fixées au tableau ci-après :
 
-| DÉSIGNATION des conseils de prud'hommes | NOMBRE MAXIMUM d'heures indemnisables |
-| --- | --- |
+| DÉSIGNATION<br>des conseils de prud'hommes | NOMBRE MAXIMUM<br>d'heures indemnisables |
+| -- | -- |
 | Conseil de Paris | 52 heures par mois |
 | Conseils de Bobigny, Lyon, Marseille, Nanterre | 60 heures par an |
 | Conseils d'Aix-en-Provence, Bordeaux, Boulogne-Billancourt, Créteil, Grenoble, Lille, Meaux, Montpellier, Nice, Rouen, Toulouse | 20 heures par an |

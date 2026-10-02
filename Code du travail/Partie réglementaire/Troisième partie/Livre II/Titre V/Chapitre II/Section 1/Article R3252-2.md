@@ -17,4 +17,4 @@ La proportion dans laquelle les sommes dues à titre de rémunération sont sais
 7° La totalité, sur la tranche supérieure à 25 810 €.
 
 NOTA:
-Conformément à l'article 3 du décret n° 2025-1299 du 24 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er janvier 2026.
+Conformément à l'article 3 du décret n° 2025-1299 du 24 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1<sup>er</sup> janvier 2026.

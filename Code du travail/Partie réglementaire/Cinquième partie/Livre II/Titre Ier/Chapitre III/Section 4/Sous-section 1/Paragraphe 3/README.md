@@ -1,1 +1,16 @@
-Paragraphe 3 : Compensation de la lourdeur du handicap
+# Paragraphe 3 : Compensation de la lourdeur du handicap
+
+- [Article R5213-39](Article%20R5213-39.md)
+- [Article R5213-40](Article%20R5213-40.md)
+- [Article R5213-42](Article%20R5213-42.md)
+- [Article R5213-43](Article%20R5213-43.md)
+- [Article R5213-44](Article%20R5213-44.md)
+- [Article R5213-45](Article%20R5213-45.md)
+- [Article R5213-46](Article%20R5213-46.md)
+- [Article R5213-46-1](Article%20R5213-46-1.md)
+- [Article R5213-46-2](Article%20R5213-46-2.md)
+- [Article R5213-47](Article%20R5213-47.md)
+- [Article R5213-48](Article%20R5213-48.md)
+- [Article R5213-49](Article%20R5213-49.md)
+- [Article R5213-50](Article%20R5213-50.md)
+- [Article R5213-51](Article%20R5213-51.md)

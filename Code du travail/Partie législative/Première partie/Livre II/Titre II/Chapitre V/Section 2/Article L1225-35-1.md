@@ -7,6 +7,6 @@ Si la naissance de l'enfant intervient alors que le salarié a pris des congés 
 L'interdiction d'emploi ne s'applique pas pour le congé mentionné au troisième alinéa de l'article L. 1225-35 lorsque le salarié ne peut pas bénéficier des indemnités et allocations versées dans les conditions prévues à l'article L. 331-8 du code de la sécurité sociale ou par d'autres dispositions législatives ou réglementaires.
 
 NOTA:
-Conformément au IV de l’article 73 de la loi n° 2020-1576 du 14 décembre 2020, le présent article entre en vigueur le 1er juillet 2021. Il s'applique aux enfants nés ou adoptés à compter de cette date ainsi qu'aux enfants, nés avant cette date, dont la naissance était supposée intervenir à compter de cette date.
+Conformément au IV de l’article 73 de la loi n° 2020-1576 du 14 décembre 2020, le présent article entre en vigueur le 1<sup>er</sup> juillet 2021. Il s'applique aux enfants nés ou adoptés à compter de cette date ainsi qu'aux enfants, nés avant cette date, dont la naissance était supposée intervenir à compter de cette date.
 
 Par dérogation au premier alinéa du présent IV, les dispositions du présent article relatives à l'information de l'employeur sur la date prévisionnelle de la naissance s'appliquent aux naissances prévues à compter du 1er juillet 2021.

@@ -13,4 +13,4 @@ a) Des actions relatives à la définition de certifications professionnelles ou
 b) Des actions concourant au développement des compétences au sens de l'article L. 6313-1. Elle ne peut percevoir de ressources à raison de telles actions.
 
 NOTA:
-Conformément à l'article 3 du décret n° 2026-378 du 13 mai 2026, jusqu'au 31 décembre 2026 inclus, le non-respect de la condition mentionnée au 3° dudit article ne fait pas obstacle à ce qu'une association soit agréée comme instance paritaire nationale si elle s'engage à se mettre en conformité avec les règles y figurant avant le 1er janvier 2027 et qu'elle en atteste dans le dossier prévu à l'article R. 6323-18-6.
+Conformément à l'article 3 du décret n° 2026-378 du 13 mai 2026, jusqu'au 31 décembre 2026 inclus, le non-respect de la condition mentionnée au 3° dudit article ne fait pas obstacle à ce qu'une association soit agréée comme instance paritaire nationale si elle s'engage à se mettre en conformité avec les règles y figurant avant le 1<sup>er</sup> janvier 2027 et qu'elle en atteste dans le dossier prévu à l'article R. 6323-18-6.

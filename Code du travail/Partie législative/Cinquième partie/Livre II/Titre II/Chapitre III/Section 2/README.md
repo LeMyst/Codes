@@ -1,1 +1,1 @@
-Section 2 : Statut, organisation et fonctionnement.
+# Section 2 : Statut, organisation et fonctionnement.

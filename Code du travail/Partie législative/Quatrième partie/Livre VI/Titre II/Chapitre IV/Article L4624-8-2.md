@@ -5,4 +5,4 @@ Afin de garantir l'échange, le partage, la sécurité et la confidentialité de
 La conformité aux référentiels d'interopérabilité et de sécurité mentionnée au premier alinéa du présent article conditionne la certification prévue à l'article L. 4622-9-3 du présent code.
 
 NOTA:
-Conformément au III de l’article 17 de la loi n° 2021-1018 du 2 août 2021, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2024.
+Conformément au III de l’article 17 de la loi n° 2021-1018 du 2 août 2021, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1<sup>er</sup> janvier 2024.

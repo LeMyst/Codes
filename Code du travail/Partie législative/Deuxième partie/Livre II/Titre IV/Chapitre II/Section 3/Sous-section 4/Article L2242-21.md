@@ -19,4 +19,4 @@ La négociation prévue à l'article L. 2242-20 peut également porter :
 L'accord conclu sur ce thème dans le cadre du présent article vaut conclusion de l'accord mentionné à l'article L. 6324-9.
 
 NOTA:
-Conformément au II de l’article 11 de la loi n° 2025-989 du 24 octobre 2025, ces dispositions, dans leur rédaction issue du I dudit article, entrent en vigueur le 1er janvier 2026.
+Conformément au II de l’article 11 de la loi n° 2025-989 du 24 octobre 2025, ces dispositions, dans leur rédaction issue du I dudit article, entrent en vigueur le 1<sup>er</sup> janvier 2026.

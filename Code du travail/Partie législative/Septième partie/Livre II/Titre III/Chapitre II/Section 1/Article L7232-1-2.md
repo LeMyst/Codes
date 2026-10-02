@@ -33,4 +33,4 @@ c) Les organismes publics ou privés gestionnaires d'un établissement ou d'un s
 5° Pour leurs services d'aide à domicile rendus aux personnes mentionnées à l'article L. 7231-1 qui y résident, les gérants de résidences-services relevant de l'article L. 631-13 du code de la construction et de l'habitation.
 
 NOTA:
-Conformément au II de l’article 34 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément au II de l’article 34 de la loi n° 2023-1322 du 29 décembre 2023, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2025.

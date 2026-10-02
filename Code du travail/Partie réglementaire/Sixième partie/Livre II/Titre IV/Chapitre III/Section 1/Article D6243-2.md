@@ -23,8 +23,8 @@ En cas d'une suspension du contrat conduisant au non versement de la rémunérat
 V. - Les sommes indûment perçues sont remboursées à l'opérateur national mentionné à l'article D. 6243-4.
 
 NOTA:
-Conformément à l'article 3 du décret n° 2025-1031 du 31 octobre 2025, ces dispositions, dans leur rédaction issue de l'article 1er dudit décret, s'appliquent à compter du 1er novembre 2025 aux contrats d'apprentissage conclus à compter de cette date, ainsi qu'aux contrats en cours à cette date.
+Conformément à l'article 3 du décret n° 2025-1031 du 31 octobre 2025, ces dispositions, dans leur rédaction issue de l'article 1er dudit décret, s'appliquent à compter du 1<sup>er</sup> novembre 2025 aux contrats d'apprentissage conclus à compter de cette date, ainsi qu'aux contrats en cours à cette date.
 
-Pour les contrats en cours au 1er novembre 2025, la proratisation prévue au III de l'article D. 6243-2 du code du travail et au X de l'article 2 du décret n° 2025-174 du 22 février 2025, dans leur rédaction issue du décret susmentionné, n'est pas appliquée au premier mois du contrat.
+Pour les contrats en cours au 1<sup>er</sup> novembre 2025, la proratisation prévue au III de l'article D. 6243-2 du code du travail et au X de l'article 2 du décret n° 2025-174 du 22 février 2025, dans leur rédaction issue du décret susmentionné, n'est pas appliquée au premier mois du contrat.
 
-Conformément à l'article 4 du décret n° 2025-1031 du 31 octobre 2025, ces dispositions, dans leur rédaction issue de l'article 1er dudit décret, entrent en vigueur immédiatement, à savoir le 1er novembre 2025.
+Conformément à l'article 4 du décret n° 2025-1031 du 31 octobre 2025, ces dispositions, dans leur rédaction issue de l'article 1<sup>er</sup> dudit décret, entrent en vigueur immédiatement, à savoir le 1er novembre 2025.

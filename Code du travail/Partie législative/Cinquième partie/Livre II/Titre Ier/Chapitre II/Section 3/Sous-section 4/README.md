@@ -1,1 +1,1 @@
-Sous-section 4 : Sanction administrative.
+# Sous-section 4 : Sanction administrative.

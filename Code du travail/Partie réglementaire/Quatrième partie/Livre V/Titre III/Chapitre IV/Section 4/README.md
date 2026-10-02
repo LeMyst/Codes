@@ -1,1 +1,20 @@
-Section 4 : Travaux de terrassement à ciel ouvert.
+# Section 4 : Travaux de terrassement à ciel ouvert.
+
+- [Article R4534-22](Article%20R4534-22.md)
+- [Article R4534-23](Article%20R4534-23.md)
+- [Article R4534-24](Article%20R4534-24.md)
+- [Article R4534-25](Article%20R4534-25.md)
+- [Article R4534-26](Article%20R4534-26.md)
+- [Article R4534-27](Article%20R4534-27.md)
+- [Article R4534-28](Article%20R4534-28.md)
+- [Article R4534-29](Article%20R4534-29.md)
+- [Article R4534-30](Article%20R4534-30.md)
+- [Article R4534-31](Article%20R4534-31.md)
+- [Article R4534-32](Article%20R4534-32.md)
+- [Article R4534-33](Article%20R4534-33.md)
+- [Article R4534-34](Article%20R4534-34.md)
+- [Article R4534-35](Article%20R4534-35.md)
+- [Article R4534-36](Article%20R4534-36.md)
+- [Article R4534-37](Article%20R4534-37.md)
+- [Article R4534-38](Article%20R4534-38.md)
+- [Article R4534-39](Article%20R4534-39.md)

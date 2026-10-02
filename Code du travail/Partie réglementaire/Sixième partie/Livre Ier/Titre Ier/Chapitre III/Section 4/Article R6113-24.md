@@ -13,4 +13,4 @@ Ce règlement intérieur est approuvé par un arrêté du ministre chargé de la
 Chaque commission professionnelle consultative se réunit sur convocation du ministre auprès duquel elle est instituée, lequel fixe l'ordre du jour des séances. Lorsqu'elle est interministérielle, la commission se réunit sur convocation du ministre coordonnateur mentionné au premier alinéa de l'article R. 6113-21, lequel fixe l'ordre du jour des séances, après accord des ministres auprès desquels elle est instituée.
 
 NOTA:
-Conformément au premier alinéa du III de l'article 6 du décret n° 2025-800 du 12 août 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur au 1er janvier 2026.
+Conformément au premier alinéa du III de l'article 6 du décret n° 2025-800 du 12 août 2025, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur au 1<sup>er</sup> janvier 2026.

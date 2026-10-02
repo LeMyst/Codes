@@ -2,11 +2,11 @@
 
 I. – Afin de répondre aux nécessités liées au fonctionnement de l'entreprise ou en vue de préserver, ou de développer l'emploi, un accord de performance collective peut :
 
-– aménager la durée du travail, ses modalités d'organisation et de répartition ;
+- aménager la durée du travail, ses modalités d'organisation et de répartition ;
 
-– aménager la rémunération au sens de l'article L. 3221-3 dans le respect des salaires minima hiérarchiques mentionnés au 1° du I de l'article L. 2253-1 ;
+- aménager la rémunération au sens de l'article L. 3221-3 dans le respect des salaires minima hiérarchiques mentionnés au 1° du I de l'article L. 2253-1 ;
 
-– déterminer les conditions de la mobilité professionnelle ou géographique interne à l'entreprise.
+- déterminer les conditions de la mobilité professionnelle ou géographique interne à l'entreprise.
 
 II. – L'accord définit dans son préambule ses objectifs et peut préciser :
 
@@ -14,9 +14,9 @@ II. – L'accord définit dans son préambule ses objectifs et peut préciser :
 
 2° Les conditions dans lesquelles fournissent des efforts proportionnés à ceux demandés aux salariés pendant toute sa durée :
 
-– les dirigeants salariés exerçant dans le périmètre de l'accord ;
+- les dirigeants salariés exerçant dans le périmètre de l'accord ;
 
-– les mandataires sociaux et les actionnaires, dans le respect des compétences des organes d'administration et de surveillance ;
+- les mandataires sociaux et les actionnaires, dans le respect des compétences des organes d'administration et de surveillance ;
 
 3° Les modalités selon lesquelles sont conciliées la vie professionnelle et la vie personnelle et familiale des salariés ;
 

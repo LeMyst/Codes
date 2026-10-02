@@ -27,4 +27,4 @@ III. - Le critère d'examen prévu au 1° du I n'est pas applicable :
 2° Aux projets de révision d'un diplôme ou titre à finalité professionnelle pour lequel un enregistrement dans le répertoire national des certifications professionnelles est requis pour permettre l'exercice d'une activité professionnelle sur le territoire national en application d'une norme internationale ou d'une disposition législative ou réglementaire.
 
 NOTA:
-Conformément au b) du III de l'article 6 du décret n° 2025-800 du 12 août 2025, ces dispositions, dans leur rédaction issue du dudit décret, s'appliquent aux projets de création ou de révision de diplômes et titres à finalité professionnelle présentés, pour avis de la commission professionnelle consultative compétente, à compter du 1er janvier 2026.
+Conformément au b) du III de l'article 6 du décret n° 2025-800 du 12 août 2025, ces dispositions, dans leur rédaction issue du dudit décret, s'appliquent aux projets de création ou de révision de diplômes et titres à finalité professionnelle présentés, pour avis de la commission professionnelle consultative compétente, à compter du 1<sup>er</sup> janvier 2026.

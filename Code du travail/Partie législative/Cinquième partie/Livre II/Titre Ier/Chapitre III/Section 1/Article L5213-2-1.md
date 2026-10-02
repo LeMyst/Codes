@@ -13,6 +13,6 @@ Une convention individuelle d'accompagnement conclue entre cet organisme, la per
 III.-Pour la mise en œuvre du dispositif d'emploi accompagné, les organismes mentionnés au I du présent article signent une convention avec l'Etat et l'un des organismes mentionnés aux articles L. 5214-3-1, L. 5312-1 et L. 5314-1. Cette convention peut également associer les fonds mentionnés à l'article L. 5214-1 du présent code et à l'article L. 351-7 du code général de la fonction publique.
 
 NOTA:
-Conformément au II de l’article 10 de la loi n° 2023-1196, ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément au II de l’article 10 de la loi n° 2023-1196, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2025.
 
 Conformément au III de l’article 10 de la loi n° 2023-1196, les conventions individuelles d'accompagnement et les conventions de gestion conclues avant le 1er janvier 2025 pour l'application de l'article L. 5213-2-1 du code du travail continuent de s'appliquer jusqu'à leur terme, ou jusqu'au 31 décembre 2025 si leur terme est postérieur à cette date.

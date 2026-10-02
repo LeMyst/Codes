@@ -1,1 +1,5 @@
-Section 7 : Dispenses partielles accordées par l'autorité administrative
+# Section 7 : Dispenses partielles accordées par l'autorité administrative
+
+- [Article R4227-55](Article%20R4227-55.md)
+- [Article R4227-56](Article%20R4227-56.md)
+- [Article R4227-57](Article%20R4227-57.md)

@@ -15,4 +15,4 @@ En cas de dysfonctionnement répété ou de défaillance de la commission, un ad
 Un décret détermine les conditions d'application du présent article.
 
 NOTA:
-Conformément au II de l'article 13 de la loi n° 2025-989 du 24 octobre 2025, ces dispositions, dans leur rédaction issue de ladite loi, entrent en vigueur le 1er janvier 2026.
+Conformément au II de l'article 13 de la loi n° 2025-989 du 24 octobre 2025, ces dispositions, dans leur rédaction issue de ladite loi, entrent en vigueur le 1<sup>er</sup> janvier 2026.

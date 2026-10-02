@@ -2,9 +2,8 @@
 
 Le nombre d'heures indemnisables qu'un conseiller prud'hommes peut déclarer avoir consacré à la rédaction de décisions qui présentent entre elles un lien caractérisé, notamment du fait de l'identité d'une partie, de l'objet ou de la cause, et qui n'auraient pas fait l'objet d'une jonction, ne peut dépasser les durées fixées au tableau ci-après :
 
-| | |
-| --- | --- |
-| NOMBRE DE DÉCISIONSà rédiger | NOMBRE MAXIMUMd'heures indemnisables |
+| NOMBRE DE DÉCISIONS<br>à rédiger | NOMBRE MAXIMUM<br>d'heures indemnisables |
+| -- | -- |
 | 2 à 25 | 3 heures |
 | 26 à 50 | 5 heures |
 | 51 à 100 | 7 heures |

@@ -9,4 +9,4 @@ Elle est transmise dès sa signature au directeur régional de l'économie, de l
 Les membres de chaque comité social et économique intéressé en sont également informés.
 
 NOTA:
-Conformément au I de l’article 4 du décret n° 2023-489 du 21 juin 2023, ces dispositions entrent en vigueur au 1er janvier 2024.
+Conformément au I de l’article 4 du décret n° 2023-489 du 21 juin 2023, ces dispositions entrent en vigueur au 1<sup>er</sup> janvier 2024.

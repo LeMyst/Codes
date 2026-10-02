@@ -47,4 +47,4 @@ b) Aux comités territoriaux pour l'emploi mentionnés à l'article L. 5311-10.
 Les missions mentionnées au présent II sont mises en œuvre par l'opérateur France Travail en associant les autres personnes morales constituant le réseau pour l'emploi ou leurs représentants.
 
 NOTA:
-Conformément au V de l’article 6 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions, dans leur rédaction résultant de l'article précité, entrent en vigueur le 1er janvier 2024, à l'exception le b du 7° du II du présent article entre en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2025.
+Conformément au V de l’article 6 de la loi n° 2023-1196 du 18 décembre 2023, ces dispositions, dans leur rédaction résultant de l'article précité, entrent en vigueur le 1<sup>er</sup> janvier 2024, à l'exception le b du 7° du II du présent article entre en vigueur à une date fixée par décret, et au plus tard le 1<sup>er</sup> janvier 2025.

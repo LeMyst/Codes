@@ -1,1 +1,3 @@
-Paragraphe 2 : Champ de la négociation collective
+# Paragraphe 2 : Champ de la négociation collective
+
+- [Article L3121-23](Article%20L3121-23.md)

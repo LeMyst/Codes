@@ -9,4 +9,4 @@ La requête et le bordereau sont établis en autant d'exemplaires qu'il existe d
 La requête est en outre accompagnée du dernier bulletin de salaire afférent au litige ou de toute pièce permettant de déterminer l'activité de l'employeur.
 
 NOTA:
-Conformément au 1° et au b) du 2° de l'article 21 du décret n° 2026-683 du 27 juillet 2026, ces dispositions, dans leur rédaction résultant de l'article 10 du décret précité, entrent en vigueur le 1er octobre 2026 et sont applicables aux instances introduites à compter de la date d'entrée en vigueur du décret.
+Conformément au 1° et au b) du 2° de l'article 21 du décret n° 2026-683 du 27 juillet 2026, ces dispositions, dans leur rédaction résultant de l'article 10 du décret précité, entrent en vigueur le 1<sup>er</sup> octobre 2026 et sont applicables aux instances introduites à compter de la date d'entrée en vigueur du décret.

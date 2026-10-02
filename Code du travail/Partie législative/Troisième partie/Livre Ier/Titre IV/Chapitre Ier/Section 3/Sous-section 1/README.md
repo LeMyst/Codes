@@ -1,1 +1,5 @@
-Sous-section 1 : Période de congés et ordre des départs.
+# Sous-section 1 : Période de congés et ordre des départs.
+
+- [Paragraphe 1 : Ordre public](Paragraphe%201/README.md)
+- [Paragraphe 2 : Champ de la négociation collective](Paragraphe%202/README.md)
+- [Paragraphe 3 : Dispositions supplétives](Paragraphe%203/README.md)

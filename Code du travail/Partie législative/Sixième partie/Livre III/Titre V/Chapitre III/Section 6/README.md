@@ -1,1 +1,1 @@
-Section 6 : Obligations de transparence
+# Section 6 : Obligations de transparence

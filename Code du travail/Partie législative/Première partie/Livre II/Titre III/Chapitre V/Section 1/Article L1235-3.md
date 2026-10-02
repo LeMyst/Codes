@@ -4,8 +4,8 @@ Si le licenciement d'un salarié survient pour une cause qui n'est pas réelle e
 
 Si l'une ou l'autre des parties refuse cette réintégration, le juge octroie au salarié une indemnité à la charge de l'employeur, dont le montant est compris entre les montants minimaux et maximaux fixés dans le tableau ci-dessous.
 
-| Ancienneté du salarié dans l'entreprise (en années complètes) | Indemnité minimale (en mois de salaire brut) | Indemnité maximale (en mois de salaire brut) |
-| --- | --- | --- |
+| Ancienneté du salarié dans l'entreprise<br>(en années complètes) | Indemnité minimale<br>(en mois de salaire brut) | Indemnité maximale<br>(en mois de salaire brut) |
+| -- | -- | -- |
 | 0 | Sans objet | 1 |
 | 1 | 1 | 2 |
 | 2 | 3 | 3,5 |
@@ -40,8 +40,8 @@ Si l'une ou l'autre des parties refuse cette réintégration, le juge octroie au
 
 En cas de licenciement opéré dans une entreprise employant habituellement moins de onze salariés, les montants minimaux fixés ci-dessous sont applicables, par dérogation à ceux fixés à l'alinéa précédent :
 
-| Ancienneté du salarié dans l'entreprise (en années complètes) | Indemnité minimale (en mois de salaire brut) |
-| --- | --- |
+| Ancienneté du salarié dans l'entreprise<br>(en années complètes) | Indemnité minimale<br>(en mois de salaire brut) |
+| -- | -- |
 | 0 | Sans objet |
 | 1 | 0,5 |
 | 2 | 0,5 |

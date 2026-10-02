@@ -7,4 +7,4 @@ Ces contrats prévoient un accompagnement renforcé destiné à favoriser la ré
 Un décret en Conseil d'Etat prévoit les conditions dans lesquelles, pour tenir compte des actions d'accompagnement et de formation professionnelle mises en œuvre ainsi que de la situation du salarié au regard de son projet professionnel, ces contrats peuvent déroger aux dispositions du présent code relatives à la durée totale des contrats de travail à durée déterminée, dans la limite de vingt-quatre mois, ainsi qu'à celles relatives aux conditions de leur renouvellement, dans la limite d'une durée totale de soixante mois. Ce décret peut également prévoir des modalités spécifiques de suspension ou de rupture du contrat à l'initiative du salarié ainsi que des dérogations à la durée hebdomadaire minimale du travail.
 
 NOTA:
-Conformément au II de l’article 10 de la loi n° 2023-1196, ces dispositions entrent en vigueur le 1er janvier 2024.
+Conformément au II de l’article 10 de la loi n° 2023-1196, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2024.

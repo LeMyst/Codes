@@ -1,1 +1,3 @@
-Chapitre II : Rapports entre accords de branche ou professionnels et accords couvrant un champ territorial ou professionnel plus large.
+# Chapitre II : Rapports entre accords de branche ou professionnels et accords couvrant un champ territorial ou professionnel plus large.
+
+- [Article L2252-1](Article%20L2252-1.md)

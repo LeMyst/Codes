@@ -11,4 +11,4 @@ Sa transmission aux services de contrôle et de prévention et aux organismes de
 III.-L'employeur informe immédiatement via la plateforme DEMAT @ MIANTE le ou les organismes certificateurs des modifications portant sur tout ou partie du contenu d'un plan de démolition, de retrait ou d'encapsulage réservé à leur seule connaissance au moyen de la même plateforme.
 
 NOTA:
-Conformément à l’article 2 du décret n° 2022-1748 du 30 décembre 2022, ces dispositions entrent en vigueur la 1er février 2023. Se reporter aux conditions d’application prévues audit article.
+Conformément à l’article 2 du décret n° 2022-1748 du 30 décembre 2022, ces dispositions entrent en vigueur la 1<sup>er</sup> février 2023. Se reporter aux conditions d’application prévues audit article.

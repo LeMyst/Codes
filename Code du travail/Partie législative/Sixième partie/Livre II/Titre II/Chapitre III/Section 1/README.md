@@ -1,1 +1,1 @@
-Section 1 : Organisation de l'apprentissage.
+# Section 1 : Organisation de l'apprentissage.

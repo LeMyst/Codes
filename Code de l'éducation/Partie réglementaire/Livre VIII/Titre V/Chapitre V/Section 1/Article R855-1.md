@@ -3,14 +3,14 @@
 I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
+| -- | -- |
 | R. 811-11 à R. 811-15 | Résultant du décret n° 2026-36 du 29 janvier 2026 |
 | R. 811-16 à R. 811-21 | Résultant du décret n° 2020-785 du 26 juin 2020 |
 | R. 811-22 | Résultant du décret n° 2026-36 du 29 janvier 2026 |
 | R. 811-23 | Résultant du décret n° 2026-36 du 29 janvier 2026 |
 | R. 811-24 | Résultant du décret n° 2020-785 du 26 juin 2020 |
 | R. 811-25 à R. 811-27 | Résultant du décret n° 2026-36 du 29 janvier 2026 |
-| R. 811-28 R. 811-29, 1er, 2e et 3e alinéas R. 811-30 | Résultant du décret n° 2020-785 du 26 juin 2020 |
+| R. 811-28<br>R. 811-29, 1<sup>er</sup>, 2<sup>e</sup> et 3<sup>e</sup> alinéas<br>R. 811-30 | Résultant du décret n° 2020-785 du 26 juin 2020 |
 | R. 811-31 | Résultant du décret n° 2023-856 du 5 septembre 2023 |
 | R. 811-32 | Résultant du décret n° 2020-785 du 26 juin 2020 |
 | R. 811-33 | Résultant du décret n° 2026-36 du 29 janvier 2026 |
@@ -21,7 +21,7 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 | R. 821-2 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
 | R. 822-3, 1er alinéa | Résultant du décret n° 2016-1042 du 29 juillet 2016 |
 | R. 822-4 | Résultant du décret n° 2019-254 du 27 mars 2019 |
-| R. 822-6 à R. 822-8 R. 822-16 à R. 822-20 | Résultant du décret n° 2016-1042 du 29 juillet 2016 |
+| R. 822-6 à R. 822-8<br>R. 822-16 à R. 822-20 | Résultant du décret n° 2016-1042 du 29 juillet 2016 |
 | R. 822-21, 1er, 2e et 3e alinéas | Résultant du décret n° 2021-457 du 15 avril 2021 |
 | R. 841-1 | Résultant du décret n° 2018-564 du 30 juin 2018 |
 

@@ -3,7 +3,7 @@
 I. - Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR REDACTION |
-| --- | --- |
+| -- | -- |
 | L. 401-1 et L. 401-2 | Résultant de la loi n° 2026-813 du 24 août 2026 |
 | L. 401-3 | Résultant de la loi n° 2010-1127 du 28 septembre 2010 |
 | L. 411-1 | Résultant de la loi n° 2013-595 du 8 juillet 2013 |

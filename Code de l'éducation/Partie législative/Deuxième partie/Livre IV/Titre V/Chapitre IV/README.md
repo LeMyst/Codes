@@ -1,1 +1,1 @@
-Chapitre IV : Les établissements d'enseignement français en principauté d'Andorre.
+# Chapitre IV : Les établissements d'enseignement français en principauté d'Andorre.

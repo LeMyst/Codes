@@ -3,7 +3,7 @@
 I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
+| -- | -- |
 | L. 911-1 à L. 911-3 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
 | L. 911-4 | Résultant de la loi n° 2015-177 du 16 février 2015 |
 | L. 911-5 | Résultant de la loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République |

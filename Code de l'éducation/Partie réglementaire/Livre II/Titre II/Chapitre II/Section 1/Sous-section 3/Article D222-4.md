@@ -5,4 +5,4 @@ Dans la région d'Ile-de-France, le service interacadémique des examens et conc
 Le directeur de ce service est nommé par arrêté du ministre chargé de l'éducation nationale, après avis des recteurs des académies intéressées.
 
 NOTA:
-Conformément au premier alinéa de l’article 11 du décret n° 2019-1200 du 20 novembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.
+Conformément au premier alinéa de l’article 11 du décret n° 2019-1200 du 20 novembre 2019, les présentes dispositions entrent en vigueur le 1<sup>er</sup> janvier 2020.

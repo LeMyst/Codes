@@ -3,7 +3,7 @@
 I.-Sont applicables en Polynésie française, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR REDACTION |
-| --- | --- |
+| -- | -- |
 | D. 311-13-1 | Résultant du décret n° 2020-1523 du 4 décembre 2020 |
 | D. 312-4 à D. 312-6 | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 312-20 | Résultant du décret n° 2020-1341 du 3 novembre 2020 |
@@ -21,7 +21,7 @@ I.-Sont applicables en Polynésie française, sous réserve des adaptations pré
 | D. 314-71, 1er et 3e alinéas | Résultant du décret n° 2019-920 du 30 août 2019 |
 | D. 314-71-1 à D. 314-73 | Résultant du décret n° 2014-1631 du 26 décembre 2014 |
 | D. 314-74 | Résultant du décret n° 2020-1677 du 23 décembre 2020 |
-| D. 314-75 à D. 314-80 D. 314-82D. 314-84 à D. 314-88 | Résultant du décret n° 2014-1631 du 26 décembre 2014 |
+| D. 314-75 à D. 314-80<br>D. 314-82<br>D. 314-84 à D. 314-88 | Résultant du décret n° 2014-1631 du 26 décembre 2014 |
 | D. 314-90 | Résultant du décret n° 2019-798 du 26 juillet 2019 |
 | D. 331-64-1 | Résultant du décret n° 2018-172 du 9 mars 2018 |
 | D. 332-12 | Résultant du décret n° 2006-583 du 23 mai 2006 |
@@ -160,7 +160,7 @@ I.-Sont applicables en Polynésie française, sous réserve des adaptations pré
 | D. 337-107 et D. 337-108 | Résultant du décret n° 2020-726 du 12 juin 2020 |
 | D. 337-109 | Résultant du décret n° 2026-876 du 17 septembre 2026 |
 | D. 337-110 | Résultant du décret n° 2006-583 du 23 mai 2006 |
-| D. 337-111 D. 337-113 | Résultant du décret n° 2021-940 du 15 juillet 2021 |
+| D. 337-111<br>D. 337-113 | Résultant du décret n° 2021-940 du 15 juillet 2021 |
 | D. 337-114 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
 | D. 337-115 | Résultant du décret n° 2026-876 du 17 septembre 2026 |
 | D. 337-116 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |

@@ -1,1 +1,15 @@
-Section 4 : Procédure disciplinaire applicable aux candidats au baccalauréat général
+# Section 4 : Procédure disciplinaire applicable aux candidats au baccalauréat général
+
+- [Article D334-25](Article%20D334-25.md)
+- [Article D334-26](Article%20D334-26.md)
+- [Article D334-27](Article%20D334-27.md)
+- [Article D334-27-1](Article%20D334-27-1.md)
+- [Article D334-28](Article%20D334-28.md)
+- [Article D334-29](Article%20D334-29.md)
+- [Article D334-30](Article%20D334-30.md)
+- [Article D334-31](Article%20D334-31.md)
+- [Article D334-32](Article%20D334-32.md)
+- [Article D334-32-1](Article%20D334-32-1.md)
+- [Article D334-33](Article%20D334-33.md)
+- [Article D334-34](Article%20D334-34.md)
+- [Article R334-35](Article%20R334-35.md)

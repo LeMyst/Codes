@@ -1,1 +1,1 @@
-Section 3 : La pratique sportive de haut niveau.
+# Section 3 : La pratique sportive de haut niveau.

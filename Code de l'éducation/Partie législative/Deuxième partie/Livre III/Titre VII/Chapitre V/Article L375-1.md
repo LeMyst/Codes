@@ -3,7 +3,7 @@
 I. - Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
+| -- | -- |
 | L. 311-1 | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
 | L. 311-2 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
 | L. 311-3 et L. 311-3-1 | Résultant de la loi n° 2013-595 du 8 juillet 2013 |

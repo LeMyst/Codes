@@ -3,8 +3,8 @@
 I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR REDACTION |
-| --- | --- |
-| D. 311-1 D. 311-2, 2e alinéa, à D. 311-5 | Résultant du décret n° 2006-583 du 23 mai 2006 |
+| -- | -- |
+| D. 311-1<br>D. 311-2, 2e alinéa, à D. 311-5 | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 311-6 | Résultant du décret n° 2019-824 du 2 août 2019 |
 | D. 311-7 à D. 311-9 | Résultant du décret n° 2015-1929 du 31 décembre 2015 |
 | D. 311-10, 1er à 6e alinéas | Résultant du décret n° 2013-682 du 24 juillet 2013 |
@@ -13,8 +13,8 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 | D. 311-13 | Résultant du décret n° 2014-1377 du 18 novembre 2014 |
 | D. 311-13-1 | Résultant du décret n° 2020-1523 du 4 décembre 2020 |
 | D. 312-1 | Résultant du décret n° 2006-583 du 23 mai 2006 |
-| D. 312-1-1 D. 312-1-2, I, II et III,D. 312-1-3 | Résultant du décret n° 2017-766 du 4 mai 2017 |
-| D. 312-4 à D. 312-6 D. 312-16 | Résultant du décret n° 2006-583 du 23 mai 2006 |
+| D. 312-1-1<br>D. 312-1-2, I, II et III,<br>D. 312-1-3 | Résultant du décret n° 2017-766 du 4 mai 2017 |
+| D. 312-4 à D. 312-6<br>D. 312-16 | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 312-16-1 | Résultant du décret n° 2010-100 du 27 janvier 2010 |
 | D. 312-17 | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 312-18 à D. 312-20 | Résultant du décret n° 2020-1341 du 3 novembre 2020 |
@@ -22,8 +22,8 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 | D. 312-29 | Résultant du décret n° 2020-1341 du 3 novembre 2020 |
 | D. 312-40 | Résultant du décret n° 2021-1910 du 30 décembre 2021 |
 | D. 312-41 et D. 312-42 | Résultant du décret n° 2006-583 du 23 mai 2006 |
-| D. 312-43, 1er alinéa D. 312-44 | Résultant du décret n° 2007-429 du 25 mars 2007 |
-| D. 312-46 D. 312-48 | Résultant du décret n° 2006-583 du 23 mai 2006 |
+| D. 312-43, 1er alinéa<br>D. 312-44 | Résultant du décret n° 2007-429 du 25 mars 2007 |
+| D. 312-46<br>D. 312-48 | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 312-48-1 | Résultant du décret n° 2010-485 du 12 mai 2010 |
 | D. 312-49 | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 313-1, 1er alinéa | Résultant du décret n° 2019-218 du 21 mars 2019 |
@@ -41,13 +41,13 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 | D. 314-71 | Résultant du décret n° 2019-920 du 30 août 2019 |
 | D. 314-71-1 à D. 314-73 | Résultant du décret n° 2014-1631 du 26 décembre 2014 |
 | D. 314-74 | Résultant du décret n° 2020-1677 du 23 décembre 2020 |
-| D. 314-75 à D. 314-80 D. 314-82D. 314-84 à D. 314-88 | Résultant du décret n° 2014-1631 du 26 décembre 2014 |
+| D. 314-75 à D. 314-80<br>D. 314-82<br>D. 314-84 à D. 314-88 | Résultant du décret n° 2014-1631 du 26 décembre 2014 |
 | D. 314-90 | Résultant du décret n° 2019-798 du 26 juillet 2019 |
 | D. 314-91 | Résultant du décret n° 2020-1677 du 23 décembre 2020 |
 | D. 314-99 à D. 314-105 | Résultant du décret n° 2014-1631 du 26 décembre 2014 |
 | D. 321-1 | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 321-3 | Résultant du décret n° 2024-228 du 16 mars 2024 |
-| D. 321-4 D. 321-5, 1er alinéa | Résultant du décret n° 2006-583 du 23 mai 2006 |
+| D. 321-4<br>D. 321-5, 1er alinéa | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 321-6 | Résultant du décret n° 2024-228 du 16 mars 2024 |
 | D. 321-7 | Résultant du décret n° 2014-1377 du 18 novembre 2014 |
 | D. 321-9, 1er alinéa | Résultant du décret n° 2012-16 du 5 janvier 2012 |
@@ -87,7 +87,7 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 | D. 332-4, I et D. 332-5 | Résultant du décret n° 2026-172 du 10 mars 2026 |
 | D. 332-6 | Résultant du décret n° 2014-1377 du 18 novembre 2014 |
 | D. 332-7, 1er alinéa | Résultant du décret n° 2019-218 du 21 mars 2019 |
-| D. 332-8 à D. 332-10 D. 332-12 | Résultant du décret n° 2006-583 du 23 mai 2006 |
+| D. 332-8 à D. 332-10<br>D. 332-12 | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 332-13 | Résultant du décret n° 2014-1377 du 18 novembre 2014 |
 | D. 332-14 | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 332-15 | Résultant du décret n° 2012-16 du 5 janvier 2012 |
@@ -110,7 +110,7 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 | D. 333-5 | Résultant du décret n° 2015-652 du 10 juin 2015 |
 | D. 333-6 | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 333-7 et D. 332-8 | Résultant du décret n° 2009-148 du 10 février 2009 |
-| D. 333-9 et D. 333-10 D. 333-12 à D. 333-15 | Résultant du décret n° 2006-583 du 23 mai 2006 |
+| D. 333-9 et D. 333-10<br>D. 333-12 à D. 333-15 | Résultant du décret n° 2006-583 du 23 mai 2006 |
 | D. 333-16 et D. 333-17 | Résultant du décret n° 2009-148 du 10 février 2009 |
 | D. 333-18 | Résultant du décret n° 2012-16 du 5 janvier 2012 |
 | D. 333-18-1 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
@@ -239,7 +239,7 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 | D. 337-107 et D. 337-108 | Résultant du décret n° 2020-726 du 12 juin 2020 |
 | D. 337-109 | Résultant du décret n° 2026-876 du 17 septembre 2026 |
 | D. 337-110 | Résultant du décret n° 2006-583 du 23 mai 2006 |
-| D. 337-111 D. 337-113 | Résultant du décret n° 2021-940 du 15 juillet 2021 |
+| D. 337-111<br>D. 337-113 | Résultant du décret n° 2021-940 du 15 juillet 2021 |
 | D. 337-114 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
 | D. 337-115 | Résultant du décret n° 2026-876 du 17 septembre 2026 |
 | D. 337-116 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |

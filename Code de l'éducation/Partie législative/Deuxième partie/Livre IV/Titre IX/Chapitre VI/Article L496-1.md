@@ -3,7 +3,7 @@
 I.-Sont applicables en Polynésie française, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR REDACTION |
-| --- | --- |
+| -- | -- |
 | L. 441-1 | Résultant de la loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République |
 | L. 441-3 | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
 | L. 441-3-1 et L. 441-4 | Résultant de la loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République |

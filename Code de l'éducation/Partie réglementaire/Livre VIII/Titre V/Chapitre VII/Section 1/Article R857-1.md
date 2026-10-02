@@ -3,7 +3,7 @@
 I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues au prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
+| -- | -- |
 | R. 811-11 à R. 811-15 | Résultant du décret n° 2026-36 du 29 janvier 2026 |
 | R. 811-16 à R. 811-21 | Résultant du décret n° 2020-785 du 26 juin 2020 |
 | R. 811-22 | Résultant du décret n° 2026-36 du 29 janvier 2026 |
@@ -22,7 +22,7 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | R. 821-5 | Résultant du décret n° 2015-652 du 10 juin 2015 |
 | R. 822-3, 1er alinéa | Résultant du décret n° 2016-1042 du 29 juillet 2016 |
 | R. 822-4 | Résultant du décret n° 2019-254 du 27 mars 2019 |
-| R. 822-6 à R. 822-8 R. 822-16 à R. 822-20 | Résultant du décret n° 2016-1042 du 29 juillet 2016 |
+| R. 822-6 à R. 822-8<br>R. 822-16 à R. 822-20 | Résultant du décret n° 2016-1042 du 29 juillet 2016 |
 | R. 822-21, 1er, 2e et 3e alinéas | Résultant du décret n° 2021-457 du 15 avril 2021 |
 | R. 841-1, 1er, 3e, 4e, 5e et 6e alinéas | Résultant du décret n° 2018-564 du 30 juin 2018 |
 

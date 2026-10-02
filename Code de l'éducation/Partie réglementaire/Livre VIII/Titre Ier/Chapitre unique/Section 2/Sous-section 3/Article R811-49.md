@@ -11,4 +11,4 @@ Pour l'application de l'article R. 811-13-1, les mots : “commission de discipl
 La section disciplinaire commune prononce les sanctions applicables en vertu des textes dont relève l'établissement public à caractère scientifique, culturel et professionnel auquel appartient l'usager poursuivi.
 
 NOTA:
-Conformément au premier alinéa de l'article 53 du décret n° 2026-36 du 29 janvier 2026, la section disciplinaire mentionnée aux articles R. 811-43 à R. 811-50 issus du décret précité ne peut être saisie que de faits survenus à compter du 1er mai 2026.
+Conformément au premier alinéa de l'article 53 du décret n° 2026-36 du 29 janvier 2026, la section disciplinaire mentionnée aux articles R. 811-43 à R. 811-50 issus du décret précité ne peut être saisie que de faits survenus à compter du 1<sup>er</sup> mai 2026.

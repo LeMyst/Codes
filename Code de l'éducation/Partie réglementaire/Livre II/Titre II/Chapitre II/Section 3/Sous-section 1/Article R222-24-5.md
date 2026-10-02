@@ -7,4 +7,4 @@ Les responsables des services régionaux sont placés sous l'autorité hiérarch
 Les arrêtés du recteur de région académique créant un service régional sont publiés au recueil des actes administratifs de la préfecture de région.
 
 NOTA:
-Conformément au premier alinéa de l’article 11 du décret n° 2019-1200 du 20 novembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.
+Conformément au premier alinéa de l’article 11 du décret n° 2019-1200 du 20 novembre 2019, les présentes dispositions entrent en vigueur le 1<sup>er</sup> janvier 2020.

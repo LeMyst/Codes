@@ -1,1 +1,1 @@
-Paragraphe 6 : Dispositions diverses
+# Paragraphe 6 : Dispositions diverses

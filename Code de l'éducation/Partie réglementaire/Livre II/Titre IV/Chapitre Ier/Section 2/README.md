@@ -1,1 +1,16 @@
-Section 2 : L'inspection générale de l'éducation, du sport et de la recherche
+# Section 2 : L'inspection générale de l'éducation, du sport et de la recherche
+
+- [Article R241-3](Article%20R241-3.md)
+- [Article R241-4](Article%20R241-4.md)
+- [Article R241-5](Article%20R241-5.md)
+- [Article R241-6](Article%20R241-6.md)
+- [Article R241-7](Article%20R241-7.md)
+- [Article R241-8](Article%20R241-8.md)
+- [Article R241-9](Article%20R241-9.md)
+- [Article R241-10](Article%20R241-10.md)
+- [Article R241-11](Article%20R241-11.md)
+- [Article R241-12](Article%20R241-12.md)
+- [Article R241-13](Article%20R241-13.md)
+- [Article R241-14](Article%20R241-14.md)
+- [Article R241-15](Article%20R241-15.md)
+- [Article R241-16](Article%20R241-16.md)

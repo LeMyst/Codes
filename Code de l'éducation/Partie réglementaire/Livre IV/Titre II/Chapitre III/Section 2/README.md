@@ -1,1 +1,1 @@
-Section 2 : Innovation et transfert de technologie.
+# Section 2 : Innovation et transfert de technologie.

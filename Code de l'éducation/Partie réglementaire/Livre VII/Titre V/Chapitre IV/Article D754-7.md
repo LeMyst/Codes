@@ -11,4 +11,4 @@ Outre l'Institut national du sport, de l'expertise et de la performance (INSEP),
 4° Centres de ressource, d'expertise et de performances sportives (CREPS) : articles R. 211-69 à R. 211-82-4 du code du sport.
 
 NOTA:
-Conformément à l'article 4 du décret n° 2025-1054, ces dispositions, dans leur rédaction issue de l'article 2 dudit décret, entrent en vigueur le 1er janvier 2026.
+Conformément à l'article 4 du décret n° 2025-1054, ces dispositions, dans leur rédaction issue de l'article 2 dudit décret, entrent en vigueur le 1<sup>er</sup> janvier 2026.

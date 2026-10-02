@@ -3,7 +3,7 @@
 I.-Sont applicables en Polynésie française, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
+| -- | -- |
 | L. 811-1 | Résultant de la loi n° 2013-660 du 22 juillet 2013 |
 | L. 811-2, 1er, 2e et 3e alinéas | Résultant de la loi n° 2017-86 du 27 janvier 2017 |
 | L. 811-3 | Résultant de la loi n° 2014-788 du 10 juillet 2014 |

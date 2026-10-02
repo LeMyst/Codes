@@ -1,1 +1,17 @@
-Section 1 : L'organisation de la formation au collège.
+# Section 1 : L'organisation de la formation au collège.
+
+- [Article D332-1](Article%20D332-1.md)
+- [Article D332-2](Article%20D332-2.md)
+- [Article D332-3](Article%20D332-3.md)
+- [Article D332-4](Article%20D332-4.md)
+- [Article D332-5](Article%20D332-5.md)
+- [Article D332-6](Article%20D332-6.md)
+- [Article D332-7](Article%20D332-7.md)
+- [Article D332-8](Article%20D332-8.md)
+- [Article D332-9](Article%20D332-9.md)
+- [Article D332-10](Article%20D332-10.md)
+- [Article D332-11](Article%20D332-11.md)
+- [Article D332-12](Article%20D332-12.md)
+- [Article D332-13](Article%20D332-13.md)
+- [Article D332-14](Article%20D332-14.md)
+- [Article D332-15](Article%20D332-15.md)

@@ -1,1 +1,1 @@
-Chapitre Ier : Les établissements d'enseignement artistique.
+# Chapitre Ier : Les établissements d'enseignement artistique.

@@ -3,7 +3,7 @@
 I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR REDACTION |
-| --- | --- |
+| -- | -- |
 | D. 222-38 | Résultant de la loi n° 2011-334 du 29 mars 2011 |
 | D. 222-39 | Résultant du décret n° 2017-610 du 24 avril 2017 |
 | D. 222-40 | Résultant du décret n° 2019-918 du 30 août 2019 |

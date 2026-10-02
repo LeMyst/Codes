@@ -3,7 +3,7 @@
 I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
+| -- | -- |
 | R. 221-1 | Résultant du décret n° 2021-1907 du 30 décembre 2021 |
 | R. 222-19-2 | Résultant du décret n° 2019-1200 du 20 novembre 2019 |
 | R. 222-24-7 | Résultant du décret n° 2021-350 du 29 mars 2021 |
@@ -35,7 +35,7 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 | R. 232-44 | Résultant du décret n° 2004-703 du 13 juillet 2004 |
 | R. 232-45 | Résultant du décret n° 2015-79 du 28 janvier 2015 |
 | R. 232-46 à R. 232-48 | Résultant du décret n° 2023-856 du 5 septembre 2023 |
-| R. 241-3 R. 241-4, 1er, 2e, 4e et 5e alinéasR. 241-5R. 241-7 à R. 241-10 | Résultant du décret n° 2020-1676 du 23 décembre 2020 |
+| R. 241-3<br>R. 241-4, 1er, 2e, 4e et 5e alinéas<br>R. 241-5<br>R. 241-7 à R. 241-10 | Résultant du décret n° 2020-1676 du 23 décembre 2020 |
 | R. 241-11 | Résultant du décret n° 2017-908 du 6 mai 2017 |
 | R. 241-12 et R. 241-13 | Résultant du décret n° 2004-703 du 13 juillet 2004 |
 | R. 241-14 | Résultant du décret n° 2020-1676 du 23 décembre 2020 |

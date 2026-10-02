@@ -11,4 +11,4 @@ Tout membre empêché est remplacé par son suppléant.
 Un membre de la section disciplinaire commune qui perd la qualité au titre de laquelle il été désigné ou qui cesse de faire partie de la section disciplinaire pour quelque cause que ce soit est remplacé par son suppléant. Un nouveau suppléant est désigné.
 
 NOTA:
-Conformément au premier alinéa de l'article 53 du décret n° 2026-36 du 29 janvier 2026, la section disciplinaire mentionnée aux articles R. 811-43 à R. 811-50 issus du décret précité ne peut être saisie que de faits survenus à compter du 1er mai 2026.
+Conformément au premier alinéa de l'article 53 du décret n° 2026-36 du 29 janvier 2026, la section disciplinaire mentionnée aux articles R. 811-43 à R. 811-50 issus du décret précité ne peut être saisie que de faits survenus à compter du 1<sup>er</sup> mai 2026.

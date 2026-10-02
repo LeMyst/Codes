@@ -17,4 +17,4 @@ Pour les questions relatives à l'enseignement supérieur, à la recherche et à
 7° Provence-Alpes-Côte d'Azur.
 
 NOTA:
-Conformément au premier alinéa de l’article 11 du décret n° 2019-1200 du 20 novembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.
+Conformément au premier alinéa de l’article 11 du décret n° 2019-1200 du 20 novembre 2019, les présentes dispositions entrent en vigueur le 1<sup>er</sup> janvier 2020.

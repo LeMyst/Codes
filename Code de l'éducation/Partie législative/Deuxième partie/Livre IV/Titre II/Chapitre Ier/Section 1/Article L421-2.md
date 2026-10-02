@@ -8,7 +8,9 @@ Les établissements publics locaux mentionnés à l'article L. 421-1 sont admini
 
 3° Pour un tiers, des représentants élus des parents d'élèves et élèves.
 
-Les représentants des collectivités territoriales sont au nombre de trois ou de quatre, selon que l'effectif du conseil d'administration est de vingt-quatre ou de trente membres. Lorsque les représentants des collectivités territoriales sont au nombre de trois, ils comprennent deux représentants de la collectivité de rattachement et un représentant de la commune siège de l'établissement et, lorsqu'il existe un établissement public de coopération intercommunale, un représentant de cet établissement public siège sans voix délibérative.
+Les représentants des collectivités territoriales sont au nombre de trois ou de quatre, selon que l'effectif du conseil d'administration est de vingt-quatre ou de trente membres.
+
+Lorsque les représentants des collectivités territoriales sont au nombre de trois, ils comprennent deux représentants de la collectivité de rattachement et un représentant de la commune siège de l'établissement et, lorsqu'il existe un établissement public de coopération intercommunale, un représentant de cet établissement public siège sans voix délibérative.
 
 Lorsque les représentants des collectivités territoriales sont au nombre de quatre, ils comprennent deux représentants de la collectivité de rattachement et deux représentants de la commune siège de l'établissement ou, lorsqu'il existe un établissement public de coopération intercommunale, deux représentants de la collectivité de rattachement, un représentant de cet établissement public de coopération intercommunale et un représentant de la commune siège.
 

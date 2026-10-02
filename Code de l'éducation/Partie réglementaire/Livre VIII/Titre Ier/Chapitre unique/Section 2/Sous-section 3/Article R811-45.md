@@ -13,4 +13,4 @@ Outre son président, la section disciplinaire commune comprend :
 Un secrétariat est mis à disposition de la section disciplinaire commune par le recteur de région académique.
 
 NOTA:
-Conformément au premier alinéa de l'article 53 du décret n° 2026-36 du 29 janvier 2026, la section disciplinaire mentionnée aux articles R. 811-43 à R. 811-50 issus du décret précité ne peut être saisie que de faits survenus à compter du 1er mai 2026.
+Conformément au premier alinéa de l'article 53 du décret n° 2026-36 du 29 janvier 2026, la section disciplinaire mentionnée aux articles R. 811-43 à R. 811-50 issus du décret précité ne peut être saisie que de faits survenus à compter du 1<sup>er</sup> mai 2026.

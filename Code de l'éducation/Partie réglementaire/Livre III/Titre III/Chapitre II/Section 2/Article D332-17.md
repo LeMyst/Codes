@@ -5,4 +5,4 @@ Pour les candidats scolaires issus des classes de troisième des établissements
 Les modalités d'attribution du diplôme national du brevet sont précisées par un arrêté du ministre chargé de l'éducation.
 
 NOTA:
-Conformément à l’article 5 du décret n° 2025-328 du 10 avril 2025, ces dispositions entrent en vigueur à la rentrée scolaire 2025, soit le 1er septembre 2025.
+Conformément à l’article 5 du décret n° 2025-328 du 10 avril 2025, ces dispositions entrent en vigueur à la rentrée scolaire 2025, soit le 1<sup>er</sup> septembre 2025.

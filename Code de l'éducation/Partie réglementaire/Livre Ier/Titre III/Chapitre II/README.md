@@ -1,1 +1,1 @@
-Chapitre II : La gratuité de l'enseignement scolaire public.
+# Chapitre II : La gratuité de l'enseignement scolaire public.

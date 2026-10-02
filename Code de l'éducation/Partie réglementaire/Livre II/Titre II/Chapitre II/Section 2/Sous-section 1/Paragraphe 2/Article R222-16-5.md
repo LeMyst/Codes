@@ -9,4 +9,4 @@ Dans les régions académiques mentionnées à l'article R. 222-16-3, pour les q
 Pendant l'intérim du recteur de région académique et sauf décision contraire du ou des fonctionnaires assurant l'intérim, les délégations de signature données par le précédent recteur de région académique sont maintenues jusqu'à la nomination d'un nouveau recteur de région académique.
 
 NOTA:
-Conformément au premier alinéa de l’article 11 du décret n° 2019-1200 du 20 novembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.
+Conformément au premier alinéa de l’article 11 du décret n° 2019-1200 du 20 novembre 2019, les présentes dispositions entrent en vigueur le 1<sup>er</sup> janvier 2020.

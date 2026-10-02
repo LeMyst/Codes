@@ -1,1 +1,18 @@
-Sous-section 2 : La procédure d'orientation et d'affectation des élèves dans les établissements d'enseignement privés sous contrat.
+# Sous-section 2 : La procédure d'orientation et d'affectation des élèves dans les établissements d'enseignement privés sous contrat.
+
+- [Article D331-46](Article%20D331-46.md)
+- [Article D331-47](Article%20D331-47.md)
+- [Article D331-48](Article%20D331-48.md)
+- [Article D331-49](Article%20D331-49.md)
+- [Article D331-50](Article%20D331-50.md)
+- [Article D331-51](Article%20D331-51.md)
+- [Article D331-52](Article%20D331-52.md)
+- [Article D331-53](Article%20D331-53.md)
+- [Article D331-54](Article%20D331-54.md)
+- [Article D331-55](Article%20D331-55.md)
+- [Article D331-56](Article%20D331-56.md)
+- [Article D331-57](Article%20D331-57.md)
+- [Article D331-58](Article%20D331-58.md)
+- [Article D331-59](Article%20D331-59.md)
+- [Article D331-60](Article%20D331-60.md)
+- [Article D331-61](Article%20D331-61.md)

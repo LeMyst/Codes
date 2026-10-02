@@ -1,1 +1,21 @@
-Sous-section 1 : Logement des instituteurs.
+# Sous-section 1 : Logement des instituteurs.
+
+- [Article D212-1](Article%20D212-1.md)
+- [Article D212-2](Article%20D212-2.md)
+- [Article D212-3](Article%20D212-3.md)
+- [Article D212-4](Article%20D212-4.md)
+- [Article D212-5](Article%20D212-5.md)
+- [Article D212-6](Article%20D212-6.md)
+- [Article R212-7](Article%20R212-7.md)
+- [Article R212-8](Article%20R212-8.md)
+- [Article R212-9](Article%20R212-9.md)
+- [Article R212-10](Article%20R212-10.md)
+- [Article R212-11](Article%20R212-11.md)
+- [Article R212-12](Article%20R212-12.md)
+- [Article R212-13](Article%20R212-13.md)
+- [Article R212-14](Article%20R212-14.md)
+- [Article R212-15](Article%20R212-15.md)
+- [Article R212-16](Article%20R212-16.md)
+- [Article R212-17](Article%20R212-17.md)
+- [Article R212-18](Article%20R212-18.md)
+- [Article R212-19](Article%20R212-19.md)

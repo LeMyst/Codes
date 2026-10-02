@@ -11,4 +11,4 @@ Le responsable et les personnels du service en charge de la mutualisation sont p
 A ce titre, le recteur d'académie et chacun des directeurs académiques des services de l'éducation nationale concernés peuvent déléguer leur signature à ce responsable ainsi qu'à ses subordonnés dans les matières relevant de leurs attributions. Ces délégations fixent les actes pour lesquels elles ont été accordées. Elles entrent en vigueur le lendemain du jour de leur publication au recueil des actes administratifs de la préfecture de région, en ce qui concerne la délégation consentie par le recteur d'académie, ou de la préfecture de département, en ce qui concerne la délégation donnée par un directeur académique des services de l'éducation nationale, et peuvent être abrogées à tout moment.
 
 NOTA:
-Conformément au premier alinéa de l’article 11 du décret n° 2019-1200 du 20 novembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.
+Conformément au premier alinéa de l’article 11 du décret n° 2019-1200 du 20 novembre 2019, les présentes dispositions entrent en vigueur le 1<sup>er</sup> janvier 2020.

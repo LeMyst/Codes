@@ -3,9 +3,9 @@
 I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
+| -- | -- |
 | L. 211-9 | Résultant de la loi n° 2012-409 du 27 mars 2012 |
-| L. 212-10 L. 231-1 et L. 231-2 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+| L. 212-10<br>L. 231-1 et L. 231-2 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
 | L. 231-3 | Résultant de la loi n° 2017-86 du 27 janvier 2017 |
 | L. 231-4 et L. 231-5 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
 | L. 231-14 | Résultant de la loi n° 2019-791 du 26 juillet 2019 |

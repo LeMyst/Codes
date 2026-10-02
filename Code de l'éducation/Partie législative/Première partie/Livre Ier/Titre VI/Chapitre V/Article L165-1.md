@@ -3,7 +3,7 @@
 I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
+| -- | -- |
 | L. 111-1 | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
 | L. 111-1-1 | Résultant de la loi n° 2013-660 du 22 juillet 2013 |
 | L. 111-1-2 et L. 111-1-3 | Résultant de la loi n° 2019-791 du 26 juillet 2019 pour une école de la confiance |
@@ -14,12 +14,12 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 | L. 112-2 | Résultant de la loi n° 2024-1028 du 15 novembre 2024 visant à améliorer le repérage et l'accompagnement des personnes présentant des troubles du neuro-développement et à favoriser le répit des proches aidants |
 | L. 112-3 | Résultant de l'ordonnance n° 2008-1304 du 11 décembre 2008 |
 | L. 112-4 | Résultant de la loi n° 2005-102 du 11 février 2005 |
-| L. 112-5 L. 113-1, 1er alinéa, L. 114-1, 1er, 2e et 4e alinéas | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
+| L. 112-5<br>L. 113-1, 1er alinéa,<br>L. 114-1, 1er, 2e et 4e alinéas | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
 | L. 121-1 | Résultant de la loi n° 2025-732 du 31 juillet 2025 relative à la lutte contre l'antisémitisme dans l'enseignement supérieur |
 | L. 121-2 | Résultant de la loi n° 2013-595 du 8 juillet 2013 |
 | L. 121-3 | Résultant de la loi n° 2013-660 du 22 juillet 2013 |
 | L. 121-4 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
-| L. 121-4-1, 1er à 4e alinéas et 6 e à 13e alinéas | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
+| L. 121-4-1,<br>1er à 4e alinéas et 6 e à 13e alinéas | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
 | L. 121-4-2 | Résultant de la loi n° 2018-493 du 20 juin 2018 |
 | L. 121-5 et L. 121-6 | Résultant de la loi n° 2013-595 du 8 juillet 2013 |
 | L. 121-7 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
@@ -39,20 +39,20 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 | L. 124-2 | Résultant de la loi n° 2014-788 du 10 juillet 2014 |
 | L. 124-3 | Résultant de la loi n° 2020-1674 du 24 décembre 2020 |
 | L. 124-3-1 | Résultant de la loi n° 2018-771 du 5 septembre 2018 |
-| L. 124-4 et L. 124-5 ; L. 124-9 ; L. 124-12 ; L. 124-14 ; L. 124-15 ; L. 124-18 ; L. 124-19 et L. 124-20 | Résultant de la loi n° 2014-788 du 10 juillet 2014 |
+| L. 124-4 et L. 124-5 ;<br>L. 124-9 ; L. 124-12 ;<br>L. 124-14 ; L. 124-15 ; L. 124-18 ; L. 124-19 et L. 124-20 | Résultant de la loi n° 2014-788 du 10 juillet 2014 |
 | L. 131-1 | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
 | L. 131-1-1 et L. 131-2 | Résultant de la loi n° 2013-595 du 8 juillet 2013 |
 | L. 131-4 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
 | L. 131-5, 1er, 2e, 3e, 4e alinéas | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
 | L. 131-7 | Résultant du décret n° 2012-16 du 5 janvier 2012 |
-| L. 131-8, 1er, 2e, 3e, 4e, 5e et 8e alinéas à L. 131-10, 3e, 4e, 5e, 6e, 7e et 8e alinéas | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
+| L. 131-8,<br>1er, 2e, 3e, 4e, 5e et 8e alinéas<br>à L. 131-10, 3e, 4e, 5e, 6e, 7e et 8e alinéas | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
 | L. 131-11 | Résultant de la loi n° 2018-266 du 13 avril 2018 |
 | L. 131-12 | Résultant de la loi n° 2004-1 du 2 janvier 2004 |
 | L. 132-1 | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
-| L. 132-2 ; L. 141-2, L. 141-3, 1er alinéa, L. 141-4 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+| L. 132-2 ;<br>L. 141-2, L. 141-3, 1er alinéa, L. 141-4 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
 | L. 141-5-1 | Résultant de la loi n° 2004-228 du 15 mars 2004 |
 | L. 141-5-2 | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
-| L. 141-6 ; L. 151-1 ; L. 151-3 ; L. 151-5 et L. 151-6 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+| L. 141-6 ;<br>L. 151-1 ; L. 151-3 ; L. 151-5 et L. 151-6 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
 
 II.-Pour l'application du I :
 

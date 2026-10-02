@@ -1,1 +1,19 @@
-Chapitre II : Droits et obligations de l'Etat et des départements concernant les instituts universitaires de formation des maîtres, les écoles supérieures du professorat et de l'éducation et les instituts nationaux supérieurs du professorat et de l'éducation
+# Chapitre II : Droits et obligations de l'Etat et des départements concernant les instituts universitaires de formation des maîtres, les écoles supérieures du professorat et de l'éducation et les instituts nationaux supérieurs du professorat et de l'éducation
+
+- [Article L722-1](Article%20L722-1.md)
+- [Article L722-2](Article%20L722-2.md)
+- [Article L722-3](Article%20L722-3.md)
+- [Article L722-4](Article%20L722-4.md)
+- [Article L722-5](Article%20L722-5.md)
+- [Article L722-6](Article%20L722-6.md)
+- [Article L722-7](Article%20L722-7.md)
+- [Article L722-8](Article%20L722-8.md)
+- [Article L722-9](Article%20L722-9.md)
+- [Article L722-10](Article%20L722-10.md)
+- [Article L722-11](Article%20L722-11.md)
+- [Article L722-12](Article%20L722-12.md)
+- [Article L722-13](Article%20L722-13.md)
+- [Article L722-14](Article%20L722-14.md)
+- [Article L722-15](Article%20L722-15.md)
+- [Article L722-16](Article%20L722-16.md)
+- [Article L722-17](Article%20L722-17.md)

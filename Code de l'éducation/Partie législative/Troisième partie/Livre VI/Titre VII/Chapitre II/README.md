@@ -1,1 +1,1 @@
-Chapitre II : L'enseignement de l'architecture.
+# Chapitre II : L'enseignement de l'architecture.

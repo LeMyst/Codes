@@ -1,1 +1,17 @@
-Sous-section 1 : Le diplôme d'études spécialisées de biologie médicale
+# Sous-section 1 : Le diplôme d'études spécialisées de biologie médicale
+
+- [Article D631-2](Article%20D631-2.md)
+- [Article D631-3](Article%20D631-3.md)
+- [Article D631-4](Article%20D631-4.md)
+- [Article D631-5](Article%20D631-5.md)
+- [Article D631-6](Article%20D631-6.md)
+- [Article D631-7](Article%20D631-7.md)
+- [Article D631-8](Article%20D631-8.md)
+- [Article D631-9](Article%20D631-9.md)
+- [Article D631-10](Article%20D631-10.md)
+- [Article D631-11](Article%20D631-11.md)
+- [Article D631-12](Article%20D631-12.md)
+- [Article D631-13](Article%20D631-13.md)
+- [Article D631-14](Article%20D631-14.md)
+- [Article D631-15](Article%20D631-15.md)
+- [Article D631-16](Article%20D631-16.md)

@@ -6,6 +6,6 @@ L'école est administrée par un conseil d'administration comprenant, outre son 
 
 Ses principales ressources sont constituées par des subventions de personnes publiques ou privées, françaises ou étrangères, le produit des droits de scolarité, les dons et legs faits à son profit, toute recette provenant de l'exercice de ses activités, les revenus des biens meubles et immeubles, les produits des emprunts et les revenus issus de ses prises de participation.
 
-Le titre Ier du présent livre lui est applicable, à l'exception de la première phrase du deuxième alinéa de l'article L. 717-1.
+Le titre I<sup>er</sup> du présent livre lui est applicable, à l'exception de la première phrase du deuxième alinéa de l'article L. 717-1.
 
 Un décret en Conseil d'Etat détermine les modalités d'application du présent article.

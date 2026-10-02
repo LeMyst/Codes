@@ -15,4 +15,4 @@ Par dérogation à l'alinéa précédent, un recteur de région académique peut
 NOTA:
 Conformément à l'article 4 du décret n° 2021-350 du 29 mars 2021, ces dispositions sont applicables aux requêtes d'appel enregistrées devant les juridictions administratives, aux demandes indemnitaires et aux décisions de justice intervenues après la date de publication dudit décret ainsi qu'aux demandes de protection fonctionnelle présentées à compter de cette date.
 
-Conformément au premier alinéa de l’article 11 du décret n° 2019-1200 du 20 novembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.
+Conformément au premier alinéa de l’article 11 du décret n° 2019-1200 du 20 novembre 2019, les présentes dispositions entrent en vigueur le 1<sup>er</sup> janvier 2020.

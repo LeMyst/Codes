@@ -1,1 +1,15 @@
-Section 5 : L'organisation des activités physiques et sportives dans l'enseignement supérieur
+# Section 5 : L'organisation des activités physiques et sportives dans l'enseignement supérieur
+
+- [Article D714-41](Article%20D714-41.md)
+- [Article D714-42](Article%20D714-42.md)
+- [Article D714-43](Article%20D714-43.md)
+- [Article D714-44](Article%20D714-44.md)
+- [Article D714-45](Article%20D714-45.md)
+- [Article D714-46](Article%20D714-46.md)
+- [Article D714-47](Article%20D714-47.md)
+- [Article D714-48](Article%20D714-48.md)
+- [Article D714-49](Article%20D714-49.md)
+- [Article D714-50](Article%20D714-50.md)
+- [Article D714-51](Article%20D714-51.md)
+- [Article D714-52](Article%20D714-52.md)
+- [Article D714-53](Article%20D714-53.md)

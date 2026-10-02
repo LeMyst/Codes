@@ -25,4 +25,4 @@ Un arrêté des ministres chargés de la santé et de l'enseignement supérieur 
 Les dispositions du 7° ne sont pas applicables aux étudiants mentionnés à l'article L. 4383-2-1 du code de la santé publique.
 
 NOTA:
-Conformément au premier alinéa de l'article 3 du décret n° 2026-130 du 20 février 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur pour les étudiants qui débutent leur formation après le 1er septembre 2026. Les étudiants ayant débuté leur formation avant cette date restent régis par les dispositions du code de l'éducation et du code de la santé publique dans leur rédaction antérieure à l'entrée en vigueur du décret précité.
+Conformément au premier alinéa de l'article 3 du décret n° 2026-130 du 20 février 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur pour les étudiants qui débutent leur formation après le 1<sup>er</sup> septembre 2026. Les étudiants ayant débuté leur formation avant cette date restent régis par les dispositions du code de l'éducation et du code de la santé publique dans leur rédaction antérieure à l'entrée en vigueur du décret précité.

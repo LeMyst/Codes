@@ -1,1 +1,1 @@
-Section 2 : Responsabilités et compétences élargies
+# Section 2 : Responsabilités et compétences élargies

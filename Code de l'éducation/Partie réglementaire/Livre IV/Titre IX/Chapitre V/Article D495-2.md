@@ -3,7 +3,7 @@
 I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR REDACTION |
-| --- | --- |
+| -- | -- |
 | D. 411-1 | Résultant du décret n° 2019-918 du 30 août 2019 |
 | D. 411-2 | Résultant du décret n° 2013-983 du 4 novembre 2013 |
 | D. 411-3 | Résultant du décret n° 2012-16 du 5 janvier 2012 |
@@ -12,14 +12,14 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 | D. 411-8, 1er et 2e alinéas | Résultant du décret n° 2019-1403 du 18 décembre 2019 |
 | D. 422-1 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
 | D. 422-2 et D. 422-2-1 | Résultant du décret n° 2016-1063 du 3 août 2016 |
-| D. 422-3 D. 422-5 | Résultant du décret n° 2008-263 du 14 mars 2008 |
+| D. 422-3<br>D. 422-5 | Résultant du décret n° 2008-263 du 14 mars 2008 |
 | D. 422-6 | Résultant du décret n° 2020-1633 du 21 décembre 2020 |
 | D. 422-7 | Résultant du décret n° 2025-610 du 1er juillet 2025 |
 | D. 422-7-1 | Résultant du décret n° 2019-908 du 30 août 2019 |
 | D. 422-8 et D. 422-9 | Résultant du décret n° 2008-263 du 14 mars 2008 |
 | D. 422-9-1 | Résultant du décret n° 2026-688 du 28 juillet 2026 |
 | D. 422-10 | Résultant du décret n° 2020-1633 du 21 décembre 2020 |
-| D. 422-11, D. 422-12,D. 422-15 | Résultant du décret n° 2008-263 du 14 mars 2008 |
+| D. 422-11,<br>D. 422-12,<br>D. 422-15 | Résultant du décret n° 2008-263 du 14 mars 2008 |
 | D. 422-16 | Résultant du décret n° 2019-908 du 30 août 2019 |
 | D. 422-16-1 | Résultant du décret n° 2021-1910 du 30 décembre 2021 |
 | D. 422-17 et D. 422-18 | Résultant du décret n° 2008-263 du 14 mars 2008 |
@@ -49,8 +49,8 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 | D. 422-49 | Résultant du décret n° 2008-263 du 14 mars 2008 |
 | D. 422-50 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
 | D. 422-51 | Résultant du décret n° 2008-263 du 14 mars 2008 |
-| D. 422-52 D. 422-53 à D. 422-53-10 | Résultant du décret n° 2017-1882 du 29 décembre 2017 |
-| D. 422-54 D. 422-55D. 422-56, 1er et 3e alinéasD. 422-57 | Résultant du décret n° 2008-263 du 14 mars 2008 |
+| D. 422-52<br>D. 422-53 à D. 422-53-10 | Résultant du décret n° 2017-1882 du 29 décembre 2017 |
+| D. 422-54<br>D. 422-55<br>D. 422-56, 1er et 3e alinéas<br>D. 422-57 | Résultant du décret n° 2008-263 du 14 mars 2008 |
 | D. 423-1, 1er, 2e et 7e alinéa | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
 | D. 423-2 | Résultant du décret n° 2013-852 du 24 septembre 2013 |
 | D. 423-3 | Résultant du décret n° 2019-317 du 12 avril 2019 |

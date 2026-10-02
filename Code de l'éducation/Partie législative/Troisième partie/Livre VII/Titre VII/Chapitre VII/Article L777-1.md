@@ -3,7 +3,7 @@
 I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
+| -- | -- |
 | L. 711-1 | Résultant de la loi n° 2020-1674 du 24 décembre 2020 |
 | L. 711-2 | Résultant de la loi n° 2013-660 du 22 juillet 2013 |
 | L. 711-3 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |

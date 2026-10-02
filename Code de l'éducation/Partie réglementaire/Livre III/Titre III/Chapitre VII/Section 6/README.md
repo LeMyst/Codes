@@ -1,1 +1,6 @@
-Section 6 : Le certificat de spécialisation
+# Section 6 : Le certificat de spécialisation
+
+- [Sous-section 1 : Définition du diplôme.](Sous-section%201/README.md)
+- [Sous-section 2 : Modalités de préparation.](Sous-section%202/README.md)
+- [Sous-section 3 : Conditions de délivrance.](Sous-section%203/README.md)
+- [Sous-section 4 : Organisation des examens.](Sous-section%204/README.md)

@@ -3,7 +3,7 @@
 I. - Sont applicables en Polynésie française, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR REDACTION |
-| --- | --- |
+| -- | -- |
 | D. 611-1 à D. 611-6 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 611-7 à D. 611-9 | Résultant du décret n° 2017-962 du 10 mai 2017 |
 | D. 611-10 à D. 611-12 | Résultant du décret n° 2017-619 du 24 avril 2017 |
@@ -19,7 +19,7 @@ I. - Sont applicables en Polynésie française, sous réserve des adaptations pr
 | D. 612-1-8 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
 | D. 612-1-9, 1er, 2e, 3e et 5e alinéas | Résultant du décret n° 2020-181 du 28 février 2020 |
 | D. 612-1-9-1 | Résultant du décret n° 2019-231 du 26 mars 2019 |
-| D. 612-1-10 D. 612-1-11, 1er, 2e, 3e et 5e alinéas | Résultant du décret n° 2020-181 du 28 février 2020 |
+| D. 612-1-10<br>D. 612-1-11, 1er, 2e, 3e et 5e alinéas | Résultant du décret n° 2020-181 du 28 février 2020 |
 | D. 612-1-13 | Résultant du décret n° 2021-226 du 26 février 2021 |
 | D. 612-1-14 | Résultant du décret n° 2023-419 du 31 mai 2023 |
 | D. 612-1-14-1 | Résultant du décret n° 2020-181 du 28 février 2020 |
@@ -27,7 +27,7 @@ I. - Sont applicables en Polynésie française, sous réserve des adaptations pr
 | D. 612-1-17 | Résultant du décret n° 2019-231 du 26 mars 2019 |
 | D. 612-1-18 | Résultant du décret n° 2018-369 du 18 mai 2018 |
 | D. 612-1-19 | Résultant du décret n° 2019-231 du 26 mars 2019 |
-| D. 612-1-20 D. 612-1-21, 1er et 2e alinéasD. 612-1-22 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
+| D. 612-1-20<br>D. 612-1-21, 1er et 2e alinéas<br>D. 612-1-22 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
 | D. 612-1-23 et D. 612-1-24 | Résultant du décret n° 2021-226 du 26 février 2021 |
 | D. 612-1-25 à D. 612-1-30 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
 | D. 612-1-36 | Résultant du décret n° 2020-181 du 28 février 2020 |
@@ -45,7 +45,7 @@ I. - Sont applicables en Polynésie française, sous réserve des adaptations pr
 | D. 612-32-1 | Résultant du décret n° 2017-83 du 25 janvier 2017 |
 | D. 612-32-2 | Résultant du décret n° 2026-752 du 6 août 2026 |
 | D. 612-32-3 | Résultant du décret n° 2015-1168 du 21 septembre 2015 |
-| D. 612-32-5 D. 612-33 | Résultant du décret n° 2017-83 du 25 janvier 2017 |
+| D. 612-32-5<br>D. 612-33 | Résultant du décret n° 2017-83 du 25 janvier 2017 |
 | D. 612-34 | Résultant du décret n° 2026-752 du 6 août 2026 |
 | D. 612-35 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 612-36 | Résultant du décret n° 2026-752 du 6 août 2026 |
@@ -59,7 +59,7 @@ I. - Sont applicables en Polynésie française, sous réserve des adaptations pr
 | D. 612-36-2-7 à D. 612-36-2-10 | Résultant du décret n° 2026-91 du 13 février 2026 |
 | D. 612-36-3-1 | Résultant du décret n° 2026-585 du 25 juin 2026 |
 | D. 612-36-4 | Résultant du décret n° 2017-83 du 25 janvier 2017 |
-| D. 612-37 à D. 612-41 D. 613-1 à D. 613-5 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| D. 612-37 à D. 612-41<br>D. 613-1 à D. 613-5 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 613-6 | Résultant du décret n° 2020-1180 du 25 septembre 2020 |
 | D. 613-7 | Résultant du décret n° 2026-130 du 20 février 2026 |
 | D. 613-8 à D. 613-25 | Résultant du décret n° 2013-756 du 19 août 2013 |
@@ -73,7 +73,7 @@ I. - Sont applicables en Polynésie française, sous réserve des adaptations pr
 | D. 613-31 | Résultant du décret n° 2020-5 du 2 janvier 2020 |
 | D. 613-38 à D. 613-44 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 613-45 | Résultant du décret n° 2015-652 du 10 juin 2015 |
-| D. 613-46 à D. 613-50 D. 614-1 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| D. 613-46 à D. 613-50<br>D. 614-1 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 631-2 | Résultant du décret n° 2019-1126 du 4 novembre 2019 |
 | D. 631-3 à D. 631-15 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 631-16 | Résultant du décret n° 2016-839 du 24 juin 2016 |
@@ -86,12 +86,12 @@ I. - Sont applicables en Polynésie française, sous réserve des adaptations pr
 | D. 633-16 | Résultant du décret n° 2025-1305 du 24 décembre 2025 |
 | D. 633-16-1 à D. 633-16-3 | Résultant du décret n° 2021-1910 du 30 décembre 2021 |
 | D. 633-19 | Résultant du décret n° 2019-1022 du 4 octobre 2019 |
-| D. 633-23 D. 633-29 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| D. 633-23<br>D. 633-29 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 633-30 | Résultant du décret n° 2025-1305 du 24 décembre 2025 |
 | D. 633-31 | Résultant du décret n° 2019-1022 du 4 octobre 2019 |
 | D. 635-1 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 635-2 et D. 635-3 | Résultant du décret n° 2019-1126 du 4 novembre 2019 |
-| D. 635-4 et D. 635-5 D. 636-1 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| D. 635-4 et D. 635-5<br>D. 636-1 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 636-2 et D. 636-3 | Résultant du décret n° 2020-579 du 14 mai 2020 |
 | D. 636-4 à D. 636-17 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 636-18 à D. 636-22 | Résultant du décret n° 2020-579 du 14 mai 2020 |
@@ -105,8 +105,8 @@ I. - Sont applicables en Polynésie française, sous réserve des adaptations pr
 | D. 636-77 | Résultant du décret n° 2019-836 du 12 août 2019 |
 | D. 636-78 à D. 636-81 | Résultant du décret n° 2018-633 du 18 juillet 2018 |
 | D. 636-85 à D. 636-87, à l'exception du 7° et du dernier alinéa | Résultant du décret n° 2026-130 du 20 février 2026 |
-| D. 642-1 à D. 642-4 D. 642-11 à D. 642-13 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| D. 642-14 et D. 642-15D. 642-17 à D. 642-31 | Résultant du décret n° 2025-144 du 17 février 2025 |
+| D. 642-1 à D. 642-4<br>D. 642-11 à D. 642-13 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| D. 642-14 et D. 642-15<br>D. 642-17 à D. 642-31 | Résultant du décret n° 2025-144 du 17 février 2025 |
 | D. 642-33 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 642-34 | Résultant du décret n° 2020-1692 du 22 décembre 2020 |
 | D. 642-35 à D. 642-39 | Résultant du décret n° 2018-367 du 18 mai 2018 |
@@ -124,7 +124,7 @@ I. - Sont applicables en Polynésie française, sous réserve des adaptations pr
 | D. 643-1 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 643-2 | Résultant du décret n° 2024-788 du 8 juillet 2024 |
 | D. 643-3 | Résultant du décret n° 2024-788 du 8 juillet 2024 |
-| D. 643-4, 1er alinéa D. 643-5 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| D. 643-4, 1er alinéa<br>D. 643-5 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 643-8 | Résultant du décret n° 2020-624 du 22 mai 2020 |
 | D. 643-9 | Résultant du décret n° 2016-1037 du 28 juillet 2016 |
 | D. 643-12 | Résultant du décret n° 2016-1037 du 28 juillet 2016 |
@@ -300,4 +300,4 @@ b) Au 3°, après les mots : "établissement public" est inséré le mot : "nati
 31° Au premier alinéa de l'article D. 672-17, les mots : "de haut niveau, mentionnés aux articles L. 221-3 et L. 221-5 du code du sport" sont remplacés par les mots : "inscrits sur la liste nationale des sportifs, entraîneurs, arbitres et juges sportifs de haut niveau ou y ayant figuré pendant trois ans au moins".
 
 NOTA:
-Conformément au I de l'article 3 du décret n° 2026-130 du 20 février 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur pour les étudiants qui débutent leur formation après le 1er septembre 2026. Les étudiants ayant débuté leur formation avant cette date restent régis par les dispositions du code de l'éducation et du code de la santé publique dans leur rédaction antérieure à l'entrée en vigueur du décret précité.
+Conformément au I de l'article 3 du décret n° 2026-130 du 20 février 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur pour les étudiants qui débutent leur formation après le 1<sup>er</sup> septembre 2026. Les étudiants ayant débuté leur formation avant cette date restent régis par les dispositions du code de l'éducation et du code de la santé publique dans leur rédaction antérieure à l'entrée en vigueur du décret précité.

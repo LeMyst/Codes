@@ -1,1 +1,20 @@
-Section 1 : Les formations à l'Ecole polytechnique
+# Section 1 : Les formations à l'Ecole polytechnique
+
+- [Article D675-1](Article%20D675-1.md)
+- [Article D675-2](Article%20D675-2.md)
+- [Article D675-3](Article%20D675-3.md)
+- [Article D675-4](Article%20D675-4.md)
+- [Article D675-5](Article%20D675-5.md)
+- [Article D675-6](Article%20D675-6.md)
+- [Article D675-7](Article%20D675-7.md)
+- [Article D675-8](Article%20D675-8.md)
+- [Article D675-9](Article%20D675-9.md)
+- [Article D675-10](Article%20D675-10.md)
+- [Article D675-11](Article%20D675-11.md)
+- [Article D675-12](Article%20D675-12.md)
+- [Article D675-13](Article%20D675-13.md)
+- [Article D675-14](Article%20D675-14.md)
+- [Article D675-15](Article%20D675-15.md)
+- [Article D675-16](Article%20D675-16.md)
+- [Article D675-17](Article%20D675-17.md)
+- [Article D675-18](Article%20D675-18.md)

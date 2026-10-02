@@ -3,7 +3,7 @@
 I.-Sont applicables en Polynésie française, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
+| -- | -- |
 | L. 711-1 | Résultant de la loi n° 2020-1674 du 24 décembre 2020 |
 | L. 711-2 | Résultant de la loi n° 2013-660 du 22 juillet 2013 |
 | L. 711-3 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
@@ -17,7 +17,7 @@ I.-Sont applicables en Polynésie française, sous réserve des adaptations pré
 | L. 712-1 | Résultant de la loi n° 2013-660 du 22 juillet 2013 |
 | L. 712-2 | Résultant de la loi n° 2025-732 du 31 juillet 2025 relative à la lutte contre l'antisémitisme dans l'enseignement supérieur |
 | L. 712-3 | Résultant de la loi n° 2020-1674 du 24 décembre 2020 |
-| L. 712-4 à L. 712-6, 1er à 4e alinéas | Résultant de la loi n° 2013-660 du 22 juillet 2013 |
+| L. 712-4<br>à L. 712-6, 1er à 4e alinéas | Résultant de la loi n° 2013-660 du 22 juillet 2013 |
 | L. 712-6-1 | Résultant de la loi n° 2020-1674 du 24 décembre 2020 |
 | L. 712-6-2 | Résultant de la loi n° 2025-732 du 31 juillet 2025 relative à la lutte contre l'antisémitisme dans l'enseignement supérieur |
 | L. 712-7 | Résultant de la loi n° 2007-1199 du 10 août 2007 |

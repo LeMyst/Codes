@@ -1,1 +1,21 @@
-Chapitre Ier : L'obligation scolaire.
+# Chapitre Ier : L'obligation scolaire.
+
+- [Article L131-1](Article%20L131-1.md)
+- [Article L131-1-1](Article%20L131-1-1.md)
+- [Article L131-2](Article%20L131-2.md)
+- [Article L131-3](Article%20L131-3.md)
+- [Article L131-4](Article%20L131-4.md)
+- [Article L131-5](Article%20L131-5.md)
+- [Article L131-5-1](Article%20L131-5-1.md)
+- [Article L131-5-2](Article%20L131-5-2.md)
+- [Article L131-6](Article%20L131-6.md)
+- [Article L131-6-1](Article%20L131-6-1.md)
+- [Article L131-7](Article%20L131-7.md)
+- [Article L131-8](Article%20L131-8.md)
+- [Article L131-9](Article%20L131-9.md)
+- [Article L131-10](Article%20L131-10.md)
+- [Article L131-10-1](Article%20L131-10-1.md)
+- [Article L131-11](Article%20L131-11.md)
+- [Article L131-11-1](Article%20L131-11-1.md)
+- [Article L131-12](Article%20L131-12.md)
+- [Article L131-13](Article%20L131-13.md)

@@ -1,1 +1,1 @@
-Sous-section 10 : Les instituts et les écoles de gestion
+# Sous-section 10 : Les instituts et les écoles de gestion

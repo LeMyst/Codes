@@ -1,1 +1,15 @@
-Section 3 : Les instituts et les écoles
+# Section 3 : Les instituts et les écoles
+
+- [Sous-section 1 : Les instituts universitaires de technologie](Sous-section%201/README.md)
+- [Sous-section 2 : Les instituts de préparation à l'administration générale](Sous-section%202/README.md)
+- [Sous-section 3 : Les observatoires des sciences de l'Univers](Sous-section%203/README.md)
+- [Sous-section 4 : Les instituts du travail](Sous-section%204/README.md)
+- [Sous-section 5 : Les instituts universitaires professionnalisés](Sous-section%205/README.md)
+- [Sous-section 6 : Les écoles et instituts internes de formation d'ingénieurs](Sous-section%206/README.md)
+- [Sous-section 7 : Les écoles polytechniques universitaires](Sous-section%207/README.md)
+- [Sous-section 8 : Les instituts d'études politiques](Sous-section%208/README.md)
+- [Sous-section 9 : Les instituts d'administration des entreprises](Sous-section%209/README.md)
+- [Sous-section 10 : Les instituts et les écoles de gestion](Sous-section%2010/README.md)
+- [Sous-section 11 : Les instituts et écoles internes aux universités ayant pour mission la formation initiale de sages-femmes](Sous-section%2011/README.md)
+- [Sous-section 12 : Autres instituts internes](Sous-section%2012/README.md)
+- [Sous-section 13 : Autres écoles internes](Sous-section%2013/README.md)

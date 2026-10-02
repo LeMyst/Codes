@@ -3,7 +3,7 @@
 I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
+| -- | -- |
 | R. 612-32-6 | Résultant du décret n° 2017-851 du 6 mai 2017 |
 | R. 612-36-3 | Résultant du décret n° 2026-584 du 25 juin 2026 |
 | R. 613-32 à R. 613-37 | Résultant du décret n° 2023-1275 du 27 décembre 2023 |
@@ -11,11 +11,11 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 | R. 631-1-3 à R. 631-1-5 | Résultant du décret n° 2019-1125 du 4 novembre 2019 |
 | R. 631-1-6 | Résultant du décret n° 2024-747 du 5 juillet 2024 |
 | R. 631-1-7 à R. 631-1-12 | Résultant du décret n° 2019-1125 du 4 novembre 2019 |
-| | |
-| R. 632-1 R. 632-1-1, 1er et 2e alinéas R. 632-1-2 à R. 632-1-4 | Résultant du décret n° 2020-951 du 30 juillet 2020 |
-| R. 632-2 à R. 632-2-10 R. 632-10 R. 632-11, 1er, 3e et 4e alinéas | Résultant du décret n° 2021-1156 du 7 septembre 2021 |
+|  |  |
+| R. 632-1<br>R. 632-1-1, 1er et 2e alinéas<br>R. 632-1-2 à R. 632-1-4 | Résultant du décret n° 2020-951 du 30 juillet 2020 |
+| R. 632-2 à R. 632-2-10<br>R. 632-10<br>R. 632-11, 1er, 3e et 4e alinéas | Résultant du décret n° 2021-1156 du 7 septembre 2021 |
 | R. 632-2-10 | Résultant du décret n° 2021-1907 du 30 décembre 2021 |
-| R. 632-10 R. 632-11, 1er, 3e et 4e alinéas | Résultant du décret n° 2021-1156 du 7 septembre 2021 |
+| R. 632-10<br>R. 632-11, 1er, 3e et 4e alinéas | Résultant du décret n° 2021-1156 du 7 septembre 2021 |
 | R. 632-12 | Résultant du décret n° 2021-1907 du 30 décembre 2021 |
 | R. 632-13 à R. 632-18 | Résultant du décret n° 2016-1597 du 25 novembre 2016 |
 | R. 632-19 | Résultant du décret n° 2019-1331 du 9 décembre 2019 |
@@ -25,7 +25,7 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 | R. 632-26 | Résultant du décret n° 2019-1331 du 9 décembre 2019 |
 | R. 632-27 | Résultant du décret n° 2016-1597 du 25 novembre 2016 |
 | R. 632-28 | Résultant du décret n° 2019-1331 du 9 décembre 2019 |
-| R. 632-28-1 R. 632-28-2, 1er et 2e alinéas R. 632-2-3 et R. 632-28-4 | Résultant du décret n° 2020-951 du 30 juillet 2020 |
+| R. 632-28-1<br>R. 632-28-2, 1er et 2e alinéas<br>R. 632-2-3 et R. 632-28-4 | Résultant du décret n° 2020-951 du 30 juillet 2020 |
 | R. 632-29 | Résultant du décret n° 2016-1597 du 25 novembre 2016 |
 | R. 632-30 | Résultant du décret n° 2021-1907 du 30 décembre 2021 |
 | R. 632-31 | Résultant du décret n° 2019-1331 du 9 décembre 2019 |
@@ -39,7 +39,7 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 | R. 632-55 | Résultant du décret n° 2021-1156 du 7 septembre 2021 |
 | R. 632-56 | Résultant du décret n° 2016-1597 du 25 novembre 2016 |
 | R. 632-57 | Résultant du décret n° 2021-1156 du 7 septembre 2021 |
-| R. 632-61 à R. 632-63 R. 632-73 et R. 632-74 R. 632-75, 1er, 2e, 3e, 5e et 6e alinéas R. 632-76 à R. 632-79 | Résultant du décret n° 2016-1597 du 25 novembre 2016 |
+| R. 632-61 à R. 632-63<br>R. 632-73 et R. 632-74<br>R. 632-75, 1er, 2e, 3e, 5e et 6e alinéas<br>R. 632-76 à R. 632-79 | Résultant du décret n° 2016-1597 du 25 novembre 2016 |
 | R. 633-17 et R. 633-18 | Résultant du décret n° 2019-1331 du 9 décembre 2019 |
 | R. 633-24 | Résultant du décret n° 2021-1156 du 7 septembre 2021 |
 | R. 633-25 et R. 633-26 | Résultant du décret n° 2013-756 du 19 août 2013 |

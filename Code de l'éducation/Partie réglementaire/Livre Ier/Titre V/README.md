@@ -1,1 +1,1 @@
-Titre V : La liberté de l'enseignement.
+# Titre V : La liberté de l'enseignement.

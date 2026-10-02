@@ -1,1 +1,1 @@
-Sous-paragraphe 2 : Charte des thèses
+# Sous-paragraphe 2 : Charte des thèses

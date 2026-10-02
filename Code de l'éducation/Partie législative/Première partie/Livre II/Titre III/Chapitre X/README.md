@@ -1,1 +1,3 @@
-Chapitre X : Le médiateur de l'éducation nationale et de l'enseignement supérieur.
+# Chapitre X : Le médiateur de l'éducation nationale et de l'enseignement supérieur.
+
+- [Article L23-10-1](Article%20L23-10-1.md)

@@ -3,9 +3,9 @@
 I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
+| -- | -- |
 | L. 211-9 | Résultant de la loi n° 2012-409 du 27 mars 2012 |
-| L. 216-10 L. 231-1 et L. 231-2 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
+| L. 216-10<br>L. 231-1 et L. 231-2 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
 | L. 231-3 | Résultant de la loi n° 2017-86 du 27 janvier 2017 |
 | L. 231-4 et L. 231-5 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
 | L. 231-14 | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
@@ -18,8 +18,8 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 | L. 233-2 | Résultant de la loi n° 2007-1199 du 10 août 2007 |
 | L. 236-1 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
 | L. 23-10-1 | Résultant de la loi n° 2007-1199 du 10 août 2007 |
-| L. 241-1 à L. 241-4, 1er, 2e, 4e et 8e alinéas | Résultant du décret n° 2019-1008 du 30 septembre 2019 |
-| L. 241-4, 3e alinéa | Résultant du décret n° 2025-1092 du 19 novembre 2025. |
+| L. 241-1 à L. 241-4, 1<sup>er</sup>, 2<sup>e</sup>, 4<sup>e</sup> et 8<sup>e</sup> alinéas | Résultant du décret n° 2019-1008 du 30 septembre 2019 |
+| L. 241-4, 3<sup>e</sup> alinéa | Résultant du décret n° 2025-1092 du 19 novembre 2025. |
 | L. 241-5 | Résultant de la loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République |
 | L. 241-6 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
 | L. 241-7 | Résultant de la loi n° 2021-1109 du 24 août 2021 confortant le respect des principes de la République |

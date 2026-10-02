@@ -17,4 +17,4 @@ II. - Pour chaque membre, un suppléant de même sexe est désigné dans les mê
 III. - Les dispositions de l'article R. 811-13-4 sont applicables aux membres de la section disciplinaire commune, à l'exception de son président et de son suppléant.
 
 NOTA:
-Conformément au premier alinéa de l'article 53 du décret n° 2026-36 du 29 janvier 2026, la section disciplinaire mentionnée aux articles R. 811-43 à R. 811-50 issus du décret précité ne peut être saisie que de faits survenus à compter du 1er mai 2026.
+Conformément au premier alinéa de l'article 53 du décret n° 2026-36 du 29 janvier 2026, la section disciplinaire mentionnée aux articles R. 811-43 à R. 811-50 issus du décret précité ne peut être saisie que de faits survenus à compter du 1<sup>er</sup> mai 2026.

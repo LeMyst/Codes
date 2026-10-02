@@ -27,4 +27,4 @@ Le montant total des crédits visés aux 1° et 2° du présent article évolue 
 NOTA:
 (1) : Les articles L. 920-9 et L. 951-9 de l'ancien code du travail ont été renumérotés L. 6354-1, L. 6354-2, L. 6331-13, L. 6331-28, L. 6331-31 et L. 6331-33 du nouveau code du travail.
 
-Conformément au VII de l'article 52 de la loi n° 2025-797 du 11 août 2025, ces dispositions, dans leur rédaction résultant du titre VI de ladite loi, entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2026.
+Conformément au VII de l'article 52 de la loi n° 2025-797 du 11 août 2025, ces dispositions, dans leur rédaction résultant du titre VI de ladite loi, entrent en vigueur à une date fixée par décret, et au plus tard le 1<sup>er</sup> janvier 2026.

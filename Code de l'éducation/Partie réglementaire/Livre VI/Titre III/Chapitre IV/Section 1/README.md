@@ -1,1 +1,1 @@
-Section 1 : Le diplôme de formation générale en sciences odontologiques
+# Section 1 : Le diplôme de formation générale en sciences odontologiques

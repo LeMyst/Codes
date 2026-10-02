@@ -1,1 +1,1 @@
-Section 2 : Fusion d'établissements
+# Section 2 : Fusion d'établissements

@@ -11,4 +11,4 @@ Le président de la section disciplinaire se prononce, dans un délai de deux mo
 En cas de rejet de la saisine, le président ou le directeur de l'établissement engage les poursuites devant la section disciplinaire mentionnée à l'article L. 811-5, dans les conditions prévues aux articles R. 811-25 et suivants.
 
 NOTA:
-Conformément au premier alinéa de l'article 53 du décret n° 2026-36 du 29 janvier 2026, la section disciplinaire mentionnée aux articles R. 811-43 à R. 811-50 issus du décret précité ne peut être saisie que de faits survenus à compter du 1er mai 2026.
+Conformément au premier alinéa de l'article 53 du décret n° 2026-36 du 29 janvier 2026, la section disciplinaire mentionnée aux articles R. 811-43 à R. 811-50 issus du décret précité ne peut être saisie que de faits survenus à compter du 1<sup>er</sup> mai 2026.

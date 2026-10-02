@@ -3,8 +3,8 @@
 I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
-| R. 114-1 R. 114-2, 1er, 2e, 4e et 5e alinéas R. 114-3 | Résultant du décret n° 2020-978 du 5 août 2020 |
+| -- | -- |
+| R. 114-1<br>R. 114-2, 1er, 2e, 4e et 5e alinéas<br>R. 114-3 | Résultant du décret n° 2020-978 du 5 août 2020 |
 | R. 123-8 | Résultant du décret n° 2004-703 du 13 juillet 2004 |
 | R. 131-1 | Résultant du décret n° 2004-703 du 13 juillet 2004 |
 | R. 131-1-1 | Résultant du décret n° 2019-826 du 2 août 2019 |

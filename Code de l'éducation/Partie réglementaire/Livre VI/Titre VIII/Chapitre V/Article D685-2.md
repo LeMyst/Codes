@@ -3,7 +3,7 @@
 I. - Sont applicables dans les Îles Wallis et Futuna, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR REDACTION |
-| --- | --- |
+| -- | -- |
 | D. 611-1 à D. 611-6 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 611-7 à D. 611-9 | Résultant du décret n° 2017-962 du 10 mai 2017 |
 | D. 611-10 à D. 611-12 | Résultant du décret n° 2017-619 du 24 avril 2017 |
@@ -42,7 +42,7 @@ I. - Sont applicables dans les Îles Wallis et Futuna, sous réserve des adaptat
 | D. 612-12 à D. 612-15 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 612-16 | Résultant du décret n° 2019-318 du 12 avril 2019 |
 | D. 612-17 et D. 612-18 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| D. 612-19 D. 612-20, 1er, 2e et 3e alinéas | Résultant du décret n° 2021-226 du 26 février 2021 |
+| D. 612-19<br>D. 612-20, 1er, 2e et 3e alinéas | Résultant du décret n° 2021-226 du 26 février 2021 |
 | D. 612-21 à D. 612-23 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 612-24, 1er, 2e et 6° alinéas | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
 | D. 612-25 | Résultant du décret n° 2021-1480 du 12 novembre 2021 |
@@ -55,7 +55,7 @@ I. - Sont applicables dans les Îles Wallis et Futuna, sous réserve des adaptat
 | D. 612-32-1 | Résultant du décret n° 2017-83 du 25 janvier 2017 |
 | D. 612-32-2 | Résultant du décret n° 2026-752 du 6 août 2026 |
 | D. 612-32-3 | Résultant du décret n° 2015-1168 du 21 septembre 2015 |
-| D. 612-32-5 D. 612-33 | Résultant du décret n° 2017-83 du 25 janvier 2017 |
+| D. 612-32-5<br>D. 612-33 | Résultant du décret n° 2017-83 du 25 janvier 2017 |
 | D. 612-34 | Résultant du décret n° 2026-752 du 6 août 2026 |
 | D. 612-35 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 612-36 | Résultant du décret n° 2026-752 du 6 août 2026 |
@@ -69,7 +69,7 @@ I. - Sont applicables dans les Îles Wallis et Futuna, sous réserve des adaptat
 | D. 612-36-2-7 à D. 612-36-2-10 | Résultant du décret n° 2026-91 du 13 février 2026 |
 | D. 612-36-3-1 | Résultant du décret n° 2026-585 du 25 juin 2026 |
 | D. 612-36-4 | Résultant du décret n° 2017-83 du 25 janvier 2017 |
-| D. 612-37 à D. 612-41 D. 613-1 à D. 613-5 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| D. 612-37 à D. 612-41<br>D. 613-1 à D. 613-5 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 613-6 | Résultant du décret n° 2020-1180 du 25 septembre 2020 |
 | D. 613-7 | Résultant du décret n° 2018-633 du 18 juillet 2018 |
 | D. 613-8 à D. 613-25 | Résultant du décret n° 2013-756 du 19 août 2013 |
@@ -82,7 +82,7 @@ I. - Sont applicables dans les Îles Wallis et Futuna, sous réserve des adaptat
 | D. 613-30-1 et D. 613-30-2 | Résultant du décret n° 2024-788 du 8 juillet 2024 |
 | D. 613-38 à D. 613-44 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 613-45 | Résultant du décret n° 2015-652 du 10 juin 2015 |
-| D. 613-46 à D. 613-50 D. 614-1 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| D. 613-46 à D. 613-50<br>D. 614-1 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 631-2 | Résultant du décret n° 2019-1126 du 4 novembre 2019 |
 | D. 631-3 à D. 631-15 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 631-16 | Résultant du décret n° 2016-839 du 24 juin 2016 |
@@ -95,12 +95,12 @@ I. - Sont applicables dans les Îles Wallis et Futuna, sous réserve des adaptat
 | D. 633-16 | Résultant du décret n° 2025-1305 du 24 décembre 2025 |
 | D. 633-16-1 à D. 633-16-3 | Résultant du décret n° 2021-1910 du 30 décembre 2021 |
 | D. 633-19 | Résultant du décret n° 2019-1022 du 4 octobre 2019 |
-| D. 633-23 D. 633-29 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| D. 633-23<br>D. 633-29 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 633-30 | Résultant du décret n° 2025-1305 du 24 décembre 2025 |
 | D. 633-31 | Résultant du décret n° 2019-1022 du 4 octobre 2019 |
 | D. 635-1 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 635-2 et D. 635-3 | Résultant du décret n° 2019-1126 du 4 novembre 2019 |
-| D. 635-4 et D. 635-5 D. 636-1 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| D. 635-4 et D. 635-5<br>D. 636-1 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 636-2 et D. 636-3 | Résultant du décret n° 2020-579 du 14 mai 2020 |
 | D. 636-4 à D. 636-17 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 636-18 à D. 636-22 | Résultant du décret n° 2020-579 du 14 mai 2020 |
@@ -114,8 +114,8 @@ I. - Sont applicables dans les Îles Wallis et Futuna, sous réserve des adaptat
 | D. 636-73 à D. 636-76 | Résultant du décret n° 2018-633 du 18 juillet 2018 |
 | D. 636-77 | Résultant du décret n° 2019-836 du 12 août 2019 |
 | D. 636-78 à D. 636-81 | Résultant du décret n° 2018-633 du 18 juillet 2018 |
-| D. 642-1 à D. 642-4D. 642-11 à D. 642-13 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| D. 642-14 et D. 642-15D. 642-17 à D. 642-31 | Résultant du décret n° 2025-144 du 17 février 2025 |
+| D. 642-1 à D. 642-4<br>D. 642-11 à D. 642-13 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| D. 642-14 et D. 642-15<br>D. 642-17 à D. 642-31 | Résultant du décret n° 2025-144 du 17 février 2025 |
 | D. 642-33 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 642-34 | Résultant du décret n° 2020-1692 du 22 décembre 2020 |
 | D. 642-35 à D. 642-39 | Résultant du décret n° 2018-367 du 18 mai 2018 |

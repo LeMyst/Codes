@@ -3,7 +3,7 @@
 I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues au prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR REDACTION |
-| --- | --- |
+| -- | -- |
 | D. 711-1 | Résultant du décret n° 2021-783 du 17 juin 2021 |
 | D. 711-2 | Résultant du décret n° 2021-441 du 13 avril 2021 |
 | D. 711-3 | Résultant du décret n° 2021-1421 du 28 octobre 2021 |
@@ -28,13 +28,13 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | D. 714-21 | Résultant du décret n° 2020-1734 du 16 décembre 2020 |
 | D. 714-23 et D. 714-24 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 714-25 et D. 714-26 | Résultant du décret n° 2015-652 du 10 juin 2015 |
-| D. 714-27 D. 714-28, 1er et 3e alinéas, D. 714-29 D. 714-31 D. 714-32, D. 714-33, 1er, 2e et 3e alinéas D. 714-34 à D. 714-36 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| D. 714-27<br>D. 714-28, 1er et 3e alinéas,<br>D. 714-29<br>D. 714-31<br>D. 714-32,<br>D. 714-33, 1er, 2e et 3e alinéas<br>D. 714-34 à D. 714-36 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 714-37 | Résultant du décret n° 2020-1677 du 23 décembre 2020 |
 | D. 714-38 et D. 714-39 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| D. 714-41 et D. 714-42 D. 714-44 à D. 714-51 | Résultant du décret n° 2018-792 du 13 septembre 2018 |
+| D. 714-41 et D. 714-42<br>D. 714-44 à D. 714-51 | Résultant du décret n° 2018-792 du 13 septembre 2018 |
 | D. 714-52 | Résultant du décret n° 2024-1197 du 21 décembre 2024 |
 | D. 714-53 | Résultant du décret n° 2018-792 du 13 septembre 2018 |
-| D. 714-55 à D. 714-64 D. 714-66 à D. 714-69, D. 714-73 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| D. 714-55 à D. 714-64<br>D. 714-66 à D. 714-69, D. 714-73 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 714-74 | Résultant du décret n° 2019-1558 du 30 décembre 2019 |
 | D. 714-75 à D. 714-88 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 714-93 à D. 714-100 | Résultant du décret n° 2018-792 du 13 septembre 2018 |
@@ -118,11 +118,11 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | D. 754-6 | Résultant du décret n° 2018-249 du 5 avril 2018 |
 | D. 754-7 | Résultant du décret n° 2015-652 du 10 juin 2015 |
 | D. 755-1 | Résultant du décret n° 2021-1421 du 29 octobre 2021 |
-| D. 756-1 D. 757-1 D. 758-1 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| D. 759-1 à D. 759-8 D. 759-11 | Résultant du décret n° 2017-718 du 2 mai 2017 |
-| D. 759-12 D. 759-14 et D. 759-15 | Résultant du décret n° 2020-733 du 15 juin 2020 |
-| D. 759-16 D. 75-10-1 | Résultant du décret n° 2017-718 du 2 mai 2017 |
-| D. 762-14 D. 762-20 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| D. 756-1<br>D. 757-1<br>D. 758-1 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| D. 759-1 à D. 759-8<br>D. 759-11 | Résultant du décret n° 2017-718 du 2 mai 2017 |
+| D. 759-12<br>D. 759-14 et D. 759-15 | Résultant du décret n° 2020-733 du 15 juin 2020 |
+| D. 759-16<br>D. 75-10-1 | Résultant du décret n° 2017-718 du 2 mai 2017 |
+| D. 762-14<br>D. 762-20 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 762-21 | Résultant du décret n° 2014-604 du 6 juin 2014 |
 
 II.-Pour l'application du I :

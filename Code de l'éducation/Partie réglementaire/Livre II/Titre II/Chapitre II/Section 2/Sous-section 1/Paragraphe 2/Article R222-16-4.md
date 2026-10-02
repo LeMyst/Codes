@@ -7,4 +7,4 @@ Dans les régions académiques mentionnées à l'article R. 222-16-3, le secrét
 Dans la région Ile-de-France, le recteur délégué est assisté d'un secrétaire général pour l'enseignement supérieur, la recherche et l'innovation, auquel il peut déléguer sa signature. Ayant rang de secrétaire général d'académie, ce dernier exerce les fonctions de secrétaire général de la chancellerie des universités de Paris.
 
 NOTA:
-Conformément au premier alinéa de l’article 11 du décret n° 2019-1200 du 20 novembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.
+Conformément au premier alinéa de l’article 11 du décret n° 2019-1200 du 20 novembre 2019, les présentes dispositions entrent en vigueur le 1<sup>er</sup> janvier 2020.

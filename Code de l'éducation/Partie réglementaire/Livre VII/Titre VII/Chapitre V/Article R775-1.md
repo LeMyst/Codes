@@ -3,7 +3,7 @@
 I.-Sont applicables dans les Îles Wallis et Futuna, sous réserve des adaptations prévues au prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
+| -- | -- |
 | R. 711-7 à R. 711-10 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | R. 711-11 et R. 711-12 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
 | R. 711-13 | Résultant du décret n° 2013-756 du 19 août 2013 |
@@ -49,7 +49,7 @@ I.-Sont applicables dans les Îles Wallis et Futuna, sous réserve des adaptatio
 | R. 715-2 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | R. 715-4 | Résultant du décret n° 2018-1189 du 19 décembre 2018 |
 | R. 715-5 à R. 715-8 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| R. 715-9 R. 715-9-2 à R. 715-9-4 | Résultant du décret n° 2018-1189 du 19 décembre 2018 |
+| R. 715-9<br>R. 715-9-2 à R. 715-9-4 | Résultant du décret n° 2018-1189 du 19 décembre 2018 |
 | R. 715-12 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | R. 715-13 | Résultant du décret n° 2026-36 du 29 janvier 2026 |
 | R. 719-48 | Résultant du décret n° 2013-756 du 19 août 2013 |
@@ -68,7 +68,7 @@ I.-Sont applicables dans les Îles Wallis et Futuna, sous réserve des adaptatio
 | R. 719-96 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | R. 719-102 | Résultant du décret n° 2024-1108 du 2 décembre 2024 |
 | R. 719-103 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| R. 719-104, R. 719-107 à R. 719-109 | Résultant du décret n° 2024-1108 du 2 décembre 2024 |
+| R. 719-104,<br>R. 719-107 à R. 719-109 | Résultant du décret n° 2024-1108 du 2 décembre 2024 |
 | R. 719-109-1 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |
 | R. 719-194 à R. 719-197 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | R. 719-198 | Résultant du décret n° 2019-1554 du 30 décembre 2019 |

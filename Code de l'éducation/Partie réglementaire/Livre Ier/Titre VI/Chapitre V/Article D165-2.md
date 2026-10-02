@@ -3,7 +3,7 @@
 I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR REDACTION |
-| --- | --- |
+| -- | -- |
 | D. 111-3, 1er alinéa | Résultant du décret n° 2015-1929 du 31 décembre 2015 |
 | D. 111-4 | Résultant du décret n° 2006-935 du 28 juillet 2006 |
 | D. 112-1 | Résultant du décret n° 2013-756 du 19 août 2013 |
@@ -25,11 +25,11 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 | D. 123-11 | Résultant du décret n° 2012-1247 du 7 novembre 2012 |
 | D. 123-12 | Résultant du décret n° 2015-652 du 10 juin 2015 |
 | D. 123-13 et D. 123-14 | Résultant du décret n° 2004-703 du 13 juillet 2004 |
-| D. 123-15 D. 123-16 D. 123-18 et D. 123-19 D. 123-20 à D. 123-22 | Résultant du décret n° 2015-668 du 15 juin 2015 |
+| D. 123-15<br>D. 123-16<br>D. 123-18 et D. 123-19<br>D. 123-20 à D. 123-22 | Résultant du décret n° 2015-668 du 15 juin 2015 |
 | D. 124-1 | Résultant du décret n° 2014-1420 du 27 novembre 2014 |
 | D. 124-2 | Résultant du décret n° 2021-1154 du 3 septembre 2021 |
 | D. 124-3 | Résultant du décret n° 2017-1652 du 30 novembre 2017 |
-| D. 124-4 à D. 124-7 D. 124-9 | Résultant du décret n° 2014-1420 du 27 novembre 2014 |
+| D. 124-4 à D. 124-7<br>D. 124-9 | Résultant du décret n° 2014-1420 du 27 novembre 2014 |
 
 II.-Pour l'application du I :
 

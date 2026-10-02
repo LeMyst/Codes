@@ -7,4 +7,4 @@ L'arrêté instituant ce service fixe ses attributions, les moyens mis à sa dis
 A ce titre, le directeur académique des services de l'éducation nationale peut donner délégation pour signer tous actes relatifs aux affaires pour lesquelles il a lui-même reçu délégation en application de l'alinéa précédent aux chefs de service de la direction des services départementaux de l'éducation nationale.
 
 NOTA:
-Conformément aux dispositions de l’article 11 du décret n° 2019-1200 du 20 novembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.
+Conformément aux dispositions de l’article 11 du décret n° 2019-1200 du 20 novembre 2019, les présentes dispositions entrent en vigueur le 1<sup>er</sup> janvier 2020.

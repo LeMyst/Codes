@@ -5,4 +5,4 @@ I. - Le directeur académique des services de l'éducation nationale, agissant p
 II. - Pour l'application de l'article L. 914-6 du code de l'éducation, l'autorité compétente en matière d'éducation est le recteur d'académie ou le directeur académique des services de l'éducation nationale, agissant par délégation du recteur d'académie.
 
 NOTA:
-Conformément au premier alinéa de l’article 11 du décret n° 2019-1200 du 20 novembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.
+Conformément au premier alinéa de l’article 11 du décret n° 2019-1200 du 20 novembre 2019, les présentes dispositions entrent en vigueur le 1<sup>er</sup> janvier 2020.

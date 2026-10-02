@@ -3,13 +3,13 @@
 I.-Sont applicables en Polynésie française, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
+| -- | -- |
 | L. 211-9 | Résultant de la loi n° 2012-409 du 27 mars 2012 |
 | L. 231-1 et L. 231-2 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
 | L. 231-3 | Résultant de la loi n° 2017-86 du 27 janvier 2017 |
 | L. 231-4 et L. 231-5 | Résultant de l'ordonnance n° 2000-549 du 15 juin 2000 |
 | L. 231-14 | Résultant de la loi n° 2019-791 du 26 juillet 2019 |
-| L. 231-15, 1er, 4e et 5e alinéas, L. 231-16 et L. 231-17 | Résultant de la loi n° 2013-595 du 8 juillet 2013 |
+| L. 231-15, 1er, 4e et 5e alinéas,<br>L. 231-16 et L. 231-17 | Résultant de la loi n° 2013-595 du 8 juillet 2013 |
 | L. 232-1 | Résultant de la loi n° 2018-699 du 3 août 2018 |
 | L. 232-2 et L. 232-3 | Résultant de la loi n° 2019-828 du 6 août 2019 |
 | L. 232-4 à L. 232-6 | Résultant de l'ordonnance n° 2014-691 du 26 juin 2014 |

@@ -9,4 +9,4 @@ Toutefois, les recteurs des académies de Créteil, de Paris et de Versailles co
 Restent également soumis à leur approbation l'établissement définitif du calendrier des examens et concours relevant de leur autorité ainsi que le choix des centres d'examen.
 
 NOTA:
-Conformément au premier alinéa de l’article 11 du décret n° 2019-1200 du 20 novembre 2019, les présentes dispositions entrent en vigueur le 1er janvier 2020.
+Conformément au premier alinéa de l’article 11 du décret n° 2019-1200 du 20 novembre 2019, les présentes dispositions entrent en vigueur le 1<sup>er</sup> janvier 2020.

@@ -31,4 +31,4 @@ II.-S'agissant du doctorant :
 8° Lorsque la rémunération brute mensuelle du doctorant est inférieure à un montant fixé par arrêté des ministres chargés de l'enseignement supérieur, de la recherche, du budget et des outre-mer.
 
 NOTA:
-Conformément à l'article 3 du décret n° 2025-1398 du 29 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 1er du décret précité, s'appliquent aux demandes déposées à compter du 1er janvier 2026.
+Conformément à l'article 3 du décret n° 2025-1398 du 29 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 1er du décret précité, s'appliquent aux demandes déposées à compter du 1<sup>er</sup> janvier 2026.

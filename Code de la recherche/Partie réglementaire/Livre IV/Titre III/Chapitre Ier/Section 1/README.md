@@ -1,1 +1,15 @@
-Section 1 : Organisation du travail des personnels n'exerçant pas la profession de marin embarqués à bord des navires de recherche océanographique ou halieutique
+# Section 1 : Organisation du travail des personnels n'exerçant pas la profession de marin embarqués à bord des navires de recherche océanographique ou halieutique
+
+- [Article R431-1](Article%20R431-1.md)
+- [Article R431-2](Article%20R431-2.md)
+- [Article R431-3](Article%20R431-3.md)
+- [Article R431-4](Article%20R431-4.md)
+- [Article R431-5](Article%20R431-5.md)
+- [Article R431-6](Article%20R431-6.md)
+- [Article R431-7](Article%20R431-7.md)
+- [Article R431-8](Article%20R431-8.md)
+- [Article R431-9](Article%20R431-9.md)
+- [Article R431-10](Article%20R431-10.md)
+- [Article R431-11](Article%20R431-11.md)
+- [Article R431-12](Article%20R431-12.md)
+- [Article R431-13](Article%20R431-13.md)

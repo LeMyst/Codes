@@ -9,4 +9,4 @@ Pour l'application du présent livre en Polynésie française, le ministre charg
 Pour l'application à la Polynésie française du premier alinéa de l'article L. 344-11, les mots : " des collectivités territoriales " sont remplacés par les mots : " de la Polynésie française et des communes ".
 
 NOTA:
-Conformément à l’article 20 de la loi n° 2024-450 du 21 mai 2024, ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément à l’article 20 de la loi n° 2024-450 du 21 mai 2024, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2025.

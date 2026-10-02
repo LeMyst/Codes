@@ -45,4 +45,4 @@ Il assure, dans des conditions fixées par décret, une coordination de l'action
 Il peut également participer, dans le cadre de programmes de coopération européens ou internationaux ou à la demande des autorités compétentes, à l'évaluation d'organismes étrangers ou internationaux de recherche et d'enseignement supérieur.
 
 NOTA:
-Conformément à l’article 20 de la loi n° 2024-450 du 21 mai 2024, ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément à l’article 20 de la loi n° 2024-450 du 21 mai 2024, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2025.

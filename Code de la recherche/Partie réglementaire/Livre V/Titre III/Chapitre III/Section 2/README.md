@@ -1,1 +1,16 @@
-Section 2 : Gestion de la copropriété des résultats de recherche
+# Section 2 : Gestion de la copropriété des résultats de recherche
+
+- [Article D533-2](Article%20D533-2.md)
+- [Article D533-3](Article%20D533-3.md)
+- [Article D533-4](Article%20D533-4.md)
+- [Article D533-5](Article%20D533-5.md)
+- [Article D533-6](Article%20D533-6.md)
+- [Article D533-7](Article%20D533-7.md)
+- [Article D533-8](Article%20D533-8.md)
+- [Article D533-9](Article%20D533-9.md)
+- [Article D533-10](Article%20D533-10.md)
+- [Article D533-11](Article%20D533-11.md)
+- [Article D533-12](Article%20D533-12.md)
+- [Article D533-13](Article%20D533-13.md)
+- [Article D533-14](Article%20D533-14.md)
+- [Article D533-15](Article%20D533-15.md)

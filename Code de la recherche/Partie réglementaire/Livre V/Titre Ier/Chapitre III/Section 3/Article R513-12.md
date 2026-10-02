@@ -9,4 +9,4 @@ Sont obligatoirement annexés à la convention :
 2° Le contrat de collaboration, conclu entre l'employeur, l'établissement d'inscription et l'établissement hébergeur ou gestionnaire au sens des dispositions de l'article D. 329-22 du présent code. Ce contrat est conclu pour une durée au moins égale à celle de la convention. Un arrêté des ministres chargés de l'enseignement supérieur, de la recherche et des outre-mer précise notamment les modalités suivant lesquelles les parties collaborent afin de garantir l'encadrement scientifique du doctorant, sa formation, ainsi que la réalisation et le suivi du projet de recherche.
 
 NOTA:
-Conformément à l'article 3 du décret n° 2025-1398 du 29 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 1er du décret précité, s'appliquent aux demandes déposées à compter du 1er janvier 2026.
+Conformément à l'article 3 du décret n° 2025-1398 du 29 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 1er du décret précité, s'appliquent aux demandes déposées à compter du 1<sup>er</sup> janvier 2026.

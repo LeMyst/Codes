@@ -41,4 +41,4 @@ L'administrateur général adjoint assiste aux réunions.
 Le président de l'Autorité de sûreté nucléaire et de radioprotection a accès en tant que de besoin aux réunions du comité, lorsqu'il l'estime utile pour l'exercice de ses missions. Le comité peut demander à entendre le président de l'Autorité de sûreté nucléaire et de radioprotection.
 
 NOTA:
-Conformément à l’article 9 du décret n° 2024-1194 du 19 décembre 2024, ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément à l’article 9 du décret n° 2024-1194 du 19 décembre 2024, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2025.

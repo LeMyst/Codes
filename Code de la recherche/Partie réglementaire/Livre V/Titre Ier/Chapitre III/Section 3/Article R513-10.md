@@ -7,4 +7,4 @@ Cette aide financière est une subvention, au sens des dispositions de l'article
 L'Etat peut confier la gestion administrative et financière de cette aide à un tiers dans les conditions prévues au III de l'article 40 de la loi n° 2014-1545 du 20 décembre 2014 relative à la simplification de la vie des entreprises.
 
 NOTA:
-Conformément à l'article 3 du décret n° 2025-1398 du 29 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 1er du décret précité, s'appliquent aux demandes déposées à compter du 1er janvier 2026.
+Conformément à l'article 3 du décret n° 2025-1398 du 29 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 1er du décret précité, s'appliquent aux demandes déposées à compter du 1<sup>er</sup> janvier 2026.

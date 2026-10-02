@@ -21,6 +21,6 @@ La retenue mentionnée au premier alinéa ne porte pas :
 NOTA:
 Aux termes du I de l'article 15 de l'ordonnance n° 2019-1169 du 13 novembre 2019, les dispositions issues de la présente ordonnance entrent en vigueur à la date d'entrée en vigueur du décret pris pour son application et au plus tard le 15 décembre 2019.
 
-Conformément à l'article 3 de l'ordonnance n°2026-265 du 8 avril 2026, la référence à l'article 1er du code des douanes est remplacée par des références aux articles L. 121-2 et L. 123-1 du code des douanes.
+Conformément à l'article 3 de l'ordonnance n°2026-265 du 8 avril 2026, la référence à l'article 1<sup>er</sup> du code des douanes est remplacée par des références aux articles L. 121-2 et L. 123-1 du code des douanes.
 
 Vous pouvez consulter les tables de concordance code des douanes depuis ce lien.

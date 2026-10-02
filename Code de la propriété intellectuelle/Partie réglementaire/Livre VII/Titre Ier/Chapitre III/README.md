@@ -1,1 +1,1 @@
-Chapitre III : Droits conférés par la marque
+# Chapitre III : Droits conférés par la marque

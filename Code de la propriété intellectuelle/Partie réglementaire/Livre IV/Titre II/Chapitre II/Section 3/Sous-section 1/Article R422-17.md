@@ -13,4 +13,4 @@ Peuvent faire l'objet d'apports à une société civile professionnelle, en prop
 Les apports en industrie des associés qui, en vertu du deuxième alinéa de l'article 1843-2 du code civil, ne concourent pas à la formation du capital peuvent donner lieu à l'attribution de parts d'intérêts.
 
 NOTA:
-Conformément à l’article 2 du décret n° 2024-858 du 1er août 2024, ces dispositions entrent en vigueur le 1er septembre 2024.
+Conformément à l’article 2 du décret n° 2024-858 du 1<sup>er</sup> août 2024, ces dispositions entrent en vigueur le 1<sup>er</sup> septembre 2024.

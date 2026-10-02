@@ -9,4 +9,4 @@ Pour faciliter l'exécution des décisions judiciaires mentionnées à l'article
 II.-En cas de difficulté relative à l'application des premier ou deuxième alinéas du I, l'Autorité de régulation de la communication audiovisuelle et numérique peut demander aux services de se justifier. Sans préjudice d'une telle demande, l'autorité judiciaire peut être saisie, en référé ou sur requête, pour ordonner toute mesure destinée à faire cesser l'accès à ces services. Cette saisine s'effectue sans préjudice de la saisine prévue à l'article L. 336-2.
 
 NOTA:
-Conformément à l’article 34 de la loi n° 2021-1382 du 25 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022. Se reporter aux conditions d’application prévues aux II et III de l’article susmentionné.
+Conformément à l’article 34 de la loi n° 2021-1382 du 25 octobre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022. Se reporter aux conditions d’application prévues aux II et III de l’article susmentionné.

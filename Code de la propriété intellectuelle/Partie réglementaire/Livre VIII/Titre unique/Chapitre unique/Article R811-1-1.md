@@ -26,8 +26,8 @@ Les articles R. 321-4-1, R. 321-29, R. 328-1 à R. 328-8, R. 329-13 à R. 329-20
 
 4° Les dispositions du livre IV mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
-| | Dans leur rédaction résultant de |
-| --- | --- |
+|  | Dans leur rédaction résultant de |
+| -- | -- |
 | Article R. 411-1 | Décret n° 2023-166 du 7 mars 2023 |
 | Articles R. 411-1-1 et R. 411-1-2 | Décret n° 2007-280 du 1er mars 2007 |
 | Article R. 411-1-4 | Décret n° 2015-595 du 2 juin 2015 |
@@ -56,8 +56,8 @@ Les articles R. 512-10, R. 512-13 et R. 514-4 sont applicables dans leur rédact
 6° Les dispositions du livre VI à l'exception des articles R. 612-2, R. 612-38, R. 613-25-1 à R. 613-25-4, R. 613-44, R. 613-44-1, R. 613-46, R. 613-56 et R. 613-58 seulement en tant qu'ils concernent les conseils en propriété industrielle dans les conditions suivantes :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR REDACTION RESULTANT DE |
-| --- | --- |
-| Chapitre Ier : Champ d'application |
+| -- | -- |
+| Chapitre Ier : Champ d'application |  |
 | Articles R. 611-1 à R. 611-8 | Décret n° 95-385 du 10 avril 1995 |
 | Article R. 611-9 | Décret n° 2026-576 du 30 juin 2026 |
 | Article R. 611-10 à R. 611-14 | Décret n° 95-385 du 10 avril 1995 |
@@ -66,7 +66,7 @@ Les articles R. 512-10, R. 512-13 et R. 514-4 sont applicables dans leur rédact
 | Article R. 611-19 | Décret n° 2008-1472 du 30 décembre 2008 |
 | Article R. 611-20 | Décret n° 95-385 du 10 avril 1995 |
 | Articles R. 611-21 et R. 611-22 | Décret n° 2023-770 du 11 août 2023 |
-| Chapitre II : Dépôt et instruction des demandes |
+| Chapitre II : Dépôt et instruction des demandes |  |
 | Article R. 612-1 | Décret n° 2014-650 du 20 juin 2014 |
 | Article R. 612-2 | Décret n° 2020-225 du 6 mars 2020 |
 | Article R. 612-3 | Décret n° 2026-576 du 30 juin 2026 |
@@ -126,7 +126,7 @@ Les articles R. 512-10, R. 512-13 et R. 514-4 sont applicables dans leur rédact
 | Article R. 612-73-3 | Décret n° 2020-225 du 6 mars 2020 |
 | Article R. 612-74 | Décret n° 2004-199 du 25 février 2004 |
 | Article R. 612-75 | Décret n° 95-385 du 10 avril 1995 |
-| Chapitre III : Droits attachés aux brevets |
+| Chapitre III : Droits attachés aux brevets |  |
 | Articles R. 613-4 à R. 613-9 | Décret n° 95-385 du 10 avril 1995 |
 | Article R. 613-10 | Décret n° 2007-280 du 1er mars 2007 |
 | Articles R. 613-11 à R. 613-25 | Décret n° 95-385 du 10 avril 1995 |
@@ -153,7 +153,7 @@ Les articles R. 512-10, R. 512-13 et R. 514-4 sont applicables dans leur rédact
 | Articles R. 613-54 à R. 613-58 | Décret n° 2004-199 du 25 février 2004 |
 | Articles R. 613-58-1 et R. 613-58-2 | Décret n° 2015-1436 du 6 novembre 2015 |
 | Articles R. 613-59 à R. 613-63 | Décret n° 95-385 du 10 avril 1995 |
-| Chapitre IV : Application de conventions internationales |
+| Chapitre IV : Application de conventions internationales |  |
 | Article R. 614-1 | Décret n° 2014-650 du 20 juin 2014 |
 | Article R. 614-4 | Décret n° 95-385 du 10 avril 1995 |
 | Articles R. 614-5 et R. 614-6 | Décret n° 2026-576 du 30 juin 2026 |
@@ -172,9 +172,9 @@ Les articles R. 512-10, R. 512-13 et R. 514-4 sont applicables dans leur rédact
 | Article R. 614-31 | Décret n° 95-385 du 10 avril 1995 |
 | Article R. 614-32 et R. 614-33 | Décret n° 2026-576 du 30 juin 2026 |
 | Article R. 614-34 et R. 614-35 | Décret n° 95-385 du 10 avril 1995 |
-| Chapitre IV bis : La retenue |
+| Chapitre IV bis : La retenue |  |
 | Articles R. 614-36 et R. 614-37 | Décret n° 2015-427 du 15 avril 2015 |
-| Chapitre V : Actions en justice |
+| Chapitre V : Actions en justice |  |
 | Articles R. 615-1 à R. 615-3 | Décret n° 2018-429 du 31 mai 2018 |
 | Article R. 615-4 | Décret n° 2019-966 du 18 septembre 2019 |
 | Articles R. 615-5 et R. 615-6 | Décret n° 2018-429 du 31 mai 2018 |
@@ -183,14 +183,14 @@ Les articles R. 512-10, R. 512-13 et R. 514-4 sont applicables dans leur rédact
 | Article R. 615-10 | Décret n° 2020-15 du 8 janvier 2020 |
 | Articles R. 615-11 à R. 615-32 | Décret n° 2018-429 du 31 mai 2018 |
 | Articles R. 615-33 et R. 615-34 | Décret n° 2023-770 du 11 août 2023 |
-| Chapitre VI : Le certificat d'utilité |
+| Chapitre VI : Le certificat d'utilité |  |
 | Article R. 616-1 | Décret n° 2026-576 du 30 juin 2026 |
 | Article R. 616-2 | Décret n° 95-385 du 10 avril 1995 |
 | Article R. 616-3 | Décret n° 2020-15 du 8 janvier 2020 |
-| Chapitre VII : Le certificat complémentaire de protection |
+| Chapitre VII : Le certificat complémentaire de protection |  |
 | Article R. 617-1 | Décret n° 95-385 du 10 avril 1995 |
 | Article R. 617-2 | Décret n° 2008-1472 du 30 décembre 2008 |
-| Chapitre VIII : Dispositions communes |
+| Chapitre VIII : Dispositions communes |  |
 | Articles R. 618-1 | Décret n° 2004-199 du 25 février 2004 |
 | Article R. 618-2 | Décret n° 2026-576 du 30 juin 2026 |
 | Article R. 618-3 | Décret n° 2008-1472 du 30 décembre 2008 |
@@ -215,7 +215,7 @@ Les articles R. 623-43, R. 623-45 et R. 623-46 sont applicables dans leur rédac
 a) Les dispositions du titre Ier mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | Dispositions Applicables | Dans leur rédaction résultant de |
-| --- | --- |
+| -- | -- |
 | R. 711-1 | Décret n° 2019-1316 du 9 décembre 2019 |
 | R. 712-1 | Décret n° 2014-650 du 20 juin 2014 |
 | R. 712-2 à R. 712-3-1 | Décret n° 2019-1316 du 9 décembre 2019 |

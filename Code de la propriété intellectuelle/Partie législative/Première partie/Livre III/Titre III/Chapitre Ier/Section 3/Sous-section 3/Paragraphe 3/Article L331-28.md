@@ -19,4 +19,4 @@ Elle veille également à ce que la mise en œuvre des mesures techniques de pro
 Sous réserve des articles L. 331-7 à L. 331-10, L. 331-30 à L. 331-32 et L. 331-34 du présent code, l'autorité détermine les modalités d'exercice des exceptions précitées et fixe notamment le nombre minimal de copies autorisées dans le cadre de l'exception pour copie privée, en fonction du type d'oeuvre ou d'objet protégé, des divers modes de communication au public et des possibilités offertes par les techniques de protection disponibles.
 
 NOTA:
-Conformément à l’article 34 de la loi n° 2021-1382 du 25 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022. Se reporter aux conditions d’application prévues aux II et III de l’article susmentionné.
+Conformément à l’article 34 de la loi n° 2021-1382 du 25 octobre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022. Se reporter aux conditions d’application prévues aux II et III de l’article susmentionné.

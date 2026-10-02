@@ -7,4 +7,4 @@ En cas de renouvellement, dans un délai de six mois à compter de l'envoi de la
 Les recommandations adressées sur le fondement du présent article mentionnent la date et l'heure auxquelles les faits susceptibles de constituer un manquement à l'obligation définie à l'article L. 336-3 ont été constatés. Elles précisent le contenu des œuvres ou objets protégés concernés par ce manquement. Elles indiquent les coordonnées postales et électroniques où leur destinataire peut adresser, s'il le souhaite, des observations à l'autorité.
 
 NOTA:
-Conformément à l’article 34 de la loi n° 2021-1382 du 25 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022. Se reporter aux conditions d’application prévues aux II et III de l’article susmentionné.
+Conformément à l’article 34 de la loi n° 2021-1382 du 25 octobre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022. Se reporter aux conditions d’application prévues aux II et III de l’article susmentionné.

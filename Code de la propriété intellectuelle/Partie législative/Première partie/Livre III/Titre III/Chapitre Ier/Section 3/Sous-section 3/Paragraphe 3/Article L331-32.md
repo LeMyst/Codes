@@ -7,4 +7,4 @@ A défaut de conciliation dans un délai de deux mois à compter de sa saisine, 
 Ces décisions ainsi que le procès-verbal de conciliation sont rendus publics dans le respect des secrets protégés par la loi. Elles sont notifiées aux parties qui peuvent introduire un recours devant la cour d'appel de Paris. Le recours a un effet suspensif.
 
 NOTA:
-Conformément à l’article 34 de la loi n° 2021-1382 du 25 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022. Se reporter aux conditions d’application prévues aux II et III de l’article susmentionné.
+Conformément à l’article 34 de la loi n° 2021-1382 du 25 octobre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022. Se reporter aux conditions d’application prévues aux II et III de l’article susmentionné.

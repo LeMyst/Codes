@@ -15,7 +15,7 @@ Le fait, pour la personne dont l'activité est d'offrir un accès à des service
 Le 3° de l'article 777 du code de procédure pénale n'est pas applicable à la peine complémentaire prévue par le présent article.
 
 NOTA:
-Conformément à l’article 34 de la loi n° 2021-1382 du 25 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022. Se reporter aux conditions d’application prévues aux II et III de l’article susmentionné.
+Conformément à l’article 34 de la loi n° 2021-1382 du 25 octobre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022. Se reporter aux conditions d’application prévues aux II et III de l’article susmentionné.
 
 Conformément à l'article 2 de l'ordonnance n°2016-301 du 14 mars 2016, la référence à l'article L. 121-84 du code de la consommation est remplacée par des références aux articles L. 224-29 et L. 224-33 du code de la consommation et de l'habitation.
 

@@ -7,4 +7,4 @@ Les producteurs de bases de données qui recourent aux mesures techniques de pro
 Tout différend relatif à la faculté de bénéficier des exceptions définies à l'article L. 342-3 qui implique une mesure technique visée au premier alinéa du présent article est soumis à l'Autorité de régulation de la communication audiovisuelle et numérique.
 
 NOTA:
-Conformément à l’article 34 de la loi n° 2021-1382 du 25 octobre 2021, ces dispositions entrent en vigueur le 1er janvier 2022. Se reporter aux conditions d’application prévues aux II et III de l’article susmentionné.
+Conformément à l’article 34 de la loi n° 2021-1382 du 25 octobre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022. Se reporter aux conditions d’application prévues aux II et III de l’article susmentionné.

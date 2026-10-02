@@ -19,6 +19,6 @@ La retenue mentionnée au premier alinéa ne porte pas :
 -sur les marchandises de statut communautaire, légalement fabriquées ou légalement mises en libre pratique dans un autre Etat membre de la Communauté européenne, dans lequel elles ont été placées sous le régime du transit et qui sont destinées, après avoir transité sur le territoire douanier tel que défini à l'article 1er du code des douanes, à être exportées vers un Etat non membre de la Communauté européenne.
 
 NOTA:
-Conformément à l'article 3 de l'ordonnance n°2026-265 du 8 avril 2026, la référence à l'article 1er du code des douanes est remplacée par des références aux articles L. 121-2 et L. 123-1 du code des douanes.
+Conformément à l'article 3 de l'ordonnance n°2026-265 du 8 avril 2026, la référence à l'article 1<sup>er</sup> du code des douanes est remplacée par des références aux articles L. 121-2 et L. 123-1 du code des douanes.
 
 Vous pouvez consulter les tables de concordance code des douanes depuis ce lien.

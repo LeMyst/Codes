@@ -35,6 +35,6 @@ Le secrétariat du conseil d'administration est assuré par un agent de l'instit
 NOTA:
 Conformément au I de l'article 2 du décret n° 2025-1358 du 26 décembre 2025, les mandats des membres du conseil d'administration de l'Institut national de la propriété industrielle nommés par arrêté du ministre chargé de la propriété industrielle, en cours à la date d'entrée en vigueur dudit décret, se poursuivent jusqu'à leur terme.
 
-Conformément au II du même article, les dispositions du 7° de l'article R. 411-3 du code de la propriété intellectuelle, dans leur rédaction issue de l'article 1er dudit décret, sont applicables aux membres nommés lors du prochain renouvellement du conseil d'administration de l'Institut national de la propriété industrielle.
+Conformément au II du même article, les dispositions du 7° de l'article R. 411-3 du code de la propriété intellectuelle, dans leur rédaction issue de l'article 1<sup>er</sup> dudit décret, sont applicables aux membres nommés lors du prochain renouvellement du conseil d'administration de l'Institut national de la propriété industrielle.
 
 Conformément au III du même article, par dérogation aux dispositions du II, le ministre chargé de la propriété industrielle nomme par arrêté un représentant des milieux professionnels désigné en raison de ses compétences en matière de formalités administratives des entreprises pour une période allant jusqu'au prochain renouvellement du conseil d'administration de l'Institut national de la propriété industrielle.

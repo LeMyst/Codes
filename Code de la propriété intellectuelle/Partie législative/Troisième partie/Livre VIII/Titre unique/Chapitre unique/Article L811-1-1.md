@@ -23,7 +23,7 @@ Les articles L. 342-3 et L. 342-6 sont applicables dans leur rédaction résulta
 2° Les dispositions du livre IV mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION RÉSULTANT DE |
-| --- | --- |
+| -- | -- |
 | Article L. 411-1 | Ordonnance n° 2020-116 du 12 février 2020 |
 | Articles L. 411-2 et L. 411-3 | Loi n° 92-597 du 1er juillet 1992 |
 | Articles L. 411-4 et L. 411-5 | Ordonnance n° 2020-116 du 12 février 2020 |
@@ -37,7 +37,7 @@ Les articles L. 515-2, L. 521-3 et L. 521-3-2 sont applicables dans leur rédact
 a) Les dispositions du titre Ier mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION RÉSULTANT DE |
-| --- | --- |
+| -- | -- |
 | Article L. 611-1 | Loi n° 2008-518 du 3 juin 2008 |
 | Article L. 611-2 | Ordonnance n° 2020-116 du 12 février 2020 |
 | Articles L. 611-3 à L. 611-6 | Loi n° 92-597 du 1er juillet 1992 |
@@ -145,7 +145,7 @@ L'article L. 623-15 est applicable dans sa rédaction résultant de l'ordonnance
 a) Les dispositions du titre Ier mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION RÉSULTANT DE |
-| --- | --- |
+| -- | -- |
 | Articles L. 711-1 à L. 711-3 | Ordonnance n° 2019-1169 du 13 novembre 2019 |
 | Article L. 712-1 | Loi n° 92-597 du 1er juillet 1992 |
 | Article L. 712-2 | Ordonnance n° 2019-1169 du 13 novembre 2019 |

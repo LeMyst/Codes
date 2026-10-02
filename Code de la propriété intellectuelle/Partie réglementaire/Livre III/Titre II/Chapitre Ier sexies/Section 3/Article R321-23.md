@@ -8,9 +8,9 @@ La communication des comptes annuels des organismes de gestion collective au min
 
 a) La ventilation des montants versés, par catégorie d'actions définies au premier alinéa de l'article L. 324-17, assortie d'une information particulière sur :
 
-– le coût de la gestion de ces actions ;
+- le coût de la gestion de ces actions ;
 
-– les personnes ayant bénéficié de concours pendant trois années consécutives ;
+- les personnes ayant bénéficié de concours pendant trois années consécutives ;
 
 b) Une description des procédures d'attribution ;
 

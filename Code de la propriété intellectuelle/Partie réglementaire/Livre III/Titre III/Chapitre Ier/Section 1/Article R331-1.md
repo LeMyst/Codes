@@ -27,4 +27,4 @@ VI.-Le ministre chargé de la culture peut, par décision motivée, mettre fin �
 La personne intéressée est préalablement informée des motifs et de la nature de la mesure envisagée et mise à même de présenter des observations. En cas d'urgence, le ministre chargé de la culture peut suspendre l'agrément pour une durée maximale de six mois.
 
 NOTA:
-Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1er janvier 2020.
+Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2020.

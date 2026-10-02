@@ -11,4 +11,4 @@ Pour bénéficier de l'exonération, les contribuables doivent en faire la deman
 Lorsqu'un établissement remplit les conditions requises pour bénéficier de l'une des exonérations prévues aux articles 1464 B, 1464 D, 1464 F, 1465,1465 B, 1466 A, 1466 B et 1466 G et celles du présent article, le contribuable doit préciser le régime sous lequel il entend se placer. Ce choix, qui est irrévocable, doit être exercé dans le délai prévu pour le dépôt, selon le cas, de la déclaration annuelle ou de la déclaration provisoire de la cotisation foncière des entreprises visées à l'article 1477.
 
 NOTA:
-Conformément au II de l'article 40 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I de l'article précité, s'appliquent aux entreprises créées à compter du 1er janvier 2026.
+Conformément au II de l'article 40 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I de l'article précité, s'appliquent aux entreprises créées à compter du 1<sup>er</sup> janvier 2026.

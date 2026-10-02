@@ -28,9 +28,9 @@ L'exclusion des terrains et participations prévue à la dernière phrase du pre
 
 Les sommes prélevées ou déduites en vertu du premier alinéa sont limitées à :
 
-– 40 % pour la généralité des publications et 65 % pour les quotidiens du bénéfice de l'exercice 1980,
+- 40 % pour la généralité des publications et 65 % pour les quotidiens du bénéfice de l'exercice 1980,
 
-– 30 % pour la généralité des publications et 60 % pour les quotidiens du bénéfice des exercices 1981 à 1996.
+- 30 % pour la généralité des publications et 60 % pour les quotidiens du bénéfice des exercices 1981 à 1996.
 
 1 bis B. Pour l'application des 1 bis, 1 bis A et 1 bis A bis, sont assimilées à des quotidiens, les publications à diffusion départementale ou régionale consacrées principalement à l'information politique et générale, paraissant au moins une fois par semaine et dont le prix de vente n'excède pas de 75 % celui de la majorité des quotidiens. Un arrêté du ministre de l'économie et des finances fixe les conditions de cette assimilation (1).
 

@@ -7,4 +7,4 @@ En cas de réduction du gage, elle est liquidée sur le montant total des sommes
 Par dérogation aux dispositions qui précèdent, la contribution perçue pour la radiation requise conformément au troisième alinéa de l'article 2436 du code civil est liquidée au taux unique de 0,05 % sur les sommes faisant l'objet de la radiation.
 
 NOTA:
-Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

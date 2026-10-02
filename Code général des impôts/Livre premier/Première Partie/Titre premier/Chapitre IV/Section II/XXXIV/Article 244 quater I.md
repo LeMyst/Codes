@@ -163,10 +163,10 @@ X. - Lorsque les investissements sont réalisés par les sociétés de personnes
 XI. - Le présent article s'applique aux crédits d'impôt calculés au titre de projets agréés jusqu'au 31 décembre 2028.
 
 NOTA:
-Conformément au II de l'article 39 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I de l'article 39 de la loi précitée, s'appliquent aux demandes d'agrément déposées à compter du 1er octobre 2025 et pour lesquelles un agrément n'a pas été délivré au 31 décembre 2025. Le délai d'examen des demandes court à compter de l'entrée en vigueur prévue au III du même article, y compris pour les demandes déposées à compter du 1er octobre 2025.
+Conformément au II de l'article 39 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I de l'article 39 de la loi précitée, s'appliquent aux demandes d'agrément déposées à compter du 1<sup>er</sup> octobre 2025 et pour lesquelles un agrément n'a pas été délivré au 31 décembre 2025. Le délai d'examen des demandes court à compter de l'entrée en vigueur prévue au III du même article, y compris pour les demandes déposées à compter du 1<sup>er</sup> octobre 2025.
 
 Conformément au III de l'article 39 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I de l'article 39 de la loi précitée, entrent en vigueur à une date fixée par décret, postérieure à la réception par le Gouvernement de la réponse de la Commission européenne permettant de le considérer comme conforme au droit de l'Union européenne en matière d'aides d'Etat, et au plus tard trois mois après cette réception.
 
-Conformément au IV de l'article 39 de la loi n° 2026-103 du 19 février 2026, les 1° et 2° du II de l'article 1er de la loi précitée ne s'appliquent pas à ce même article 39.
+Conformément au IV de l'article 39 de la loi n° 2026-103 du 19 février 2026, les 1° et 2° du II de l'article 1<sup>er</sup> de la loi précitée ne s'appliquent pas à ce même article 39.
 
 Conformément à l'article 2 du décret n° 2026-763 du 9 août 2026, les dispositions des I et II de l'article 39 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026 entrent en vigueur le 27 mai 2026.

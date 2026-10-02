@@ -2,9 +2,9 @@
 
 I. – 1. Il est institué à la charge des contribuables passibles de l'impôt sur le revenu une contribution sur le revenu fiscal de référence du foyer fiscal, tel que défini au 1° du IV de l'article 1417, sans qu'il soit tenu compte des plus-values mentionnées au I de l'article 150-0 B ter, retenues pour leur montant avant application de l'abattement mentionné aux 1 ter ou 1 quater de l'article 150-0 D, pour lesquelles le report d'imposition expire et sans qu'il soit fait application des règles de quotient définies à l'article 163-0 A. La contribution est calculée en appliquant un taux de :
 
-– 3 % à la fraction de revenu fiscal de référence supérieure à 250 000 € et inférieure ou égale à 500 000 € pour les contribuables célibataires, veufs, séparés ou divorcés et à la fraction de revenu fiscal de référence supérieure à 500 000 € et inférieure ou égale à 1 000 000 € pour les contribuables soumis à imposition commune ;
+- 3 % à la fraction de revenu fiscal de référence supérieure à 250 000 € et inférieure ou égale à 500 000 € pour les contribuables célibataires, veufs, séparés ou divorcés et à la fraction de revenu fiscal de référence supérieure à 500 000 € et inférieure ou égale à 1 000 000 € pour les contribuables soumis à imposition commune ;
 
-– 4 % à la fraction de revenu fiscal de référence supérieure à 500 000 € pour les contribuables célibataires, veufs, séparés ou divorcés et à la fraction de revenu fiscal de référence supérieure à 1 000 000 € pour les contribuables soumis à imposition commune.
+- 4 % à la fraction de revenu fiscal de référence supérieure à 500 000 € pour les contribuables célibataires, veufs, séparés ou divorcés et à la fraction de revenu fiscal de référence supérieure à 1 000 000 € pour les contribuables soumis à imposition commune.
 
 2. La contribution est déclarée, contrôlée et recouvrée selon les mêmes règles et sous les mêmes garanties et sanctions qu'en matière d'impôt sur le revenu.
 

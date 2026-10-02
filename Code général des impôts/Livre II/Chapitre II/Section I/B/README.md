@@ -1,1 +1,16 @@
-B : Sanctions fiscales
+# B : Sanctions fiscales
+
+- [1 : Infractions relatives aux déclarations et actes comportant l'indication d'éléments à retenir pour l'assiette ou la liquidation de l'impôt](1/README.md)
+- [2 : Infractions relatives aux autres documents](2/README.md)
+- [2 bis : Infraction à l'obligation de présenter la comptabilité sous forme dématérialisée, une comptabilité analytique ou des comptes consolidés](2%20bis/README.md)
+- [3 : Retard de paiement des impôts recouvrés par les comptables des administrations fiscales](3/README.md)
+- [3 bis : Autres sanctions relatives aux infractions constitutives de manquements graves](3%20bis/README.md)
+- [4 : Opposition à fonction et obstacle au contrôle de l'impôt](4/README.md)
+- [5 : Infractions commises par les tiers déclarants](5/README.md)
+- [6 : Infractions aux règles de facturation](6/README.md)
+- [7 : Non-respect des obligations de déclaration ou paiement par voie électronique](7/README.md)
+- [8 : Non-respect des conditions auxquelles sont subordonnés des avantages fiscaux](8/README.md)
+- [9 : Sanctions à l'égard des tiers](9/README.md)
+- [10 : Flagrance fiscale](10/README.md)
+- [11 : Infractions commises par les titulaires de compte.](11/README.md)
+- [12 : Opérateurs de plateforme non coopératifs](12/README.md)

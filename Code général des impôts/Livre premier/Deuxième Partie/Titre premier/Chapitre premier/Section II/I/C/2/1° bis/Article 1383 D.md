@@ -11,4 +11,4 @@ Lorsque les conditions requises pour bénéficier de l'exonération prévue à l
 II. – Pour les immeubles susceptibles d'être exonérés en application du I, une déclaration doit être souscrite avant le 1er janvier de la première année à compter de laquelle le redevable peut, au titre d'un immeuble concerné, bénéficier de l'exonération. Cette déclaration comporte tous les éléments d'identification du ou des immeubles exonérés.
 
 NOTA:
-Conformément au II de l'article 40 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I de l'article précité, s'appliquent aux entreprises créées à compter du 1er janvier 2026.
+Conformément au II de l'article 40 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I de l'article précité, s'appliquent aux entreprises créées à compter du 1<sup>er</sup> janvier 2026.

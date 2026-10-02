@@ -24,8 +24,8 @@ V. – 1. – Un tarif au mètre carré est appliqué par circonscription, défi
 
 2. – Les tarifs au mètre carré sont fixés, pour l'année 2026, en application du tableau ci-dessous :
 
-| 1re circonscription | 2e circonscription | 3e circonscription |
-| --- | --- | --- |
+| 1<sup>re</sup> circonscription | 2<sup>e</sup> circonscription | 3<sup>e</sup> circonscription |
+| -- | -- | -- |
 | 5,05 € | 2,93 € | 1,49 € |
 
 Par dérogation, pour les surfaces de stationnement faisant l'objet d'une exploitation commerciale, les tarifs sont réduits de 75 % pour l'année 2019, de 50 % pour l'année 2020 et de 25 % pour l'année 2021.

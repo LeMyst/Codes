@@ -1,1 +1,21 @@
-5 : Exonérations et régimes spéciaux
+# 5 : Exonérations et régimes spéciaux
+
+- [1° : Sommes versées par la Caisse des dépôts et consignations](1%C2%B0/README.md)
+- [3° : Crédit mutuel et coopération agricoles](3%C2%B0/README.md)
+- [4° : Société anonyme Natexis ou toute société qu'elle contrôle au sens de l'article 355-1 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales](4%C2%B0/README.md)
+- [5° : Obligations négociables - Régimes spéciaux](5%C2%B0/README.md)
+- [6° : Emprunts émis en France par les organisations internationales](6%C2%B0/README.md)
+- [7° : Emprunts contractés à l'étranger](7%C2%B0/README.md)
+- [8° : Produits financiers bénéficiant aux organisations internationales aux Etats souverains étrangers, à leurs banques centrales ou institutions financières](8%C2%B0/README.md)
+- [9° : Emprunts émis par l'Etat](9%C2%B0/README.md)
+- [10° : Obligations reçues en échange d'actions de sociétés concernées par l'extension du secteur public](10%C2%B0/README.md)
+- [11° : Emprunts des départements, communes et établissements publics](11%C2%B0/README.md)
+- [12° : Emprunts regroupés](12%C2%B0/README.md)
+- [13° : Financement de certaines opérations d'exportation](13%C2%B0/README.md)
+- [14° : Fonds commun de placement](14%C2%B0/README.md)
+- [14° bis : Fonds de placement immobilier](14%C2%B0%20bis/README.md)
+- [15° : Habitations à loyer modéré](15%C2%B0/README.md)
+- [16° : Sociétés immobilières d'investissement et sociétés immobilières de gestion](16%C2%B0/README.md)
+- [17° : Sociétés pour le développement de l'industrie, du commerce et de l'agriculture et leur adaptation à la Communauté européenne](17%C2%B0/README.md)
+- [18° : Sociétés mères](18%C2%B0/README.md)
+- [19° : Zones à urbaniser](19%C2%B0/README.md)

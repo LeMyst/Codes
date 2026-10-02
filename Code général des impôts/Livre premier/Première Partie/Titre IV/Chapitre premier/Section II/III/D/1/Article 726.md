@@ -4,19 +4,19 @@ I. – Les cessions de droits sociaux sont soumises à un droit d'enregistrement
 
 1° A 0,1 % :
 
-– pour les actes portant cessions d'actions, de parts de fondateurs ou de parts bénéficiaires des sociétés par actions négociées sur un marché réglementé d'instruments financiers au sens de l'article L. 421-1 du code monétaire et financier ou sur un système multilatéral de négociation au sens de l'article L. 424-1 du même code ;
+- pour les actes portant cessions d'actions, de parts de fondateurs ou de parts bénéficiaires des sociétés par actions négociées sur un marché réglementé d'instruments financiers au sens de l'article L. 421-1 du code monétaire et financier ou sur un système multilatéral de négociation au sens de l'article L. 424-1 du même code ;
 
-– pour les cessions, autres que celles soumises au taux visé au 2°, d'actions, de parts de fondateurs ou de parts bénéficiaires des sociétés par actions non négociées sur un marché réglementé d'instruments financiers au sens de l'article L. 421-1 du code monétaire et financier ou sur un système multilatéral de négociation au sens de l'article L. 424-1 du même code, et de parts ou titres du capital, souscrits par les clients, des établissements de crédit mutualistes ou coopératifs.
+- pour les cessions, autres que celles soumises au taux visé au 2°, d'actions, de parts de fondateurs ou de parts bénéficiaires des sociétés par actions non négociées sur un marché réglementé d'instruments financiers au sens de l'article L. 421-1 du code monétaire et financier ou sur un système multilatéral de négociation au sens de l'article L. 424-1 du même code, et de parts ou titres du capital, souscrits par les clients, des établissements de crédit mutualistes ou coopératifs.
 
 Lorsque les cessions mentionnées aux deuxième et troisième alinéas du présent 1° s'opèrent par acte passé à l'étranger et qu'elles portent sur des actions ou parts de sociétés ayant leur siège en France, ces cessions sont soumises au droit d'enregistrement dans les conditions prévues au présent 1°, sauf imputation, le cas échéant, d'un crédit d'impôt égal au montant des droits d'enregistrement effectivement acquittés dans l'Etat d'immatriculation ou l'Etat de résidence de chacune des personnes concernées, conformément à la législation de cet Etat et dans le cadre d'une formalité obligatoire d'enregistrement de chacune de ces cessions. Ce crédit d'impôt est imputable sur l'impôt français afférent à chacune de ces cessions, dans la limite de cet impôt.
 
 1° bis A 3 % :
 
-– pour les cessions, autres que celles soumises au taux mentionné au 2°, de parts sociales dans les sociétés dont le capital n'est pas divisé en actions. Dans ce cas, il est appliqué sur la valeur de chaque part sociale un abattement égal au rapport entre la somme de 23 000 € et le nombre total de parts sociales de la société ;
+- pour les cessions, autres que celles soumises au taux mentionné au 2°, de parts sociales dans les sociétés dont le capital n'est pas divisé en actions. Dans ce cas, il est appliqué sur la valeur de chaque part sociale un abattement égal au rapport entre la somme de 23 000 € et le nombre total de parts sociales de la société ;
 
 2° A 5 % :
 
-– pour les cessions de participations dans des personnes morales à prépondérance immobilière.
+- pour les cessions de participations dans des personnes morales à prépondérance immobilière.
 
 Est à prépondérance immobilière la personne morale, quelle que soit sa nationalité, dont les droits sociaux ne sont pas négociés sur un marché réglementé d'instruments financiers au sens de l'article L. 421-1 du code monétaire et financier ou sur un système multilatéral de négociation au sens de l'article L. 424-1 du même code et dont l'actif est, ou a été au cours de l'année précédant la cession des participations en cause, principalement constitué d'immeubles ou de droits immobiliers situés en France ou de participations dans des personnes morales, quelle que soit leur nationalité, dont les droits sociaux ne sont pas négociés sur un marché réglementé d'instruments financiers au sens de l'article L. 421-1 du code monétaire et financier ou sur un système multilatéral de négociation au sens de l'article L. 424-1 du même code et elles-mêmes à prépondérance immobilière. Toutefois, les organismes d'habitations à loyer modéré, les sociétés foncières qui remplissent les conditions prévues au 1°, au a du 2° et aux 3° et 4° du 1 du II de l'article 199 terdecies-0 AB du présent code et les sociétés d'économie mixte exerçant une activité de construction ou de gestion de logements sociaux ne sont pas considérés comme des personnes morales à prépondérance immobilière.
 

@@ -20,9 +20,9 @@ L'institution de la redevance mentionnée à l'article L. 2333-76 du code préci
 
 Cette suppression prend effet :
 
-– à compter du 1er janvier de l'année où est intervenue la décision si cette décision est antérieure au 1er mars ;
+- à compter du 1er janvier de l'année où est intervenue la décision si cette décision est antérieure au 1er mars ;
 
-– à compter du 1er janvier de l'année suivante dans les autres cas.
+- à compter du 1er janvier de l'année suivante dans les autres cas.
 
 IV.-(1) Le dégrèvement de la taxe consécutif à la constatation, par une décision de justice passée en force de chose jugée, de l'illégalité des délibérations prises par la commune ou l'établissement public de coopération intercommunale, fondée sur la circonstance que le produit de la taxe et, par voie de conséquence, son taux sont disproportionnés par rapport au montant des dépenses mentionnées au premier alinéa du I du présent article et non couvertes par des recettes ordinaires non fiscales, tel qu'il peut être estimé à la date du vote de la délibération fixant ce taux, est à la charge de cette commune ou de cet établissement public de coopération intercommunale. Il s'impute sur les attributions mentionnées aux articles L. 2332-2, L. 3662-2 et L. 5219-8-1 du code général des collectivités territoriales.
 

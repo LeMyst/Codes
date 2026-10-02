@@ -29,10 +29,8 @@ II.-Les bâtiments et terrains industriels sont évalués :
 NOTA:
 Conformément à l’article 156 III A de la loi n° 2018-1317 du 28 décembre 2018, les dispositions des B à D de l’article 1500 dans sa rédaction résultant de ladite loi entrent en vigueur le 1er janvier 2020.
 
-Aux termes des dispositions du B du IV de l'article 156 de la loi n° 2018-1317 du 28 décembre 2018, pour la première année d'application du B du I de l'article 1500 dans sa rédaction résultant de ladite loi :
-
-1° Les exploitants qui respectent le seuil prévu au même article 1500 en 2019 en informent les propriétaires, avant le 15 janvier 2020 ;
-
+Aux termes des dispositions du B du IV de l'article 156 de la loi n° 2018-1317 du 28 décembre 2018, pour la première année d'application du B du I de l'article 1500 dans sa rédaction résultant de ladite loi :\
+1° Les exploitants qui respectent le seuil prévu au même article 1500 en 2019 en informent les propriétaires, avant le 15 janvier 2020 ;\
 2° Les propriétaires des locaux qui remplissent les conditions prévues audit article 1500 souscrivent une déclaration, sur un imprimé établi par l'administration, avant le 1er février 2020.
 
 Se reporter aux dispositions du V dudit article 156 en ce qui concerne l'évaluation d'un changement des modalités d'évaluation des bâtiments et terrains mentionnés au I de l'article 1500 dans sa rédaction résultant de la loi n° 2018-1317 du 28 décembre 2018.

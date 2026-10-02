@@ -26,9 +26,9 @@ Toutefois, les actions, parts, droits financiers ou droits de vote mentionnés a
 
 II. – Les dispositions du I ne sont pas applicables :
 
-– si l'entreprise ou l'entité juridique est établie ou constituée dans un Etat de la Communauté européenne et
+- si l'entreprise ou l'entité juridique est établie ou constituée dans un Etat de la Communauté européenne et
 
-– si l'exploitation de l'entreprise ou la détention des actions, parts, droits financiers ou droits de vote de l'entité juridique par la personne morale passible de l'impôt sur les sociétés ne peut être regardée comme constitutive d'un montage artificiel dont le but serait de contourner la législation fiscale française.
+- si l'exploitation de l'entreprise ou la détention des actions, parts, droits financiers ou droits de vote de l'entité juridique par la personne morale passible de l'impôt sur les sociétés ne peut être regardée comme constitutive d'un montage artificiel dont le but serait de contourner la législation fiscale française.
 
 III. – En dehors des cas mentionnés au II, le I ne s'applique pas lorsque la personne morale établie en France démontre que les opérations de l'entreprise ou de l'entité juridique établie ou constituée hors de France ont principalement un objet et un effet autres que de permettre la localisation de bénéfices dans un Etat ou territoire où elle est soumise à un régime fiscal privilégié.
 

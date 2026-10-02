@@ -76,8 +76,8 @@ Afin de garantir la qualité de l'audit énergétique mentionné au l du 1, un d
 
 (En euros)
 
-| Nombre de personnes composant le ménage | Île-de-France | Autres régions |
-| --- | --- | --- |
+| Nombre de personnes<br>composant le ménage | Île-de-France | Autres régions |
+| -- | -- | -- |
 | 1 | 25 068 | 19 074 |
 | 2 | 36 792 | 27 896 |
 | 3 | 44 188 | 33 547 |
@@ -97,23 +97,23 @@ c) Les conditions de ressources prévues au 2° du a du présent 4 bis ne sont p
 
 5. Sous réserve des dispositions du 5 ter, pour les dépenses autres que celles mentionnées au 5 bis, le crédit d'impôt est égal, selon la nature de chaque dépense, aux montants suivants :
 
-| Nature de la dépense | Montant |
-| --- | --- |
-| Ménages remplissant les conditions de revenus mentionnées aux a ou b du 4 bis | Ménages ne remplissant pas la condition de revenus mentionnée au 2° des a ou b du 4 bis |
+| Nature de la dépense | Montant |  |
+| -- | -- | -- |
+|  | Ménages remplissant les conditions de revenus mentionnées aux a ou b du 4 bis | Ménages ne remplissant pas la condition de revenus mentionnée au 2° des a ou b du 4 bis |
 | Matériaux d'isolation thermique des parois vitrées à la condition que ces mêmes matériaux viennent en remplacement de parois en simple vitrage mentionnés au 2° du b du 1 | 40 €/ équipement | (Sans objet) |
 | Matériaux d'isolation thermique des parois opaques mentionnés au 3° du b du 1 | 15 € par mètre carré pour l'isolation des murs en façade ou pignon par l'intérieur, des rampants de toiture et plafonds de combles aménagés ou aménageables | 10 € par mètre carré pour l'isolation des murs en façade ou pignon par l'intérieur, des rampants de toiture et plafonds de combles aménagés ou aménageables |
-| 50 € par mètre carré pour l'isolation des murs en façade ou pignon par l'extérieur, des toitures-terrasses | 25 € par mètre carré pour l'isolation des murs en façade ou pignon par l'extérieur, des toitures-terrasses |
+|  | 50 € par mètre carré pour l'isolation des murs en façade ou pignon par l'extérieur, des toitures-terrasses | 25 € par mètre carré pour l'isolation des murs en façade ou pignon par l'extérieur, des toitures-terrasses |
 | Équipements de chauffage ou de fourniture d'eau chaude sanitaire fonctionnant au bois ou autres biomasses ou à l'énergie solaire thermique mentionnés au 1° du c du 1 | 4 000 € pour les chaudières à alimentation automatique fonctionnant au bois ou autres biomasses | (Sans objet) |
-| 3 000 € pour les systèmes solaires combinés |
-| 3 000 € pour les chaudières à alimentation manuelle fonctionnant au bois ou autres biomasses |
-| 2 000 € pour les chauffe-eaux solaires individuels |
-| 1 500 € pour les poêles à granulés et cuisinières à granulés |
-| 1 000 € pour les poêles à bûches et cuisinières à bûches |
-| 600 € pour les foyers fermés et inserts à bûches ou granulés |
-| 1 000 € pour les équipements de chauffage ou de production d'eau chaude fonctionnant avec des capteurs solaires hybrides thermiques et électriques à circulation de liquide |
+|  | 3 000 € pour les systèmes solaires combinés |  |
+|  | 3 000 € pour les chaudières à alimentation manuelle fonctionnant au bois ou autres biomasses |  |
+|  | 2 000 € pour les chauffe-eaux solaires individuels |  |
+|  | 1 500 € pour les poêles à granulés et cuisinières à granulés |  |
+|  | 1 000 € pour les poêles à bûches et cuisinières à bûches |  |
+|  | 600 € pour les foyers fermés et inserts à bûches ou granulés |  |
+|  | 1 000 € pour les équipements de chauffage ou de production d'eau chaude fonctionnant avec des capteurs solaires hybrides thermiques et électriques à circulation de liquide |  |
 | Pompes à chaleur, autres que air/ air, mentionnées au 3° du c du 1 | 4 000 € pour les pompes à chaleur géothermiques | (Sans objet) |
-| 2 000 € pour les pompes à chaleur air/ eau |
-| 400 € pour les pompes à chaleur dédiées à la production d'eau chaude sanitaire |
+|  | 2 000 € pour les pompes à chaleur air/ eau |  |
+|  | 400 € pour les pompes à chaleur dédiées à la production d'eau chaude sanitaire |  |
 | Équipements de raccordement à un réseau de chaleur et/ ou de froid, et droits et frais de raccordement mentionnés au d du 1 | 400 € | (Sans objet) |
 | Système de charge pour véhicule électrique mentionné au i du 1 | 300 € | 300 € |
 | Équipements ou matériaux de protection des parois vitrées ou opaques contre les rayonnements solaires mentionnés au j du 1 | 15 € par mètre carré | (Sans objet) |
@@ -124,15 +124,15 @@ c) Les conditions de ressources prévues au 2° du a du présent 4 bis ne sont p
 
 5 bis. Par exception au 5 et sous réserve du 5 ter, le crédit d'impôt est égal, selon la nature de chaque dépense, lorsque celle-ci porte sur les parties communes d'un immeuble collectif, aux montants suivants pour lesquels “ q ” représente la quote-part correspondant au logement considéré :
 
-| Nature de la dépense | Montant |
-| --- | --- |
-| Ménages remplissant les conditions de revenus mentionnées au 4 bis | Ménages ne remplissant pas la condition de revenus mentionnée au 2° des a ou b du 4 bis |
+| Nature de la dépense | Montant |  |
+| -- | -- | -- |
+|  | Ménages remplissant les conditions de revenus mentionnées au 4 bis | Ménages ne remplissant pas la condition de revenus mentionnée au 2° des a ou b du 4 bis |
 | Matériaux d'isolation thermique des parois opaques mentionnés au 3° du b du 1 | 15\*q € par mètre carré pour l'isolation des murs en façade ou pignon par l'intérieur, des rampants de toiture et plafonds de combles aménagés ou aménageables | 10\*q € par mètre carré pour l'isolation des murs en façade ou pignon par l'intérieur, des rampants de toiture et plafonds de combles aménagés ou aménageables |
-| 50\*q € par mètre carré pour l'isolation des murs en façade ou pignon par l'extérieur, des toitures-terrasses | 25\*q € par mètre carré pour l'isolation des murs en façade ou pignon par l'extérieur, des toitures-terrasses |
+|  | 50\*q € par mètre carré pour l'isolation des murs en façade ou pignon par l'extérieur, des toitures-terrasses | 25\*q € par mètre carré pour l'isolation des murs en façade ou pignon par l'extérieur, des toitures-terrasses |
 | Équipements de chauffage ou de fourniture d'eau chaude sanitaire fonctionnant au bois ou autres biomasses ou à l'énergie solaire thermique mentionnés au 1° du c du 1 | 1 000 € par logement pour les chaudières fonctionnant au bois ou autres biomasses | (Sans objet) |
-| 350 € par logement pour les équipements de fourniture d'eau chaude sanitaire seule fonctionnant à l'énergie solaire thermique |
+|  | 350 € par logement pour les équipements de fourniture d'eau chaude sanitaire seule fonctionnant à l'énergie solaire thermique |  |
 | Pompes à chaleur, autres que air/ air, mentionnées au 3° du c du 1 | 1 000 € par logement pour les pompes à chaleur géothermiques et les pompes à chaleur air/ eau | (Sans objet) |
-| 150 € par logement pour les pompes à chaleur dédiées à la production d'eau chaude sanitaire |
+|  | 150 € par logement pour les pompes à chaleur dédiées à la production d'eau chaude sanitaire |  |
 | Équipements de raccordement à un réseau de chaleur et/ ou de froid, et droits et frais de raccordement mentionnés au d du 1 | 150 € par logement | (Sans objet) |
 | Système de charge pour véhicule électrique mentionné au i du 1 | 300 € | 300 € |
 | Équipements ou matériaux de protection des parois vitrées ou opaques contre les rayonnements solaires mentionnés au j du 1 | 15\*q € par mètre carré | (Sans objet) |

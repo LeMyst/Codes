@@ -1,1 +1,19 @@
-1° : Imputation des retenues à la source et crédits d'impôt
+# 1° : Imputation des retenues à la source et crédits d'impôt
+
+- [Article 199 ter](Article%20199%20ter.md)
+- [Article 199 ter A](Article%20199%20ter%20A.md)
+- [Article 199 ter-0 B](Article%20199%20ter-0%20B.md)
+- [Article 199 ter B](Article%20199%20ter%20B.md)
+- [Article 199 ter B bis](Article%20199%20ter%20B%20bis.md)
+- [Article 199 ter C](Article%20199%20ter%20C.md)
+- [Article 199 ter D](Article%20199%20ter%20D.md)
+- [Article 199 ter E](Article%20199%20ter%20E.md)
+- [Article 199 ter I](Article%20199%20ter%20I.md)
+- [Article 199 ter K](Article%20199%20ter%20K.md)
+- [Article 199 ter N](Article%20199%20ter%20N.md)
+- [Article 199 ter S](Article%20199%20ter%20S.md)
+- [Article 199 ter T](Article%20199%20ter%20T.md)
+- [Article 199 ter U](Article%20199%20ter%20U.md)
+- [Article 199 ter V](Article%20199%20ter%20V.md)
+- [Article 199 quater](Article%20199%20quater.md)
+- [Article 199 quater A](Article%20199%20quater%20A.md)

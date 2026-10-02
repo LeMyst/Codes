@@ -9,4 +9,4 @@
 (1) Annexe IV art. 188 B à 188 F.
 
 NOTA:
-Loi n° 2012-1510 du 29 décembre 2012 de finances rectificative pour 2012, article 21 II : Ces dispositions s'appliquent aux revenus perçus à compter du 1er janvier 2013.
+Loi n° 2012-1510 du 29 décembre 2012 de finances rectificative pour 2012, article 21 II : Ces dispositions s'appliquent aux revenus perçus à compter du 1<sup>er</sup> janvier 2013.

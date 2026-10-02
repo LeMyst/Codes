@@ -10,7 +10,7 @@ b) Porter sur des albums de nouveaux talents définis comme des artistes, groupe
 
 III. – Le crédit d'impôt, calculé au titre de chaque exercice, est égal à 20 % du montant total des dépenses suivantes effectuées jusqu'au 31 décembre 2027, pour des opérations mentionnées au II effectuées en France, dans un autre Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales, dès lors qu'elles entrent dans la détermination du résultat imposable :
 
-1**°** Pour les dépenses correspondant aux frais de production d'un enregistrement phonographique ou vidéographique musical :
+1<b>°</b> Pour les dépenses correspondant aux frais de production d'un enregistrement phonographique ou vidéographique musical :
 
 a. – les frais de personnel non permanent de l'entreprise : les salaires et charges sociales afférents aux artistes-interprètes, au réalisateur, à l'ingénieur du son et aux techniciens engagés pour la réalisation d'un enregistrement phonographique par l'entreprise de production ;
 
@@ -28,7 +28,7 @@ e. – les dépenses liées au coût de numérisation et d'encodage des producti
 
 f. – les dépenses liées à la réalisation et à la production d'images associées à l'enregistrement phonographique.
 
-2**°** Pour les dépenses liées au développement de productions phonographiques ou vidéographiques musicales mentionnées au II :
+2<b>°</b> Pour les dépenses liées au développement de productions phonographiques ou vidéographiques musicales mentionnées au II :
 
 a. – les frais de répétition des titres ayant fait l'objet d'un enregistrement dans les conditions mentionnées au II (location de studio, location et transport de matériels et d'instruments, salaires et charges sociales afférents aux personnes mentionnées au a du 1° du présent III et au personnel permanent suivant : administrateurs de site, attachés de presse, coordinateurs promotion, graphistes, maquettistes, chefs de produit nouveaux médias, responsables synchronisation, responsables nouveaux médias, assistants nouveaux médias, directeurs de promotion, directeurs marketing, responsables export, assistants export, chefs de projet digital, analystes de données, gestionnaires de données, gestionnaires des royautés, prestataires en marketing digital, rémunération, incluant les charges sociales, du ou des dirigeants correspondant à leur participation directe aux répétitions) ;
 

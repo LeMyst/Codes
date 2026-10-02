@@ -7,4 +7,4 @@ Un décret fixe la nature des renseignements particuliers que les sociétés men
 NOTA:
 (1) Voir l'article 96 A de l'annexe III.
 
-Conformément au III de l’article 162 de la loi n° 2020-1721 du 29 décembre 2020, les présentes dispositions entrent en vigueur le 1er janvier 2023.
+Conformément au III de l’article 162 de la loi n° 2020-1721 du 29 décembre 2020, les présentes dispositions entrent en vigueur le 1<sup>er</sup> janvier 2023.

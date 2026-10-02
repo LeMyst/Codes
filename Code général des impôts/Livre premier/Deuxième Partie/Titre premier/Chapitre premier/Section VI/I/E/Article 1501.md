@@ -14,11 +14,11 @@ II. – La valeur locative des autoroutes et de leurs dépendances à la date de
 
 III. – La valeur locative des postes d'amarrage dans les ports de plaisance à la date de la révision est fixée selon le tarif suivant :
 
-– 110 € pour les ports maritimes de la Méditerranée ;
+- 110 € pour les ports maritimes de la Méditerranée ;
 
-– 80 € pour les autres ports maritimes ;
+- 80 € pour les autres ports maritimes ;
 
-– 55 € pour les ports non maritimes.
+- 55 € pour les ports non maritimes.
 
 Pour chaque port, ce tarif peut être, après avis des commissions communales et intercommunales des impôts directs prévues aux articles 1650 et 1650 A, minoré ou majoré de 20 % ou 40 % en fonction du nombre de services et d'équipements offerts, pondéré par la capacité moyenne d'accueil d'un poste d'amarrage.
 

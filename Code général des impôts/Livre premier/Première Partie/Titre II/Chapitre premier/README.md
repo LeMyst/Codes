@@ -1,1 +1,15 @@
-Chapitre premier : Taxe sur la valeur ajoutée
+# Chapitre premier : Taxe sur la valeur ajoutée
+
+- [Section 0I : Définition du territoire communautaire](Section%200I/README.md)
+- [Section I : Champ d'application](Section%20I/README.md)
+- [Section II : Assiette de la taxe](Section%20II/README.md)
+- [Section III : Fait générateur et exigibilité](Section%20III/README.md)
+- [Section IV : Liquidation de la taxe](Section%20IV/README.md)
+- [Section V : Calcul de la taxe](Section%20V/README.md)
+- [Section VI : Redevables de la taxe](Section%20VI/README.md)
+- [Section VI bis : Retenue de la taxe sur les droits d'auteurs](Section%20VI%20bis/README.md)
+- [Section VII : Obligations des redevables](Section%20VII/README.md)
+- [Section VIII : Importations](Section%20VIII/README.md)
+- [Section VIII bis : Franchise en base](Section%20VIII%20bis/README.md)
+- [Section IX : Régimes spéciaux](Section%20IX/README.md)
+- [Section X : Modalités d'application](Section%20X/README.md)

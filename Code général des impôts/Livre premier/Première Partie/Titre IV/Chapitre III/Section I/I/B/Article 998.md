@@ -13,4 +13,4 @@ a) Que l'entreprise ne puisse disposer, pour toute autre utilisation, de la vale
 b) Que la société ou compagnie d'assurances s'engage à verser à l'entreprise employeur les seules prestations dues aux salariés au titre de l'indemnité de fin de carrière. Lorsque l'entreprise a fait l'objet d'une procédure de sauvegarde ou de redressement judiciaire, la société ou compagnie d'assurances peut, en cas de cession ou de liquidation judiciaire, être autorisée par le tribunal qui a ouvert la procédure à verser les prestations aux salariés de l'entreprise et à apurer ainsi leurs créances.
 
 NOTA:
-Conformément au II de l'article 90 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026, ces dispositions, dans leur rédaction issue du I dudit article, s'appliquent aux primes, cotisations et accessoires dus à compter du 1er janvier 2026.
+Conformément au II de l'article 90 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026, ces dispositions, dans leur rédaction issue du I dudit article, s'appliquent aux primes, cotisations et accessoires dus à compter du 1<sup>er</sup> janvier 2026.

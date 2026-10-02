@@ -15,4 +15,4 @@ Le retrait du numéro d'enregistrement prend effet à l'expiration d'un délai d
 III.-A l'expiration d'un délai de six mois à compter de la prise d'effet du retrait, l'opérateur de plateforme dont le numéro d'enregistrement a été retiré peut déposer une nouvelle demande d'enregistrement dans les conditions prévues au I du présent article.
 
 NOTA:
-Conformément au B du III de l'article 134 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.
+Conformément au B du III de l'article 134 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2023.

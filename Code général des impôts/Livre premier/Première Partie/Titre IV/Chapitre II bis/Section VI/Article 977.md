@@ -2,8 +2,8 @@
 
 1. Le tarif de l'impôt est fixé à :
 
-| Fraction de la valeur nette taxable du patrimoine | Tarif applicable (en pourcentage) |
-| --- | --- |
+| Fraction de la valeur nette taxable du patrimoine | Tarif applicable<br>(en pourcentage) |
+| -- | -- |
 | N'excédant pas 800 000 € | 0 |
 | Supérieure à 800 000 € et inférieure ou égale à 1 300 000 € | 0,50 |
 | Supérieure à 1 300 000 € et inférieure ou égale à 2 570 000 € | 0,70 |

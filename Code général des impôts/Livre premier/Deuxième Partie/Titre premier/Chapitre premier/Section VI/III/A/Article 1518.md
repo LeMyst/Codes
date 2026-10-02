@@ -14,9 +14,9 @@ III. – L'incorporation dans les rôles d'impôts directs locaux, autres que la
 
 Pour cette première actualisation :
 
-– les valeurs locatives des sols, terrains et bâtiments industriels évaluées à partir du prix de revient conformément aux articles 1499,1499 A et 1501, sont majorées d'un tiers ;
+- les valeurs locatives des sols, terrains et bâtiments industriels évaluées à partir du prix de revient conformément aux articles 1499,1499 A et 1501, sont majorées d'un tiers ;
 
-– la valeur locative de l'ensemble des locaux à usage d'habitation peut être actualisée au moyen d'un coefficient unique par département.
+- la valeur locative de l'ensemble des locaux à usage d'habitation peut être actualisée au moyen d'un coefficient unique par département.
 
 Les dispositions relatives à la taxe professionnelle prévues au premier alinéa sont applicables pour l'établissement, à compter de 2010, des impositions de la cotisation foncière des entreprises.
 

@@ -90,9 +90,9 @@ b) Lorsque les actions, parts, droits ou titres ont été transférés dans le p
 
 a) Lorsque le cédant est le constituant initial de la fiducie :
 
-– lorsque les actions, parts, droits ou titres ont été transférés par le constituant dans le patrimoine fiduciaire dans les conditions prévues à l'article 238 quater N, à partir de la date d'acquisition ou de souscription des actions, parts, droits ou titres par le constituant ;
+- lorsque les actions, parts, droits ou titres ont été transférés par le constituant dans le patrimoine fiduciaire dans les conditions prévues à l'article 238 quater N, à partir de la date d'acquisition ou de souscription des actions, parts, droits ou titres par le constituant ;
 
-– lorsque les actions, parts, droits ou titres n'ont pas été transférés dans le patrimoine fiduciaire dans les conditions prévues au même article 238 quater N, à partir de la date d'acquisition ou de souscription des actions, parts, droits ou titres par la fiducie ;
+- lorsque les actions, parts, droits ou titres n'ont pas été transférés dans le patrimoine fiduciaire dans les conditions prévues au même article 238 quater N, à partir de la date d'acquisition ou de souscription des actions, parts, droits ou titres par la fiducie ;
 
 b) Lorsque le cédant n'est pas le constituant initial de la fiducie, à partir de la date d'acquisition de droits représentatifs des biens ou droits du patrimoine fiduciaire si les actions, parts, droits ou titres cédés figuraient dans le patrimoine fiduciaire lors de l'acquisition de ces droits, à partir de la date d'acquisition ou de souscription des actions, parts, droits ou titres par la fiducie dans les autres situations.
 
@@ -108,9 +108,9 @@ Pour les distributions mentionnées aux 7,7 bis et aux deux derniers alinéas du
 
 Pour l'application du dernier alinéa du A du 1 ter, en cas de cession à titre onéreux ou de rachat de parts ou d'actions d'organismes de placement collectif en valeurs mobilières ou de placements collectifs, constitués avant le 1er janvier 2014, ou en cas de distributions effectuées par de tels organismes, la durée de détention est décomptée :
 
-– à partir de la date de souscription ou d'acquisition de ces parts ou actions, lorsque les parts ou actions ont été souscrites ou acquises à une date où l'organisme respecte le quota d'investissement mentionné aux quatrième et cinquième alinéas du même A du 1 ter ;
+- à partir de la date de souscription ou d'acquisition de ces parts ou actions, lorsque les parts ou actions ont été souscrites ou acquises à une date où l'organisme respecte le quota d'investissement mentionné aux quatrième et cinquième alinéas du même A du 1 ter ;
 
-– à partir de la date de respect du quota d'investissement mentionné à l'avant-dernier alinéa du présent 1 quinquies lorsque les parts ou actions ont été souscrites ou acquises à une date antérieure.
+- à partir de la date de respect du quota d'investissement mentionné à l'avant-dernier alinéa du présent 1 quinquies lorsque les parts ou actions ont été souscrites ou acquises à une date antérieure.
 
 2. Le prix d'acquisition des titres ou droits à retenir par le cessionnaire pour la détermination du gain net de cession des titres ou droits concernés est, le cas échéant, augmenté du complément de prix mentionné au 2 du I de l'article 150-0 A.
 
@@ -197,8 +197,8 @@ c. abrogé
 Le montant des sommes reçues en exécution d'une telle clause de garantie de passif ou d'actif net diminue le prix d'acquisition des valeurs mobilières ou des droits sociaux à retenir par le cessionnaire pour la détermination du gain net de cession des titres concernés.
 
 NOTA:
-Conformément au A du II de l'article 16 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'applique aux apports réalisés à compter du 1er janvier 2026.
+Conformément au A du II de l'article 16 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'applique aux apports réalisés à compter du 1<sup>er</sup> janvier 2026.
 
-Conformément au C du II de l'article 16 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent aux exercices clos à compter du 1er janvier 2026.
+Conformément au C du II de l'article 16 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent aux exercices clos à compter du 1<sup>er</sup> janvier 2026.
 
 Conformément au premier alinéa du B du IV de l'article 24 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent aux retraits des titres mentionnés à l'article 163 bis H du code général des impôts intervenant à compter du 15 février 2025.

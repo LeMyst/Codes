@@ -1,1 +1,1 @@
-Section I : Taxes obligatoires
+# Section I : Taxes obligatoires

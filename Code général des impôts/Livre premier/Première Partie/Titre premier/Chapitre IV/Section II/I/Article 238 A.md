@@ -9,4 +9,4 @@ Toutefois, les intérêts, arrérages et autres produits des obligations, créan
 Les premier et troisième alinéas s'appliquent également à tout versement effectué sur un compte tenu dans un organisme financier établi dans un des Etats ou territoires visés, respectivement, aux premier et troisième alinéas.
 
 NOTA:
-Conformément au II de l'article 32 de la loi n° 2018-898 du 23 octobre 2018, ces dispositions entrent en vigueur le 1er janvier 2020.
+Conformément au II de l'article 32 de la loi n° 2018-898 du 23 octobre 2018, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2020.

@@ -11,4 +11,4 @@ En cas d'imposition erronée liée à l'appréciation de la vacance, les dégrè
 NOTA:
 Conformément au B du VII de l'article 110 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité, à l'exception du b du 8°, et les II à VI s'appliquent à compter des impositions établies au titre de l'année 2025.
 
-Conformément au A du VIII de l’article 108 de la loi n° 2026-103 du 19 février 2026, les délibérations des communes et des établissements publics de coopération intercommunale à fiscalité propre prises en application du présent article dans sa rédaction antérieure à la loi n° 2026-103 du 19 février 2026 cessent de produire leurs effets à compter du 1er janvier 2027.
+Conformément au A du VIII de l’article 108 de la loi n° 2026-103 du 19 février 2026, les délibérations des communes et des établissements publics de coopération intercommunale à fiscalité propre prises en application du présent article dans sa rédaction antérieure à la loi n° 2026-103 du 19 février 2026 cessent de produire leurs effets à compter du 1<sup>er</sup> janvier 2027.

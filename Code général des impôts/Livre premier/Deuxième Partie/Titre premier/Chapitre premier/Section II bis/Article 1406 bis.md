@@ -1,6 +1,6 @@
 # Article 1406 bis
 
-I. - A. - La taxe sur la vacance des locaux d'habitation est due pour les logements vacants au 1er janvier de l'année d'imposition depuis au moins :
+I. - A. - La taxe sur la vacance des locaux d'habitation est due pour les logements vacants au 1<sup>er</sup> janvier de l'année d'imposition depuis au moins :
 
 1° Une année lorsque le logement est situé dans une commune qui présente un déséquilibre marqué entre l'offre et la demande de logements entraînant des difficultés sérieuses d'accès au logement sur l'ensemble du parc résidentiel existant ;
 
@@ -43,4 +43,4 @@ VI. - Les dégrèvements sont à la charge de la commune ou de l'établissement 
 NOTA:
 Conformément au A du IX de l’article 108 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent à compter des impositions établies au titre de l'année 2027.
 
-Pour les impositions établies au titre de 2027, il est tenu compte de la durée de vacance de chaque logement avant le 1er janvier 2027.
+Pour les impositions établies au titre de 2027, il est tenu compte de la durée de vacance de chaque logement avant le 1<sup>er</sup> janvier 2027.

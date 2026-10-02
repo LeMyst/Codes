@@ -21,4 +21,4 @@ b) Le cas échéant, le nombre de jours et le type de location pour chaque lot.
 III.-La déclaration prévue au I est souscrite par voie électronique au plus tard le 31 janvier de l'année suivant celle au cours de laquelle les opérations ont été réalisées.
 
 NOTA:
-Conformément au B du III de l'article 134 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.
+Conformément au B du III de l'article 134 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2023.

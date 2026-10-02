@@ -4,11 +4,11 @@
 
 1° Pour les bénéficiaires personnes morales ou organismes, quelle que soit leur forme :
 
-– 17 % pour les intérêts des obligations négociables ; toutefois ce taux est fixé à 15 % pour les revenus visés au 1° de l'article 118 et afférents à des valeurs émises à compter du 1er janvier 1965 ainsi que pour les lots et primes de remboursement visés au 2° de l'article 118 et afférents à des valeurs émises à compter du 1er janvier 1986 ;
+- 17 % pour les intérêts des obligations négociables ; toutefois ce taux est fixé à 15 % pour les revenus visés au 1° de l'article 118 et afférents à des valeurs émises à compter du 1er janvier 1965 ainsi que pour les lots et primes de remboursement visés au 2° de l'article 118 et afférents à des valeurs émises à compter du 1er janvier 1986 ;
 
 Celui prévu au 2° de l'article 219 bis, pour les dividendes qui bénéficient à des organismes qui ont leur siège dans un Etat membre de l'Union européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la fraude et l'évasion fiscales et qui seraient imposés dans les conditions prévues au 5 de l'article 206 s'ils avaient leur siège en France ;
 
-– Celui prévu au deuxième alinéa du I de l'article 219 pour tous les autres revenus.
+- Celui prévu au deuxième alinéa du I de l'article 219 pour tous les autres revenus.
 
 2° 12,8 % pour les bénéficiaires personnes physiques.
 

@@ -5,4 +5,4 @@ Sous réserve des dispositions propres aux bénéfices professionnels, les plus-
 L'article 150 VI du présent code est applicable lorsque les crypto-actifs uniques et non fongibles représentent les biens mentionnés au I du même article 150 VI.
 
 NOTA:
-Conformément au II de l'article 91 de la loi n° 2026-534 du 25 juin 2026, ces dispositions, dans leur rédaction résultant du 3° du I du même article, s'appliquent aux cessions réalisées à compter du 1er janvier 2026.
+Conformément au II de l'article 91 de la loi n° 2026-534 du 25 juin 2026, ces dispositions, dans leur rédaction résultant du 3° du I du même article, s'appliquent aux cessions réalisées à compter du 1<sup>er</sup> janvier 2026.

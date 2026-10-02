@@ -4,8 +4,8 @@ I. - Pour leurs livraisons de biens et leurs prestations de services, les assuje
 
 (En euros.)
 
-| Année d'évaluation | Chiffre d'affaires national total | Chiffre d'affaires national afférent aux prestations de services autres que les ventes à consommer sur place et les prestations d'hébergement |
-| --- | --- | --- |
+| Année d'évaluation | Chiffre d'affaires national total | Chiffre d'affaires national afférent aux prestations de services autres que les ventes<br>à consommer sur place et les prestations d'hébergement |
+| -- | -- | -- |
 | Année civile précédente | 85 000 | 37 500 |
 | Année en cours | 93 500 | 41 250 |
 
@@ -13,8 +13,8 @@ I bis. - A. - Les avocats, les avocats au Conseil d'Etat et à la Cour de cassat
 
 (En euros.)
 
-| Année d'évaluation | Chiffre d'affaires national afférent aux opérations mentionnées au B du présent I bis | Chiffre d'affaires national afférent aux opérations autres que celles mentionnées au B du présent I bis |
-| --- | --- | --- |
+| Année d'évaluation | Chiffre d'affaires national afférent aux opérations<br>mentionnées au B du présent I bis | Chiffre d'affaires national afférent aux opérations autres<br>que celles mentionnées au B du présent I bis |
+| -- | -- | -- |
 | Année civile précédente | 50 000 | 35 000 |
 | Année en cours | 55 000 | 38 500 |
 
@@ -29,8 +29,8 @@ B. - Les opérations prises en compte pour les besoins des plafonds mentionnés 
 II. - Lorsque l'un des plafonds de chiffre d'affaires prévus aux I ou I bis du présent article pour les opérations de l'année en cours est dépassé, la franchise cesse de s'appliquer pour les opérations intervenant à compter de la date du dépassement.
 
 NOTA:
-Conformément au II de l'article 32 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité entre en vigueur le 1er mars 2025.
+Conformément au II de l'article 32 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité entre en vigueur le 1<sup>er</sup> mars 2025.
 
-Conformément au A du III de l'article 1 de la loi n° 2025-1044 du 3 novembre 2025, ces dispositions s'appliquent à compter du 1er mars 2025.
+Conformément au A du III de l'article 1 de la loi n° 2025-1044 du 3 novembre 2025, ces dispositions s'appliquent à compter du 1<sup>er</sup> mars 2025.
 
 Conformément à l'article 2 de la loi n° 2025-1044 du 3 novembre 2025, la perte de recettes pour l'Etat résultant de ces dispositions est compensée, à due concurrence, par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services.

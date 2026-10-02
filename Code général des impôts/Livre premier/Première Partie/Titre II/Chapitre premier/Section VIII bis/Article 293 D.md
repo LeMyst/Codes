@@ -23,6 +23,6 @@ B. - Les chiffres d'affaires réalisés dans les autres Etats membres de l'Union
 III. - Pour l'assujetti débutant son activité en cours d'année, les plafonds mentionnés au I et au A du I bis de l'article 293 B et au 1° du I de l'article 293 B bis sont ajustés à proportion de la durée de l'année restant à courir à la date du début d'activité.
 
 NOTA:
-Conformément au II de l'article 32 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité entre en vigueur le 1er mars 2025.
+Conformément au II de l'article 32 de la loi n° 2025-127 du 14 février 2025, le I de l'article précité entre en vigueur le 1<sup>er</sup> mars 2025.
 
-Conformément au A du III de l'article 1 de la loi n° 2025-1044 du 3 novembre 2025, ces dispositions s'appliquent à compter du 1er mars 2025.
+Conformément au A du III de l'article 1 de la loi n° 2025-1044 du 3 novembre 2025, ces dispositions s'appliquent à compter du 1<sup>er</sup> mars 2025.

@@ -14,11 +14,11 @@ b) La somme des réductions d'impôt sur le revenu mentionnées aux articles 199
 
 4. Les fractions des réductions d'impôt et des reports qui ne sont pas retenues en application des 2,3 et 3 bis peuvent être imputées dans la limite annuelle :
 
-– de trente-trois fois le dix-septième du montant mentionné au b du 1 pour la fraction non retenue en application du 2 ;
+   - de trente-trois fois le dix-septième du montant mentionné au b du 1 pour la fraction non retenue en application du 2 ;
 
-– de sept fois le troisième du montant mentionné au a du 1 pour la fraction non retenue en application du 3 bis ;
+   - de sept fois le troisième du montant mentionné au a du 1 pour la fraction non retenue en application du 3 bis ;
 
-– de quatorze fois le onzième du montant mentionné au b du 1 pour la fraction non retenue en application du 3.
+   - de quatorze fois le onzième du montant mentionné au b du 1 pour la fraction non retenue en application du 3.
 
 II. – Lorsque le contribuable personne physique réalise directement des investissements mentionnés au I de l'article 199 undecies B au titre et pour les besoins de l'activité pour laquelle il participe à l'exploitation au sens du 1° bis du I de l'article 156, le montant total de la réduction d'impôt et des reports résultant de ces investissements, dont l'imputation est admise au titre d'une même année d'imposition, ne peut excéder deux fois et demie la limite mentionnée au b du 1 du I ou un montant de 229 500 € par période de trois ans.
 

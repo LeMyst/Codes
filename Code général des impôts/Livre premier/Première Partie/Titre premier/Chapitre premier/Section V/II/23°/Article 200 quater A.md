@@ -26,8 +26,8 @@ d. Les dépenses mentionnées au a du présent 1 ouvrent droit au crédit d'imp�
 
 (En euros)
 
-| NOMBRE DE PERSONNES COMPOSANT LE MÉNAGE | ILE-DE-FRANCE | AUTRES RÉGIONS |
-| --- | --- | --- |
+| NOMBRE DE PERSONNES<br>COMPOSANT LE MÉNAGE | ILE-DE-FRANCE | AUTRES RÉGIONS |
+| -- | -- | -- |
 | 1 | 28 933 | 22 015 |
 | 2 | 42 463 | 32 197 |
 | 3 | 51 000 | 38 719 |

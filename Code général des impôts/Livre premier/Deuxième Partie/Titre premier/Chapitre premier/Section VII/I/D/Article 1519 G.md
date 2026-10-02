@@ -8,8 +8,8 @@ Les sociétés coopératives agricoles et leurs unions qui se consacrent à l'é
 
 III. – Le montant de l'imposition est fixé en fonction de la tension en amont des transformateurs au 1er janvier de l'année d'imposition selon le barème suivant :
 
-| TENSION EN AMONT (en kilovolts) | TARIF PAR TRANSFORMATEUR (en euros) |
-| --- | --- |
+| TENSION EN AMONT<br>(en kilovolts) | TARIF PAR TRANSFORMATEUR<br>(en euros) |
+| -- | -- |
 | Supérieure à 350 | 170 587 |
 | Supérieure à 130 et inférieure ou égale à 350 | 57 890 |
 | Supérieure à 50 et inférieure ou égale à 130 | 16 627 |

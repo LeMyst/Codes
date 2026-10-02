@@ -19,6 +19,6 @@ En cas de cessation définitive d'exploitation d'une centrale de production d'é
 Le contrôle, le recouvrement, le contentieux, les garanties, sûretés et privilèges sont régis comme en matière de cotisation foncière des entreprises.
 
 NOTA:
-Conformément au I de l’article 21 de la loi n° 2026-554 du 29 juin 2026, ces dispositions, dans leur rédaction résultant de ladite loi, entrent en vigueur à une date fixée par décret, et au plus tard le 1er septembre 2026.
+Conformément au I de l’article 21 de la loi n° 2026-554 du 29 juin 2026, ces dispositions, dans leur rédaction résultant de ladite loi, entrent en vigueur à une date fixée par décret, et au plus tard le 1<sup>er</sup> septembre 2026.
 
 Conformément au VI de l’article 8 de la loi n° 2026-554 du 29 juin 2026, ces dispositions s'appliquent aux centrales de production d'énergie électrique d'origine hydraulique relevant du régime d'autorisation mentionné au premier alinéa de l'article L. 511-5 du code de l'énergie à compter des impositions établies au titre de l'année qui suit la résiliation de leur contrat de concession.

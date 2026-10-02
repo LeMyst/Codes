@@ -6,11 +6,11 @@ Pour l'application du présent article, il faut entendre par ventes au détail l
 
 Ne sont pas considérées comme faites au détail :
 
-– les ventes portant sur des objets qui, en raison de leur nature ou de leur emploi, ne sont pas usuellement utilisés par de simples particuliers ;
+- les ventes portant sur des objets qui, en raison de leur nature ou de leur emploi, ne sont pas usuellement utilisés par de simples particuliers ;
 
-– les ventes faites à des prix identiques, qu'elles soient réalisées en gros ou en détail ;
+- les ventes faites à des prix identiques, qu'elles soient réalisées en gros ou en détail ;
 
-– les ventes de produits destinés à la revente, quelle que soit l'importance des quantités livrées.
+- les ventes de produits destinés à la revente, quelle que soit l'importance des quantités livrées.
 
 NOTA:
 Loi 98-1266 1998-12-30 art. 7 IV : Ces dispositions sont applicables pour la détermination des résultats des années 1999 et suivantes.

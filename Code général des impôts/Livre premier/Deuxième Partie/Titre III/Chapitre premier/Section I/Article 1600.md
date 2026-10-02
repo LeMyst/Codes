@@ -45,4 +45,4 @@ Son taux est égal à 9,23 %.
 2. Le produit de la taxe additionnelle à la cotisation sur la valeur ajoutée des entreprises est affecté à CCI France, dans la limite d'un plafond annuel.
 
 NOTA:
-Conformément au IX de l'article 69 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant de l'article précité, entrent en vigueur le 1er mars 2026.
+Conformément au IX de l'article 69 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant de l'article précité, entrent en vigueur le 1<sup>er</sup> mars 2026.

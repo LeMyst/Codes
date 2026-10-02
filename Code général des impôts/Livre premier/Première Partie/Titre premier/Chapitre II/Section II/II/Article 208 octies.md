@@ -7,4 +7,4 @@ Si le montant exonéré en application du premier alinéa du présent I est sup�
 II. - Le bénéfice de l'exonération mentionnée au I est subordonné au respect du règlement (UE) 2022/2472 de la Commission du 14 décembre 2022 déclarant certaines catégories d'aides dans les secteurs agricole et forestier et dans les zones rurales compatibles avec le marché intérieur en application des articles 107 et 108 du traité sur le fonctionnement de l'Union européenne.
 
 NOTA:
-Conformément au B du IV de l'article 31 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du D du I de l'article précité, s'appliquent à l'impôt sur les sociétés dû au titre des exercices ouverts entre le 1er janvier 2025 et le 31 décembre 2027.
+Conformément au B du IV de l'article 31 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du D du I de l'article précité, s'appliquent à l'impôt sur les sociétés dû au titre des exercices ouverts entre le 1<sup>er</sup> janvier 2025 et le 31 décembre 2027.

@@ -91,6 +91,6 @@ IX. –1. Perçoivent la taxe d'aménagement dans les conditions prévues au 1°
 X. – Les métropoles, la métropole de Lyon, les communautés urbaines, les communautés d'agglomération et les communautés de communes peuvent se substituer à leurs communes membres pour l'application des dispositions relatives à la taxe pour la gestion des milieux aquatiques et la prévention des inondations prévue à l'article 1530 bis.
 
 NOTA:
-Conformément au I de l’article 21 de la loi n° 2026-554 du 29 juin 2026, ces dispositions, dans leur rédaction résultant de ladite loi, entrent en vigueur à une date fixée par décret, et au plus tard le 1er septembre 2026.
+Conformément au I de l’article 21 de la loi n° 2026-554 du 29 juin 2026, ces dispositions, dans leur rédaction résultant de ladite loi, entrent en vigueur à une date fixée par décret, et au plus tard le 1<sup>er</sup> septembre 2026.
 
 Conformément au VI de l’article 8 de la loi n° 2026-554 du 29 juin 2026, ces dispositions s'appliquent aux centrales de production d'énergie électrique d'origine hydraulique relevant du régime d'autorisation mentionné au premier alinéa de l'article L. 511-5 du code de l'énergie à compter des impositions établies au titre de l'année qui suit la résiliation de leur contrat de concession.

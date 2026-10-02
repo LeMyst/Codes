@@ -1,1 +1,16 @@
-0I : Déclarations relatives aux comptes financiers, aux contrats d'assurance-vie, aux trusts, aux crypto-actifs et aux dispositifs transfrontières
+# 0I : Déclarations relatives aux comptes financiers, aux contrats d'assurance-vie, aux trusts, aux crypto-actifs et aux dispositifs transfrontières
+
+- [Article 1649 A](Article%201649%20A.md)
+- [Article 1649 AA](Article%201649%20AA.md)
+- [Article 1649 AB](Article%201649%20AB.md)
+- [Article 1649 AC](Article%201649%20AC.md)
+- [Article 1649 AC bis](Article%201649%20AC%20bis.md)
+- [Article 1649 AC ter](Article%201649%20AC%20ter.md)
+- [Article 1649 AC quater](Article%201649%20AC%20quater.md)
+- [Article 1649 AC quinquies](Article%201649%20AC%20quinquies.md)
+- [Article 1649 AC sexies](Article%201649%20AC%20sexies.md)
+- [Article 1649 AD](Article%201649%20AD.md)
+- [Article 1649 AE](Article%201649%20AE.md)
+- [Article 1649 AF](Article%201649%20AF.md)
+- [Article 1649 AG](Article%201649%20AG.md)
+- [Article 1649 AH](Article%201649%20AH.md)

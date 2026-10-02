@@ -2,8 +2,8 @@
 
 I. – 1. Les redevables de la cotisation foncière des entreprises sont assujettis à une cotisation minimum établie au lieu de leur principal établissement ; cette cotisation est établie à partir d'une base dont le montant est fixé par le conseil municipal selon le barème suivant :
 
-| MONTANT DU CHIFFRE D'AFFAIRES OU DES RECETTES (en euros) | MONTANT DE LA BASE MINIMUM (en euros) |
-| --- | --- |
+| MONTANT DU CHIFFRE D'AFFAIRES<br>OU DES RECETTES (en euros) | MONTANT DE LA BASE<br>MINIMUM (en euros) |
+| -- | -- |
 | Inférieur ou égal à 10 000 | Entre 250 et 597 |
 | Supérieur à 10 000 et inférieur ou égal à 32 600 | Entre 250 et 1 194 |
 | Supérieur à 32 600 et inférieur ou égal à 100 000 | Entre 250 et 2 509 |
@@ -29,9 +29,9 @@ a) Pour les communes existant au 31 décembre 2012 et les établissements public
 
 b) Pour les communes nouvelles créées à compter du 1er janvier 2013, pour celles rattachées à un établissement public de coopération intercommunale soumis à l'article 1609 nonies C ou au I de l'article 1609 quinquies C à compter de la même date ainsi que pour les établissements publics soumis à l'un de ces régimes pour la première fois à compter de cette date à la suite d'une création, d'une fusion ou d'un changement de régime fiscal :
 
-– l'année où, pour la première fois, cette opération produit ses effets au plan fiscal : au montant applicable l'année précédente sur le territoire de chacune des communes ou de chacun des établissements publics de coopération intercommunale concernés ;
+- l'année où, pour la première fois, cette opération produit ses effets au plan fiscal : au montant applicable l'année précédente sur le territoire de chacune des communes ou de chacun des établissements publics de coopération intercommunale concernés ;
 
-– les années suivantes : à la moyenne des bases minimum applicables sur leur territoire la première année pondérée par le nombre de redevables soumis à la cotisation minimum au titre de la même année.
+- les années suivantes : à la moyenne des bases minimum applicables sur leur territoire la première année pondérée par le nombre de redevables soumis à la cotisation minimum au titre de la même année.
 
 2 bis. Lorsque le montant de la base minimum s'appliquant aux redevables dont le chiffre d'affaires ou les recettes sont compris dans l'une des trois premières tranches de chiffre d'affaires ou de recettes mentionnées dans le tableau annexé au premier alinéa du 1 est déterminé dans les conditions définies aux 1 bis, 2 ou 3 et excède la limite supérieure de la base minimum applicable à la tranche dont ils relèvent, il est ramené à cette limite.
 

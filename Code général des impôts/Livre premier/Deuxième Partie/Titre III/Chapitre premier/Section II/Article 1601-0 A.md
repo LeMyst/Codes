@@ -4,8 +4,8 @@ Par dérogation aux a et b de l'article 1601, les droits correspondants dus par 
 
 (en pourcentage)
 
-| | Hors départements du Bas-Rhin, du Haut-Rhin et de la Moselle | Départements du Bas-Rhin et du Haut-Rhin | Département de la Moselle |
-| --- | --- | --- | --- |
+|  | Hors départements du Bas-Rhin,<br>du Haut-Rhin et de la Moselle | Départements du Bas-Rhin<br>et du Haut-Rhin | Département<br>de la Moselle |
+| -- | -- | -- | -- |
 | Prestation de services | 0,48 | 0,65 | 0,83 |
 | Achat-vente | 0,22 | 0,29 | 0, 37 |
 

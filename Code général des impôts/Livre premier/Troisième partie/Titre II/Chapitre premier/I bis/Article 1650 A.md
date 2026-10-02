@@ -6,11 +6,11 @@ Les commissaires doivent remplir les mêmes conditions que celles édictées au 
 
 Peuvent participer à la commission intercommunale des impôts directs, sans voix délibérative, les agents de l'établissement public de coopération intercommunale, dans les limites suivantes :
 
-– un agent pour les établissements publics de coopération intercommunale dont la population est inférieure à 10 000 habitants ;
+- un agent pour les établissements publics de coopération intercommunale dont la population est inférieure à 10 000 habitants ;
 
-– trois agents au plus pour les établissements publics de coopération intercommunale dont la population est comprise entre 10 000 et 150 000 habitants ;
+- trois agents au plus pour les établissements publics de coopération intercommunale dont la population est comprise entre 10 000 et 150 000 habitants ;
 
-– cinq agents au plus pour les établissements publics de coopération intercommunale dont la population est supérieure à 150 000 habitants.
+- cinq agents au plus pour les établissements publics de coopération intercommunale dont la population est supérieure à 150 000 habitants.
 
 2. Les commissaires ainsi que leurs suppléants en nombre égal sont désignés par le directeur départemental des finances publiques sur une liste de contribuables, en nombre double, remplissant les conditions prévues au 1, dressée par l'organe délibérant de l'établissement public de coopération intercommunale sur proposition de ses communes membres.
 

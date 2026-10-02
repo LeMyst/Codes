@@ -59,4 +59,4 @@ Pour les sociétés mentionnées au premier alinéa du présent III bis, la cond
 IV.-Un décret précise les modalités d'application du présent article, notamment les obligations déclaratives incombant aux titulaires des bons et aux sociétés émettrices.
 
 NOTA:
-Conformément au II de l'article 25 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I de l'article précité, s'appliquent aux bons attribués à compter du 1er janvier 2026.
+Conformément au II de l'article 25 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I de l'article précité, s'appliquent aux bons attribués à compter du 1<sup>er</sup> janvier 2026.

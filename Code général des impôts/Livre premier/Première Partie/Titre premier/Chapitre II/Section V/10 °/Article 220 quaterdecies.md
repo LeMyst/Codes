@@ -57,4 +57,4 @@ VIII. – Un décret précise les conditions d'application du présent article.
 NOTA:
 Conformément au II de l'article 88 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026, le I dudit article n'est applicable qu'aux sommes venant en déduction de l'impôt dû.
 
-Conformément au III de l'article 88 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026, la perte de recettes pour l'Etat résultant du I est compensée, à due concurrence, par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre Ier du livre III du code des impositions sur les biens et services.
+Conformément au III de l'article 88 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026, la perte de recettes pour l'Etat résultant du I est compensée, à due concurrence, par la création d'une taxe additionnelle à l'accise sur les tabacs prévue au chapitre IV du titre I<sup>er</sup> du livre III du code des impositions sur les biens et services.

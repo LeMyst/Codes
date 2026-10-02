@@ -3,7 +3,7 @@
 I.-Par dérogation à l'article 223 WA bis, pour les exercices ouverts à compter du 31 décembre des années mentionnées au second alinéa du présent I, le taux de la déduction pour charges de personnel est fixé comme suit :
 
 | Exercice ouvert à compter du 31 décembre de l'année | Taux applicable |
-| --- | --- |
+| -- | -- |
 | 2023 | 10 % |
 | 2024 | 9,8 % |
 | 2025 | 9,6 % |
@@ -18,7 +18,7 @@ I.-Par dérogation à l'article 223 WA bis, pour les exercices ouverts à compte
 II.-Par dérogation à l'article 223 WA ter, pour les exercices ouverts à compter du 31 décembre des années mentionnées au second alinéa du présent II, le taux de la déduction pour actifs corporels est fixé comme suit :
 
 | Exercice ouvert à compter du 31 décembre de l'année | Taux applicable |
-| --- | --- |
+| -- | -- |
 | 2023 | 8 % |
 | 2024 | 7,8 % |
 | 2025 | 7,6 % |

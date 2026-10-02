@@ -88,13 +88,13 @@ Les dispositions des deux alinéas précédents sont également applicables pour
 
 6. Les rentes viagères constituées à titre onéreux ne sont considérées comme un revenu, pour l'application de l'impôt sur le revenu dû par le crédirentier, que pour une fraction de leur montant. Cette fraction, déterminée d'après l'âge du crédirentier lors de l'entrée en jouissance de la rente, est fixée à :
 
-– 70 % si l'intéressé est âgé de moins de 50 ans ;
+   - 70 % si l'intéressé est âgé de moins de 50 ans ;
 
-– 50 % s'il est âgé de 50 à 59 ans inclus ;
+   - 50 % s'il est âgé de 50 à 59 ans inclus ;
 
-– 40 % s'il est âgé de 60 à 69 ans inclus ;
+   - 40 % s'il est âgé de 60 à 69 ans inclus ;
 
-– 30 % s'il est âgé de plus de 69 ans.
+   - 30 % s'il est âgé de plus de 69 ans.
 
 Ces dispositions ne sont pas applicables aux rentes correspondant aux cotisations n'ayant pas fait l'objet de l'option prévue au deuxième alinéa de l'article L. 224-20 du code monétaire et financier. Elles sont applicables aux rentes correspondant aux versements mentionnés au 1° de l'article L. 224-2 du code monétaire et financier qui n'ont pas fait l'objet d'une déduction du revenu imposable en application de l'option prévue au deuxième alinéa de l'article L. 224-20 du même code, à ceux mentionnés au 2° de l'article L. 224-2 précité ou à ceux mentionnés au dernier alinéa de l'article 163 quinvicies du présent code.
 

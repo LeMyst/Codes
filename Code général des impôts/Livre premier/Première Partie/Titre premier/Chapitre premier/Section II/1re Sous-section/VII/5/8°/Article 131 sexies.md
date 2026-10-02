@@ -11,4 +11,4 @@ Les produits mentionnés au I qui bénéficient à des institutions publiques é
 Les produits mentionnés aux articles 124 et 1678 bis et ceux afférents à des placements constituant des investissements directs en France au sens du I qui bénéficient à des organisations internationales, à des Etats souverains étrangers, aux banques centrales de ces Etats ou à des institutions financières publiques étrangères.
 
 NOTA:
-Loi n° 2012-1510 du 29 décembre 2012 de finance rectificative pour 2012, article 21 II : Ces dispositions s'appliquent aux revenus perçus à compter du 1er janvier 2013.
+Loi n° 2012-1510 du 29 décembre 2012 de finance rectificative pour 2012, article 21 II : Ces dispositions s'appliquent aux revenus perçus à compter du 1<sup>er</sup> janvier 2013.

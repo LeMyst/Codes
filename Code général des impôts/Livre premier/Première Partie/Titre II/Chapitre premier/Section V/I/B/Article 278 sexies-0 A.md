@@ -2,8 +2,8 @@
 
 Les taux réduits prévus à l'article 278 sexies sont égaux à :
 
-| Secteurs ou locaux concernés | Subdivision de l'article 278 sexies | Taux |
-| --- | --- | --- |
+| Secteurs ou locaux concernés | Subdivision<br>de l'article 278 sexies | Taux |
+| -- | -- | -- |
 | Logements locatifs sociaux financés par un prêt locatif aidé d'intégration | 1° du A du II | 5,5 % |
 | Logements locatifs sociaux financés par un prêt locatif à usage social et relevant de la politique de renouvellement urbain | 2° du A du II | 5,5 % |
 | Autres logements locatifs sociaux | 3° du A du II | 10 % |

@@ -28,9 +28,9 @@ Pour l'appréciation des conditions relatives au nombre de salariés et au chiff
 
 4° Pour les mutuelles et unions régies par le code de la mutualité et les institutions de prévoyance régies par le titre III du livre IX du code de la sécurité sociale :
 
-– de 60 % pour l'imposition établie au titre de 2013 ;
+- de 60 % pour l'imposition établie au titre de 2013 ;
 
-– de 40 % pour l'imposition établie au titre de 2014.
+- de 40 % pour l'imposition établie au titre de 2014.
 
 II. – (Dispositions périmées).
 

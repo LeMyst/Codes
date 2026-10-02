@@ -7,4 +7,4 @@ Cette taxe est recouvrée et contrôlée par les organismes mentionnés aux arti
 Un arrêté conjoint des ministres chargés de la sécurité sociale, du commerce et de l'artisanat prévoit les modalités de la rémunération du service rendu par les organismes chargés du recouvrement de la taxe.
 
 NOTA:
-Conformément au IX de l'article 69 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant de l'article précité, entrent en vigueur le 1er mars 2026.
+Conformément au IX de l'article 69 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant de l'article précité, entrent en vigueur le 1<sup>er</sup> mars 2026.

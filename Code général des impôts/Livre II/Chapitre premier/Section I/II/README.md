@@ -1,1 +1,19 @@
-II : Exigibilité de l'impôt
+# II : Exigibilité de l'impôt
+
+- [1 : Impôts directs et taxes assimilées. Impôt sur le revenu. Impôt sur les sociétés. Droits et pénalités](1/README.md)
+- [1 bis : Contribution exceptionnelle sur l'impôt sur les sociétés](1%20bis/README.md)
+- [1 quater : Contribution sociale sur l'impôt sur les sociétés. Droits et pénalités](1%20quater/README.md)
+- [3 : Retenue à la source sur les salaires, pensions et rentes viagères à titre gratuit](3/README.md)
+- [3 bis : Retenues à la source sur les salaires, rémunérations, pensions, rentes, produits, et gains versés à des personnes non-domiciliés fiscalement en France](3%20bis/README.md)
+- [3 ter : Retenues à la source sur les salaires, droits d'auteur et rémunérations versés aux auteurs, artistes et sportifs domiciliés fiscalement en France](3%20ter/README.md)
+- [3 quater : Prélèvement sur les dividendes](3%20quater/README.md)
+- [4 : Retenues à la source et prélèvements sur les revenus de valeurs mobilières](4/README.md)
+- [5 : Taxe d'apprentissage](5/README.md)
+- [6 : Taxe sur les salaires](6/README.md)
+- [7 : Cotisation perçue au titre de la participation des employeurs à l'effort de construction](7/README.md)
+- [7 bis : Participation des employeurs au développement de la formation professionnelle continue](7%20bis/README.md)
+- [8 : Impôt sur la fortune immobilière](8/README.md)
+- [10 : Cotisation foncière des entreprises](10/README.md)
+- [11 : Cotisation sur la valeur ajoutée des entreprises](11/README.md)
+- [12. Taxe d'aménagement.](12.%20Taxe%20d%27am%C3%A9nagement/README.md)
+- [13 : Imposition minimale mondiale des groupes d'entreprises multinationales et des groupes nationaux](13/README.md)

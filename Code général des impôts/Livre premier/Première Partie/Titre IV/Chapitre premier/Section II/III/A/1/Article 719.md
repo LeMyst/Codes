@@ -2,9 +2,8 @@
 
 Les mutations de propriété à titre onéreux de fonds de commerce ou de clientèles sont soumises à un droit d'enregistrement dont les taux sont fixés à :
 
-| | |
-| --- | --- |
-| FRACTION DE LA VALEUR TAXABLE | Tarif applicable(en pourcentage) |
+| FRACTION DE LA VALEUR TAXABLE | Tarif applicable<br>(en pourcentage) |
+| -- | -- |
 | N'excédant pas 23 000 € | 0 |
 | Supérieure à 23 000 € et n'excédant pas 107 000 € | 2 |
 | Supérieure à 107 000 € et n'excédant pas 200 000 € | 0,60 |

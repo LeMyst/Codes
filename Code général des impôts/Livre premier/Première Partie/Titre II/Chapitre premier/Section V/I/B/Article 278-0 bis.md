@@ -95,8 +95,8 @@ P. - La livraison et l'installation, dans les logements, d'équipements de produ
 Les prestations de pose, d'installation et d'entretien des équipements de production d'électricité utilisant l'énergie radiative du soleil sont réalisées par une personne disposant, au cours de la réalisation de la prestation, d'une certification ou d'une qualification professionnelle en cours de validité correspondant au type d'installation réalisée et à la taille du chantier et répondant aux exigences techniques fixées par arrêté conjoint des ministres chargés du budget et de l'énergie.
 
 NOTA:
-Conformément au A du XII de l'article 81 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant de l'article précité, entrent en vigueur le 1er mars 2026.
+Conformément au A du XII de l'article 81 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant de l'article précité, entrent en vigueur le 1<sup>er</sup> mars 2026.
 
-Conformément au 27° de l’article 9, à l'article 15 et à l’article 49 de l’ordonnance n° 2025-1247 du 17 décembre 2025, ces dispositions, à l’exception de celles mentionnées à la première colonne du tableau de l’article 15, sont abrogées à compter du 1er janvier 2027.
+Conformément au 27° de l’article 9, à l'article 15 et à l’article 49 de l’ordonnance n° 2025-1247 du 17 décembre 2025, ces dispositions, à l’exception de celles mentionnées à la première colonne du tableau de l’article 15, sont abrogées à compter du 1<sup>er</sup> janvier 2027.
 
 Conformément à la première colonne de l’article 15 de l’ordonnance précitée, les dispositions des a à g du 2° du A du présent article sont maintenues en vigueur jusqu'à leur reprise par les mesures réglementaires mentionnées aux 1°, 2° et 3° de l'article L. 213-182 et au premier alinéa de l'article L. 213-183 du code des impositions sur les biens et services figurant dans la deuxième colonne du tableau précité.

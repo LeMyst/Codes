@@ -1,17 +1,17 @@
 # Article 1587
 
-I. – Il est perçu au profit des départements une redevance sur chaque tonne nette du produit concédé, extrait l'année précédente par les concessionnaires de mines, les amodiataires et sous-amodiataires des concessions minières, par les titulaires du permis d'exploitation de mines et par les explorateurs de mines de pétrole et de gaz combustibles qui exploitent au 1er janvier de l'année un gisement de substances imposables mentionnées au II.
+I. – Il est perçu au profit des départements une redevance sur chaque tonne nette du produit concédé, extrait l'année précédente par les concessionnaires de mines, les amodiataires et sous-amodiataires des concessions minières, par les titulaires du permis d'exploitation de mines et par les explorateurs de mines de pétrole et de gaz combustibles qui exploitent au 1<sup>er</sup> janvier de l'année un gisement de substances imposables mentionnées au II.
 
 Cette redevance ne s'applique pas aux hydrocarbures extraits de gisements situés au-delà de 1 mille marin des lignes de base définies à l'article 2 de l'ordonnance n° 2016-1687 du 8 décembre 2016 relative aux espaces maritimes relevant de la souveraineté ou de la juridiction de la République française.
 
 Lorsqu'il existe plusieurs lignes de base, celle qui est la plus proche de la côte est utilisée.
 
-II. – 1° A compter du 1er janvier 2026, les tarifs de la redevance départementale des mines sont fixés à :
+II. – 1° A compter du 1<sup>er</sup> janvier 2026, les tarifs de la redevance départementale des mines sont fixés à :
 
 (En euros)
 
 | Substances imposables | Unité | Tarif |
-| --- | --- | --- |
+| -- | -- | -- |
 | Gisements de pétrole brut | Centaine de tonnes nettes extraites | 1 930 |
 | Propane et butane | Tonne nette livrée | 8,70 |
 | Essence de dégazolinage | Tonne nette livrée | 7,80 |
@@ -23,9 +23,9 @@ II. – 1° A compter du 1er janvier 2026, les tarifs de la redevance départeme
 
 1° bis Pour les gisements en mer situés jusqu'à une limite de 1 mille marin au-delà des lignes de base définies à l'article 2 de l'ordonnance n° 2016-1687 du 8 décembre 2016 relative aux espaces maritimes relevant de la souveraineté ou de la juridiction de la République française, les tarifs de la redevance départementale des mines sont fixés à :
 
-– 31,9 € par 100 000 mètres cubes extraits pour le gaz naturel ;
+- 31,9 € par 100 000 mètres cubes extraits pour le gaz naturel ;
 
-– 111 € par centaine de tonnes nettes extraites pour le pétrole brut.
+- 111 € par centaine de tonnes nettes extraites pour le pétrole brut.
 
 Lorsqu'il existe plusieurs lignes de base, celle qui est la plus proche de la côte est utilisée ;
 

@@ -8,11 +8,11 @@ Les commissaires doivent être de nationalité française ou ressortissants d'un
 
 Peuvent participer à la commission communale des impôts directs, sans voix délibérative, les agents de la commune, dans les limites suivantes :
 
-– un agent pour les communes dont la population est inférieure à 10 000 habitants ;
+- un agent pour les communes dont la population est inférieure à 10 000 habitants ;
 
-– trois agents au plus pour les communes dont la population est comprise entre 10 000 et 150 000 habitants ;
+- trois agents au plus pour les communes dont la population est comprise entre 10 000 et 150 000 habitants ;
 
-– cinq agents au plus pour les communes dont la population est supérieure à 150 000 habitants.
+- cinq agents au plus pour les communes dont la population est supérieure à 150 000 habitants.
 
 2. Les commissaires ainsi que leurs suppléants en nombre égal sont désignés par le directeur départemental des finances publiques sur une liste de contribuables, en nombre double, remplissant les conditions sus-énoncées, dressée par le conseil municipal.
 

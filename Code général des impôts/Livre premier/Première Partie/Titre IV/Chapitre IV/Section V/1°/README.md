@@ -1,1 +1,1 @@
-1° : Banque des règlements internationaux
+# 1° : Banque des règlements internationaux

@@ -19,4 +19,4 @@ III. - Les personnes qui occupent, sans en être propriétaires, des locaux meub
 NOTA:
 Conformément au A du IX de l’article 108 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent à compter des impositions établies au titre de l'année 2027.
 
-Pour les impositions établies au titre de 2027, il est tenu compte de la durée de vacance de chaque logement avant le 1er janvier 2027.
+Pour les impositions établies au titre de 2027, il est tenu compte de la durée de vacance de chaque logement avant le 1<sup>er</sup> janvier 2027.

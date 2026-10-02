@@ -27,4 +27,4 @@ L'administration est tenue de rendre publique sur son site internet toute décis
 IV.-Un décret en Conseil d'Etat précise les conditions d'application du présent article.
 
 NOTA:
-Conformément au B du III de l'article 134 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.
+Conformément au B du III de l'article 134 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2023.

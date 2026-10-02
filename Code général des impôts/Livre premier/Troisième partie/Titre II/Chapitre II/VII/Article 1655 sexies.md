@@ -11,6 +11,6 @@ L'entreprise peut cependant renoncer à l'option pour l'impôt sur les société
 4. Les options exprimées en application des 1 ou 2 du présent article entraînent la cessation de l'entreprise individuelle ou de l'entreprise individuelle à responsabilité limitée. A la suite des options exprimées en application des mêmes 1 ou 2, les actifs et les passifs de l'entreprise cessée sont transférés au bilan de l'entreprise assimilée à une entreprise unipersonnelle à responsabilité limitée ou à une exploitation agricole à responsabilité limitée et y sont inscrits à leur valeur réelle. Ce transfert entraîne les mêmes conséquences qu'un apport en société, notamment pour l'application des articles 39 duodecies à 39 quindecies.
 
 NOTA:
-Conformément au B du II de l'article 16 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent aux options exercées à compter du 1er janvier 2026.
+Conformément au B du II de l'article 16 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent aux options exercées à compter du 1<sup>er</sup> janvier 2026.
 
-Conformément au C du II de l'article 16 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent aux exercices clos à compter du 1er janvier 2026.
+Conformément au C du II de l'article 16 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent aux exercices clos à compter du 1<sup>er</sup> janvier 2026.

@@ -10,7 +10,7 @@ II. a. Sont exonérées de cette taxe les personnes mentionnées au I qui satisf
 
 b. elles exploitent des établissements dont le chiffre d'affaires annuel afférent aux ventes de fruits et légumes mentionnés au deuxième alinéa du I est inférieur à 100 millions d'euros ;
 
-– elles ne sont pas liées contractuellement à un groupement de distributeurs dont le chiffre d'affaires annuel afférent aux ventes de fruits et légumes mentionnés au même alinéa est supérieur à 100 millions d'euros.
+- elles ne sont pas liées contractuellement à un groupement de distributeurs dont le chiffre d'affaires annuel afférent aux ventes de fruits et légumes mentionnés au même alinéa est supérieur à 100 millions d'euros.
 
 III. – Pour l'application du II, le chiffre d'affaires d'un groupement de distributeurs est réputé correspondre à la somme des chiffres d'affaires des membres de ce groupement.
 

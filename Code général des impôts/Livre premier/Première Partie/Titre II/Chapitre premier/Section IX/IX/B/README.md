@@ -1,1 +1,3 @@
-B : Régime particulier applicable aux ventes à distance intracommunautaires de biens, aux livraisons de biens effectuées dans un Etat membre par des interfaces électroniques facilitant ces livraisons et aux services fournis par des assujettis établis sur le territoire de l'Union européenne, mais non dans l'Etat membre de consommation
+# B : Régime particulier applicable aux ventes à distance intracommunautaires de biens, aux livraisons de biens effectuées dans un Etat membre par des interfaces électroniques facilitant ces livraisons et aux services fournis par des assujettis établis sur le territoire de l'Union européenne, mais non dans l'Etat membre de consommation
+
+- [Article 298 sexdecies G](Article%20298%20sexdecies%20G.md)

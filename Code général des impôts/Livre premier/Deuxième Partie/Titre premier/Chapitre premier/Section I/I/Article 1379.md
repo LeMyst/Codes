@@ -57,6 +57,6 @@ II. – Elles peuvent instituer les taxes suivantes :
 5° La taxe d'aménagement dans les conditions prévues au 2° du I de l'article 1635 quater A. Sur délibérations concordantes, prises dans les conditions prévues au VI de l'article 1639 A bis, de l'organe délibérant de l'établissement public de coopération intercommunale ou du groupement de collectivités et du conseil municipal de la commune membre intéressée, la commune peut reverser tout ou partie de la taxe à l'établissement public de coopération intercommunale ou aux groupements de collectivités dont elle est membre, compte tenu de la charge des équipements publics relevant, sur le territoire de cette commune, de sa compétence.
 
 NOTA:
-Conformément au I de l’article 21 de la loi n° 2026-554 du 29 juin 2026, ces dispositions, dans leur rédaction résultant de ladite loi, entrent en vigueur à une date fixée par décret, et au plus tard le 1er septembre 2026.
+Conformément au I de l’article 21 de la loi n° 2026-554 du 29 juin 2026, ces dispositions, dans leur rédaction résultant de ladite loi, entrent en vigueur à une date fixée par décret, et au plus tard le 1<sup>er</sup> septembre 2026.
 
 Conformément au VI de l’article 8 de la loi n° 2026-554 du 29 juin 2026, ces dispositions s'appliquent aux centrales de production d'énergie électrique d'origine hydraulique relevant du régime d'autorisation mentionné au premier alinéa de l'article L. 511-5 du code de l'énergie à compter des impositions établies au titre de l'année qui suit la résiliation de leur contrat de concession.

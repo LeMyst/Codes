@@ -21,4 +21,4 @@ II.-L'opérateur de plateforme informe chaque vendeur ou prestataire, personne p
 III.-L'opérateur de plateforme fournit à chaque vendeur ou prestataire qui réalise des opérations mentionnées au I de l'article 1649 ter A, dans le délai prévu au III du même article, les informations transmises à l'administration fiscale le concernant.
 
 NOTA:
-Conformément au B du III de l'article 134 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.
+Conformément au B du III de l'article 134 de la loi n° 2021-1900 du 30 décembre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2023.

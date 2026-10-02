@@ -1,1 +1,15 @@
-Chapitre I bis : Taxes sur le chiffre d'affaires et taxes diverses assimilées
+# Chapitre I bis : Taxes sur le chiffre d'affaires et taxes diverses assimilées
+
+- [Section I : Centre national du livre](Section%20I/README.md)
+- [Section II ter : Centre national de la musique](Section%20II%20ter/README.md)
+- [Section V : Contribution spéciale CDG-Express](Section%20V/README.md)
+- [Section VI : Taxe d'aéroport](Section%20VI/README.md)
+- [Section VI bis : Taxe sur les nuisances sonores aériennes](Section%20VI%20bis/README.md)
+- [Section VII : Contribution à la formation professionnelle des chefs d'entreprise individuelle exerçant une activité artisanale et bénéficiant du régime prévu à l'article L. 133-6-8 du code de la sécurité sociale](Section%20VII/README.md)
+- [Section VII bis : Contribution supplémentaire à l'apprentissage](Section%20VII%20bis/README.md)
+- [Section VIII : Taxe pour le développement de la formation professionnelle dans les métiers de la réparation de l'automobile, du cycle et du motocycle](Section%20VIII/README.md)
+- [Section IX : Taxe d'abattage](Section%20IX/README.md)
+- [Section XI : Prélèvements sur les jeux de loterie et les paris sportifs perçus au profit de l'Agence nationale du sport](Section%20XI/README.md)
+- [Section XII : Redevance sur les paris hippiques en ligne perçue au profit des sociétés de courses](Section%20XII/README.md)
+- [Section XIII : Prélèvements sociaux sur les jeux et paris perçus au profit d'organismes divers concourant au financement de la protection sociale](Section%20XIII/README.md)
+- [Section XIV : Contribution sur les activités privées de sécurité](Section%20XIV/README.md)

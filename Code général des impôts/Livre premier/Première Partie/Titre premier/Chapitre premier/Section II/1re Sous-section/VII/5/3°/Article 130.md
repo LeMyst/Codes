@@ -7,4 +7,4 @@ Les dispositions relatives à la retenue à la source prévue au 1 de l'article 
 2° Ni aux parts d'intérêt des sociétés de crédit agricole mutuel visées au livre V du code rural et de la pêche maritime, ni aux emprunts négociables ou obligations émis par ces sociétés avant le 1er janvier 1965.
 
 NOTA:
-Loi n° 2012-1510 du 29 décembre 2012 de finance rectificative pour 2012, article 21 II : Ces dispositions s'appliquent aux revenus perçus à compter du 1er janvier 2013.
+Loi n° 2012-1510 du 29 décembre 2012 de finance rectificative pour 2012, article 21 II : Ces dispositions s'appliquent aux revenus perçus à compter du 1<sup>er</sup> janvier 2013.

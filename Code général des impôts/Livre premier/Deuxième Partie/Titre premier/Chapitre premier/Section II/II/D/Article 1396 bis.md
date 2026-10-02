@@ -9,4 +9,4 @@ II.-Le taux de l'abattement est fixé à 100 % la première année, 70 % la deux
 III.-L'abattement s'applique sauf délibération contraire de la commune ou de l'établissement public de coopération intercommunale à fiscalité propre prise dans les conditions prévues à l'article 1639 A bis et portant sur la totalité de la part lui revenant.
 
 NOTA:
-Conformément au II de l'article 103 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent à compter du 1er janvier 2026.
+Conformément au II de l'article 103 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent à compter du 1<sup>er</sup> janvier 2026.

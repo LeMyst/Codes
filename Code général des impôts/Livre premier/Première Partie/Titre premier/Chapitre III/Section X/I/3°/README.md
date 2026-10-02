@@ -1,1 +1,1 @@
-3° : Calcul et prise en compte de l'effectif salarié
+# 3° : Calcul et prise en compte de l'effectif salarié

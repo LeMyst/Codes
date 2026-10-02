@@ -9,4 +9,4 @@ Il est accordé aux ayants droit et, le cas échéant, aux cohabitants redevable
 Les ayants droit peuvent renoncer au bénéfice des dispositions prévues au 2° et opter pour les règles de droit commun relatives à la déclaration des revenus et à l'établissement de l'impôt. Dans le cas où le montant de l'impôt, au titre des revenus perçus ou réalisés par le défunt, s'avérerait inférieur au montant des prélèvements et acomptes versés avant le décès au titre des mêmes revenus, la différence est restituée. Dans le cas contraire, l'option est révocable.
 
 NOTA:
-Conformément au B du VIII de l’article 6 de la loi n° 2022-1157 du 16 août 2022, ces dispositions entrent en vigueur le 1er janvier 2023.
+Conformément au B du VIII de l’article 6 de la loi n° 2022-1157 du 16 août 2022, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2023.

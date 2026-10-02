@@ -29,4 +29,4 @@ VI. – Les organismes mentionnés au II de l'article 1447 deviennent imposables
 Sous réserve des dispositions du deuxième alinéa du I, l'organisme reste redevable de la cotisation foncière des entreprises au titre de l'année au cours de laquelle il remplit les conditions prévues au premier alinéa du 1 bis de l'article 206, lorsqu'il ne les remplissait pas l'année précédente.
 
 NOTA:
-Conformément au II de l'article 44 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du 1° du I de l'article précité, s'appliquent à compter du 1er janvier 2026.
+Conformément au II de l'article 44 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du 1° du I de l'article précité, s'appliquent à compter du 1<sup>er</sup> janvier 2026.

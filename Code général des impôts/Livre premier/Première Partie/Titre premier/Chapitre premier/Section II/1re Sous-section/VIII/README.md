@@ -1,1 +1,19 @@
-VIII : Dispositions communes aux différentes catégories de revenus
+# VIII : Dispositions communes aux différentes catégories de revenus
+
+- [01 : Versement libératoire des exploitants individuels](01/README.md)
+- [1 : Détermination des revenus des avoirs à l'étranger](1/README.md)
+- [1 bis : Rémunération perçue par les médecins au titre de la permanence des soins](1%20bis/README.md)
+- [1 ter : Imposition des plus-values réalisées dans le cadre d'un bail à construction](1%20ter/README.md)
+- [1 quater : Plus-values réalisées dans le cadre d'une activité agricole, artisanale, commerciale, industrielle ou libérale](1%20quater/README.md)
+- [1-0 quinquies : Maintien des reports d'imposition dont bénéficient certaines plus-values professionnelles](1-0%20quinquies/README.md)
+- [1 quinquies : Plus-values réalisées à l'occasion d'apports en sociétés ou de restructuration de sociétés civiles professionnelles](1%20quinquies/README.md)
+- [1 sexies : Contribuables exerçant leur activité professionnelle dans le cadre d'une société de personnes](1%20sexies/README.md)
+- [1 septies : Déduction des sommes attribuées au titre de l'intéressement](1%20septies/README.md)
+- [3 : Non-déduction de l'impôt sur le revenu](3/README.md)
+- [4 : Déduction du salaire du conjoint](4/README.md)
+- [4 bis : Déduction de certaines cotisations sociales et primes d'assurance groupe](4%20bis/README.md)
+- [4 bis A : Imposition de certains revenus de remplacement](4%20bis%20A/README.md)
+- [4 quater : Déductibilité partielle de la contribution sociale généralisée](4%20quater/README.md)
+- [5 : Contribuables disposant de revenus professionnels ressortissant à des catégories différentes](5/README.md)
+- [6 : Sommes perçues par une personne domiciliée ou établie hors de France](6/README.md)
+- [7 : Dispositions applicables aux impatriés](7/README.md)

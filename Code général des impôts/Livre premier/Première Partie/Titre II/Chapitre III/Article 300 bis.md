@@ -36,8 +36,8 @@ Ce montant est égal au produit de l'assiette définie au premier alinéa du pr�
 
 IV. - Le tarif de la taxe et les pourcentages nationaux cibles d'incorporation d'énergie renouvelable dans les transports sont les suivants :
 
-| Produits | Tarif (en euros par hectolitre) | Pourcentage cible |
-| --- | --- | --- |
+| Produits | Tarif<br>(en euros par hectolitre) | Pourcentage cible |
+| -- | -- | -- |
 | Essences | 140 | 10,5 % |
 | Gazoles | 140 | 9,4 % |
 
@@ -84,7 +84,7 @@ L'électricité qui n'est pas fournie à partir d'une connexion directe à une i
 C. - Pour l'application du 1° du 1 du B du présent V, ne sont pas prises en compte les quantités d'énergie issues de matières premières mentionnées ci-dessous excédant les seuils indiqués, appréciés par catégorie :
 
 | Catégorie de matières premières | Seuil pour les essences | Seuil pour les gazoles |
-| --- | --- | --- |
+| -- | -- | -- |
 | 1. Cultures destinées à l'alimentation humaine ou animale et résidus assimilés | 7 % | 7 % |
 | 1.1 Dont palme | 0 % | 0 % |
 | 1.2 Dont soja | 0 % | 0 % |
@@ -105,13 +105,13 @@ b) Les amidons résiduels sont pris en compte à hauteur de 100 % de leur conten
 D. - Pour l'application des 1° à 3° du 1 du B, ne sont pas prises en compte les quantités d'énergie autres que celles issues des matières premières avancées contenues dans les produits inclus dans l'assiette et conduisant à excéder la différence entre le pourcentage cible mentionné au IV et le montant indiqué dans le tableau suivant :
 
 | Essences | Gazoles |
-| --- | --- |
+| -- | -- |
 | 1,8 % | 0,7 % |
 
 E. - Pour l'application des 1° à 3° du 1 du B aux essences et aux gazoles, les quantités d'énergie sont comptabilisées après application du coefficient indiqué dans le tableau suivant, pour une fraction qui ne peut, après application de ce coefficient, excéder le seuil indiqué dans le même tableau. Au delà de ce seuil, les quantités d'énergie sont comptabilisées à leur valeur réelle, le cas échéant dans les limites prévues aux C ou D.
 
 | Énergie | Coefficient multiplicatif | Seuil pour les essences | Seuil pour les gazoles |
-| --- | --- | --- | --- |
+| -- | -- | -- | -- |
 | Énergie issue des matières premières avancées, autres que le tallol, contenues dans les produits inclus dans l'assiette | 2 | différence entre le pourcentage cible fixé au IV et 7 % | différence entre le pourcentage cible fixé au IV et 7 % |
 | Énergie issue des graisses et huiles usagées contenues dans les produits inclus dans l'assiette | 2 | 0,4 % | seuil prévu au C du présent V pour les mêmes matières |
 | Électricité | 4 | aucun | aucun |

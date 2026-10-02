@@ -1,1 +1,1 @@
-Section VII bis : Dégrèvement transitoire
+# Section VII bis : Dégrèvement transitoire

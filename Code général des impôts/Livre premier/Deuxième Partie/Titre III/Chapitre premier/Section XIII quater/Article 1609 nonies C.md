@@ -112,11 +112,11 @@ A défaut d'accord, le montant de l'attribution est fixé dans les conditions fi
 
 L'attribution de compensation est majorée du montant perçu par la commune la même année, d'une part, au titre de la part de la dotation forfaitaire prévue à l'article L. 2334-7 du code général des collectivités territoriales correspondant au montant antérieurement versé en application du I du D de l'article 44 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998) diminué du pourcentage prévu au deuxième alinéa de l'article L. 5211-28-1 du code général des collectivités territoriales, et, d'autre part, au titre du montant des compensations, hors celui de la compensation prévue au IV bis de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986), allouées :
 
-– en application du B de l'article 26 de la loi de finances pour 2003 (n° 2002-1575 du 30 décembre 2002) ;
+- en application du B de l'article 26 de la loi de finances pour 2003 (n° 2002-1575 du 30 décembre 2002) ;
 
-– en application de l'article 53 de la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003), sous réserve d'une délibération du conseil de l'établissement public de coopération intercommunale statuant à l'unanimité ;
+- en application de l'article 53 de la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003), sous réserve d'une délibération du conseil de l'établissement public de coopération intercommunale statuant à l'unanimité ;
 
-– et, le cas échéant, en application du B de l'article 4 de la loi n° 96-987 du 14 novembre 1996 relative à la mise en œuvre du pacte de relance pour la ville ou du B de l'article 3 de la loi n° 96-1143 du 26 décembre 1996 relative à la zone franche de Corse.
+- et, le cas échéant, en application du B de l'article 4 de la loi n° 96-987 du 14 novembre 1996 relative à la mise en œuvre du pacte de relance pour la ville ou du B de l'article 3 de la loi n° 96-1143 du 26 décembre 1996 relative à la zone franche de Corse.
 
 L'attribution de compensation est minorée, le cas échéant, du montant des reversements, autorisés par l'article 11 de la loi n° 80-10 du 10 janvier 1980 portant aménagement de la fiscalité directe locale, perçus au profit de l'établissement public de coopération intercommunale l'année précédant celle de la première application de ces dispositions.
 
@@ -185,6 +185,6 @@ Pour l'application de l'avant-dernier alinéa du présent 2°, le taux moyen pon
 IX. – Les dispositions des I à VIII sont applicables aux communautés de communes ayant, avant le 31 décembre 2010, opté, en application du III de l'article 1609 quinquies C dans sa rédaction en vigueur jusqu'à cette date, pour l'application du présent article.
 
 NOTA:
-Conformément au I de l’article 21 de la loi n° 2026-554 du 29 juin 2026, ces dispositions, dans leur rédaction résultant de ladite loi, entrent en vigueur à une date fixée par décret, et au plus tard le 1er septembre 2026.
+Conformément au I de l’article 21 de la loi n° 2026-554 du 29 juin 2026, ces dispositions, dans leur rédaction résultant de ladite loi, entrent en vigueur à une date fixée par décret, et au plus tard le 1<sup>er</sup> septembre 2026.
 
 Conformément au VI de l’article 8 de la loi n° 2026-554 du 29 juin 2026, ces dispositions s'appliquent aux centrales de production d'énergie électrique d'origine hydraulique relevant du régime d'autorisation mentionné au premier alinéa de l'article L. 511-5 du code de l'énergie à compter des impositions établies au titre de l'année qui suit la résiliation de leur contrat de concession.

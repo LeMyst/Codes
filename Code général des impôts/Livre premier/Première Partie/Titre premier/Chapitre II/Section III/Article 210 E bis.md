@@ -29,6 +29,6 @@ V. - Les plus-values ou moins-values dégagées sur les titres reçus en contrep
 VI. - L'attribution, réalisée dans les conditions prévues au V, de titres transférés dans le patrimoine personnel de l'entrepreneur individuel, consécutive à l'apport par l'entreprise individuelle d'une branche complète d'activité ou de l'ensemble de son patrimoine n'est pas considérée comme une distribution de revenus mobiliers imposable à l'impôt sur le revenu pour l'entrepreneur individuel.
 
 NOTA:
-Conformément au A du II de l'article 16 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'applique aux apports réalisés à compter du 1er janvier 2026.
+Conformément au A du II de l'article 16 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'applique aux apports réalisés à compter du 1<sup>er</sup> janvier 2026.
 
-Conformément au C du II de l'article 16 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent aux exercices clos à compter du 1er janvier 2026.
+Conformément au C du II de l'article 16 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent aux exercices clos à compter du 1<sup>er</sup> janvier 2026.

@@ -20,8 +20,8 @@ La contribution est exigible lors de cette livraison.
 
 II. - Le tarif de la contribution mentionnée au I est le suivant :
 
-| Quantité de sucre (en kilogrammes de sucre ajouté par hectolitre de boisson) | Tarif applicable (en euros par hectolitre de boisson) |
-| --- | --- |
+| Quantité de sucre<br>(en kilogrammes de sucre ajouté par hectolitre de boisson) | Tarif applicable<br>(en euros par hectolitre de boisson) |
+| -- | -- |
 | Inférieure à 5 | 4,07 |
 | Entre 5 et 8 | 21,38 |
 | Au-delà de 8 | 35,63 |

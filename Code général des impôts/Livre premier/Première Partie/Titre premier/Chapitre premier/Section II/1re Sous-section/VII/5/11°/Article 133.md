@@ -23,4 +23,4 @@ Toutefois, cette exemption n'est pas applicable aux émissions destinées à ass
 NOTA:
 (1) Voir les articles 169 et 170 de l'annexe IV.
 
-Loi n° 2012-1510 du 29 décembre 2012 de finance rectificative pour 2012, article 21 II : Ces dispositions s'appliquent aux revenus perçus à compter du 1er janvier 2013.
+Loi n° 2012-1510 du 29 décembre 2012 de finance rectificative pour 2012, article 21 II : Ces dispositions s'appliquent aux revenus perçus à compter du 1<sup>er</sup> janvier 2013.

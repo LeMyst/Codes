@@ -15,4 +15,4 @@ II.-Les règles applicables à l'établissement de la taxe d'aménagement relati
 Toutefois, conformément au quatrième alinéa de l'article L. 410-1 du code de l'urbanisme, si l'autorisation est déposée dans un délai de dix-huit mois à compter de la délivrance d'un certificat d'urbanisme et si le régime de taxation résultant de la valeur, du taux et des exonérations figurant dans ce certificat d'urbanisme est plus favorable, ce régime est appliqué.
 
 NOTA:
-Conformément au III de l'article 115 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du 4° du I du même article, s'appliquent à compter du 1er janvier 2026.
+Conformément au III de l'article 115 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du 4° du I du même article, s'appliquent à compter du 1<sup>er</sup> janvier 2026.

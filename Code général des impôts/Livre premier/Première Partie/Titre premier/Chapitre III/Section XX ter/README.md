@@ -1,1 +1,1 @@
-Section XX ter : Taxe sur les contrats d'échange sur défaut d'un Etat
+# Section XX ter : Taxe sur les contrats d'échange sur défaut d'un Etat

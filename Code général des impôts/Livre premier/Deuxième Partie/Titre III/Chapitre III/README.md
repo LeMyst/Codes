@@ -1,1 +1,15 @@
-Chapitre III : Enregistrement, publicité foncière et timbre
+# Chapitre III : Enregistrement, publicité foncière et timbre
+
+- [Section I : Taxes à percevoir pour l'alimentation du fonds commun des accidents du travail agricole](Section%20I/README.md)
+- [Section I bis : Droit de timbre et taxes assimilées perçus au profit de l'Agence nationale des titres sécurisés](Section%20I%20bis/README.md)
+- [Section I quater : Fonds de garantie des assurances obligatoires de dommages](Section%20I%20quater/README.md)
+- [Section II : Fonds de garantie des assurances obligatoires de dommages](Section%20II/README.md)
+- [Section III : Fonds de garantie des victimes des actes de terrorisme et d'autres infractions](Section%20III/README.md)
+- [Section V :](Section%20V/README.md)
+- [Section V bis : Fonds de garantie des calamités agricoles dans les départements d'outre-mer](Section%20V%20bis/README.md)
+- [Section V quater : Fonds de prévention des risques naturels majeurs](Section%20V%20quater/README.md)
+- [Section V quinquies : Droits perçus au profit de la Caisse nationale de l'assurance maladie](Section%20V%20quinquies/README.md)
+- [Section IX : Association pour le développement de la formation professionnelle dans les transports](Section%20IX/README.md)
+- [Section X : Droit de timbre perçu au profit de l'Office français de la biodiversité](Section%20X/README.md)
+- [Section XII : Droit affecté au fonds d'indemnisation de la profession d'avoués près les cours d'appel](Section%20XII/README.md)
+- [Section XIII : Contribution pour l'aide juridique](Section%20XIII/README.md)

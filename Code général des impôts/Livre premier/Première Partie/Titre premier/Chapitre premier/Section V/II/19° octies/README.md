@@ -1,1 +1,1 @@
-19° octies : Réduction d'impôt accordée au titre des souscriptions au capital d'une SOFIPECHE
+# 19° octies : Réduction d'impôt accordée au titre des souscriptions au capital d'une SOFIPECHE

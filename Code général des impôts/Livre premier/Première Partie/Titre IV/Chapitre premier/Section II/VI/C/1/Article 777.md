@@ -6,9 +6,8 @@ Tableau I
 
 Tarif des droits applicables en ligne directe :
 
-| | |
-| --- | --- |
-| FRACTION DE PART NETTE TAXABLE | TARIF applicable (%) |
+| FRACTION DE PART NETTE TAXABLE | TARIF<br>applicable (%) |
+| -- | -- |
 | N'excédant pas 8 072 € | 5 |
 | Comprise entre 8 072 € et 12 109 € | 10 |
 | Comprise entre 12 109 € et 15 932 € | 15 |
@@ -21,9 +20,8 @@ Tableau II
 
 Tarif des droits applicables entre époux et entre partenaires liés par un pacte civil de solidarité :
 
-| | |
-| --- | --- |
-| FRACTION DE PART NETTE TAXABLE | TARIF applicable (%) |
+| FRACTION DE PART NETTE TAXABLE | TARIF<br>applicable (%) |
+| -- | -- |
 | N'excédant pas 8 072 € | 5 |
 | Comprise entre 8 072 € et 15 932 € | 10 |
 | Comprise entre 15 932 € et 31 865 € | 15 |
@@ -36,10 +34,9 @@ Tableau III
 
 Tarif des droits applicables en ligne collatérale et entre non-parents :
 
-| | |
-| --- | --- |
-| FRACTION DE PART NETTE TAXABLE | TARIF applicable (%) |
-| Entre frères et sœurs vivants ou représentés : | |
+| FRACTION DE PART NETTE TAXABLE | TARIF<br>applicable (%) |
+| -- | -- |
+| Entre frères et sœurs vivants ou représentés : |  |
 | N'excédant pas 24 430 € | 35 |
 | Supérieure à 24 430 € | 45 |
 | Entre parents jusqu'au 4e degré inclusivement | 55 |

@@ -1,1 +1,16 @@
-II : Bénéfices industriels et commerciaux
+# II : Bénéfices industriels et commerciaux
+
+- [1 : Définition des bénéfices industriels et commerciaux](1/README.md)
+- [1 bis : Exonérations](1%20bis/README.md)
+- [2 : Détermination des bénéfices imposables](2/README.md)
+- [2 bis : Dispositions particulières à certaines entreprises nouvelles](2%20bis/README.md)
+- [2 ter : Entreprises implantées dans les quartiers prioritaires de la politique de la ville ou les zones franches urbaines - territoires entrepreneurs](2%20ter/README.md)
+- [2 quater : Entreprises de pêche maritime](2%20quater/README.md)
+- [2 septies : Entreprises implantées dans les bassins d'emploi à redynamiser](2%20septies/README.md)
+- [2 octies : Activités créées dans les zones de restructuration de la défense](2%20octies/README.md)
+- [2 nonies : Entreprises implantées dans les zones franches d'activités des départements d'outre-mer](2%20nonies/README.md)
+- [2 decies : Entreprises implantées dans les zones de revitalisation rurale ou les zones France ruralités revitalisation](2%20decies/README.md)
+- [2 undecies : Entreprises implantées dans les bassins urbains à dynamiser](2%20undecies/README.md)
+- [2 duodecies : Entreprises implantées dans les zones de développement prioritaire](2%20duodecies/README.md)
+- [3 : Révision des bilans](3/README.md)
+- [4 : Fixation du bénéfice imposable](4/README.md)

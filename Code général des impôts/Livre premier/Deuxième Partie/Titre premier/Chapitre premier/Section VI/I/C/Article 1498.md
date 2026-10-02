@@ -37,4 +37,4 @@ La valeur locative mentionnée au premier alinéa du présent A est réduite de 
 B. – La valeur locative des propriétés et fractions de propriétés mentionnées au A du présent III est, sous réserve de la mise à jour prévue au deuxième alinéa du IV de l'article 1518 ter, déterminée au 1er janvier 2013 ou, pour celles créées après le 1er janvier 2017, au 1er janvier de l'année de leur création.
 
 NOTA:
-Conformément au II de l'article 114 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, entrent en vigueur le 1er janvier 2026.
+Conformément au II de l'article 114 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, entrent en vigueur le 1<sup>er</sup> janvier 2026.

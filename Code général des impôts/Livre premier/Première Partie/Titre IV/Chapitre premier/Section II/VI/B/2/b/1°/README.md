@@ -1,1 +1,3 @@
-1° : Legs particuliers
+# 1° : Legs particuliers
+
+- [Article 767](Article%20767.md)

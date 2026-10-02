@@ -80,9 +80,9 @@ Les dépenses mentionnées aux 1° à 6° entrent dans la base de calcul du cré
 
 Pour l'application du présent k, est considéré comme nouveau produit un bien corporel ou incorporel qui satisfait aux deux conditions cumulatives suivantes :
 
-– il n'est pas encore mis à disposition sur le marché ;
+- il n'est pas encore mis à disposition sur le marché ;
 
-– il se distingue des produits existants ou précédents par des performances supérieures sur le plan technique, de l'écoconception, de l'ergonomie ou de ses fonctionnalités.
+- il se distingue des produits existants ou précédents par des performances supérieures sur le plan technique, de l'écoconception, de l'ergonomie ou de ses fonctionnalités.
 
 Le prototype ou l'installation pilote d'un nouveau produit est un bien qui n'est pas destiné à être mis sur le marché mais à être utilisé comme modèle pour la réalisation d'un nouveau produit.
 

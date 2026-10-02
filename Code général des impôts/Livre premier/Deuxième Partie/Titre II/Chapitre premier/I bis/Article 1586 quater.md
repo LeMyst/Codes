@@ -32,11 +32,11 @@ II. – Les entreprises dont le chiffre d'affaires est inférieur à 2 000 000 �
 
 III. – En cas d'apport, de cession d'activité ou de scission d'entreprise réalisés à compter du 22 octobre 2009 ou de transmission universelle du patrimoine mentionnée à l'article 1844-5 du code civil réalisée à compter du 1er janvier 2010, le chiffre d'affaires à retenir pour l'application du I du présent article est égal à la somme des chiffres d'affaires des entreprises parties à l'opération lorsque l'entité à laquelle l'activité est transmise est détenue, directement ou indirectement, à plus de 50 % soit par l'entreprise cédante ou apporteuse ou les associés de l'entreprise scindée réunis, soit par une entreprise qui détient, directement ou indirectement, à plus de 50 % l'entreprise cédante ou apporteuse ou les entreprises issues de la scission réunies, soit par une entreprise détenue, directement ou indirectement, à plus de 50 % par l'entreprise cédante ou apporteuse ou par les associés de l'entreprise scindée réunis, tant que les conditions suivantes sont simultanément remplies :
 
-– la somme des cotisations dues minorées des dégrèvements prévus au présent article, d'une part, par l'entreprise cédante, apporteuse ou scindée et, d'autre part, par le nouvel exploitant est inférieure, sans application du premier alinéa, d'au moins 10 % aux impositions au titre de la cotisation sur la valeur ajoutée des entreprises qui auraient été dues par ces mêmes entreprises en l'absence de réalisation de l'opération, minorées des dégrèvements prévus au présent article ;
+- la somme des cotisations dues minorées des dégrèvements prévus au présent article, d'une part, par l'entreprise cédante, apporteuse ou scindée et, d'autre part, par le nouvel exploitant est inférieure, sans application du premier alinéa, d'au moins 10 % aux impositions au titre de la cotisation sur la valeur ajoutée des entreprises qui auraient été dues par ces mêmes entreprises en l'absence de réalisation de l'opération, minorées des dégrèvements prévus au présent article ;
 
-– l'activité continue d'être exercée par ces dernières ou par une ou plusieurs de leurs filiales ;
+- l'activité continue d'être exercée par ces dernières ou par une ou plusieurs de leurs filiales ;
 
-– les entreprises en cause ont des activités similaires ou complémentaires.
+- les entreprises en cause ont des activités similaires ou complémentaires.
 
 Les conditions d'exercice de la détention de capital prévues au premier alinéa doivent être remplies à un moment quelconque au cours des six mois qui précèdent la date de réalisation de l'opération mentionnée au premier alinéa.
 

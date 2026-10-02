@@ -7,16 +7,16 @@ II. – L'imposition forfaitaire est due chaque année par l'entreprise de trans
 III. – Le montant de l'imposition forfaitaire est établi pour chaque matériel roulant en fonction de sa nature et de son utilisation selon le barème suivant
 
 | CATÉGORIE DE MATÉRIELS ROULANTS | TARIFS (en euros) |
-| --- | --- |
-| - Engins à moteur thermique | |
+| -- | -- |
+| - Engins à moteur thermique |  |
 | Automoteur | 36 950 |
 | Locomotive diesel | 36 950 |
-| - Engins à moteur électrique | |
+| - Engins à moteur électrique |  |
 | Automotrice | 28 329 |
 | Locomotive électrique | 24 635 |
 | Motrice de matériel à grande vitesse | 43 110 |
 | - Automotrice tram-train | 14 167 |
-| - Engins remorqués - Remorque pour le transport de passagers | 5 913 |
+| - Engins remorqués<br>- Remorque pour le transport de passagers | 5 913 |
 | - Remorque pour le transport de passagers à grande vitesse | 12 316 |
 | - Remorque tram-train | 2 956 |
 

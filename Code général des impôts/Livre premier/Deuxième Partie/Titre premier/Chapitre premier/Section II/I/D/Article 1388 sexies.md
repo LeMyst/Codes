@@ -19,4 +19,4 @@ IV. – L'abattement s'applique sauf délibération contraire de la commune ou d
 Les délibérations sont prises dans les conditions prévues à l'article 1639 A bis et portent sur la totalité de la part revenant à chaque commune ou établissement public de coopération intercommunale.
 
 NOTA:
-Conformément au II de l'article 103 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent à compter du 1er janvier 2026.
+Conformément au II de l'article 103 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent à compter du 1<sup>er</sup> janvier 2026.

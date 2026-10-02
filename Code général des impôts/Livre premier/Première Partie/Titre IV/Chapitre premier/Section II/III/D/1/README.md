@@ -1,1 +1,3 @@
-1 : Régime normal
+# 1 : Régime normal
+
+- [Article 726](Article%20726.md)

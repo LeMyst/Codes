@@ -48,8 +48,8 @@ d) Les logements et les travaux font l'objet d'une décision d'agrément délivr
 
 II.-Les taux réduits prévus au I sont égaux à :
 
-| Travaux concernés | Subdivision du présent article | Taux |
-| --- | --- | --- |
+| Travaux concernés | Subdivision<br>du présent article | Taux |
+| -- | -- | -- |
 | Travaux dans le cadre d'une opération d'acquisition-amélioration sous certaines conditions de financement | 2° du I | 5,5 % |
 | Autres travaux portant sur des logements locatifs sociaux situés dans les quartiers relevant de la politique de renouvellement urbain | a du 3° du I | 5,5 % |
 | Travaux portant sur les autres logements locatifs sociaux | b du 3° du I | 10 % |

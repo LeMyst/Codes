@@ -1,1 +1,18 @@
-B : Détermination du résultat imposable
+# B : Détermination du résultat imposable
+
+- [Régime simplifié](R%C3%A9gime%20simplifi%C3%A9/README.md)
+- [Article 72](Article%2072.md)
+- [Article 72 A](Article%2072%20A.md)
+- [Article 72 A bis](Article%2072%20A%20bis.md)
+- [Article 72 B](Article%2072%20B.md)
+- [Article 72 B bis](Article%2072%20B%20bis.md)
+- [Article 72 C](Article%2072%20C.md)
+- [Article 72 E](Article%2072%20E.md)
+- [Article 72 E bis](Article%2072%20E%20bis.md)
+- [Article 72 F](Article%2072%20F.md)
+- [Article 73](Article%2073.md)
+- [Article 73 A](Article%2073%20A.md)
+- [Article 73 B](Article%2073%20B.md)
+- [Article 73 C](Article%2073%20C.md)
+- [Article 73 D](Article%2073%20D.md)
+- [Article 73 E](Article%2073%20E.md)

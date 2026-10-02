@@ -4,15 +4,15 @@ I. – En ce qui concerne les contribuables visés à l'article 4 B, il est fait
 
 1. L'impôt est calculé en appliquant à la fraction de chaque part de revenu qui excède 11 600 € le taux de :
 
-– 11 % pour la fraction supérieure à 11 600 € et inférieure ou égale à 29 579 € ;
+   - 11 % pour la fraction supérieure à 11 600 € et inférieure ou égale à 29 579 € ;
 
-– 30 % pour la fraction supérieure à 29 579 € et inférieure ou égale à 84 577 € ;
+   - 30 % pour la fraction supérieure à 29 579 € et inférieure ou égale à 84 577 € ;
 
-– 41 % pour la fraction supérieure à 84 577 € et inférieure ou égale à 181 917 € ;
+   - 41 % pour la fraction supérieure à 84 577 € et inférieure ou égale à 181 917 € ;
 
-– 45 % pour la fraction supérieure à 181 917 €.
+   - 45 % pour la fraction supérieure à 181 917 €.
 
-2. La réduction d'impôt résultant de l'application du quotient familial ne peut excéder 1 807 € par demi-part ou la moitié de cette somme par quart de part s'ajoutant à une part pour les contribuables célibataires, divorcés, veufs ou soumis à l'imposition distincte prévue au 4 de l'article 6 et à deux parts pour les contribuables mariés soumis à une imposition commune.
+1. La réduction d'impôt résultant de l'application du quotient familial ne peut excéder 1 807 € par demi-part ou la moitié de cette somme par quart de part s'ajoutant à une part pour les contribuables célibataires, divorcés, veufs ou soumis à l'imposition distincte prévue au 4 de l'article 6 et à deux parts pour les contribuables mariés soumis à une imposition commune.
 
 Toutefois, pour les contribuables célibataires, divorcés, ou soumis à l'imposition distincte prévue au 4 de l'article 6 qui répondent aux conditions fixées au II de l'article 194, la réduction d'impôt correspondant à la part accordée au titre du premier enfant à charge est limitée à 4 262 €. Lorsque les contribuables entretiennent uniquement des enfants dont la charge est réputée également partagée entre l'un et l'autre des parents, la réduction d'impôt correspondant à la demi-part accordée au titre de chacun des deux premiers enfants est limitée à la moitié de cette somme.
 

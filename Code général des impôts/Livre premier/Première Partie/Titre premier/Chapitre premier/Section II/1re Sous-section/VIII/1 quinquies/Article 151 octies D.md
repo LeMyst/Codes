@@ -37,6 +37,6 @@ IV. - Pour l'application du I :
 3° L'entreprise soumise à l'impôt sur les sociétés à la suite de l'exercice de l'une des options prévues aux 1 ou 2 de l'article 1655 sexies joint à sa déclaration de résultat un état conforme au modèle fourni par l'administration faisant apparaître les renseignements nécessaires au suivi des plus-values relatives aux biens amortissables dont l'imposition est effectuée selon les modalités prévues au d du 3 de l'article 210 A.
 
 NOTA:
-Conformément au B du II de l'article 16 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent aux options exercées à compter du 1er janvier 2026.
+Conformément au B du II de l'article 16 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent aux options exercées à compter du 1<sup>er</sup> janvier 2026.
 
-Conformément au C du II de l'article 16 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent aux exercices clos à compter du 1er janvier 2026.
+Conformément au C du II de l'article 16 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent aux exercices clos à compter du 1<sup>er</sup> janvier 2026.

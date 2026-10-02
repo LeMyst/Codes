@@ -46,7 +46,7 @@ Par exception au premier alinéa du présent V, est considérée comme une activ
 
 VI.-Les biens ou droits immobiliers affectés à des sociétés mentionnées aux II à IV qui n'en ont pas la propriété sont exonérés à hauteur de la participation du redevable dans les sociétés auxquelles ils sont affectés.
 
-VII. - Les actifs mentionnés au 2° de l'article 965 sont exonérés lorsqu'ils ont été soumis à la taxe instituée à l'article 235 ter C au titre de l'exercice de la société mentionnée au premier alinéa du A du I du même article 235 ter C clos au cours de l'année précédant le 1er janvier.
+VII. - Les actifs mentionnés au 2° de l'article 965 sont exonérés lorsqu'ils ont été soumis à la taxe instituée à l'article 235 ter C au titre de l'exercice de la société mentionnée au premier alinéa du A du I du même article 235 ter C clos au cours de l'année précédant le 1<sup>er</sup> janvier.
 
 NOTA:
 Conformément au II de l'article 7 de la loi n° 2026-103 du 19 février 2026 de finances pour 2026, la taxe est due au titre des exercices clos à compter du 31 décembre 2026.

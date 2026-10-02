@@ -5,4 +5,4 @@ Les distributions de bénéfices effectuées par les sociétés qui ont conclu u
 En cas de résiliation de la convention, de dissolution de la société ou d'exclusion d'un associé, les impôts évités en application du premier alinéa deviennent immédiatement exigibles dans les conditions et sous les réserves prévues aux 2 à 4 de l'article 39 quinquies C.
 
 NOTA:
-Loi n° 2012-1510 du 29 décembre 2012 de finance rectificative pour 2012, article 21 II : Ces dispositions s'appliquent aux revenus perçus à compter du 1er janvier 2013.
+Loi n° 2012-1510 du 29 décembre 2012 de finance rectificative pour 2012, article 21 II : Ces dispositions s'appliquent aux revenus perçus à compter du 1<sup>er</sup> janvier 2013.

@@ -7,4 +7,4 @@ Les dispositions de l'article 1962 sont applicables :
 2° Aux plans, procès-verbaux, certificats, jugements, contrats, quittances et autres actes faits en vertu des articles L. 542-3 et L. 542-5 à L. 542-7 du code de l'énergie.
 
 NOTA:
-Conformément au I de l’article 21 de la loi n° 2026-554 du 29 juin 2026, ces dispositions, dans leur rédaction résultant de ladite loi, entrent en vigueur à une date fixée par décret, et au plus tard le 1er septembre 2026.
+Conformément au I de l’article 21 de la loi n° 2026-554 du 29 juin 2026, ces dispositions, dans leur rédaction résultant de ladite loi, entrent en vigueur à une date fixée par décret, et au plus tard le 1<sup>er</sup> septembre 2026.

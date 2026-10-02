@@ -34,17 +34,17 @@ IV. – La réduction d'impôt est calculée sur le prix de revient du logement 
 
 Le taux de la réduction d'impôt est de :
 
-– 25 % pour les logements acquis ou construits en 2009 et en 2010 ;
+- 25 % pour les logements acquis ou construits en 2009 et en 2010 ;
 
-– 13 % pour les logements acquis ou construits en 2011 ;
+- 13 % pour les logements acquis ou construits en 2011 ;
 
 Toutefois, lorsque le contribuable acquiert ou fait construire un logement neuf à raison duquel il justifie du niveau de performance énergétique globale mentionné au dernier alinéa du II, ce taux est porté à 22 % ;
 
-– 13 % pour les logements acquis en 2012 qui font l'objet d'un dépôt de demande de permis de construire au plus tard le 31 décembre 2011 et pour lesquels le contribuable justifie du niveau de performance énergétique globale mentionné au dernier alinéa du II.
+- 13 % pour les logements acquis en 2012 qui font l'objet d'un dépôt de demande de permis de construire au plus tard le 31 décembre 2011 et pour lesquels le contribuable justifie du niveau de performance énergétique globale mentionné au dernier alinéa du II.
 
 Toutefois, pour les logements qui font l'objet d'un dépôt de permis de construire au plus tard le 31 décembre 2011 pour lesquels le contribuable ne justifie pas d'un tel niveau de performance énergétique globale, la réduction d'impôt s'applique au taux de 6 % ;
 
-– 13 % pour les logements acquis ou construits en 2012 qui font l'objet d'un dépôt de demande de permis de construire à compter du 1er janvier 2012.
+- 13 % pour les logements acquis ou construits en 2012 qui font l'objet d'un dépôt de demande de permis de construire à compter du 1er janvier 2012.
 
 Lorsque le logement est détenu en indivision, chaque indivisaire bénéficie de la réduction d'impôt dans la limite de la quote-part du prix de revient correspondant à ses droits dans l'indivision.
 
@@ -74,17 +74,17 @@ VIII. – La réduction d'impôt est applicable, dans les mêmes conditions, à 
 
 Le taux de la réduction d'impôt est de :
 
-– 25 % pour les souscriptions réalisées en 2009 et en 2010 ;
+- 25 % pour les souscriptions réalisées en 2009 et en 2010 ;
 
-– 13 % pour les souscriptions réalisées en 2011 ;
+- 13 % pour les souscriptions réalisées en 2011 ;
 
 Toutefois, lorsque 95 % de la souscription sert exclusivement à financer les logements mentionnés au cinquième alinéa du IVce taux est porté à 22 % ;
 
-– 13 % pour les souscriptions réalisées en 2012, à la condition que 95 % de la souscription serve exclusivement à financer des logements qui font l'objet d'un dépôt de demande de permis de construire au plus tard le 31 décembre 2011 et qui respectent le niveau de performance énergétique globale mentionné au dernier alinéa du II.
+- 13 % pour les souscriptions réalisées en 2012, à la condition que 95 % de la souscription serve exclusivement à financer des logements qui font l'objet d'un dépôt de demande de permis de construire au plus tard le 31 décembre 2011 et qui respectent le niveau de performance énergétique globale mentionné au dernier alinéa du II.
 
 Toutefois, pour les souscriptions réalisées en 2012 autres que celles mentionnées au sixième alinéa qui servent à financer des logements qui ont fait l'objet d'un dépôt de demande de permis de construire au plus tard le 31 décembre 2011, la réduction d'impôt s'applique au taux de 6 % ;
 
-– 13 % pour les souscriptions réalisées en 2012 qui servent à financer des logements faisant l'objet d'un dépôt de demande de permis de construire à compter du 1er janvier 2012.
+- 13 % pour les souscriptions réalisées en 2012 qui servent à financer des logements faisant l'objet d'un dépôt de demande de permis de construire à compter du 1er janvier 2012.
 
 La réduction d'impôt, qui n'est pas applicable aux titres dont le droit de propriété est démembré, est subordonnée à la condition que 95 % de la souscription serve exclusivement à financer un investissement pour lequel les conditions d'application du présent article sont réunies. En outre, la société doit prendre l'engagement de louer le logement dans les conditions prévues au présent article. L'associé doit s'engager à conserver la totalité de ses titres jusqu'au terme de l'engagement de location souscrit par la société. Le produit de la souscription annuelle doit être intégralement investi dans les dix-huit mois qui suivent la clôture de celle-ci.
 

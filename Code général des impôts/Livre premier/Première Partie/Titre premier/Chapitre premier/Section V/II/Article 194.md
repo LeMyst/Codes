@@ -2,9 +2,8 @@
 
 I. Le nombre de parts à prendre en considération pour la division du revenu imposable prévue à l'article 193 est déterminé conformément aux dispositions suivantes :
 
-| | |
-| --- | --- |
 | SITUATION DE FAMILLE | NOMBRE DE PARTS |
+| -- | -- |
 | Célibataire, divorcé ou veuf sans enfant à charge | 1 |
 | Marié sans enfant à charge | 2 |
 | Célibataire ou divorcé ayant un enfant à charge | 1,5 |

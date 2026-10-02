@@ -37,10 +37,10 @@ III. – Entraîne l'application d'une amende égale à 5 % du prix de revient d
 IV. – Entraîne l'application d'une amende de 1 500 €, ou 10 % des droits rappelés si ce dernier montant est plus élevé, pour chaque manquement constaté par personne ou groupement de personnes au titre d'un exercice, le défaut de réponse ou la réponse partielle à une mise en demeure de produire les listes des personnes ou groupements de personnes de droit ou de fait prévues en application des articles 53 A, 172, 172 bis et 223. La majoration de 10 % est calculée sur le montant des droits rappelés, à raison des éléments retenus pour l'assiette ou la liquidation de l'impôt relatifs à ces personnes ou groupements de personnes.
 
 NOTA:
-Conformément au A du II de l'article 16 de la loi n° 2026-103 du 19 février 2026, le l du I du présent article, dans sa rédaction résultant du I de l'article 16 de la loi précitée, s'applique aux apports réalisés à compter du 1er janvier 2026.
+Conformément au A du II de l'article 16 de la loi n° 2026-103 du 19 février 2026, le l du I du présent article, dans sa rédaction résultant du I de l'article 16 de la loi précitée, s'applique aux apports réalisés à compter du 1<sup>er</sup> janvier 2026.
 
-Conformément au B du II de l'article 16 de la loi n° 2026-103 du 19 février 2026, le k du I du présent article, dans sa rédaction résultant du I de l'article 16 de la loi précitée, s'applique aux options exercées à compter du 1er janvier 2026.
+Conformément au B du II de l'article 16 de la loi n° 2026-103 du 19 février 2026, le k du I du présent article, dans sa rédaction résultant du I de l'article 16 de la loi précitée, s'applique aux options exercées à compter du 1<sup>er</sup> janvier 2026.
 
-Conformément au C du II de l'article 16 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent aux exercices clos à compter du 1er janvier 2026.
+Conformément au C du II de l'article 16 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent aux exercices clos à compter du 1<sup>er</sup> janvier 2026.
 
 Conformément au D du II de l'article 16 de la loi n° 2026-103, pour l'application des k et l du I du présent article, lorsque le délai de dépôt des déclarations prévues au 3° du IV de l'article 151 octies D ainsi qu'au second alinéa du II et au IV de l'article 210 E bis du même code a expiré avant la publication de la présente loi, le délai pour produire les états mentionnés aux mêmes articles 151 octies D et 210 E bis est de deux mois à compter de cette dernière date.

@@ -1,1 +1,20 @@
-Section IX : Dispositions diverses
+# Section IX : Dispositions diverses
+
+- [1° : Achats en vue de la revente](1%C2%B0/README.md)
+- [2° : Actes de dépôt](2%C2%B0/README.md)
+- [3° : Actes de l'état civil](3%C2%B0/README.md)
+- [4° : Actes, archives, registres et documents détruits par suite d'événements de guerre, de sinistre ou de tout autre fait](4%C2%B0/README.md)
+- [5° : Attribution gratuite d'actions ou de parts sociales au personnel des entreprises](5%C2%B0/README.md)
+- [6° : Certificats de vie](6%C2%B0/README.md)
+- [9° : Mariages. Dissentiment des parents](9%C2%B0/README.md)
+- [10° : Patrimoine artistique national](10%C2%B0/README.md)
+- [11° : Publicité foncière. Réforme. Dispositions transitoires](11%C2%B0/README.md)
+- [12° : Réunion de l'usufruit à la nue-propriété](12%C2%B0/README.md)
+- [12° bis : Changement de régime matrimonial au profit d'un régime communautaire](12%C2%B0%20bis/README.md)
+- [12° ter : Versements en capital au titre de la prestation compensatoire](12%C2%B0%20ter/README.md)
+- [12° quater : Fiducie](12%C2%B0%20quater/README.md)
+- [14° : Indivisions successorales en Corse. Régime temporaire](14%C2%B0/README.md)
+- [14° bis : Droits de succession. Exonération des immeubles et droits immobiliers situés en Corse](14%C2%B0%20bis/README.md)
+- [14° ter : Droits de mutation à titre gratuit. Exonération des immeubles et droits immobiliers situés à Mayotte.](14%C2%B0%20ter/README.md)
+- [15° : Opérations sur le capital des sociétés à participation publique](15%C2%B0/README.md)
+- [16° : Acquisitions de bois et forêts et de terrains destinés au reboisement](16%C2%B0/README.md)

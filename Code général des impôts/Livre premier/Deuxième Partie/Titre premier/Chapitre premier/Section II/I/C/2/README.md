@@ -1,1 +1,19 @@
-2 : Exonérations supérieures à deux ans
+# 2 : Exonérations supérieures à deux ans
+
+- [01° : Economies d'énergie](01%C2%B0/README.md)
+- [1° : Zones franches urbaines - territoires entrepreneurs](1%C2%B0/README.md)
+- [1°-0 bis : Quartiers prioritaires de la politique de la ville](1%C2%B0-0%20bis/README.md)
+- [1° bis : Jeunes entreprises innovantes](1%C2%B0%20bis/README.md)
+- [1° ter : Zones de revitalisation rurale. Logements locatifs acquis et améliorés avec l'aide financière de l'Agence nationale de l'habitat](1%C2%B0%20ter/README.md)
+- [1° quater : Bassins urbains à dynamiser](1%C2%B0%20quater/README.md)
+- [1° quinquies : Constructions incluses ou édifiées à proximité des sites exposés à des risques particuliers](1%C2%B0%20quinquies/README.md)
+- [1° sexies : Bassins d'emploi à redynamiser](1%C2%B0%20sexies/README.md)
+- [1° septies : Zones de restructuration de la défense](1%C2%B0%20septies/README.md)
+- [1° octies : Zones de développement prioritaire](1%C2%B0%20octies/README.md)
+- [1° nonies : Zones France ruralités revitalisation](1%C2%B0%20nonies/README.md)
+- [2° : Habitations à loyer modéré](2%C2%B0/README.md)
+- [2° bis Logements intermédiaires](2%C2%B0%20bis%20Logements%20interm%C3%A9diaires/README.md)
+- [3° : Constructions financées au moyen des prêts aidés par l'État](3%C2%B0/README.md)
+- [3° bis : Locaux acquis ou aménagés avec l'aide de l'Etat](3%C2%B0%20bis/README.md)
+- [3° ter : Dispositions particulières aux opérations de renouvellement urbain faisant l'objet d'une convention avec l'Agence nationale pour la rénovation urbaine](3%C2%B0%20ter/README.md)
+- [4° : Autres locaux](4%C2%B0/README.md)

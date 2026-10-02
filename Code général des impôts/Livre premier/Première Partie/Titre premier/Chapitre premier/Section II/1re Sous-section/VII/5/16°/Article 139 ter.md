@@ -7,4 +7,4 @@ Sont affranchis de la retenue à la source prévue au 2 de l'article 119 bis, da
 2° Par les sociétés immobilières de gestion régies par l'article 1er du décret n° 63-683 du 13 juillet 1963.
 
 NOTA:
-Loi n° 2012-1510 du 29 décembre 2012 de finance rectificative pour 2012, article 21 II : Ces dispositions s'appliquent aux revenus perçus à compter du 1er janvier 2013.
+Loi n° 2012-1510 du 29 décembre 2012 de finance rectificative pour 2012, article 21 II : Ces dispositions s'appliquent aux revenus perçus à compter du 1<sup>er</sup> janvier 2013.

@@ -1,24 +1,24 @@
 # Article 1519
 
-I. – Il est perçu, au profit des communes, une redevance sur chaque tonne nette du produit concédé extrait l'année précédente par les concessionnaires de mines, les amodiataires et sous-amodiataires des concessions minières, par les titulaires de permis d'exploitation de mines et par les explorateurs de mines de pétrole et de gaz combustibles qui exploitent au 1er janvier de l'année un gisement de substances imposables mentionnées au II. Cette redevance est applicable à chaque tonne de dioxyde de carbone injecté par les concessionnaires de stockage géologique de dioxyde de carbone.
+I. – Il est perçu, au profit des communes, une redevance sur chaque tonne nette du produit concédé extrait l'année précédente par les concessionnaires de mines, les amodiataires et sous-amodiataires des concessions minières, par les titulaires de permis d'exploitation de mines et par les explorateurs de mines de pétrole et de gaz combustibles qui exploitent au 1<sup>er</sup> janvier de l'année un gisement de substances imposables mentionnées au II. Cette redevance est applicable à chaque tonne de dioxyde de carbone injecté par les concessionnaires de stockage géologique de dioxyde de carbone.
 
 Cette redevance ne s'applique pas aux hydrocarbures extraits de gisements situés au-delà de 1 mille marin des lignes de base définies à l'article 2 de l'ordonnance n° 2016-1687 du 8 décembre 2016 relative aux espaces maritimes relevant de la souveraineté ou de la juridiction de la République française.
 
 Lorsqu'il existe plusieurs lignes de base, celle qui est la plus proche de la côte est utilisée.
 
-II. – 1° A compter du 1er janvier 2026, les tarifs de la redevance communale des mines sont fixés à :
+II. – 1° A compter du 1<sup>er</sup> janvier 2026, les tarifs de la redevance communale des mines sont fixés à :
 
 (En euros)
 
 | Substances imposables | Unité | Tarif |
-| --- | --- | --- |
+| -- | -- | -- |
 | Minerais aurifères | Kilogramme d'or contenu | 1 000 |
 | Minerais d'uranium | Quintal d'uranium contenu | 460 |
-| Minerais de tungstène | Tonne d'oxyde de tungstène (WO3) contenu | 300 |
+| Minerais de tungstène | Tonne d'oxyde de tungstène (WO<sub>3</sub>) contenu | 300 |
 | Minerais argentifères | Quintal d'argent contenu | 1 000 |
 | Bauxite | Millier de tonnes nettes livrées | 901,70 |
 | Fluorine | Millier de tonnes nettes livrées | 2 580 |
-| Chlorure de sodium : | | |
+| Chlorure de sodium : |  |  |
 | Sel extrait par abattage | Millier de tonnes nettes livrées | 1 144 |
 | Sel extrait en dissolution par sondage et livré raffiné | Millier de tonnes nettes livrées | 812,30 |
 | Sel extrait en dissolution par sondage et livré en dissolution | Millier de tonnes de chlorure de sodium contenu | 270,60 |
@@ -46,7 +46,7 @@ II. – 1° A compter du 1er janvier 2026, les tarifs de la redevance communale 
 | Minerais de molybdène | Tonne de molybdène contenu | 390 |
 | Minerais de lithium | Tonne d'oxyde de lithium (Li2O) contenu | 77,50 |
 | Lithium des eaux géothermales | Tonne d'oxyde de lithium (Li2O) issu de dissolution | 144 |
-| Sels de potassium | Centaine de tonnes d'oxyde de potassium (K2O) contenu | 405,90 |
+| Sels de potassium | Centaine de tonnes d'oxyde de potassium (K<sub>2</sub>O) contenu | 405,90 |
 | Gisements de gaz naturel | 100 000 mètres cubes extraits | 423,40 |
 | Dioxyde de carbone injecté | Tonne | 1 |
 | Hydrogène naturel | 1 000 mètres cubes extraits | 220 |
@@ -54,9 +54,9 @@ II. – 1° A compter du 1er janvier 2026, les tarifs de la redevance communale 
 
 1° bis Pour les gisements en mer situés jusqu'à une limite de 1 mille marin au– delà des lignes de base définies à l'article 2 de l'ordonnance n° 2016-1687 du 8 décembre 2016 relative aux espaces maritimes relevant de la souveraineté ou de la juridiction de la République française, les tarifs de la redevance communale des mines sont fixés à :
 
-– 25,3 € par 100 000 mètres cubes extraits pour le gaz naturel ;
+- 25,3 € par 100 000 mètres cubes extraits pour le gaz naturel ;
 
-– 86,1 € par centaine de tonnes nettes extraites pour le pétrole brut.
+- 86,1 € par centaine de tonnes nettes extraites pour le pétrole brut.
 
 Lorsqu'il existe plusieurs lignes de base, celle qui est la plus proche de la côte est utilisée ;
 

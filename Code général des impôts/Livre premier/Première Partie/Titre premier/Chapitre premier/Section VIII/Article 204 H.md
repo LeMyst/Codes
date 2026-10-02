@@ -27,7 +27,7 @@ III. – 1. Lorsque le débiteur ne dispose pas d'un taux calculé par l'adminis
 a) Pour les contribuables autres que ceux mentionnés aux b et c du présent 1 :
 
 | Base mensuelle de prélèvement | Taux proportionnel |
-| --- | --- |
+| -- | -- |
 | Inférieure à 1 635 € | 0 % |
 | Supérieure ou égale à 1 635 € et inférieure à 1 698 € | 0,5 % |
 | Supérieure ou égale à 1 698 € et inférieure à 1 807 € | 1,3 % |
@@ -52,7 +52,7 @@ a) Pour les contribuables autres que ceux mentionnés aux b et c du présent 1 :
 b) Pour les contribuables domiciliés en Guadeloupe, à La Réunion et en Martinique :
 
 | Base mensuelle de prélèvement | Taux proportionnel |
-| --- | --- |
+| -- | -- |
 | Inférieure à 1 875 € | 0 % |
 | Supérieure ou égale à 1 875 € et inférieure à 1 989 € | 0,5 % |
 | Supérieure ou égale à 1 989 € et inférieure à 2 191 € | 1,3 % |
@@ -77,7 +77,7 @@ b) Pour les contribuables domiciliés en Guadeloupe, à La Réunion et en Martin
 c) Pour les contribuables domiciliés en Guyane et à Mayotte :
 
 | Base mensuelle de prélèvement | Taux proportionnel |
-| --- | --- |
+| -- | -- |
 | Inférieure à 2 008 € | 0 % |
 | Supérieure ou égale à 2 008 € et inférieure à 2 170 € | 0,5 % |
 | Supérieure ou égale à 2 170 € et inférieure à 2 420 € | 1,3 % |

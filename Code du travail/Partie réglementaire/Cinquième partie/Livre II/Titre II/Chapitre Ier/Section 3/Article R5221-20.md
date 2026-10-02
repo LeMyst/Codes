@@ -20,7 +20,7 @@ L'autorisation peut également être refusée lorsque l'employeur, le donneur d'
 
 4° La rémunération proposée est conforme aux dispositions du présent code sur le salaire minimum de croissance ou à la rémunération minimale prévue par la convention collective applicable à l'employeur ou l'entreprise d'accueil ;
 
-5° Lorsque l'étranger est titulaire d'une carte de séjour portant les mentions “ étudiant ” ou “ étudiant-programme de mobilité ” prévue à l'article L. 422-1, L. 422-2, L. 422-5, L. 422-26 et L. 433-4 du code de l'entrée et du séjour des étrangers et du droit d'asile et qu'il a achevé son cursus en France ou lorsqu'il est titulaire de la carte de séjour portant la mention “ recherche d'emploi ou création d'entreprise ” prévue à l'article L. 422-14 du même code, l'emploi proposé est en adéquation avec les diplômes et l'expérience acquise en France ou à l'étranger ;
+5° Lorsque l'étranger est titulaire d'une carte de séjour portant les mentions "étudiant" ou "étudiant-programme de mobilité" prévue à l'article L. 422-1, L. 422-2, L. 422-5, L. 422-26 et L. 433-4 du code de l'entrée et du séjour des étrangers et du droit d'asile et qu'il a achevé son cursus en France ou lorsqu'il est titulaire de la carte de séjour portant la mention "recherche d'emploi ou création d'entreprise" prévue à l'article L. 422-14 du même code, l'emploi proposé est en adéquation avec les diplômes et l'expérience acquise en France ou à l'étranger ;
 
 6° Lorsque la demande concerne un emploi saisonnier, le pétitionnaire fournit la preuve que le travailleur disposera, pour la durée de son séjour, d'un logement lui assurant des conditions de vie décentes.
 

@@ -4,7 +4,7 @@ Sont mentionnées sur la carte d'identification professionnelle, en plus des inf
 
 1° Pour les salariés des entreprises mentionnées au premier alinéa de l'article R. 8291-1, les mentions suivantes :
 
-a) La raison sociale de l'entreprise ou le nom de l'employeur précédé de la mention “ Employeur : ” lorsqu'il s'agit d'une entreprise individuelle, d'une entreprise en nom propre ou d'une personne physique ;
+a) La raison sociale de l'entreprise ou le nom de l'employeur précédé de la mention "Employeur : " lorsqu'il s'agit d'une entreprise individuelle, d'une entreprise en nom propre ou d'une personne physique ;
 
 b) Le numéro SIREN ;
 
@@ -12,19 +12,19 @@ c) Le logo de l'entreprise, à sa demande ;
 
 2° Pour les salariés des entreprises mentionnées au deuxième alinéa de l'article R. 8291-1, les mentions suivantes :
 
-a) “ salarié intérimaire ” ;
+a) "salarié intérimaire" ;
 
 b) La date de fin de validité de la carte ;
 
 3° Pour les salariés détachés en France par une entreprise établie hors de France mentionnée au troisième alinéa de l'article R. 8291-1, les mentions suivantes :
 
-a) La mention “ salarié détaché ” ;
+a) La mention "salarié détaché" ;
 
 b) La date de fin de validité de la carte ;
 
 4° Pour les salariés des entreprises mentionnées au quatrième alinéa de l'article R. 8291-1, les mentions suivantes :
 
-a) La raison sociale de l'entreprise ou le nom de l'employeur précédé de la mention “ Employeur : ” lorsqu'il s'agit d'une entreprise individuelle, d'une entreprise en nom propre ou d'une personne physique ;
+a) La raison sociale de l'entreprise ou le nom de l'employeur précédé de la mention "Employeur :" lorsqu'il s'agit d'une entreprise individuelle, d'une entreprise en nom propre ou d'une personne physique ;
 
 b) Le numéro SIREN ;
 

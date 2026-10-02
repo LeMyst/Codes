@@ -1,12 +1,12 @@
 # Article R5312-38
 
-I.-Est créé par l'opérateur France Travail un traitement automatisé de données à caractère personnel dénommé “ Système d'information France Travail ”.
+I.-Est créé par l'opérateur France Travail un traitement automatisé de données à caractère personnel dénommé "Système d'information France Travail".
 
 Ce traitement est placé sous la responsabilité du directeur général de l'opérateur France Travail.
 
 Par dérogation, sont réalisées en responsabilité conjointe, dans les conditions fixées par l'article 26 du règlement (UE) 2016/679 du Parlement européen et du Conseil du 27 avril 2016 relatif à la protection des personnes physiques à l'égard du traitement des données à caractère personnel et à la libre circulation de ces données, les opérations de traitement relevant des finalités mentionnées au II du présent article dont la mise en œuvre nécessite l'intervention d'un autre organisme public ou privé pour assurer l'exercice des droits des personnes concernées ou la satisfaction de toute autre obligation fixée au responsable de traitement. Les opérations de traitement concernées ainsi que les responsables conjoints de traitement qui y sont associés sont déterminés par arrêté du ministre chargé de l'emploi.
 
-II.-Le traitement “ Système d'information France Travail ” a pour finalités :
+II.-Le traitement "Système d'information France Travail" a pour finalités :
 
 1° L'information, l'accueil, le développement des compétences professionnelles, l'amélioration de l'employabilité, l'aide au reclassement et la promotion professionnelle ainsi que l'accompagnement des personnes à la recherche d'un emploi, d'une formation ou d'un conseil professionnel ou en parcours d'insertion sociale ;
 

@@ -8,6 +8,10 @@ Les activités bénévoles ou de volontariat permettant d'acquérir des droits c
 
 2° bis Le volontariat de la réserve opérationnelle de la police nationale mentionné aux 3° et 4° de l'article L. 411-7 du code de la sécurité intérieure ;
 
+2° ter Le volontariat de la réserve opérationnelle de l'administration des douanes mentionné au 2° de l'article L. 132-3 du code des douanes ;
+
+2° quater Le volontariat de la réserve opérationnelle pénitentiaire ;
+
 3° La réserve civique mentionnée à l'article 1er de la loi n° 2017-86 du 27 janvier 2017 relative à l'égalité et à la citoyenneté, et les réserves thématiques qu'elle comporte ;
 
 4° La réserve sanitaire mentionnée à l'article L. 3132-1 du code de la santé publique ;

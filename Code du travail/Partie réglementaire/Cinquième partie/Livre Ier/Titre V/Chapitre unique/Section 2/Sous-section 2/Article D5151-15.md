@@ -6,7 +6,7 @@ L'exactitude des données figurant dans la déclaration mentionnée au premier a
 
 Les activités faisant l'objet d'une déclaration ou d'une attestation au-delà des dates prévues en application des deux premiers alinéas ne sont pas prises en compte pour le calcul de la durée d'activité nécessaire à l'acquisition des droits inscrits sur le compte personnel formation mentionnée à l'article L. 5151-10.
 
-La déclaration et sa transmission à l'une des personnes chargées de l'administration ou de la direction de l'organisme auprès duquel le réserviste civique réalise sa mission sont effectuées par l'usage du téléservice “ Le compte Bénévole ” mentionné à l'article R. 5151-19, l'attestation ainsi que la transmission des données à la Caisse des dépôts et consignations sont réalisées au moyen du téléservice “ Le Compte Asso ” mentionné au même article.
+La déclaration et sa transmission à l'une des personnes chargées de l'administration ou de la direction de l'organisme auprès duquel le réserviste civique réalise sa mission sont effectuées par l'usage du téléservice "Le compte Bénévole" mentionné à l'article R. 5151-19, l'attestation ainsi que la transmission des données à la Caisse des dépôts et consignations sont réalisées au moyen du téléservice "Le Compte Asso" mentionné au même article.
 
 NOTA:
 Conformément au I de l’article 9 du décret n° 2023-1393 du 29 décembre 2023, ces dispositions entrent en vigueur à une date fixée par décret, et au plus tard le 1er décembre 2024.

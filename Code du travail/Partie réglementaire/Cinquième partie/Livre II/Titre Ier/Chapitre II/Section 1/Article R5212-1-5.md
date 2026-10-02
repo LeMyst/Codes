@@ -4,7 +4,7 @@ I.-Les autorités ou organismes désignés au III délivrent une attestation à 
 
 II.-Toute décision prise en application des 1° et 11° de l'article L. 5212-13 comporte la mention des droits dont son bénéficiaire peut se prévaloir pour l'insertion professionnelle au titre de l'obligation d'emploi des travailleurs handicapés.
 
-En outre, toute décision d'attribution de la carte “ mobilité inclusion ” portant la “ mention invalidité ” précise à son titulaire qu'il est bénéficiaire de l'obligation d'emploi des travailleurs handicapés pour l'insertion professionnelle, sans qu'il soit nécessaire d'accomplir une démarche supplémentaire de reconnaissance de la qualité de travailleur handicapé.
+En outre, toute décision d'attribution de la carte "mobilité inclusion" portant la "mention invalidité" précise à son titulaire qu'il est bénéficiaire de l'obligation d'emploi des travailleurs handicapés pour l'insertion professionnelle, sans qu'il soit nécessaire d'accomplir une démarche supplémentaire de reconnaissance de la qualité de travailleur handicapé.
 
 III.-Les autorités ou organismes qui délivrent les décisions ou attestations mentionnées au présent article sont, selon le cas :
 

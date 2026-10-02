@@ -4,7 +4,7 @@ En Guadeloupe et à La Réunion, lorsque, en application du deuxième alinéa de
 
 1° Le comité est présidé conjointement par le préfet, le président du conseil régional et le président du conseil départemental ;
 
-2° Au 2° de l'article R. 6523-19, les mots : « le président du conseil départemental ou son représentant » sont remplacés par les mots : « sept représentants du département » ;
+2° Au 2° de l'article R. 6523-19, les mots : "le président du conseil départemental ou son représentant" sont remplacés par les mots : "sept représentants du département" ;
 
 3° Le président du conseil régional, le président du conseil départemental et le préfet peuvent inviter conjointement toute personne morale mentionnée au III de l'article L. 5311-7 qui participe effectivement au réseau pour l'emploi sur le territoire à participer aux séances plénières du comité ou à celles du bureau, dans les conditions fixées à l'article R. 6123-3-11 ;
 

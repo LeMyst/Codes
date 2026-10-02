@@ -4,19 +4,26 @@ Le comité régional de l'emploi, de la formation et de l'orientation profession
 
 1° Huit représentants de l'Etat :
 
-a) Le recteur de région académique ;\
-b) Le chef de corps commandant le régiment du service militaire adapté présent dans la collectivité ;\
-c) Le directeur de l'économie, de l'emploi, du travail et des solidarités en Guadeloupe, en Martinique et à La Réunion, le directeur général de la cohésion et des populations en Guyane ;\
-d) Le directeur de la mer ;\
-e) Le directeur de l'agriculture, de l'agroalimentaire et de la forêt ;\
-f) Un représentant local de l'administration pénitentiaire ;\
+a) Le recteur de région académique ;
+
+b) Le chef de corps commandant le régiment du service militaire adapté présent dans la collectivité ;
+
+c) Le directeur de l'économie, de l'emploi, du travail et des solidarités en Guadeloupe, en Martinique et à La Réunion, le directeur général de la cohésion et des populations en Guyane ;
+
+d) Le directeur de la mer ;
+
+e) Le directeur de l'agriculture, de l'agroalimentaire et de la forêt ;
+
+f) Un représentant local de l'administration pénitentiaire ;
+
 g) Les autres représentants de l'Etat restant à nommer après application des a à f, désignés par le préfet ;
 
 2° Sept représentants de la région désignés par le conseil régional, ainsi que le président du conseil départemental ou son représentant en Guadeloupe et à La Réunion, huit représentants de l'assemblée de Guyane et huit représentants de l'assemblée de la Martinique ;
 
 3° Un nombre compris entre cinq et onze au titre du a comme du b de représentants désignés par leurs organisations respectives :
 
-a) Des organisations syndicales de salariés représentatives au niveau national et interprofessionnel, des organisations syndicales de salariés représentatives au niveau régional et interprofessionnel et des organisations syndicales de salariés intervenant dans les secteurs d'activités correspondant à ceux des organisations intéressées mentionnées au III de l'article R. 2272-9 ;\
+a) Des organisations syndicales de salariés représentatives au niveau national et interprofessionnel, des organisations syndicales de salariés représentatives au niveau régional et interprofessionnel et des organisations syndicales de salariés intervenant dans les secteurs d'activités correspondant à ceux des organisations intéressées mentionnées au III de l'article R. 2272-9 ;
+
 b) Des organisations professionnelles d'employeurs représentatives au niveau national et interprofessionnel, des organisations professionnelles d'employeurs reconnues représentatives sur le territoire régional, des organisations professionnelles d'employeurs représentatives au niveau national et multi professionnel ;
 
 3° bis Un représentant de chacun des trois réseaux consulaires ;

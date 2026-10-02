@@ -1,10 +1,10 @@
 # Article L6323-4
 
-I.-Les droits inscrits sur le compte personnel de formation permettent à son titulaire de financer une formation éligible au compte, au sens des articles L. 6323-6, L. 6323-21, L. 6323-31 et L. 6323-34.
+I. - Les droits inscrits sur le compte personnel de formation permettent à son titulaire de financer une formation éligible au compte, au sens des articles L. 6323-6, L. 6323-21, L. 6323-31 et L. 6323-34.
 
 Le titulaire participe au financement de la formation éligible dans les conditions fixées à l'article L. 6323-7.
 
-II.-Lorsque le coût de cette formation est supérieur au montant des droits inscrits sur le compte ou aux plafonds respectivement mentionnés aux articles L. 6323-11, L. 6323-11-1, L. 6323-27 et L. 6323-34, le compte peut faire l'objet, à la demande de son titulaire, d'abondements en droits complémentaires pour assurer le financement de cette formation. Ces abondements peuvent être financés notamment par :
+II. - Lorsque le coût de cette formation est supérieur au montant des droits inscrits sur le compte ou aux plafonds respectivement mentionnés aux articles L. 6323-11, L. 6323-11-1, L. 6323-27 et L. 6323-34, le compte peut faire l'objet, à la demande de son titulaire, d'abondements en droits complémentaires pour assurer le financement de cette formation. Ces abondements peuvent être financés notamment par :
 
 1° Le titulaire lui-même ;
 
@@ -30,10 +30,10 @@ II.-Lorsque le coût de cette formation est supérieur au montant des droits ins
 
 12° Une autre collectivité territoriale ;
 
-13° L'établissement public chargé de la gestion de la réserve sanitaire mentionné à l'article L. 1413-1 du code de la santé publique ;
+13° (Abrogé) ;
 
 14° L'organisme gestionnaire de l'assurance chômage mentionné à l'article L. 5427-1 du présent code ;
 
 15° Les associations mentionnées au a du 6° de l'article L. 5151-9, par le compte d'engagement citoyen.
 
-III.-A l'exception du titulaire du compte personnel de formation, les financeurs mentionnés au II peuvent alimenter le compte du titulaire. Les sommes correspondant à cette alimentation supplémentaire sont versées à l'organisme mentionné à l'article L. 6333-1 dans des conditions fixées par décret en Conseil d'Etat.
+III. - A l'exception du titulaire du compte personnel de formation, les financeurs mentionnés au II peuvent alimenter le compte du titulaire. Les sommes correspondant à cette alimentation supplémentaire sont versées à l'organisme mentionné à l'article L. 6333-1 dans des conditions fixées par décret en Conseil d'Etat.

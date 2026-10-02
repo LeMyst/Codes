@@ -4,4 +4,4 @@ Afin d'opérer un contrôle sectoriel ou thématique, de prévenir un risque par
 
 1° Soit désigner au sein des unités de contrôle des agents disposant de compétences particulières pour assurer dans la région un appui aux unités de contrôle infra-départementales, départementales ou interdépartementales ou de mener une action régionale ;
 
-2° Soit proposer la création d'une unité de contrôle régionale chargée d'opérer ce contrôle sectoriel ou thématique de prévenir ce risque particulier ou d'assurer ce renfort . Cette unité, rattachée au pôle " politique du travail " de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi, est créée par arrêté du ministre chargé du travail.
+2° Soit proposer la création d'une unité de contrôle régionale chargée d'opérer ce contrôle sectoriel ou thématique de prévenir ce risque particulier ou d'assurer ce renfort. Cette unité, rattachée au pôle "politique du travail" de la direction régionale des entreprises, de la concurrence, de la consommation, du travail et de l'emploi, est créée par arrêté du ministre chargé du travail.

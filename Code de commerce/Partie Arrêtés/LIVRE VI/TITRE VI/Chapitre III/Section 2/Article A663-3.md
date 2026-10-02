@@ -4,5 +4,4 @@ Les prestations figurant aux tableaux 4-1 à 4-3 de l'article Annexe 4-7 donnent
 
 Les émoluments applicables jusqu'au 29 février 2028 sont ceux qui sont prévus par la présente section.
 
-NOTA:
-Conformément à l'article 11 de l'arrêté du 25 février 2026 (NOR : ECOC2604873A), ces dispositions, dans leur rédaction issue de l'arrêté précité, entrent en vigueur le 1er mars 2026.
+Les émoluments applicables aux prestations mentionnées au premier alinéa sont ceux en vigueur à la date d'ouverture de la procédure.

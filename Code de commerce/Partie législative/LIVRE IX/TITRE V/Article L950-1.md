@@ -118,6 +118,7 @@ L'article L. 321-19 est applicable dans sa rédaction résultant de l'ordonnance
 | TITRE IV | |
 | L. 440-1 | la loi n° 2018-670 du 30 juillet 2018 |
 | L. 441-1 et L. 441-2l | l'ordonnance n° 2019-359 du 24 avril 2019 |
+| L. 441-1-1 | la loi n° 2026-796 du 18 août 2026 d'urgence pour la protection et la souveraineté agricoles |
 | L. 441-3 | la loi n° 2020-1525 du 7 décembre 2020 |
 | L. 441-4 | l'ordonnance n° 2021-859 du 30 juin 2021 |
 | L. 441-5 et L. 441-6 | l'ordonnance n° 2019-359 du 24 avril 2019 |
@@ -125,7 +126,7 @@ L'article L. 321-19 est applicable dans sa rédaction résultant de l'ordonnance
 | L. 441-11 et L. 441-12 | l'ordonnance n° 2021-859 du 30 juin 2021 |
 | L. 441-13 et L. 441-14 | l'ordonnance n° 2019-359 du 24 avril 2019 |
 | L. 441-16 | l'ordonnance n° 2021-859 du 30 juin 2021 |
-| L. 442-1 | la loi n° 2020-1525 du 7 décembre 2020 |
+| L. 442-1 | la loi n° 2026-796 du 18 août 2026 d'urgence pour la protection et la souveraineté agricoles |
 | L. 442-2 | ordonnance n° 2019-359 du 24 avril 2019 |
 | L. 442-3 | la loi n° 2020-1508 du 3 décembre 2020 |
 | L. 442-4 | l'ordonnance n° 2019-359 du 24 avril 2019 |
@@ -134,7 +135,9 @@ L'article L. 321-19 est applicable dans sa rédaction résultant de l'ordonnance
 | L. 442-8 à L. 442-11 | l'ordonnance n° 2019-359 du 24 avril 2019 |
 | L. 442-12 | la loi n° 2024-449 du 21 mai 2024 |
 | L. 443-1 à L. 443-3 | l'ordonnance n° 2019-359 du 24 avril 2019 |
+| L. 443-4 | la loi n° 2026-796 du 18 août 2026 d'urgence pour la protection et la souveraineté agricoles |
 | L. 443-5 à L. 443-7 | l'ordonnance n° 2021-859 du 30 juin 2021 |
+| L. 443-8 | la loi n° 2026-796 du 18 août 2026 d'urgence pour la protection et la souveraineté agricoles |
 | TITRE IV bis | |
 | L. 444-1 | la loi n° 2015-990 du 6 août 2015 |
 | L. 444-2 | la loi n° 2019-222 du 23 mars 2019 |

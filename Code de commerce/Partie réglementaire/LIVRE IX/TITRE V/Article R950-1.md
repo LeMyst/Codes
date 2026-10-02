@@ -188,7 +188,8 @@ Sous réserve des adaptations prévues dans les chapitres ci-après, les disposi
 | Articles R. 145-6 à D. 145-19 | Décret n° 2007-431 du 27 mars 2007 |
 | Article R. 145-20 | Décret n° 2014-1317 du 3 novembre 2014 |
 | Article R. 145-21 à R. 145-25 | Décret n° 2007-431 du 27 mars 2007 |
-| Article R. 145-26, R. 145-29 et R. 145-29-1 | Décret n° 2024-673 du 3 juillet 2024 |
+| Article R. 145-26 | Décret n° 2026-683 du 27 juillet 2026 |
+| Articles R. 145-29 et R. 145-29-1 | Décret n° 2024-673 du 3 juillet 2024 |
 | Article R. 145-30 | Décret n° 2007-431 du 27 mars 2007 |
 | Article R. 145-31 | Décret n° 2019-1333 du 11 décembre 2019 |
 | Article R. 145-32 et R. 145-33 | Décret n° 2007-431 du 27 mars 2007 |
@@ -935,4 +936,4 @@ Les articles R. 236-5, R. 236-5-1 et R. 236-5-2 sont applicables dans leur réda
 Les articles R. 822-77 et R. 822-108 sont applicables dans les îles Wallis et Futuna dans leur rédaction résultant du décret n° 2020-106 du 10 février 2020.
 
 NOTA:
-Conformément au I de l'article 9 du décret n° 2026-96 du 16 février 2026, ces dispositions dans leur rédaction issue dudit décret, entrent en vigueur le 1er avril 2026.
+Conformément au 1° de l'article 21 du décret n° 2026-683 du 27 juillet 2026, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur le 1er octobre 2026.

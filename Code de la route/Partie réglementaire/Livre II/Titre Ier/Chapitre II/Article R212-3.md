@@ -22,7 +22,7 @@ d) Les diplômes d'enseignement de la conduite délivrés par les collectivités
 
 a) Le certificat d'aptitude professionnelle à l'enseignement de la conduite des véhicules terrestres à moteur (CAPEC), pour les personnes ayant subi avec succès la ou les épreuves correspondant aux mentions définies au II ;
 
-b) La carte professionnelle et le certificat d'aptitude professionnelle et pédagogique (CAPP), à la condition que les titulaires aient été en possession, le 1er janvier 1982, des catégories de permis de conduire correspondantes ;
+b) La carte professionnelle et le certificat d'aptitude professionnelle et pédagogique (CAPP), à la condition que les titulaires aient été en possession, le 1<sup>er</sup> janvier 1982, des catégories de permis de conduire correspondantes ;
 
 c) Les titres ou diplômes militaires se rapportant aux certificats complémentaires de spécialisation mentionnés au I et définis par arrêté conjoint du ministre chargé de la sécurité routière et du ministre de la défense ;
 

@@ -9,4 +9,4 @@ III.-(Abrogé).
 IV.-Lorsqu'il est réalisé par un prestataire visé au II de l'article L. 323-1, le contrôle technique prévu par le présent chapitre ne peut être réputé avoir été réalisé que si, pour la prestation considérée, ce prestataire n'a aucun lien de nature à porter atteinte à son indépendance avec des personnes, organismes, sociétés ou entreprises qui exercent une activité de réparation ou de commerce dans le secteur automobile ou de motocycles.
 
 NOTA:
-Conformément à l’article 9 du décret n° 2021-1062 du 9 août 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 9 du décret n° 2021-1062 du 9 août 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

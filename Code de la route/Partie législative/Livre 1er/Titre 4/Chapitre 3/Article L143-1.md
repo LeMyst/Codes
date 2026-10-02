@@ -3,7 +3,7 @@
 I.-Sous réserve des adaptations prévues au II du présent article, les articles du présent code mentionnés dans la colonne de gauche du tableau ci-après sont applicables en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | Dispositions applicables | Dans leur rédaction résultant de |
-| --- | --- |
+| -- | -- |
 | Article L. 121-6 | La loi n° 2025-622 du 9 juillet 2025 créant l'homicide routier et visant à lutter contre la violence routière |
 | Article L. 130-9 | la loi n° 2022-217 du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration et portant diverses mesures de simplification de l'action publique locale |
 

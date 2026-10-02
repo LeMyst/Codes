@@ -9,4 +9,4 @@ III.-Le fait, pour le titulaire de l'agrément des installations de contrôle, d
 IV.-Le fait, pour le titulaire de l'agrément des installations de contrôle, de faire réaliser un contrôle technique par un contrôleur agréé ou un prestataire visé au II de l'article L. 323-1 ne possédant pas la qualification requise pour ce contrôle est puni de l'amende prévue pour les contraventions de la cinquième classe.
 
 NOTA:
-Conformément à l’article 9 du décret n° 2021-1062 du 9 août 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 9 du décret n° 2021-1062 du 9 août 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

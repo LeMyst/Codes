@@ -32,7 +32,7 @@ b) Pour exercer l'activité d'exploitant mentionnée à l'article L. 3122-1 du m
 
 c) Pour contrevenir aux I, II ou 2° ou 3° du III de l'article L. 3120-2 du même code ;
 
-d) Pour réaliser des prestations de transport relevant du titre II du livre Ier de la troisième partie du même code, lorsque le conducteur ne dispose pas de la carte professionnelle mentionnée à l'article L. 3120-2-2 du même code correspondant à l'activité pratiquée.
+d) Pour réaliser des prestations de transport relevant du titre II du livre I<sup>er</sup> de la troisième partie du même code, lorsque le conducteur ne dispose pas de la carte professionnelle mentionnée à l'article L. 3120-2-2 du même code correspondant à l'activité pratiquée.
 
 Ils en informent immédiatement, par tout moyen, le procureur de la République, sauf s'il a été fait recours à la procédure de l'amende forfaitaire.
 

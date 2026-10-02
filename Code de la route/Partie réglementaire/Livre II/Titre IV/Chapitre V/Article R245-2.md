@@ -3,7 +3,7 @@
 Sont également applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au présent chapitre, les dispositions du présent titre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR REDACTION |
-| --- | --- |
+| -- | -- |
 | R. 235-1 | résultant du décret n° 2016-1152 du 24 août 2016 |
 | R. 235-2 | résultant du décret n° 2003-293 du 31 mars 2003 |
 | R. 235-3 | résultant du décret n° 2012-3 du 3 janvier 2012 |

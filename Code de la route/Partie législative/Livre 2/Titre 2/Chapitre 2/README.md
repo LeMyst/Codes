@@ -1,1 +1,1 @@
-Chapitre 2 : Reconnaissance et équivalences.
+# Chapitre 2 : Reconnaissance et équivalences.

@@ -13,4 +13,4 @@ II.-L'organisateur agréé, son ou ses mandataires franchisés ou affiliés ne s
 III.-L'activité d'un site d'examen s'exerce dans des locaux n'abritant aucune activité en lien avec l'enseignement de la conduite et ne communiquant avec aucun local abritant une telle activité.
 
 NOTA:
-Conformément à l’article 25 du décret n° 2025-1437 du 31 décembre 2025, ces dispositions entrent en vigueur quatre mois après sa date de publication, soit le 1er mai 2025. Les déclarations dont bénéficient à cette date les sites d'examen restent valables jusqu'à leur date d'échéance résultant des dispositions de l'article R. 221-3-5 du code de la route dans leur rédaction antérieure au présent décret.
+Conformément à l’article 25 du décret n° 2025-1437 du 31 décembre 2025, ces dispositions entrent en vigueur quatre mois après sa date de publication, soit le 1<sup>er</sup> mai 2025. Les déclarations dont bénéficient à cette date les sites d'examen restent valables jusqu'à leur date d'échéance résultant des dispositions de l'article R. 221-3-5 du code de la route dans leur rédaction antérieure au présent décret.

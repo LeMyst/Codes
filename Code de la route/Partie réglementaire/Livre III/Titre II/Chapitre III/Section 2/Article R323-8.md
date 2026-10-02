@@ -11,4 +11,4 @@ Pour être agréé pour le contrôle technique des véhicules motorisés à deux
 Un réseau de contrôle ne peut exercer aucune autre activité que celle de contrôle technique.
 
 NOTA:
-Conformément à l’article 9 du décret n° 2021-1062 du 9 août 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 9 du décret n° 2021-1062 du 9 août 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

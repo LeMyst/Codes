@@ -7,4 +7,4 @@ Si la caution est privée des bénéfices de discussion ou de division, elle rec
 La personne physique qui donne mandat à autrui de se porter caution doit respecter les dispositions du présent article.
 
 NOTA:
-Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

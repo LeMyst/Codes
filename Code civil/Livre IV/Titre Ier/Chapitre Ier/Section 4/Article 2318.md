@@ -5,4 +5,4 @@ En cas de dissolution de la personne morale débitrice ou créancière par l'eff
 En cas de dissolution de la personne morale caution pour l'une des causes indiquées au premier alinéa, toutes les obligations issues du cautionnement sont transmises.
 
 NOTA:
-Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

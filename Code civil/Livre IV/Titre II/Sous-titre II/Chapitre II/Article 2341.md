@@ -7,4 +7,4 @@ Si la convention dispense le créancier de cette obligation, il acquiert la prop
 Dans le cas visé au premier alinéa, le constituant peut, si la convention le prévoit, aliéner les choses gagées à charge de les remplacer par la même quantité de choses équivalentes.
 
 NOTA:
-Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

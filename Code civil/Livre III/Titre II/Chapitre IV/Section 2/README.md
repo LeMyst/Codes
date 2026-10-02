@@ -1,1 +1,16 @@
-Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs.
+# Section 2 : Des exceptions à la règle de l'irrévocabilité des donations entre vifs.
+
+- [Article 953](Article%20953.md)
+- [Article 954](Article%20954.md)
+- [Article 955](Article%20955.md)
+- [Article 956](Article%20956.md)
+- [Article 957](Article%20957.md)
+- [Article 958](Article%20958.md)
+- [Article 959](Article%20959.md)
+- [Article 960](Article%20960.md)
+- [Article 961](Article%20961.md)
+- [Article 962](Article%20962.md)
+- [Article 963](Article%20963.md)
+- [Article 964](Article%20964.md)
+- [Article 965](Article%20965.md)
+- [Article 966](Article%20966.md)

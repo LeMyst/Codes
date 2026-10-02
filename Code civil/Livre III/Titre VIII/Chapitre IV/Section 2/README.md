@@ -1,1 +1,16 @@
-Section 2 : Du cheptel simple.
+# Section 2 : Du cheptel simple.
+
+- [Article 1804](Article%201804.md)
+- [Article 1805](Article%201805.md)
+- [Article 1806](Article%201806.md)
+- [Article 1807](Article%201807.md)
+- [Article 1808](Article%201808.md)
+- [Article 1809](Article%201809.md)
+- [Article 1810](Article%201810.md)
+- [Article 1811](Article%201811.md)
+- [Article 1812](Article%201812.md)
+- [Article 1813](Article%201813.md)
+- [Article 1814](Article%201814.md)
+- [Article 1815](Article%201815.md)
+- [Article 1816](Article%201816.md)
+- [Article 1817](Article%201817.md)

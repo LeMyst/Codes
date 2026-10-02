@@ -5,4 +5,4 @@ La caution peut opposer au créancier toutes les exceptions, personnelles ou inh
 Toutefois la caution ne peut se prévaloir des mesures légales ou judiciaires dont bénéficie le débiteur en conséquence de sa défaillance, sauf disposition spéciale contraire.
 
 NOTA:
-Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

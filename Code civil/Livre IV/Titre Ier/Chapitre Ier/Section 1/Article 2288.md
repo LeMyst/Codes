@@ -5,4 +5,4 @@ Le cautionnement est le contrat par lequel une caution s'oblige envers le créan
 Il peut être souscrit à la demande du débiteur principal ou sans demande de sa part et même à son insu.
 
 NOTA:
-Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

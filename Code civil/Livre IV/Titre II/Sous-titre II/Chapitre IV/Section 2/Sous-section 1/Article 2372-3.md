@@ -9,4 +9,4 @@ La valeur du bien ou du droit cédé est déterminée par un expert désigné à
 Si le fiduciaire ne trouve pas d'acquéreur au prix fixé par expert, il peut vendre le bien ou le droit au prix qu'il estime, sous sa responsabilité, correspondre à sa valeur.
 
 NOTA:
-Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

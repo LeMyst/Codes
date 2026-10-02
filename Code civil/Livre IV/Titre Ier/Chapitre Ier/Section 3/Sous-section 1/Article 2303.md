@@ -5,4 +5,4 @@ Le créancier professionnel est tenu d'informer toute caution personne physique 
 Dans les rapports entre le créancier et la caution, les paiements effectués par le débiteur pendant cette période sont imputés prioritairement sur le principal de la dette.
 
 NOTA:
-Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022, y compris aux cautionnements et aux sûretés réelles pour autrui constitués antérieurement.
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022, y compris aux cautionnements et aux sûretés réelles pour autrui constitués antérieurement.

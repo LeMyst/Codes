@@ -1,1 +1,17 @@
-Chapitre IV : Des actes de décès.
+# Chapitre IV : Des actes de décès.
+
+- [Article 78](Article%2078.md)
+- [Article 79](Article%2079.md)
+- [Article 79-1](Article%2079-1.md)
+- [Article 80](Article%2080.md)
+- [Article 81](Article%2081.md)
+- [Article 82](Article%2082.md)
+- [Article 84](Article%2084.md)
+- [Article 85](Article%2085.md)
+- [Article 86](Article%2086.md)
+- [Article 87](Article%2087.md)
+- [Article 88](Article%2088.md)
+- [Article 89](Article%2089.md)
+- [Article 90](Article%2090.md)
+- [Article 91](Article%2091.md)
+- [Article 92](Article%2092.md)

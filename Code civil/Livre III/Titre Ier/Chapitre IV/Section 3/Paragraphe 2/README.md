@@ -1,1 +1,17 @@
-Paragraphe 2 : Des effets de l'acceptation de la succession à concurrence de l'actif net.
+# Paragraphe 2 : Des effets de l'acceptation de la succession à concurrence de l'actif net.
+
+- [Article 791](Article%20791.md)
+- [Article 792](Article%20792.md)
+- [Article 792-1](Article%20792-1.md)
+- [Article 792-2](Article%20792-2.md)
+- [Article 793](Article%20793.md)
+- [Article 794](Article%20794.md)
+- [Article 795](Article%20795.md)
+- [Article 796](Article%20796.md)
+- [Article 797](Article%20797.md)
+- [Article 798](Article%20798.md)
+- [Article 799](Article%20799.md)
+- [Article 800](Article%20800.md)
+- [Article 801](Article%20801.md)
+- [Article 802](Article%20802.md)
+- [Article 803](Article%20803.md)

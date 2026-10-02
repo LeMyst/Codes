@@ -9,4 +9,4 @@ I. - L'Etat est responsable du préjudice résultant des fautes commises par cha
 II. - L'action en responsabilité de l'Etat pour les fautes commises par chaque service chargé de la publicité foncière est exercée devant le juge judiciaire et, sous peine de forclusion, dans le délai de dix ans suivant le jour où la faute a été commise.
 
 NOTA:
-Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

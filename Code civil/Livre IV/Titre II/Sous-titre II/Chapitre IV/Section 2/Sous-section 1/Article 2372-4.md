@@ -5,4 +5,4 @@ Si le bénéficiaire de la fiducie a acquis la libre disposition du bien ou du d
 Sous la même réserve, si le fiduciaire procède à la vente du bien ou du droit cédé en application du contrat de fiducie, il restitue au constituant la part du produit de cette vente excédant, le cas échéant, la valeur de la dette garantie.
 
 NOTA:
-Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

@@ -7,4 +7,4 @@ Il en est ainsi même en ce qui concerne l'hypothèque légale, ou éventuelleme
 Si l'époux bénéficiaire de l'inscription, en refusant de réduire son hypothèque ou d'en donner mainlevée, empêche l'autre époux de faire une constitution d'hypothèque ou une aliénation qu'exigerait l'intérêt de la famille ou, s'il est hors d'état de manifester sa volonté, les juges pourront autoriser cette réduction ou cette mainlevée aux conditions qu'ils estimeront nécessaires à la sauvegarde des droits de l'époux intéressé. Ils ont les mêmes pouvoirs lorsque le contrat de mariage comporte la clause visée au premier alinéa.
 
 NOTA:
-Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

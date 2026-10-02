@@ -1,1 +1,15 @@
-Chapitre Ier : De l'autorité parentale relativement à la personne de l'enfant
+# Chapitre Ier : De l'autorité parentale relativement à la personne de l'enfant
+
+- [Section 1 : De l'exercice de l'autorité parentale](Section%201/README.md)
+- [Section 2 : De l'assistance éducative](Section%202/README.md)
+- [Section 2-1 : Mesure judiciaire d'aide à la gestion du budget familial](Section%202-1/README.md)
+- [Section 3 : De la délégation de l'autorité parentale](Section%203/README.md)
+- [Section 4 : Du retrait total ou partiel de l'autorité parentale et du retrait de l'exercice de l'autorité parentale](Section%204/README.md)
+- [Section 5 : De la déclaration judiciaire de délaissement parental](Section%205/README.md)
+- [Article 371](Article%20371.md)
+- [Article 371-1](Article%20371-1.md)
+- [Article 371-2](Article%20371-2.md)
+- [Article 371-3](Article%20371-3.md)
+- [Article 371-4](Article%20371-4.md)
+- [Article 371-5](Article%20371-5.md)
+- [Article 371-6](Article%20371-6.md)

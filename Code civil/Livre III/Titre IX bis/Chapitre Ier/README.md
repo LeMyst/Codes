@@ -1,1 +1,16 @@
-Chapitre Ier : Des conventions relatives à l'exercice des droits indivis en l'absence d'usufruitier.
+# Chapitre Ier : Des conventions relatives à l'exercice des droits indivis en l'absence d'usufruitier.
+
+- [Article 1873-2](Article%201873-2.md)
+- [Article 1873-3](Article%201873-3.md)
+- [Article 1873-4](Article%201873-4.md)
+- [Article 1873-5](Article%201873-5.md)
+- [Article 1873-6](Article%201873-6.md)
+- [Article 1873-7](Article%201873-7.md)
+- [Article 1873-8](Article%201873-8.md)
+- [Article 1873-9](Article%201873-9.md)
+- [Article 1873-10](Article%201873-10.md)
+- [Article 1873-11](Article%201873-11.md)
+- [Article 1873-12](Article%201873-12.md)
+- [Article 1873-13](Article%201873-13.md)
+- [Article 1873-14](Article%201873-14.md)
+- [Article 1873-15](Article%201873-15.md)

@@ -2,9 +2,9 @@
 
 L'habilitation peut porter sur :
 
-– un ou plusieurs des actes que le tuteur a le pouvoir d'accomplir, seul ou avec une autorisation, sur les biens de l'intéressé ;
+- un ou plusieurs des actes que le tuteur a le pouvoir d'accomplir, seul ou avec une autorisation, sur les biens de l'intéressé ;
 
-– un ou plusieurs actes relatifs à la personne à protéger. Dans ce cas, l'habilitation s'exerce dans le respect des dispositions des articles 457-1 à 459-2 du code civil.
+- un ou plusieurs actes relatifs à la personne à protéger. Dans ce cas, l'habilitation s'exerce dans le respect des dispositions des articles 457-1 à 459-2 du code civil.
 
 La personne habilitée ne peut accomplir en représentation un acte de disposition à titre gratuit qu'avec l'autorisation du juge des tutelles.
 

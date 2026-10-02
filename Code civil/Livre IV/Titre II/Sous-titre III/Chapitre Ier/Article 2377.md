@@ -23,4 +23,4 @@ Outre celles prévues par des lois spéciales, les créances privilégiées sur 
 -les indemnités dues, le cas échéant, aux salariés, en application des articles L. 1226-15, L. 1226-20, L. 1226-21, L. 1235-2 à L. 1235-4, L. 1235-11, L. 1235-12, L. 1235-14 et L. 1243-4 du code du travail.
 
 NOTA:
-Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

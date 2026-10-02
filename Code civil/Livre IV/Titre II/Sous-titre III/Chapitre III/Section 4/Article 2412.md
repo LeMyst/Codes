@@ -5,4 +5,4 @@ L'hypothèque d'un immeuble indivis conserve son effet quel que soit le résulta
 L'hypothèque d'une quote-part dans un ou plusieurs immeubles indivis ne conserve son effet que dans la mesure où l'indivisaire qui l'a consentie est, lors du partage, alloti du ou de ces immeubles indivis ; elle le conserve alors dans toute la mesure de cet allotissement sans être limitée à la quote-part qui appartenait à l'indivisaire qui l'a consentie ; lorsque l'immeuble est licité à un tiers, elle le conserve également si cet indivisaire est alloti du prix de la licitation.
 
 NOTA:
-Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

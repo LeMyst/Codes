@@ -27,4 +27,4 @@ Outre celles prévues par des lois spéciales, les créances privilégiées sur 
 4° Pendant la dernière année, les produits livrés par un producteur agricole dans le cadre d'un accord interprofessionnel à long terme homologué, ainsi que les sommes dues par tout contractant d'un exploitant agricole en application d'un contrat-type homologué.
 
 NOTA:
-Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

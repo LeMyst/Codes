@@ -1,1 +1,21 @@
-Section 2 : De l'administration de la communauté et des biens propres.
+# Section 2 : De l'administration de la communauté et des biens propres.
+
+- [Article 1421](Article%201421.md)
+- [Article 1422](Article%201422.md)
+- [Article 1423](Article%201423.md)
+- [Article 1424](Article%201424.md)
+- [Article 1425](Article%201425.md)
+- [Article 1426](Article%201426.md)
+- [Article 1427](Article%201427.md)
+- [Article 1428](Article%201428.md)
+- [Article 1429](Article%201429.md)
+- [Article 1431](Article%201431.md)
+- [Article 1432](Article%201432.md)
+- [Article 1433](Article%201433.md)
+- [Article 1434](Article%201434.md)
+- [Article 1435](Article%201435.md)
+- [Article 1436](Article%201436.md)
+- [Article 1437](Article%201437.md)
+- [Article 1438](Article%201438.md)
+- [Article 1439](Article%201439.md)
+- [Article 1440](Article%201440.md)

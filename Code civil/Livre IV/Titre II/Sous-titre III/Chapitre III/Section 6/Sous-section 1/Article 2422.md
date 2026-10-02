@@ -9,4 +9,4 @@ En cas de saisie immobilière ou de procédure de sauvegarde, de redressement ju
 Dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, en cas d'exécution forcée immobilière, l'inscription des hypothèques produit les effets réglés par les dispositions de la loi du 1er juin 1924.
 
 NOTA:
-Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

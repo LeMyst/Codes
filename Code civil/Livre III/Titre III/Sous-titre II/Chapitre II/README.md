@@ -1,1 +1,20 @@
-Chapitre II : La responsabilité du fait des produits défectueux
+# Chapitre II : La responsabilité du fait des produits défectueux
+
+- [Article 1245](Article%201245.md)
+- [Article 1245-1](Article%201245-1.md)
+- [Article 1245-2](Article%201245-2.md)
+- [Article 1245-3](Article%201245-3.md)
+- [Article 1245-4](Article%201245-4.md)
+- [Article 1245-5](Article%201245-5.md)
+- [Article 1245-6](Article%201245-6.md)
+- [Article 1245-7](Article%201245-7.md)
+- [Article 1245-8](Article%201245-8.md)
+- [Article 1245-9](Article%201245-9.md)
+- [Article 1245-10](Article%201245-10.md)
+- [Article 1245-11](Article%201245-11.md)
+- [Article 1245-12](Article%201245-12.md)
+- [Article 1245-13](Article%201245-13.md)
+- [Article 1245-14](Article%201245-14.md)
+- [Article 1245-15](Article%201245-15.md)
+- [Article 1245-16](Article%201245-16.md)
+- [Article 1245-17](Article%201245-17.md)

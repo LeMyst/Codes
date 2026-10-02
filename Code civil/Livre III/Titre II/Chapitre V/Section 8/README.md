@@ -1,1 +1,15 @@
-Section 8 : De la révocation des testaments et de leur caducité.
+# Section 8 : De la révocation des testaments et de leur caducité.
+
+- [Article 1035](Article%201035.md)
+- [Article 1036](Article%201036.md)
+- [Article 1037](Article%201037.md)
+- [Article 1038](Article%201038.md)
+- [Article 1039](Article%201039.md)
+- [Article 1040](Article%201040.md)
+- [Article 1041](Article%201041.md)
+- [Article 1042](Article%201042.md)
+- [Article 1043](Article%201043.md)
+- [Article 1044](Article%201044.md)
+- [Article 1045](Article%201045.md)
+- [Article 1046](Article%201046.md)
+- [Article 1047](Article%201047.md)

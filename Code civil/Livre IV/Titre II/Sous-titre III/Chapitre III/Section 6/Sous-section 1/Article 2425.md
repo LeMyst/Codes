@@ -11,4 +11,4 @@ Les actes et décisions judiciaires constatant ces différentes conventions ou d
 En outre, au cas où la modification mentionnée ne porte que sur parties des immeubles grevés, lesdits immeubles doivent, sous peine de refus du dépôt, être individuellement désignés.
 
 NOTA:
-Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

@@ -1,1 +1,16 @@
-Chapitre Ier : De la nature et de la forme de la vente.
+# Chapitre Ier : De la nature et de la forme de la vente.
+
+- [Article 1582](Article%201582.md)
+- [Article 1583](Article%201583.md)
+- [Article 1584](Article%201584.md)
+- [Article 1585](Article%201585.md)
+- [Article 1586](Article%201586.md)
+- [Article 1587](Article%201587.md)
+- [Article 1588](Article%201588.md)
+- [Article 1589](Article%201589.md)
+- [Article 1589-1](Article%201589-1.md)
+- [Article 1589-2](Article%201589-2.md)
+- [Article 1590](Article%201590.md)
+- [Article 1591](Article%201591.md)
+- [Article 1592](Article%201592.md)
+- [Article 1593](Article%201593.md)

@@ -1,1 +1,22 @@
-Section 3 : Des obligations du dépositaire.
+# Section 3 : Des obligations du dépositaire.
+
+- [Article 1927](Article%201927.md)
+- [Article 1928](Article%201928.md)
+- [Article 1929](Article%201929.md)
+- [Article 1930](Article%201930.md)
+- [Article 1931](Article%201931.md)
+- [Article 1932](Article%201932.md)
+- [Article 1933](Article%201933.md)
+- [Article 1934](Article%201934.md)
+- [Article 1935](Article%201935.md)
+- [Article 1936](Article%201936.md)
+- [Article 1937](Article%201937.md)
+- [Article 1938](Article%201938.md)
+- [Article 1939](Article%201939.md)
+- [Article 1940](Article%201940.md)
+- [Article 1941](Article%201941.md)
+- [Article 1942](Article%201942.md)
+- [Article 1943](Article%201943.md)
+- [Article 1944](Article%201944.md)
+- [Article 1945](Article%201945.md)
+- [Article 1946](Article%201946.md)

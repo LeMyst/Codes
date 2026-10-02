@@ -5,4 +5,4 @@ Les sommes payées au cessionnaire au titre de la créance cédée s'imputent su
 Dans le cas contraire, le cessionnaire les conserve dans les conditions prévues aux articles 2374-3 à 2374-6.
 
 NOTA:
-Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

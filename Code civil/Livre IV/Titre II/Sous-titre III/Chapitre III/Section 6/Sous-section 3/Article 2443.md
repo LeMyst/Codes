@@ -5,4 +5,4 @@ Les services chargés de la publicité foncière sont tenus de délivrer, à tou
 Ils sont également tenus de délivrer sur réquisition, dans un délai de dix jours, des copies ou extraits du fichier immobilier ou certificat qu'il n'existe aucune fiche entrant dans le cadre de la réquisition.
 
 NOTA:
-Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

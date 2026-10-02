@@ -5,4 +5,4 @@ Le service chargé de la publicité foncière fait mention, sur le registre pres
 La date de l'inscription est déterminée par la mention portée sur le registre des dépôts.
 
 NOTA:
-Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

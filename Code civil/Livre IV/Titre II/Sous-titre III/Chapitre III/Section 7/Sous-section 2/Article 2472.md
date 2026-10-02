@@ -11,4 +11,4 @@ Si un créancier gagiste et un créancier hypothécaire forment surenchère, seu
 Par l'effet du paiement ou de la consignation intervenu en application des deuxièmes alinéas des articles 2463 ou 2467, l'immeuble est libéré de tout gage.
 
 NOTA:
-Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

@@ -5,4 +5,4 @@ Dans les cas prévus aux deux articles précédents, l'immeuble doit être estim
 Si sa valeur excède le montant de la dette garantie, le créancier doit au débiteur une somme égale à la différence ; s'il existe d'autres créanciers hypothécaires, il la consigne.
 
 NOTA:
-Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

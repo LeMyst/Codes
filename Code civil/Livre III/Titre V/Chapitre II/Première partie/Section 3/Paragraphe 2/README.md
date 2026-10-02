@@ -1,1 +1,16 @@
-Paragraphe 2 : De la liquidation et du partage de la communauté.
+# Paragraphe 2 : De la liquidation et du partage de la communauté.
+
+- [Article 1467](Article%201467.md)
+- [Article 1468](Article%201468.md)
+- [Article 1469](Article%201469.md)
+- [Article 1470](Article%201470.md)
+- [Article 1471](Article%201471.md)
+- [Article 1472](Article%201472.md)
+- [Article 1473](Article%201473.md)
+- [Article 1474](Article%201474.md)
+- [Article 1475](Article%201475.md)
+- [Article 1476](Article%201476.md)
+- [Article 1477](Article%201477.md)
+- [Article 1478](Article%201478.md)
+- [Article 1479](Article%201479.md)
+- [Article 1480](Article%201480.md)

@@ -11,4 +11,4 @@ Pour les créances nées de l'application du chapitre Ier du titre Ier du livre 
 Pour les autres créances, l'hypothèque est conservée à concurrence du montant évalué ou de celui du titre de recouvrement, s'il lui est inférieur.
 
 NOTA:
-Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

@@ -11,4 +11,4 @@ Lorsque plusieurs inscriptions sont prises le même jour relativement au même i
 -en présence de plusieurs inscriptions d'hypothèques conventionnelles ou judiciaires, celle qui est prise en vertu du titre portant la date la plus ancienne est réputée d'un rang antérieur ; et si les titres ont la même date, elles viennent en concurrence.
 
 NOTA:
-Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

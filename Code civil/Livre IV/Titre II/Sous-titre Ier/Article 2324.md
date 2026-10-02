@@ -7,4 +7,4 @@ Elle est mobilière ou immobilière, selon qu'elle porte sur des biens meubles o
 Elle est générale lorsqu'elle porte sur la généralité des meubles et des immeubles ou des seuls meubles ou des seuls immeubles. Elle est spéciale lorsqu'elle ne porte que sur des biens déterminés ou déterminables, meubles ou immeubles.
 
 NOTA:
-Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

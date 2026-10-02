@@ -1,1 +1,20 @@
-Chapitre VI : Des devoirs et des droits respectifs des époux
+# Chapitre VI : Des devoirs et des droits respectifs des époux
+
+- [Article 212](Article%20212.md)
+- [Article 213](Article%20213.md)
+- [Article 214](Article%20214.md)
+- [Article 215](Article%20215.md)
+- [Article 216](Article%20216.md)
+- [Article 217](Article%20217.md)
+- [Article 218](Article%20218.md)
+- [Article 219](Article%20219.md)
+- [Article 220](Article%20220.md)
+- [Article 220-1](Article%20220-1.md)
+- [Article 220-2](Article%20220-2.md)
+- [Article 220-3](Article%20220-3.md)
+- [Article 221](Article%20221.md)
+- [Article 222](Article%20222.md)
+- [Article 223](Article%20223.md)
+- [Article 225](Article%20225.md)
+- [Article 225-1](Article%20225-1.md)
+- [Article 226](Article%20226.md)

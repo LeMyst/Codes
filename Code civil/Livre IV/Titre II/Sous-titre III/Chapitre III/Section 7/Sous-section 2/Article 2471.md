@@ -5,4 +5,4 @@ Dans le cas où le tiers acquéreur aurait acquis par le même acte, pour un pri
 Le créancier surenchérisseur ne peut, en aucun cas, être contraint d'étendre sa soumission au mobilier ou à d'autres immeubles que ceux qui sont hypothéqués à sa créance ; sauf le recours du tiers acquéreur contre ses auteurs, pour l'indemnité du dommage qu'il éprouverait, soit de la division des objets de son acquisition, soit de celle des exploitations.
 
 NOTA:
-Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

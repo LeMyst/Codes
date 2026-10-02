@@ -1,1 +1,15 @@
-Paragraphe 2 : Des autres dettes
+# Paragraphe 2 : Des autres dettes
+
+- [Article 870](Article%20870.md)
+- [Article 871](Article%20871.md)
+- [Article 872](Article%20872.md)
+- [Article 873](Article%20873.md)
+- [Article 874](Article%20874.md)
+- [Article 875](Article%20875.md)
+- [Article 876](Article%20876.md)
+- [Article 877](Article%20877.md)
+- [Article 878](Article%20878.md)
+- [Article 879](Article%20879.md)
+- [Article 880](Article%20880.md)
+- [Article 881](Article%20881.md)
+- [Article 882](Article%20882.md)

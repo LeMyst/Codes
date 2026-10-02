@@ -5,4 +5,4 @@ Lorsque les mesures prescrites par l'arrêté ou la mise en demeure mentionnés 
 La radiation de la seconde inscription ne peut intervenir que conformément aux dispositions des articles 2436 et suivants.
 
 NOTA:
-Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

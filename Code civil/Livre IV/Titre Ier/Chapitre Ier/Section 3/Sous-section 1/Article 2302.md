@@ -7,4 +7,4 @@ Le créancier professionnel est tenu, à ses frais et sous la même sanction, de
 Le présent article est également applicable au cautionnement souscrit par une personne morale envers un établissement de crédit ou une société de financement en garantie d'un concours financier accordée à une entreprise.
 
 NOTA:
-Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2022, y compris aux cautionnements et aux sûretés réelles pour autrui constitués antérieurement.
+Conformément à l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022, y compris aux cautionnements et aux sûretés réelles pour autrui constitués antérieurement.

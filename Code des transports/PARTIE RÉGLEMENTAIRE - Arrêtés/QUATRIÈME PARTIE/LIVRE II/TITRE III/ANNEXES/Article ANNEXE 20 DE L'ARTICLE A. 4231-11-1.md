@@ -3,21 +3,21 @@
 LISTE DES VOIES NAVIGABLES NATIONALES SUR LESQUELLES LES CONDUCTEURS NE PEUVENT PAS CONDUIRE UN BATEAU À PASSAGERS DÉFINI AU PREMIER ALINÉA DE L'ARTICLE R. 4231-11 DU CODE DES TRANSPORTS AVEC UN CERTIFICAT DE CAPACITÉ PB
 
 | N° | Intitulés des voies d'eau reliées | Régions |
-| --- | --- | --- |
+| -- | -- | -- |
 | 1 | Canal du Rhône à Sète | Occitanie |
-| 2 | Rhône, du seuil de la Feyssine en amont de Lyon à la mer. Cette section peut être décomposée en 3 parties ;-Rhône : de la Feyssine en amont de Lyon jusqu'à Arles-Rhône : de Arles à Port-Saint-Louis | Auvergne-Rhône-Alpes |
-| 3 | Petit Rhône de Saint-Gilles à la mer | Occitanie Provence-Alpes-Côte d'Azur |
-| 4 | Petit Rhône du Rhône à l'écluse de Saint-Gilles | Occitanie Provence-Alpes-Côte d'Azur |
+| 2 | Rhône, du seuil de la Feyssine en amont de Lyon à la mer. Cette section peut être décomposée en 3 parties ;<br>-Rhône : de la Feyssine en amont de Lyon jusqu'à Arles<br>-Rhône : de Arles à Port-Saint-Louis | Auvergne-Rhône-Alpes |
+| 3 | Petit Rhône de Saint-Gilles à la mer | Occitanie<br>Provence-Alpes-Côte d'Azur |
+| 4 | Petit Rhône du Rhône à l'écluse de Saint-Gilles | Occitanie<br>Provence-Alpes-Côte d'Azur |
 | 5 | Canal du Rhône à Fos-sur-Mer | Provence-Alpes-Côte d'Azur |
 | 6 | Canal Saint-Louis | Provence-Alpes-Côte d'Azur |
-| 7 | Canal du Rhône au Rhin de Mulhouse à Saint-Symphorien | Auvergne-Rhône-Alpes Grand Est |
+| 7 | Canal du Rhône au Rhin de Mulhouse à Saint-Symphorien | Auvergne-Rhône-Alpes<br>Grand Est |
 | 8 | Saône, de Corre à Saint-Symphorien | Bourgogne-Franche-Comté |
-| 9 | Yonne, d'Auxerre à Montereau | Bourgogne-Franche-Comté Ile-de-France |
-| 10 | Canal du Loing | Centre-Val de Loire Ile-de-France |
+| 9 | Yonne, d'Auxerre à Montereau | Bourgogne-Franche-Comté<br>Ile-de-France |
+| 10 | Canal du Loing | Centre-Val de Loire<br>Ile-de-France |
 | 11 | Rhin et grand canal d'Alsace | Grand Est |
 | 12 | Moselle canalisée, de Neuves-Maisons à la frontière | Grand Est |
 | 13 | Meuse, de Givet à la frontière | Grand Est |
-| 14 | Canal de la Marne à la Saône (ou canal entre Champagne et Bourgogne de Vitry le François à Heuilley-sur-Saône) | Grand Est Bourgogne-Franche-Comté |
+| 14 | Canal de la Marne à la Saône (ou canal entre Champagne et Bourgogne de Vitry le François à Heuilley-sur-Saône) | Grand Est<br>Bourgogne-Franche-Comté |
 | 15 | Canal du Rhône au Rhine de Niffer à Mulhouse | Grand Est |
 | 16 | La Sarre canalisée de Sarreguemines à la frontière | Grand Est |
 | 17 | Ill canalisée à Strasbourg, jonction avec le canal du Rhône au Rhin et avec le canal de la Marne au Rhin | Grand Est |
@@ -51,9 +51,9 @@ LISTE DES VOIES NAVIGABLES NATIONALES SUR LESQUELLES LES CONDUCTEURS NE PEUVENT 
 | 46 | Canal de la Colme de Looberghe à Bergues | Hauts-de-France |
 | 47 | Embranchement Audruicq | Hauts-de-France |
 | 48 | Canal de Roubaix de Marcq-en-Barœul à la frontière | Hauts-de-France |
-| 49 | Canal de l'Aisne à la Marne | Hauts-de-France Grand Est |
-| 50 | Seine, de Montereau à la mer et le canal de Tancarville | Ile-de-France Normandie |
-| 51 | Seine de Nogent-sur-Seine à Montereau | Ile-de-France Grand Est |
+| 49 | Canal de l'Aisne à la Marne | Hauts-de-France<br>Grand Est |
+| 50 | Seine, de Montereau à la mer et le canal de Tancarville | Ile-de-France<br>Normandie |
+| 51 | Seine de Nogent-sur-Seine à Montereau | Ile-de-France<br>Grand Est |
 | 52 | Canal Saint-Denis de la Villette à la Seine (Saint-Denis) | Ile-de-France |
 | 53 | Canal Saint-Martin de la Villette à la Seine (Paris) | Ile-de-France |
 | 54 | Canal de l'Ourcq d'Aulnay-sous-Bois à la Villette | Ile-de-France |
@@ -65,4 +65,4 @@ LISTE DES VOIES NAVIGABLES NATIONALES SUR LESQUELLES LES CONDUCTEURS NE PEUVENT 
 | 58 | Etang de Thau : chenal fluvial | Occitanie |
 | 59 | Canal de Fos à Port-de-Bouc | Provence-Alpes-Côte d'Azur |
 | 60 | Etang de Berre | Provence-Alpes-Côte d'Azur |
-| 61 | Saône, de Saint-Symphorien à Lyon (confluent avec le Rhône) | Bourgogne-Franche-Comté Auvergne-Rhône-Alpes |
+| 61 | Saône, de Saint-Symphorien à Lyon (confluent avec le Rhône) | Bourgogne-Franche-Comté<br>Auvergne-Rhône-Alpes |

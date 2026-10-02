@@ -5,7 +5,7 @@ Une compensation financière peut être demandée à l'utilisateur, en vertu de 
 Si le service de fourniture de données concerné permet à l'utilisateur d'effectuer une requête unique pour obtenir, à un instant donné, la totalité des informations d'une catégorie de données dynamiques, sur l'ensemble du service de mobilité, une compensation peut être exigée de cet utilisateur lorsque le nombre de ses requêtes est supérieur à l'un ou l'autre des seuils suivants :
 
 | Catégorie de service | Nombre de requêtes par jour | Nombre de requêtes par heure |
-| --- | --- | --- |
+| -- | -- | -- |
 | Véhicules, cycles et engins de déplacement personnel en libre-service | 1 500 | 600 |
 | Véhicules, cycles et engins de déplacement personnel devant être restitués au point d'origine | 100 | 10 |
 | Service de mise en relation facilitant la pratique du covoiturage | 500 | 60 |

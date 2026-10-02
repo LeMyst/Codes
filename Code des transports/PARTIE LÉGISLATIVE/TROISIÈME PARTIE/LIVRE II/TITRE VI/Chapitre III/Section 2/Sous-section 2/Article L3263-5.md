@@ -5,4 +5,4 @@ L'opérateur de service numérique de mise en relation commerciale défini au 5�
 Il est garant de l'arrivée des marchandises et effets dans le délai déterminé dans le cadre du contrat. Il est responsable des avaries ou pertes de marchandises.
 
 NOTA:
-Conformément aux dispositions prévues par l’article 5 de l’ordonnance n°2021-487, ces dispositions entrent en vigueur au 1er janvier 2022.
+Conformément aux dispositions prévues par l’article 5 de l’ordonnance n°2021-487, ces dispositions entrent en vigueur au 1<sup>er</sup> janvier 2022.

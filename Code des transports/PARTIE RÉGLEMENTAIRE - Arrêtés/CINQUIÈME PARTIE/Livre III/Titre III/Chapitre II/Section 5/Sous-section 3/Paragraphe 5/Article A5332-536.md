@@ -6,7 +6,7 @@ Ce dispositif vise les passagers piétons et les personnes embarquant à bord d'
 
 Au titre de ce dispositif, l'armateur réalise des opérations techniques d'inspection-filtrage socle sur les passagers et leurs bagages, colis et autres biens transportés, de manière aléatoire et continue, selon des taux figurant dans le plan de sûreté du navire. Ces opérations sont susceptibles d'être réalisées à chaque point d'accès emprunté par les personnes mentionnées au précédent alinéa pour rejoindre les espaces publics du navire.
 
-L'armateur exploitant un navire roulier à passagers et l'exploitant d'un port ou d'une installation portuaire accueillant ce navire transmettent au préfet de département, deux fois par an, au plus tard le 1er avril et le 1er novembre, un état des contrôles de sûreté réalisés sur la base du modèle qui figure en annexe au présent article.
+L'armateur exploitant un navire roulier à passagers et l'exploitant d'un port ou d'une installation portuaire accueillant ce navire transmettent au préfet de département, deux fois par an, au plus tard le 1<sup>er</sup> avril et le 1<sup>er</sup> novembre, un état des contrôles de sûreté réalisés sur la base du modèle qui figure en annexe au présent article.
 
 L'armateur exploitant un navire roulier à passagers :
 

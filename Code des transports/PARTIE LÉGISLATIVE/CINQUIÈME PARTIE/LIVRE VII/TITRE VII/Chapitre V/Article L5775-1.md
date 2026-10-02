@@ -3,7 +3,7 @@
 I. - Sont applicables en Polynésie française, compte tenu, le cas échéant, de l'association de la Polynésie française à l'exercice des compétences de l'Etat en matière de police de la circulation maritime dans les eaux intérieures prévue à l'article 34 de la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynésie française et sous réserve des dispositions d'adaptations prévues au présent chapitre, les dispositions des titres Ier à VII du livre V de la présente partie mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
+| -- | -- |
 | L. 5511-1 à l'exception du b du 3° | Résultant de la loi n° 2013-619 du 16 juillet 2013 |
 | L. 5511-2 | Résultant de l'ordonnance n° 2010-1307 du 28 octobre 2010 |
 | L. 5511-3 | Résultant de la loi n° 2016-819 du 20 juin 2016 |
@@ -60,7 +60,7 @@ I. - Sont applicables en Polynésie française, compte tenu, le cas échéant, d
 II. - Sous réserve des dispositions d'adaptations prévues au présent chapitre, les dispositions des titres Ier à VII du livre V de la présente partie applicables aux marins mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau sont également applicables aux gens de mer autres que marins :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
+| -- | -- |
 | L. 5511-1 à l'exception du b du 3° | Résultant de la loi n° 2013-619 du 16 juillet 2013 |
 | L. 5511-2 | Résultant de l'ordonnance n° 2010-1307 du 28 octobre 2010 |
 | L. 5511-3 | Résultant de la loi n° 2016-819 du 20 juin 2016 |

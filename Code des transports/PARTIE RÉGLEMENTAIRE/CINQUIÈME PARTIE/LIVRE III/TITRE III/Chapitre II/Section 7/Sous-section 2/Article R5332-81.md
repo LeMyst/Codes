@@ -11,4 +11,4 @@ III. - Un organisme qui a contribué à l'établissement de l'évaluation de la 
 IV. - Lorsque l'organisme de sûreté habilité est établi hors de France, les frais de l'audit national de sûreté portuaire prévu au I de l'article R.5332-21 sont mis à sa charge.
 
 NOTA:
-Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1<sup>er</sup> juillet 2026.

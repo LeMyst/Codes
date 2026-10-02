@@ -31,4 +31,4 @@ II. - La convention prévue par le 2° du III de l'article L. 5332-14 est conclu
 Elle peut également préciser les modalités de suivi du dispositif afin d'évaluer sa pertinence au regard de l'évolution de la menace et des évolutions technologiques et organisationnelles des parties contractantes.
 
 NOTA:
-Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1<sup>er</sup> juillet 2026.

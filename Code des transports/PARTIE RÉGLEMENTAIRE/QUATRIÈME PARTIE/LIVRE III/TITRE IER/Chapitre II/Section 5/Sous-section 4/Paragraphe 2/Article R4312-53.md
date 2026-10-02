@@ -9,4 +9,4 @@ Le comité social d'administration local est consulté sur les mesures d'applica
 Le comité social d'administration central exerce ses attributions en matière de santé, sécurité et conditions de travail dans les conditions prévues aux articles 76 à 78 du décret du 20 novembre 2020 mentionné ci-dessus.
 
 NOTA:
-Conformément à l’article 5 du décret n° 2022-1142 (TREK2211205D), ces dispositions entrent en vigueur le 1er janvier 2023.
+Conformément à l’article 5 du décret n° 2022-1142 (TREK2211205D), ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2023.

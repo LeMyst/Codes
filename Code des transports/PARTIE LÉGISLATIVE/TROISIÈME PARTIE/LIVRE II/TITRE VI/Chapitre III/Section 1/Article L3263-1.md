@@ -11,4 +11,4 @@ III.-Saisie de procès-verbaux constatant, de la part d'un opérateur de bourse 
 Cette interdiction est mentionnée à la liste prévue au II.
 
 NOTA:
-Conformément aux dispositions prévues par l’article 5 de l’ordonnance n°2021-487, ces dispositions entrent en vigueur le 1er juin 2023.
+Conformément aux dispositions prévues par l’article 5 de l’ordonnance n°2021-487, ces dispositions entrent en vigueur le 1<sup>er</sup> juin 2023.

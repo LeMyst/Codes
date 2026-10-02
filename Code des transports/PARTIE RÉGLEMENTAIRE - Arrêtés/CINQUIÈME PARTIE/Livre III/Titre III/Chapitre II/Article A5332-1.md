@@ -3,7 +3,7 @@
 Pour l'application des articles du présent chapitre, sont rappelés dans le tableau qui suit les acronymes de chacune des terminologies utilisées dans les annexes auxdits articles :
 
 | Terminologie | Acronyme |
-| --- | --- |
+| -- | -- |
 | « Comité local de sûreté portuaire » | CLSP |
 | « Limites portuaires de sûreté » | LPS |
 | « Zone à accès restreint » | ZAR |

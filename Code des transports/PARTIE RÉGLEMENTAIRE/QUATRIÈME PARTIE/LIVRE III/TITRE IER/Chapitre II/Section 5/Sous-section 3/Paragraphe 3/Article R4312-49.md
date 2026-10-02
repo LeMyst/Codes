@@ -5,4 +5,4 @@ Le fonctionnement et les moyens de la commission des droits des salariés sont �
 Sans préjudice des autorisations d'absence dont ils bénéficient pour l'exercice de leurs missions au sein du comité social d'administration et de la commission centrale chargée des questions de santé, sécurité et conditions de travail, chaque représentant du personnel au sein de la commission bénéficie de vingt heures de délégation par mois pour l'exercice de son mandat. La durée des réunions de la commission n'est pas déduite de ces heures de délégation. Le temps passé par ces représentants à ces réunions et celui passé en délégation sont considérés comme du temps de travail effectif.
 
 NOTA:
-Conformément à l’article 5 du décret n° 2022-1142 (TREK2211205D), ces dispositions entrent en vigueur le 1er janvier 2023.
+Conformément à l’article 5 du décret n° 2022-1142 (TREK2211205D), ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2023.

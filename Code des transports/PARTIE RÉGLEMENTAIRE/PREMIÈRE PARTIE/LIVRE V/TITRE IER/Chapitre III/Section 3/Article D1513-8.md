@@ -17,6 +17,6 @@ Lorsque des données à caractère personnel sont concernées par les obligation
 Les données enregistrées et leurs formats numériques sont précisés par arrêté du ministre chargé des transports.
 
 NOTA:
-Conformément à l'article 2 du décret n° 2026-212 du 24 mars 2026, ces dispositions, dans leur rédaction issue de l'article 1er du décret précité, s'appliquent aux données mentionnées dans cet article 1er dont les détenteurs disposent à la date d'entrée en vigueur dudit décret ainsi qu'aux données que les détenteurs collectent à compter de l'entrée en vigueur du décret précité.
+Conformément à l'article 2 du décret n° 2026-212 du 24 mars 2026, ces dispositions, dans leur rédaction issue de l'article 1er du décret précité, s'appliquent aux données mentionnées dans cet article 1<sup>er</sup> dont les détenteurs disposent à la date d'entrée en vigueur dudit décret ainsi qu'aux données que les détenteurs collectent à compter de l'entrée en vigueur du décret précité.
 
 Conformément à l'article 3 du décret n° 2026-212 du 24 mars 2026, les échéances d'enregistrement numérique des données mentionnées à l'article D. 1513-8 du code des transports sont celles définies en annexe du décret précité.

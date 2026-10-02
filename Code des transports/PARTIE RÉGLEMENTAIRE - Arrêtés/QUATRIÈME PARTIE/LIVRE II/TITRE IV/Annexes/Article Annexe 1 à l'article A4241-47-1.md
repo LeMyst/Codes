@@ -2,9 +2,8 @@
 
 Lettre ou groupe de lettres distinctif du pays du port d'attache ou du lieu d'immatriculation des bateaux
 
-| | | | |
-| --- | --- | --- | --- |
 | ALLEMAGNE | D | MALTE | MLT |
+| -- | -- | -- | -- |
 | AUTRICHE | A | REPUBLIQUE DE MOLDOVA | MD |
 | BELARUS | BY | NORVEGE | NO |
 | BELGIQUE | B | PAYS-BAS | N |

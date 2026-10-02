@@ -13,4 +13,4 @@ Le conseil d'administration de l'Agence de l'outre-mer pour la mobilité compren
 Le président du conseil d'administration est élu en son sein.
 
 NOTA:
-Conformément au VII de l'article 52 de la loi n° 2025-797 du 11 août 2025, ces dispositions, dans leur rédaction résultant du titre VI de ladite loi, entrent en vigueur à une date fixée par décret, et au plus tard le 1er janvier 2026.
+Conformément au VII de l'article 52 de la loi n° 2025-797 du 11 août 2025, ces dispositions, dans leur rédaction résultant du titre VI de ladite loi, entrent en vigueur à une date fixée par décret, et au plus tard le 1<sup>er</sup> janvier 2026.

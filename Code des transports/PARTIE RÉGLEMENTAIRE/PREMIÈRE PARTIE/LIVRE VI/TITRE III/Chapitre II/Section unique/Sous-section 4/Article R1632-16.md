@@ -7,4 +7,4 @@ La demande est accompagnée d'une copie de la carte professionnelle autorisant l
 L'échec de l'équipe cynotechnique à l'évaluation réalisée en vue de renouveler la certification technique peut conduire à retirer la certification technique en cours de validité.
 
 NOTA:
-Conformément au I de l’article 11 du décret n° 2023-50 du 1er février 2023, ces dispositions entrent en vigueur le 1er mai 2023. Se reporter aux conditions d’application prévues aux II à V dudit article.
+Conformément au I de l’article 11 du décret n° 2023-50 du 1<sup>er</sup> février 2023, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2023. Se reporter aux conditions d’application prévues aux II à V dudit article.

@@ -19,4 +19,4 @@ b) Aux personnes qui organisent des services privés de transport dans les condi
 c) Aux activités de mise en relation par voie électronique régies par le titre V.
 
 NOTA:
-Conformément aux dispositions prévues par l’article 5 de l’ordonnance n°2021-487, ces dispositions entrent en vigueur le 1er juin 2023.
+Conformément aux dispositions prévues par l’article 5 de l’ordonnance n°2021-487, ces dispositions entrent en vigueur le 1<sup>er</sup> juin 2023.

@@ -15,4 +15,4 @@ Les ressources de l'établissement comprennent :
 5° Toute autre ressource directement affectée à l'établissement.
 
 NOTA:
-Conformément à l’article 51 du décret n° 2024-610 du 26 juin 2024, ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément à l’article 51 du décret n° 2024-610 du 26 juin 2024, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2025.

@@ -4,9 +4,8 @@ DONNÉES LIÉES AU STATUT NAVIGATIONNEL ET AU POINT D'ACQUISITION DE L'INFORMATI
 
 1. Statut navigationnel
 
-| | | |
-| --- | --- | --- |
 | 0 | Under way using engine | En cours de voyage avec utilisation du moteur |
+| -- | -- | -- |
 | 1 | At anchor | A l'ancre |
 | 2 | Not under command | Non maître de sa manœuvre |
 | 3 | Restricted manoeuvrability | Manœuvrabilité restreinte |

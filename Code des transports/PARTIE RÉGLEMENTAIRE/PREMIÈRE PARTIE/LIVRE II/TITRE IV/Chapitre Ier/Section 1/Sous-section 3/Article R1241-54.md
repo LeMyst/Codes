@@ -7,4 +7,4 @@ Ce compte est accompagné de tous états de développement nécessaires, du rapp
 Ce compte fait l'objet d'un vote par le conseil d'Ile-de-France Mobilités avant le 30 juin de l'année qui suit la clôture de l'exercice.
 
 NOTA:
-Conformément à l’article 13 du décret n°2025-1428 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur à compter de l'exercice budgétaire 2026, soit le 1er janvier 2026.
+Conformément à l’article 13 du décret n°2025-1428 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur à compter de l'exercice budgétaire 2026, soit le 1<sup>er</sup> janvier 2026.

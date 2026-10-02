@@ -708,25 +708,20 @@ Articles A. 3113-39-1 et A. 3211-40-1 du code des transports.
 
 DÉCLARATIONS RELATIVES AU SUIVI DE LA FORMATION ET AUX EXAMENS
 
-| |
-| --- |
-| Civilité : M./ Mme Nom : Prénom : Adresse complète :Né (e) le : à :Nationalité : |
+| Civilité : M./ Mme Nom : Prénom :<br>Adresse complète :<br>Né (e) le : à :<br>Nationalité : |
+| -- |
 
-| |
-| --- |
-| Intitulé de la formation : Lieu et dates de la formation : |
+| Intitulé de la formation :<br>Lieu et dates de la formation : |
+| -- |
 
-| |
-| --- |
-| 1. Suivi de la formation et premier examen. Lieu et date de l'examen :Le directeur du centre de formation, organisateur du premier examen, déclare que M./ Mme : a suivi la formation mentionnée ci-dessus et a passé sans succès le premier examen.Cachet du centre :Date :Signature : |
+| 1. Suivi de la formation et premier examen.<br>Lieu et date de l'examen :<br>Le directeur du centre de formation, organisateur du premier examen, déclare que M./ Mme : a suivi la formation mentionnée ci-dessus et a passé sans succès le premier examen.<br>Cachet du centre :<br>Date :<br>Signature : |
+| -- |
 
-| |
-| --- |
-| 2. Deuxième examen. Lieu et date de l'examen :Le directeur du centre de formation, organisateur du deuxième examen, agréé le : par le préfet de la région(n° d'agrément), déclare que M./ Mme a passé sans succès le deuxième examen.Cachet du centre :Date :Signature : |
+| 2. Deuxième examen.<br>Lieu et date de l'examen :<br>Le directeur du centre de formation, organisateur du deuxième examen, agréé le : par le préfet de la région<br>(n° d'agrément), déclare que M./ Mme a passé sans succès le deuxième examen.<br>Cachet du centre :<br>Date :<br>Signature : |
+| -- |
 
-| |
-| --- |
-| 3. Troisième examen. Lieu et date de l'examen :Le directeur du centre de formation, organisateur du troisième examen, agréé le : par le préfet de la région(n° d'agrément), déclare que M./ Mme a passé sans succès le troisième examen.Cachet du centre :Date :Signature : |
+| 3. Troisième examen.<br>Lieu et date de l'examen :<br>Le directeur du centre de formation, organisateur du troisième examen, agréé le : par le préfet de la région<br>(n° d'agrément), déclare que M./ Mme a passé sans succès le troisième examen.<br>Cachet du centre :<br>Date :<br>Signature : |
+| -- |
 
 (1) Cocher la case correspondante.
 

@@ -7,4 +7,4 @@ Pour ce qui concerne les transports de substances radioactives, ces prescription
 Les dispositions du présent article ne s'appliquent pas aux transports mentionnés au 5° du I de l'article R.\* 1333-37 du code de la défense.
 
 NOTA:
-Conformément à l’article 9 du décret n° 2024-1194 du 19 décembre 2024, ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément à l’article 9 du décret n° 2024-1194 du 19 décembre 2024, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2025.

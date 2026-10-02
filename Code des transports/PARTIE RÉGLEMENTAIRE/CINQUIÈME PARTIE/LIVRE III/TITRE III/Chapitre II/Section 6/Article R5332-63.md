@@ -9,4 +9,4 @@ L'agrément mentionné au 5° de l'article R. 5332-62 est délivré conjointemen
 Les agréments mentionnés aux 7° et 8° de l'article R. 5332-62 sont délivrés par le préfet du département dans lequel est situé le siège social de la compagnie maritime ou de la personne morale demandant ou détenant l'habilitation prévue à l'article L. 5332-20.
 
 NOTA:
-Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1<sup>er</sup> juillet 2026.

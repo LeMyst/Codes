@@ -1,1 +1,1 @@
-Chapitre II : Dispositions propres à la collectivité de Corse
+# Chapitre II : Dispositions propres à la collectivité de Corse

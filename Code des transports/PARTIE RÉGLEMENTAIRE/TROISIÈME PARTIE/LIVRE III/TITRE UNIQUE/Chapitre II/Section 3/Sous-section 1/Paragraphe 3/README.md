@@ -1,1 +1,16 @@
-Paragraphe 3 : Durée du travail
+# Paragraphe 3 : Durée du travail
+
+- [Article D3312-41](Article%20D3312-41.md)
+- [Article D3312-42](Article%20D3312-42.md)
+- [Article D3312-43](Article%20D3312-43.md)
+- [Article R3312-44](Article%20R3312-44.md)
+- [Article D3312-45](Article%20D3312-45.md)
+- [Article D3312-46](Article%20D3312-46.md)
+- [Article R3312-47](Article%20R3312-47.md)
+- [Article D3312-47-1](Article%20D3312-47-1.md)
+- [Article R3312-48](Article%20R3312-48.md)
+- [Article R3312-49](Article%20R3312-49.md)
+- [Article R3312-50](Article%20R3312-50.md)
+- [Article R3312-51](Article%20R3312-51.md)
+- [Article R3312-52](Article%20R3312-52.md)
+- [Article R3312-53](Article%20R3312-53.md)

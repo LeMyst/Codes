@@ -23,4 +23,4 @@ d) Autres objets ou substances dont la détention, le port et le transport à bo
 En cas de non-respect des mesures de sûreté, l'autorité portuaire ou l'exploitant de l'installation portuaire sollicitent l'intervention de la force publique.
 
 NOTA:
-Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1<sup>er</sup> juillet 2026.

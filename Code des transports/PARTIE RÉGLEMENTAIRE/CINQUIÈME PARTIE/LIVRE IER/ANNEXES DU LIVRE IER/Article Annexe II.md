@@ -111,30 +111,30 @@ E. - En ce qui concerne les émissions sonores des bateaux de plaisance équipé
 
 1. Lorsque les essais sont effectués à l'aide de la norme harmonisée pour la mesure du niveau sonore, l'un quelconque des modules suivants :
 
-- module A1 (contrôle interne de la fabrication et essais supervisés du produit) ;
+   - module A1 (contrôle interne de la fabrication et essais supervisés du produit) ;
 
-- module G (conformité sur la base de la vérification à l'unité) ;
+   - module G (conformité sur la base de la vérification à l'unité) ;
 
-- module H (conformité sur la base de l'assurance complète de qualité).
+   - module H (conformité sur la base de l'assurance complète de qualité).
 
-2. Lorsque les essais ne sont pas effectués à l'aide de la norme harmonisée pour la mesure du niveau sonore, le module G (conformité sur la base de la vérification à l'unité).
+1. Lorsque les essais ne sont pas effectués à l'aide de la norme harmonisée pour la mesure du niveau sonore, le module G (conformité sur la base de la vérification à l'unité).
 
 1. Lorsque le nombre de Froude et la méthode de détermination du rapport puissance/déplacement sont utilisés pour l'évaluation, l'un quelconque des modules suivants :
 
-- module A (contrôle interne de la fabrication) ;
+   - module A (contrôle interne de la fabrication) ;
 
-- module G (conformité sur la base de l'assurance complète de la qualité) ;
+   - module G (conformité sur la base de l'assurance complète de la qualité) ;
 
-- module H (conformité sur la base de l'assurance complète de la qualité).
+   - module H (conformité sur la base de l'assurance complète de la qualité).
 
 F. - En ce qui concerne les émissions sonores des véhicules nautiques à moteur ainsi que des moteurs hors-bord de propulsion et des moteurs de propulsion à embase arrière avec échappement intégré conçus pour être installés sur des bateaux de plaisance, le fabricant du véhicule nautique à moteur ou du moteur applique les procédures suivantes, énoncées à l'annexe II de la décision n° 768/2008/CE du Parlement européen et du Conseil du 9 juillet 2008 :
 
 1. Lorsque les essais sont effectués à l'aide de la norme harmonisée pour la mesure du niveau sonore, l'un quelconque des modules suivants :
 
-- module A1 (contrôle interne de la fabrication et essais supervisés du produit) ;
+   - module A1 (contrôle interne de la fabrication et essais supervisés du produit) ;
 
-- module G (conformité sur la base de la vérification à l'unité) ;
+   - module G (conformité sur la base de la vérification à l'unité) ;
 
-- module H (conformité sur la base de l'assurance complète de la qualité).
+   - module H (conformité sur la base de l'assurance complète de la qualité).
 
-2. Lorsque les essais ne sont pas effectués à l'aide de la norme harmonisée pour la mesure du niveau sonore, le module G (conformité sur la base de la vérification à l'unité)
+1. Lorsque les essais ne sont pas effectués à l'aide de la norme harmonisée pour la mesure du niveau sonore, le module G (conformité sur la base de la vérification à l'unité)

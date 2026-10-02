@@ -13,4 +13,4 @@ Au sens du présent titre :
 5° Les “ opérateurs de service numérique de mise en relation commerciale de transport public routier de marchandises ” s'entendent des opérateurs mentionnés au 1° du présent article qui proposent un service d'intermédiation, fourni à distance par voie électronique, entre des entreprises de transport public routier de marchandises et des clients, présentant un caractère indissociable de la prestation de transport proprement dite, dans la mesure où cette intermédiation tend à donner à des clients l'accès à une offre de services de transport sur le contenu de laquelle l'opérateur exerce une influence décisive en définissant les conditions essentielles de ces services, de leur exécution ou de leur prix ou en sélectionnant le transporteur retenu.
 
 NOTA:
-Conformément aux dispositions prévues par l’article 5 de l’ordonnance n° 2021-487, ces dispositions entrent en vigueur au 1er janvier 2022.
+Conformément aux dispositions prévues par l’article 5 de l’ordonnance n° 2021-487, ces dispositions entrent en vigueur au 1<sup>er</sup> janvier 2022.

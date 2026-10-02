@@ -25,8 +25,8 @@ Les dispositions de la présente section s'appliquent à :
 Lorsque la personne pour laquelle l'autorisation, l'agrément ou l'habilitation est sollicité n'est pas encore recrutée ou effectue une période d'essai, la demande est faite par le futur employeur. Pour le candidat aux fonctions de pilote inscrit au concours de pilotage prévu par l'article R. 5341-24, elle est faite par le chef du service de pilotage.
 
 NOTA:
-Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1<sup>er</sup> juillet 2026.
 
-Conformément au II de l'article 19 du décret n° 2026-524 du 18 juin 2026, les pilotes en fonction, à la date d'entrée en vigueur dudit décret, dans les stations de pilotage soumises aux dispositions du chapitre Ier du titre IV du livre III de la cinquième partie du code des transports sont réputés détenir l'agrément prévu au 6° de l'article R. 5332-62 du code des transports, dans sa rédaction issue du décret précité.
+Conformément au II de l'article 19 du décret n° 2026-524 du 18 juin 2026, les pilotes en fonction, à la date d'entrée en vigueur dudit décret, dans les stations de pilotage soumises aux dispositions du chapitre I<sup>er</sup> du titre IV du livre III de la cinquième partie du code des transports sont réputés détenir l'agrément prévu au 6° de l'article R. 5332-62 du code des transports, dans sa rédaction issue du décret précité.
 
 La durée de validité de cet agrément est celle de l'habilitation délivrée au pilote en application du 4° de l'article R. 5332-48 du code des transports, dans sa rédaction applicable avant l'entrée en vigueur dudit décret.

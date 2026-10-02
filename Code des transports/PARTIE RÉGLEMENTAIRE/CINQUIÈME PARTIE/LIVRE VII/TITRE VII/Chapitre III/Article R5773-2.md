@@ -13,4 +13,4 @@ Pour l'application des dispositions mentionnées à l'article R. 5773-1 :
 5° Pour l'application du 6° de l'article R. 5332-62, les mots : "à l'article L. 5341-1" sont remplacés par les mots : "par la réglementation en vigueur localement".
 
 NOTA:
-Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1<sup>er</sup> juillet 2026.

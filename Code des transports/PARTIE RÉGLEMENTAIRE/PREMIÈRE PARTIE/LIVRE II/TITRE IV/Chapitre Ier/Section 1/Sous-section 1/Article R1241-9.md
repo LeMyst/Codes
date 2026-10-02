@@ -49,4 +49,4 @@ Toutefois, ne peuvent pas être déléguées et doivent faire l'objet de décisi
 Le conseil peut déléguer aux commissions prévues par l'article R. 1241-8 certaines décisions relatives à l'attribution de subventions à des projets d'investissement dont le montant ne dépasse pas un seuil qu'il fixe. Les commissions ne peuvent prendre de décisions qu'à l'unanimité de leurs membres présents.
 
 NOTA:
-Conformément à l’article 13 du décret n°2025-1428 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur à compter de l'exercice budgétaire 2026, soit le 1er janvier 2026.
+Conformément à l’article 13 du décret n°2025-1428 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur à compter de l'exercice budgétaire 2026, soit le 1<sup>er</sup> janvier 2026.

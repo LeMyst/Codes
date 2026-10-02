@@ -1,1 +1,15 @@
-Section 4 : Constitution et liquidation des droits à pension
+# Section 4 : Constitution et liquidation des droits à pension
+
+- [Article R6527-21](Article%20R6527-21.md)
+- [Article R6527-22](Article%20R6527-22.md)
+- [Article R6527-23](Article%20R6527-23.md)
+- [Article R6527-24](Article%20R6527-24.md)
+- [Article R6527-25](Article%20R6527-25.md)
+- [Article R6527-26](Article%20R6527-26.md)
+- [Article R6527-27](Article%20R6527-27.md)
+- [Article R6527-28](Article%20R6527-28.md)
+- [Article R6527-29](Article%20R6527-29.md)
+- [Article R6527-30](Article%20R6527-30.md)
+- [Article R6527-31](Article%20R6527-31.md)
+- [Article R6527-32](Article%20R6527-32.md)
+- [Article R6527-33](Article%20R6527-33.md)

@@ -19,4 +19,4 @@ Le conseil de surveillance peut mettre fin aux fonctions des membres du directoi
 III. - La nomination en tant que président ou membre du directoire emporte la délivrance de l'autorisation prévue au 1° de l'article R. 5332-62, aussi longtemps que les conditions de nomination prévues par le dernier alinéa de l'article L. 5312-9 sont remplies.
 
 NOTA:
-Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1<sup>er</sup> juillet 2026.

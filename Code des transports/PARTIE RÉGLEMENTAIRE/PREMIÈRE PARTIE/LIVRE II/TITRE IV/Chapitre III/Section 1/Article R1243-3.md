@@ -11,4 +11,4 @@ Dans son ressort territorial, l'établissement public de coopération intercommu
 L'établissement public de coopération intercommunale à fiscalité propre continue de participer au service de la dette issue des emprunts contractés par l'autorité organisatrice des mobilités des territoires lyonnais alors qu'il en était membre, jusqu'au remboursement complet de ces emprunts. Le conseil d'administration de l'autorité organisatrice des mobilités des territoires lyonnais constate le montant de la charge de ces emprunts lorsqu'il adopte le budget. A défaut d'accord entre l'autorité organisatrice des mobilités des territoires lyonnais et l'établissement public de coopération intercommunale à fiscalité propre sur la répartition du solde de la dette, celle-ci est fixée par arrêté du représentant de l'Etat dans le ou les départements concernés.
 
 NOTA:
-Conformément à l’article 5 du décret n° 2021-766 du 14 juin 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 5 du décret n° 2021-766 du 14 juin 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

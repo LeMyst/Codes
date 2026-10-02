@@ -5,4 +5,4 @@ Dans un délai maximum de six mois après l'identification d'un port par l'arrê
 L'évaluation de sûreté du port est révisée à chaque fois que les circonstances l'exigent et, dans tous les cas, avant sa date d'échéance. Chaque révision de l'évaluation de sûreté du port est approuvée dans les conditions prévues pour son établissement.
 
 NOTA:
-Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1<sup>er</sup> juillet 2026.

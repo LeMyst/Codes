@@ -11,4 +11,4 @@ I.-Tout conducteur doit être en mesure de justifier de la régularité de sa si
 II.-La présentation du certificat de qualification mentionné à l'article R. 3314-27 permet au conducteur de justifier, sur le territoire national, dans l'attente de l'obtention de sa carte de qualification de conducteur, de la régularité de sa situation au regard des obligations de qualification initiale ou de formation continue, pendant une période provisoire dont la durée maximale est fixée par arrêté du ministre chargé des transports.
 
 NOTA:
-Conformément à l’article 3 du décret n° 2021-1482 du 12 novembre 2021, ces dispositions entrent en vigueur le premier jour du troisième mois suivant la publication dudit décret (1er février 2022).
+Conformément à l’article 3 du décret n° 2021-1482 du 12 novembre 2021, ces dispositions entrent en vigueur le premier jour du troisième mois suivant la publication dudit décret (1<sup>er</sup> février 2022).

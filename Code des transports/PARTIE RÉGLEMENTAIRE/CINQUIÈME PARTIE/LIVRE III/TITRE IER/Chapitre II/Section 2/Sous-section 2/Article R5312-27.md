@@ -11,4 +11,4 @@ A cet effet, selon le cas, le ministre ou le préfet compétent :
 La date à laquelle l'enquête administrative prévue au dernier alinéa de l'article L. 5312-9 est renouvelée est celle de la date anniversaire de la décision de nomination.
 
 NOTA:
-Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1<sup>er</sup> juillet 2026.

@@ -3,7 +3,7 @@
 Sont applicables aux Wallis-et-Futuna, sous réserve des dispositions d'adaptations prévues au présent chapitre, les dispositions du livre Ier de la présente partie mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
+| -- | -- |
 | D. 5111-1 | Résultant du décret n° 2016-1893 du 28 décembre 2016 |
 | D. 5111-2 | Résultant du décret n° 2021-1887 du 29 décembre 2021 |
 | D. 5111-3 | Résultant du décret n° 2016-1893 du 28 décembre 2016 |

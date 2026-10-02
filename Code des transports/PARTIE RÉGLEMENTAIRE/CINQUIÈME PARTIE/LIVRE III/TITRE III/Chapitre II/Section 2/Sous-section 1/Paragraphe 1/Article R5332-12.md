@@ -15,4 +15,4 @@ II. - Ces mesures sont établies en tenant compte des mesures de sûreté mises 
 3° Peut fixer des règles particulières de circulation des navires sur le plan d'eau.
 
 NOTA:
-Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1<sup>er</sup> juillet 2026.

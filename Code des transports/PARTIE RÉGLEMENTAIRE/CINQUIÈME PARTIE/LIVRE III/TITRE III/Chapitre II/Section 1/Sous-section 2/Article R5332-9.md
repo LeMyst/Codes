@@ -23,4 +23,4 @@ Le comité local de sûreté portuaire regroupe, sous la présidence du préfet 
 Le président peut consulter les membres du comité local de sûreté portuaire individuellement ainsi que tout représentant du ministre chargé des transports ou toute personne qualifiée en sûreté portuaire.
 
 NOTA:
-Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1<sup>er</sup> juillet 2026.

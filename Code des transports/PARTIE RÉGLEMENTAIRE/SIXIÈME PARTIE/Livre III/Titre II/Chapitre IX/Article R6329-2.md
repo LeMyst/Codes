@@ -9,4 +9,4 @@ Si, à l'expiration du délai imparti par la mise en demeure, le gestionnaire n'
 Cette décision motivée mentionne le délai et les modalités de paiement de l'amende, dont le recouvrement est effectué au profit du Trésor public comme en matière de créances étrangères à l'impôt et au domaine.
 
 NOTA:
-Conformément à l'article 2 du décret n° 2025-1106 du 21 novembre 2025, ces dispositions, dans leur rédaction issue de l'article 1er dudit décret, entrent en vigueur le 1er janvier 2026.
+Conformément à l'article 2 du décret n° 2025-1106 du 21 novembre 2025, ces dispositions, dans leur rédaction issue de l'article 1<sup>er</sup> dudit décret, entrent en vigueur le 1<sup>er</sup> janvier 2026.

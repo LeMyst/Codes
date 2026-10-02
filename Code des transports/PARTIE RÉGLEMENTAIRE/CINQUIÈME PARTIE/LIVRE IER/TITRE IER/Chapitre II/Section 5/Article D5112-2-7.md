@@ -11,4 +11,4 @@ Sans préjudice du même article L. 5112-1-21, ses compétences et obligations e
 Le service mentionné au premier alinéa est également compétent pour encaisser les montants de la taxe acquittée en l'absence d'émission d'un titre de perception dans les conditions prévues par les dispositions de la sous-section 3 de la section 2 du chapitre III du titre II du livre IV de la partie réglementaire du code des impositions sur les biens et services.
 
 NOTA:
-Conformément à l’article 51 du décret n° 2024-610 du 26 juin 2024, ces dispositions entrent en vigueur le 1er janvier 2025.
+Conformément à l’article 51 du décret n° 2024-610 du 26 juin 2024, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2025.

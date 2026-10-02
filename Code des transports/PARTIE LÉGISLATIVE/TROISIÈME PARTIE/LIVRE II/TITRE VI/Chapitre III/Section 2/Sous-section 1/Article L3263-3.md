@@ -7,4 +7,4 @@ II.-Saisie de procès-verbaux constatant un manquement aux obligations qui lui i
 Ces mesures sont mentionnées au registre prévu à l'article L. 3263-2.
 
 NOTA:
-Conformément aux dispositions prévues par l’article 5 de l’ordonnance n°2021-487, ces dispositions entrent en vigueur le 1er juin 2023.
+Conformément aux dispositions prévues par l’article 5 de l’ordonnance n°2021-487, ces dispositions entrent en vigueur le 1<sup>er</sup> juin 2023.

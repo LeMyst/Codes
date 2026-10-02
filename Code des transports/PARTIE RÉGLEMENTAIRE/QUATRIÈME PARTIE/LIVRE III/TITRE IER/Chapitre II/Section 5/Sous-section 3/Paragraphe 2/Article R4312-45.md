@@ -7,4 +7,4 @@ Elle gère le budget des activités sociales et culturelles des salariés mentio
 La commission mandate soit le directeur général de l'établissement public ou son représentant, soit un représentant du personnel qui siège en son sein pour la représenter et ester en justice sur les questions relevant de sa compétence.
 
 NOTA:
-Conformément à l’article 5 du décret n° 2022-1142 (TREK2211205D), ces dispositions entrent en vigueur le 1er janvier 2023.
+Conformément à l’article 5 du décret n° 2022-1142 (TREK2211205D), ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2023.

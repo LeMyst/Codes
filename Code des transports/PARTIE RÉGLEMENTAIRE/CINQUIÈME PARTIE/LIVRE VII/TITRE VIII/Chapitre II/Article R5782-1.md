@@ -3,7 +3,7 @@
 Sont applicables à Wallis-et-Futuna, sous réserve des dispositions d'adaptations prévues au présent article, les dispositions du titre III du livre II de la présente partie mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
+| -- | -- |
 | R. 5232-1 | Résultant du décret n° 2024-461 du 22 mai 2024 |
 | R. 5232-1-1 | Résultant du décret n° 2020-1004 du 6 août 2020 |
 | R. 5232-2 | Résultant du décret n° 2017-942 du 10 mai 2017 |

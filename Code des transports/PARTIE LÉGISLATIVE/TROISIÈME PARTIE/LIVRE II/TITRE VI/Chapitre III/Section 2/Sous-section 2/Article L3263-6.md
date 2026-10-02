@@ -5,4 +5,4 @@ L'opérateur de service numérique de mise en relation commerciale peut s'exoné
 Toute clause contraire insérée dans les conditions générales d'utilisation ou les conditions générales de vente pour les contrats formés dans les conditions énoncées au 5° de l'article L. 3261-1 est nulle.
 
 NOTA:
-Conformément aux dispositions prévues par l’article 5 de l’ordonnance n°2021-487, ces dispositions entrent en vigueur au 1er janvier 2022.
+Conformément aux dispositions prévues par l’article 5 de l’ordonnance n°2021-487, ces dispositions entrent en vigueur au 1<sup>er</sup> janvier 2022.

@@ -72,10 +72,10 @@ Une photo peut, le cas échéant, être reproduite ;
 
 Reprise du tableau du paragraphe 4.4 de l'ESP faisant apparaître la date de mise en œuvre programmée des mesures de sûreté répondant aux contre-mesures définies par l'ESP.
 
-| Tableau des contre-mesures de l'évaluation de sûreté du port |
-| --- |
-| Classement par ordre de priorité | Point sensible concerné et principale vulnérabilité | Numéro d'ordre et libellé | Date de mise en œuvre programmée des mesures de sûreté |
-| | | | |
+| Tableau des contre-mesures de l'évaluation de sûreté du port |  |  |  |
+| -- | -- | -- | -- |
+| Classement par ordre<br>de priorité | Point sensible concerné et principale<br>vulnérabilité | Numéro d'ordre et libellé | Date de mise en œuvre programmée des mesures de sûreté |
+|  |  |  |  |
 
 4. Organisation générale de la sûreté du port
 
@@ -286,7 +286,7 @@ Identification des personnes ayant accès aux informations de sûreté protégé
 Liste des services à qui le PSP est notifié, avec mention du numéro de l'exemplaire.
 
 | Service | Exemplaire |
-| --- | --- |
+| -- | -- |
 | Autorité portuaire | 1 sur … |
 | Préfecture maritime | 2 sur … |
 | Ministère chargé des transports | 3 sur … |
@@ -297,11 +297,11 @@ Liste des services à qui le PSP est notifié, avec mention du numéro de l'exem
 Liste des personnes à qui des extraits du PSP sont communiqués, avec mention de la référence aux paragraphes 5.1.2 (c et i), 6.2.2 et 10.3.3 desdits extraits.
 
 | Personne | Extraits |
-| --- | --- |
-| X | |
-| X | |
-| X | |
-| X | |
+| -- | -- |
+| X |  |
+| X |  |
+| X |  |
+| X |  |
 
 9.2.3. Informations communicables à des fins d'information du public ou d'exploitation opérationnelle de la sûreté du port
 
@@ -325,138 +325,137 @@ Mise en annexe, par commodité, de toute carte annoncée dans les parties préc�
 
 10.3.1. Autorité portuaire et, éventuellement, personne morale ayant reçu délégation de gestion ou de concession du port
 
-| Direction du port |
-| --- |
-| NOM Prénom | |
-| Téléphone professionnel fixe | |
-| Téléphone professionnel portable | |
-| Téléphone personnel (le cas échéant) | |
-| Télécopie | |
-| Courriel | |
+| Direction du port |  |
+| -- | -- |
+| NOM Prénom |  |
+| Téléphone professionnel fixe |  |
+| Téléphone professionnel portable |  |
+| Téléphone personnel (le cas échéant) |  |
+| Télécopie |  |
+| Courriel |  |
 
-| Exploitation du port (le cas échéant personne morale ayant reçu délégation de gestion ou de concession du port) |
-| --- |
-| NOM Prénom | |
-| Téléphone professionnel fixe | |
-| Téléphone professionnel portable | |
-| Téléphone personnel (le cas échéant) | |
-| Télécopie | |
-| Courriel | |
+| Exploitation du port (le cas échéant personne morale ayant reçu délégation de gestion ou de concession du port) |  |
+| -- | -- |
+| NOM Prénom |  |
+| Téléphone professionnel fixe |  |
+| Téléphone professionnel portable |  |
+| Téléphone personnel (le cas échéant) |  |
+| Télécopie |  |
+| Courriel |  |
 
-| Correspondant sûreté de la personne morale ayant reçu délégation de gestion ou de concession du port (éventuellement) |
-| --- |
-| NOM Prénom | |
-| Téléphone professionnel fixe | |
-| Téléphone professionnel portable | |
-| Téléphone personnel (le cas échéant) | |
-| Télécopie | |
-| Courriel | |
+| Correspondant sûreté de la personne morale ayant reçu délégation de gestion ou de concession du port (éventuellement) |  |
+| -- | -- |
+| NOM Prénom |  |
+| Téléphone professionnel fixe |  |
+| Téléphone professionnel portable |  |
+| Téléphone personnel (le cas échéant) |  |
+| Télécopie |  |
+| Courriel |  |
 
 10.3.2. ASP titulaire et suppléant (s)
 
-| ASP titulaire |
-| --- |
-| NOM Prénom | |
-| Téléphone professionnel fixe | |
-| Téléphone professionnel portable | |
-| Téléphone personnel (le cas échéant) | |
-| Télécopie | |
-| Courriel | |
+| ASP titulaire |  |
+| -- | -- |
+| NOM Prénom |  |
+| Téléphone professionnel fixe |  |
+| Téléphone professionnel portable |  |
+| Téléphone personnel (le cas échéant) |  |
+| Télécopie |  |
+| Courriel |  |
 
-| ASP suppléant |
-| --- |
-| NOM Prénom | |
-| Téléphone professionnel fixe | |
-| Téléphone professionnel portable | |
-| Téléphone personnel (le cas échéant) | |
-| Télécopie | |
-| Courriel | |
+| ASP suppléant |  |
+| -- | -- |
+| NOM Prénom |  |
+| Téléphone professionnel fixe |  |
+| Téléphone professionnel portable |  |
+| Téléphone personnel (le cas échéant) |  |
+| Télécopie |  |
+| Courriel |  |
 
-| ASP suppléant |
-| --- |
-| NOM Prénom | |
-| Téléphone professionnel fixe | |
-| Téléphone professionnel portable | |
-| Téléphone personnel (le cas échéant) | |
-| Télécopie | |
-| Courriel | |
+| ASP suppléant |  |
+| -- | -- |
+| NOM Prénom |  |
+| Téléphone professionnel fixe |  |
+| Téléphone professionnel portable |  |
+| Téléphone personnel (le cas échéant) |  |
+| Télécopie |  |
+| Courriel |  |
 
 10.3.3. Personnes chargées de la sûreté du port
 
-| Fonction | NOM Prénom | Téléphone professionnelfixe | Téléphone professionnelmobile | Téléphone personnel(le cas échéant) | Télécopie | Courriel |
-| --- | --- | --- | --- | --- | --- | --- |
-| Responsable de | | | | | | |
-| PC sûreté | | | | | | |
-| | | | | | | |
-| Responsable du point d'inspection-filtrage n° 1 | | | | | | |
-| Responsable du point d'inspection-filtrage n° 2 | | | | | | |
-| … | | | | | | |
+| Fonction | NOM Prénom | Téléphone<br>professionnel<br>fixe | Téléphone<br>professionnel<br>mobile | Téléphone<br>personnel<br>(le cas échéant) | Télécopie | Courriel |
+| -- | -- | -- | -- | -- | -- | -- |
+| Responsable de |  |  |  |  |  |  |
+| PC sûreté |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+| Responsable du point d'inspection-filtrage n° 1 |  |  |  |  |  |  |
+| Responsable du point d'inspection-filtrage n° 2 |  |  |  |  |  |  |
+| … |  |  |  |  |  |  |
 
 10.3.4. Personnes ressources en matière de sûreté
 
-| Fonction | NOM Prénom | Téléphone professionnelfixe | Téléphone professionnelmobile | Téléphone personnel(le cas échéant) | Télécopie | Courriel |
-| --- | --- | --- | --- | --- | --- | --- |
-| Capitainerie, AIPPP | | | | | | |
-| Responsable station de pilotage | | | | | | |
+| Fonction | NOM Prénom | Téléphone<br>professionnel<br>fixe | Téléphone<br>professionnel<br>mobile | Téléphone<br>personnel<br>(le cas échéant) | Télécopie | Courriel |
+| -- | -- | -- | -- | -- | -- | -- |
+| Capitainerie, AIPPP |  |  |  |  |  |  |
+| Responsable station de pilotage |  |  |  |  |  |  |
 
 10.3.5. Référents en matière de sûreté des services publics
 
-| Fonction | NOM Prénom | Téléphone professionnelfixe | Téléphone professionnelmobile | Téléphone personnel(le cas échéant) | Télécopie | Courriel |
-| --- | --- | --- | --- | --- | --- | --- |
-| Préfecture (spécifier le service) | | | | | | |
-| Préfecture maritime (spécifier le service) | | | | | | |
-| Gendarmerie maritime | | | | | | |
-| Police aux Frontières | | | | | | |
-| Sécurité publique | | | | | | |
-| Gendarmerie départementale | | | | | | |
-| Douanes | | | | | | |
-| Affaires maritimes | | | | | | |
-| Service d'incendie et de secours | | | | | | |
-| Sécurité civile | | | | | | |
+| Fonction | NOM Prénom | Téléphone<br>professionnel<br>fixe | Téléphone<br>professionnel<br>mobile | Téléphone<br>personnel<br>(le cas échéant) | Télécopie | Courriel |
+| -- | -- | -- | -- | -- | -- | -- |
+| Préfecture (spécifier le service) |  |  |  |  |  |  |
+| Préfecture maritime (spécifier le service) |  |  |  |  |  |  |
+| Gendarmerie maritime |  |  |  |  |  |  |
+| Police aux Frontières |  |  |  |  |  |  |
+| Sécurité publique |  |  |  |  |  |  |
+| Gendarmerie départementale |  |  |  |  |  |  |
+| Douanes |  |  |  |  |  |  |
+| Affaires maritimes |  |  |  |  |  |  |
+| Service d'incendie et de secours |  |  |  |  |  |  |
+| Sécurité civile |  |  |  |  |  |  |
 
 10.3.6. ASIP titulaire et suppléant (s) de chaque installation portuaire
 
-| |
-| --- |
-| DENOMINATION DE L'INSTALLATION PORTUAIRE ( INDICATIF INTERNATIONAL et NUMERO NATIONAL ) |
+| DENOMINATION DE L'INSTALLATION PORTUAIRE<br>( INDICATIF INTERNATIONAL et NUMERO NATIONAL ) |
+| -- |
 
-| ASP titulaire |
-| --- |
-| NOM Prénom | |
-| Téléphone 24/24 | |
-| Téléphone professionnel fixe | |
-| Téléphone professionnel portable | |
-| Téléphone personnel (le cas échéant) | |
-| Télécopie | |
-| Courriel | |
+| ASP titulaire |  |
+| -- | -- |
+| NOM Prénom |  |
+| Téléphone 24/24 |  |
+| Téléphone professionnel fixe |  |
+| Téléphone professionnel portable |  |
+| Téléphone personnel (le cas échéant) |  |
+| Télécopie |  |
+| Courriel |  |
 
-| ASP suppléant |
-| --- |
-| NOM Prénom | |
-| Téléphone 24/24 | |
-| Téléphone professionnel fixe | |
-| Téléphone professionnel portable | |
-| Téléphone personnel (le cas échéant) | |
-| Télécopie | |
-| Courriel | |
+| ASP suppléant |  |
+| -- | -- |
+| NOM Prénom |  |
+| Téléphone 24/24 |  |
+| Téléphone professionnel fixe |  |
+| Téléphone professionnel portable |  |
+| Téléphone personnel (le cas échéant) |  |
+| Télécopie |  |
+| Courriel |  |
 
-| ASP suppléant |
-| --- |
-| NOM Prénom | |
-| Téléphone 24/24 | |
-| Téléphone professionnel fixe | |
-| Téléphone professionnel portable | |
-| Téléphone personnel (le cas échéant) | |
-| Télécopie | |
-| Courriel | |
+| ASP suppléant |  |
+| -- | -- |
+| NOM Prénom |  |
+| Téléphone 24/24 |  |
+| Téléphone professionnel fixe |  |
+| Téléphone professionnel portable |  |
+| Téléphone personnel (le cas échéant) |  |
+| Télécopie |  |
+| Courriel |  |
 
 10.4. Autre (s) annexe (s)
 
 10.5. Annexe-Tableau d'enregistrement des modifications ou compléments au PSP apportés par l'ASP et approuvés par le préfet
 
-| Numéro de la modificationou du complément | Date de la modification ou du complément | Dispositions avant modificationou complément | Dispositions après modificationou complément | Visa de l'ASP (date et signature) | Décision du préfet de prescrireune nouvelleapprobation : résuméde la motivation(date et signature) |
-| --- | --- | --- | --- | --- | --- |
-| | | | | | |
+| Numéro<br>de la modification<br>ou du complément | Date de la modification ou du complément | Dispositions<br>avant modification<br>ou complément | Dispositions<br>après modification<br>ou complément | Visa de l'ASP<br>(date et signature) | Décision du préfet<br>de prescrire<br>une nouvelle<br>approbation : résumé<br>de la motivation<br>(date et signature) |
+| -- | -- | -- | -- | -- | -- |
+|  |  |  |  |  |  |
 
 10.6. Annexe classifiée au titre de la protection du secret de la défense nationale
 
@@ -492,8 +491,8 @@ ANNEXE À RENSEIGNER SI LE PORT OU UNE PARTIE DU PORT EST DÉSIGNÉ(E) POINT D'I
 
 7. Alertes, incidents de sûreté et situations de crise
 
-- organisation et moyens mis en œuvre en cas d'alerte ;
+   - organisation et moyens mis en œuvre en cas d'alerte ;
 
-- organisation et moyens mis en œuvre en cas d'incident avéré ou de sinistre ;
+   - organisation et moyens mis en œuvre en cas d'incident avéré ou de sinistre ;
 
-- modalités d'assistance à l'intervention éventuelle de la force publique.
+   - modalités d'assistance à l'intervention éventuelle de la force publique.

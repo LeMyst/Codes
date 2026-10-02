@@ -3,7 +3,7 @@
 Sont applicables en Nouvelle-Calédonie, sous réserve des dispositions d'adaptations prévues au présent chapitre, les dispositions du livre IV de la présente partie mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
+| -- | -- |
 | D. 5442-1-1 | Résultant du décret n° 2014-1419 du 28 novembre 2014 |
 | D. 5442-1-2 et D. 5442-1-3 | Résultant du décret n° 2023-975 du 23 octobre 2023 |
 | D. 5442-7 | Résultant du décret n° 2014-1419 du 28 novembre 2014 |

@@ -19,4 +19,4 @@ Lorsque la zone à accès restreint est à activation temporaire, l'évaluation 
 III. - L'autorité portuaire ou l'exploitant d'une installation portuaire qui estime être dans l'impossibilité de satisfaire une des exigences liées à la création d'une zone à accès restreint présente un dossier au préfet de département, lequel fixe, au regard des conclusions de l'évaluation de sûreté du port ou de l'installation portuaire, les mesures de sûreté alternatives.
 
 NOTA:
-Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1<sup>er</sup> juillet 2026.

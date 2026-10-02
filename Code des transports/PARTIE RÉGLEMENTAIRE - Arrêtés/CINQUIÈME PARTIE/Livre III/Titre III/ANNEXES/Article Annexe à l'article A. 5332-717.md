@@ -10,9 +10,8 @@ La transmission du dossier au secrétariat de la commission peut s'effectuer :
 
 - soit sous format papier, par dépôt auprès du secrétariat de la commission ou par envoi postal à ce dernier, à l'adresse suivante (\*) : ministère chargé des transports, secrétariat de la commission d'habilitation des organismes de sûreté, 92055 La Défense Cedex.
 
-| |
-| --- |
-| (\*) A la date d'entrée en vigueur de la présente annexe, il est recommandé de transmettre le dossier à l'adresse suivante : Ministère chargé des transports Direction générale des infrastructures, des transports et des mobilités Direction des transports ferroviaire et fluvial et des ports Sous-direction des ports Bureau de la sûreté portuaire et fluviale 92055 La Défense CEDEX |
+| (\*) A la date d'entrée en vigueur de la présente annexe, il est recommandé de transmettre le dossier à l'adresse suivante :<br>Ministère chargé des transports<br>Direction générale des infrastructures, des transports et des mobilités<br>Direction des transports ferroviaire et fluvial et des ports<br>Sous-direction des ports<br>Bureau de la sûreté portuaire et fluviale<br>92055 La Défense CEDEX |
+| -- |
 
 Le dossier transmis par toute société demandeuse est présenté conformément aux cinq parties suivantes et comporte, pour chacune d'elles, les informations, pièces et justificatifs suivants :
 

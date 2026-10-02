@@ -7,4 +7,4 @@ Tout port soumis aux dispositions du présent chapitre est identifié sur une li
 Toute installation portuaire soumise aux dispositions du présent chapitre est identifiée par un arrêté du préfet de département dans lequel elle se situe, pris sur proposition de l'autorité portuaire et qui précise son exploitant, son périmètre et ses principales caractéristiques physiques et fonctionnelles.
 
 NOTA:
-Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1<sup>er</sup> juillet 2026.

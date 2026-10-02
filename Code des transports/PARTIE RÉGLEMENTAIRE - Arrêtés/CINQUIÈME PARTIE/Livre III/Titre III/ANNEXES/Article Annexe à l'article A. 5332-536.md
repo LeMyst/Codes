@@ -34,26 +34,25 @@ Rappeler :
 
 Renseigner le tableau :
 
-| | |
-| --- | --- |
-| Nom du port | |
-| Nom de l'autorité portuaire | |
-| Nom des compagnies exploitant des navires | |
-| Ports desservis et navires bénéficiant d'exemptions de fournitures de pré-arrivées (cf. article 7.2 du règlement européen n° 725/2004). | |
-| Durée d'embarquement | |
-| Durée de la traversée | |
-| Nombre de passagers entrants | |
-| Nombre de postes à quai et de navires pouvant être traités simultanément. | |
-| Capacité du navire (nombre de passagers, de véhicules et de poids lourds pouvant être embarqués) | |
-| Statistiques |
-| Typologie : | Taux de contrôle réalisés par mois | Durée du contrôle |
-| | M1 | M2 | M3 | M4 | M5 | M6 | |
-| Passagers piétons et leurs bagages | Inspection-filtrage socle | | | | | | | |
-| Inspection-filtrage renforcée | | | | | | | |
-| Véhicules, leurs occupants et leurs bagages | Inspection-filtrage socle | | | | | | | |
-| Inspection-filtrage renforcée | | | | | | | |
-| Poids lourds et leurs occupants (si point d'inspection-filtrage fret ) | Inspection-filtrage socle | | | | | | | |
-| Inspection-filtrage renforcée | | | | | | | |
+| Nom du port |  |  |  |  |  |  |  |  |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- |
+| Nom de l'autorité portuaire |  |  |  |  |  |  |  |  |
+| Nom des compagnies exploitant des navires |  |  |  |  |  |  |  |  |
+| Ports desservis et navires bénéficiant d'exemptions de fournitures de pré-arrivées (cf. article 7.2 du règlement européen n° 725/2004). |  |  |  |  |  |  |  |  |
+| Durée d'embarquement |  |  |  |  |  |  |  |  |
+| Durée de la traversée |  |  |  |  |  |  |  |  |
+| Nombre de passagers entrants |  |  |  |  |  |  |  |  |
+| Nombre de postes à quai et de navires pouvant être traités simultanément. |  |  |  |  |  |  |  |  |
+| Capacité du navire (nombre de passagers, de véhicules et de poids lourds pouvant être embarqués) |  |  |  |  |  |  |  |  |
+| Statistiques |  |  |  |  |  |  |  |  |
+| Typologie : |  | Taux de contrôle réalisés par mois |  |  |  |  |  | Durée<br>du contrôle |
+|  |  | M1 | M2 | M3 | M4 | M5 | M6 |  |
+| Passagers piétons et leurs bagages | Inspection-filtrage socle |  |  |  |  |  |  |  |
+|  | Inspection-filtrage renforcée |  |  |  |  |  |  |  |
+| Véhicules, leurs occupants et leurs bagages | Inspection-filtrage socle |  |  |  |  |  |  |  |
+|  | Inspection-filtrage renforcée |  |  |  |  |  |  |  |
+| Poids lourds et leurs occupants (si point d'inspection-filtrage fret ) | Inspection-filtrage socle |  |  |  |  |  |  |  |
+|  | Inspection-filtrage renforcée |  |  |  |  |  |  |  |
 
 Nombre et nature de contrôles réalisés par les services de l'Etat et les matériels leur appartenant mis à la disposition de l'exploitant de la zone à accès restreint.
 
@@ -83,23 +82,22 @@ Préciser :
 
 Renseigner le tableau :
 
-| | |
-| --- | --- |
-| Nom de la compagnie et pavillon | |
-| Taux d'inspection-filtrage socle réalisés à bord du navire (pont garage) et ceux, le cas échéant, mutualisés, avec l'exploitant | |
-| Fréquence des contrôles | |
-| Dispositifs matériels et équipements de sûreté mobilisés à bord du navire | |
-| Contrôles réalisés à terre (si la compagnie est exploitante du port ou de l'installation portuaire) | |
-| Limitation des bagages à main en sortie des ponts garage | |
-| Porter à connaissance et modalités de mise en œuvre de l'interdiction de retour vers les espaces rouliers durant la traversée | |
-| Délivrance de billets nominatifs pour l'ensemble des passagers | |
-| Présence d'équipes privées de protection des navires | |
-| Embarquement d'équipe de protection des navires à passagers | |
-| Difficultés et obstacles à la mise en œuvre de contrôles en sortie des ponts garages | |
-| Date de la convention relative à la répartition des contrôles entre la compagnie maritime et l'exploitant du port ou de l'installation portuaire (ou indiquer si projet de convention) | |
-| Répartition des tâches zone à accès restreint/navire | |
-| Règles relatives à la liste des armes devant être déclarées et autorisées à bord du navire | |
-| Communication de la liste des armes dont le transport est autorisé à bord du navire | |
+| Nom de la compagnie et pavillon |  |
+| -- | -- |
+| Taux d'inspection-filtrage socle réalisés à bord du navire (pont garage) et ceux, le cas échéant, mutualisés, avec l'exploitant |  |
+| Fréquence des contrôles |  |
+| Dispositifs matériels et équipements de sûreté mobilisés à bord du navire |  |
+| Contrôles réalisés à terre (si la compagnie est exploitante du port ou de l'installation portuaire) |  |
+| Limitation des bagages à main en sortie des ponts garage |  |
+| Porter à connaissance et modalités de mise en œuvre de l'interdiction de retour vers les espaces rouliers durant la traversée |  |
+| Délivrance de billets nominatifs pour l'ensemble des passagers |  |
+| Présence d'équipes privées de protection des navires |  |
+| Embarquement d'équipe de protection des navires à passagers |  |
+| Difficultés et obstacles à la mise en œuvre de contrôles en sortie des ponts garages |  |
+| Date de la convention relative à la répartition des contrôles entre la compagnie maritime et l'exploitant du port ou de l'installation portuaire (ou indiquer si projet de convention) |  |
+| Répartition des tâches zone à accès restreint/navire |  |
+| Règles relatives à la liste des armes devant être déclarées et autorisées à bord du navire |  |
+| Communication de la liste des armes dont le transport est autorisé à bord du navire |  |
 
 3.2. Données qualitatives
 

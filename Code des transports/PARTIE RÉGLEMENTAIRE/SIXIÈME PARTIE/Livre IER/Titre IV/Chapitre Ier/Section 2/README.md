@@ -1,1 +1,1 @@
-Section 2 : Sanctions administratives
+# Section 2 : Sanctions administratives

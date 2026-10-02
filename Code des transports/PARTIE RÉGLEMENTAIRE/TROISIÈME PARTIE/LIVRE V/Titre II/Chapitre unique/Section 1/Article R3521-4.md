@@ -5,4 +5,4 @@ Les entreprises de transport public routier de personnes établies à Mayotte qu
 Lorsque l'obtention de la capacité professionnelle adaptée est soumise à la réussite à un examen écrit obligatoire, l'organisation et la gestion de cet examen donnent lieu à la perception de la redevance prévue à l'article R. 3113-35.
 
 NOTA:
-Conformément à l’article 3 du décret n° 2022-472 du 1er avril 2022, ces dispositions s'appliquent aux examens de capacité professionnelle organisés à compter du 1er janvier 2022.
+Conformément à l’article 3 du décret n° 2022-472 du 1<sup>er</sup> avril 2022, ces dispositions s'appliquent aux examens de capacité professionnelle organisés à compter du 1er janvier 2022.

@@ -5,4 +5,4 @@ Dans un délai maximum de six mois à compter de la date de publication de l'arr
 L'évaluation de sûreté de l'installation portuaire est révisée à chaque fois que les circonstances le justifient et, dans tous les cas, au moins tous les cinq ans à compter de sa première approbation. Chaque révision de l'évaluation de sûreté de l'installation portuaire est approuvée dans les conditions prévues pour son établissement.
 
 NOTA:
-Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1<sup>er</sup> juillet 2026.

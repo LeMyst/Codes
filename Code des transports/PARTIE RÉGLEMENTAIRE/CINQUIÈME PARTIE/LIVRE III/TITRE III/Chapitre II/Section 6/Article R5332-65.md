@@ -17,4 +17,4 @@ IV. - Les habilitations mentionnées aux 9° et 10° de l'article R. 5332-62 ouv
 V. - Les fonctionnaires de la police nationale, les militaires de la gendarmerie nationale, les agents des douanes et les agents chargés de missions d'audit, de contrôle et d'inspection relevant des ministres des transports, de la mer, du travail et de l'agriculture sont, dans l'exercice de leurs fonctions, réputés détenir l'autorisation prévue au 1° de l'article R. 5332-62.
 
 NOTA:
-Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1<sup>er</sup> juillet 2026.

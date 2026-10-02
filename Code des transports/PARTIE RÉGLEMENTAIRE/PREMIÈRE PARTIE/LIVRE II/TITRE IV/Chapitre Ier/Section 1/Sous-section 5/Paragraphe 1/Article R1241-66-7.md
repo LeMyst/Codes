@@ -9,4 +9,4 @@ Sont éligibles par ce collège les salariés mentionnés à l'article L. 2314-1
 Le procès-verbal établi pour le collège prévu au 2° du II de l'article L. 1241-13-2 est transmis au prestataire mentionné au premier alinéa de l'article R. 2314-22 du code du travail.
 
 NOTA:
-Conformément au premier alinéa de l'article 2 du décret n° 2025-1400 du 28 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 1er du décret précité, entrent en vigueur le 1er mars 2026.
+Conformément au premier alinéa de l'article 2 du décret n° 2025-1400 du 28 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 1er du décret précité, entrent en vigueur le 1<sup>er</sup> mars 2026.

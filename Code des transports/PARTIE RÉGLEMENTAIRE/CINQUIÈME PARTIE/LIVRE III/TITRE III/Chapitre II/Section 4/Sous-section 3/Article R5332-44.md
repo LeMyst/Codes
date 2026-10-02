@@ -5,4 +5,4 @@ Le plan de sûreté de l'installation portuaire, a pour objet, pour chacun des n
 Le plan de sûreté de l'installation portuaire couvre l'ensemble du périmètre de l'installation portuaire et est coordonné avec les mesures de sûreté propres au port et à celles des installations portuaires adjacentes.
 
 NOTA:
-Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1<sup>er</sup> juillet 2026.

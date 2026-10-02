@@ -9,4 +9,4 @@ Le plan de sûreté du port peut tenir lieu, en tout ou partie, sur décision du
 Dans ces deux cas, les dispositions du dernier alinéa de l'article R. 1332-24 du code de la défense ne font pas obstacle à la communication aux personnels du port de la partie non classifiée du plan de sûreté du port contenant les informations et instructions opérationnelles qui leur sont utiles.
 
 NOTA:
-Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1<sup>er</sup> juillet 2026.

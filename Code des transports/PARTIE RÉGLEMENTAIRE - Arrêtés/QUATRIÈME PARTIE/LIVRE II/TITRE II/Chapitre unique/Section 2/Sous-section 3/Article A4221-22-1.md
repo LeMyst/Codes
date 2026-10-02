@@ -13,4 +13,4 @@ I. - La commission de visite définie au 1° de l'article R. 4221-17 comprend au
 II. - Le président de la commission de visite peut, en tant que de besoin, faire appel à des spécialistes pour éclairer la commission de visite dans ses activités. Les spécialistes ne prennent pas part aux délibérations.
 
 NOTA:
-Conformément à l'article 8 de l'arrêté du 28 octobre 2025 (NOR : TRAT2501468A), jusqu'au 1er juillet 2026, il est possible de déroger au présent article qui prévoit la présence des experts signataires dans la commission de visite.
+Conformément à l'article 8 de l'arrêté du 28 octobre 2025 (NOR : TRAT2501468A), jusqu'au 1<sup>er</sup> juillet 2026, il est possible de déroger au présent article qui prévoit la présence des experts signataires dans la commission de visite.

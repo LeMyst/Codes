@@ -7,4 +7,4 @@ L'autorité portuaire est responsable, sous réserve des obligations incombant �
 2° Peut donner lieu à la réalisation d'entraînements de sûreté organisés par l'autorité portuaire dont la fréquence est déterminée par l'évaluation de sûreté du port et selon des modalités de réalisation qui sont précisées par un arrêté du ministre chargé des transports.
 
 NOTA:
-Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1<sup>er</sup> juillet 2026.

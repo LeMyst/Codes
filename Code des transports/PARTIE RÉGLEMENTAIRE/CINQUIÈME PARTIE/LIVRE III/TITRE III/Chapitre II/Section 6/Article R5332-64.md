@@ -11,4 +11,4 @@ A cet effet, le préfet de département :
 La date à laquelle l'enquête administrative prévue au I de l'article L. 5332-18 est renouvelée lorsque la validité de l'autorisation, l'agrément ou l'habilitation est supérieure à un an est celle de la date anniversaire de la décision accordant ce titre.
 
 NOTA:
-Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1<sup>er</sup> juillet 2026.

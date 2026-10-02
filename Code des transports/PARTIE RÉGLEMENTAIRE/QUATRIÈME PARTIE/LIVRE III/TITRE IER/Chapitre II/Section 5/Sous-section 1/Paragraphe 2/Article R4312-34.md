@@ -21,4 +21,4 @@ Les éléments et données concernant les agents mentionnés aux 1° à 3° de l
 V.-Le comité social d'administration central mandate soit le directeur général ou son représentant, soit un représentant du personnel pour le représenter et ester en justice sur les questions relevant de sa compétence, à l'exception des compétences exercées par la commission des droits des salariés.
 
 NOTA:
-Conformément à l’article 5 du décret n° 2022-1142 (TREK2211205D), ces dispositions entrent en vigueur le 1er janvier 2023.
+Conformément à l’article 5 du décret n° 2022-1142 (TREK2211205D), ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2023.

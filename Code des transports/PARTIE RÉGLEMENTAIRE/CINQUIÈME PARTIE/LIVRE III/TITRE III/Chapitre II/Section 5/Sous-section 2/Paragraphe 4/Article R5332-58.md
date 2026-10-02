@@ -7,4 +7,4 @@ L'exploitant de l'installation portuaire met en place et entretient un dispositi
 2° Une clôture fixe ou mobile, selon les conclusions de l'évaluation de sûreté de l'installation portuaire, lorsque la zone à accès restreint est activée de manière temporaire.
 
 NOTA:
-Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1<sup>er</sup> juillet 2026.

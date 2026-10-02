@@ -7,4 +7,4 @@ II.-Le conseil d'administration peut déléguer au bureau une partie de ses attr
 III.-Le président rend compte au conseil d'administration des décisions prises par délégation de ce dernier. Il informe le conseil d'administration de son choix avant de nommer le directeur général.
 
 NOTA:
-Conformément à l’article 5 du décret n° 2021-766 du 14 juin 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 5 du décret n° 2021-766 du 14 juin 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

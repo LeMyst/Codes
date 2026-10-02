@@ -15,4 +15,4 @@ Les autorisations de programme sont proposées par le directeur général. Elles
 Le projet de budget est en outre accompagné d'une situation, arrêtée au 1er janvier de l'exercice budgétaire considéré, des autorisations de programme ouvertes antérieurement ainsi que des crédits de paiement correspondants. Le compte financier unique est accompagné d'une situation arrêtée au 31 décembre de cet exercice des autorisations de programme ouvertes et des crédits de paiement.
 
 NOTA:
-Conformément à l’article 13 du décret n°2025-1428 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur à compter de l'exercice budgétaire 2026, soit le 1er janvier 2026.
+Conformément à l’article 13 du décret n°2025-1428 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant du décret précité, entrent en vigueur à compter de l'exercice budgétaire 2026, soit le 1<sup>er</sup> janvier 2026.

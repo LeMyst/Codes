@@ -5,4 +5,4 @@ Les clients professionnels et les entreprises de transport public routier de mar
 A cet effet, l'autorité administrative rend public le registre national des opérateurs de service numérique de mise en relation commerciale de transport public routier de marchandises, mis à jour.
 
 NOTA:
-Conformément aux dispositions prévues par l’article 5 de l’ordonnance n°2021-487, ces dispositions entrent en vigueur le 1er juin 2023.
+Conformément aux dispositions prévues par l’article 5 de l’ordonnance n°2021-487, ces dispositions entrent en vigueur le 1<sup>er</sup> juin 2023.

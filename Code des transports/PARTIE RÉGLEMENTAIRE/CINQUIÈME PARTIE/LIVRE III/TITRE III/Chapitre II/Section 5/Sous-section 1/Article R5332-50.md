@@ -5,4 +5,4 @@ Les agents chargés des contrôles et vérifications de sûreté suivent les for
 Ils effectuent les contrôles de sûreté prévus aux articles L. 5332-11 à L. 5332-14, sous la responsabilité, respectivement, de l'autorité portuaire et de l'exploitant d'une installation portuaire, et les opérations prévues au II de l'article L. 5332-15.
 
 NOTA:
-Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1<sup>er</sup> juillet 2026.

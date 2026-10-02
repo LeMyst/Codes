@@ -4,4 +4,4 @@ La formation continue mentionnée à l'article R. 3314-10 permet à son titulair
 Dans ce cas, la formation continue doit être réalisée dans les cinq ans qui suivent la date à laquelle s'est achevée la formation spécifique mentionnée aux articles R. 3314-7 et R. 3314-8 puis renouvelée tous les cinq ans à partir de cette dernière date.
 
 NOTA:
-Conformément à l’article 3 du décret n° 2021-1482 du 12 novembre 2021, ces dispositions entrent en vigueur le premier jour du troisième mois suivant la publication dudit décret (1er février 2022).
+Conformément à l’article 3 du décret n° 2021-1482 du 12 novembre 2021, ces dispositions entrent en vigueur le premier jour du troisième mois suivant la publication dudit décret (1<sup>er</sup> février 2022).

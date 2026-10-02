@@ -90,33 +90,33 @@ Article 3
 
 3.1. Le donneur d'ordre fournit au transporteur, dans le cadre des dispositions des articles L. 3221-2 et L. 3222-4 du code des transports, préalablement à la présentation du véhicule au chargement, par écrit ou par tout moyen électronique de transmission et de conservation des données, les indications suivantes :
 
-– les noms et les adresses complètes, ainsi que les numéros de téléphone, de télécopie, l'adresse électronique de l'expéditeur et du destinataire ;
+- les noms et les adresses complètes, ainsi que les numéros de téléphone, de télécopie, l'adresse électronique de l'expéditeur et du destinataire ;
 
-– les noms et les adresses complètes, ainsi que les numéros de téléphone, de télécopie, l'adresse électronique des lieux de chargement et de déchargement, lorsque ces derniers diffèrent de ceux indiqués ci-dessus ;
+- les noms et les adresses complètes, ainsi que les numéros de téléphone, de télécopie, l'adresse électronique des lieux de chargement et de déchargement, lorsque ces derniers diffèrent de ceux indiqués ci-dessus ;
 
-– le nom et l'adresse du donneur d'ordre ;
+- le nom et l'adresse du donneur d'ordre ;
 
-– les dates et, si besoin est, les heures de chargement et de déchargement ;
+- les dates et, si besoin est, les heures de chargement et de déchargement ;
 
-– les heures limites de mise à disposition du véhicule en vue du chargement et du déchargement ;
+- les heures limites de mise à disposition du véhicule en vue du chargement et du déchargement ;
 
-– la nature très exacte de la marchandise, le poids brut de l'envoi, les marques, le nombre de colis, d'objets ou de supports de charge (palettes, rolls, etc.) qui constituent l'envoi ;
+- la nature très exacte de la marchandise, le poids brut de l'envoi, les marques, le nombre de colis, d'objets ou de supports de charge (palettes, rolls, etc.) qui constituent l'envoi ;
 
-– le cas échéant, les dimensions des colis, des objets ou des supports de charge présentant des caractéristiques spéciales ;
+- le cas échéant, les dimensions des colis, des objets ou des supports de charge présentant des caractéristiques spéciales ;
 
-– s'il y a lieu, le métrage linéaire de plancher ou le volume nécessaire ;
+- s'il y a lieu, le métrage linéaire de plancher ou le volume nécessaire ;
 
-– la spécificité de la marchandise quand cette dernière requiert des dispositions particulières (marchandises dangereuses, denrées périssables, marchandises convoitées et/ou sensibles etc.) ;
+- la spécificité de la marchandise quand cette dernière requiert des dispositions particulières (marchandises dangereuses, denrées périssables, marchandises convoitées et/ou sensibles etc.) ;
 
-– les modalités de paiement (port payé ou port dû) ;
+- les modalités de paiement (port payé ou port dû) ;
 
-– toute autre modalité d'exécution du contrat de transport (livraison contre-remboursement, déboursé, déclaration de valeur, déclaration d'intérêt spécial à la livraison, etc.) ;
+- toute autre modalité d'exécution du contrat de transport (livraison contre-remboursement, déboursé, déclaration de valeur, déclaration d'intérêt spécial à la livraison, etc.) ;
 
-– le numéro de la commande et les références de l'envoi, quand ces informations sont nécessaires à la bonne exécution du contrat ;
+- le numéro de la commande et les références de l'envoi, quand ces informations sont nécessaires à la bonne exécution du contrat ;
 
-– le cas échéant, les prestations annexes convenues et leurs modalités d'exécution ;
+- le cas échéant, les prestations annexes convenues et leurs modalités d'exécution ;
 
-– les instructions spécifiques en cas d'empêchement à la livraison (nouvelle présentation, livraison à domicile, mise en entrepôt, retour, vente ou destruction de la marchandise, etc.).
+- les instructions spécifiques en cas d'empêchement à la livraison (nouvelle présentation, livraison à domicile, mise en entrepôt, retour, vente ou destruction de la marchandise, etc.).
 
 3.2. En outre, le donneur d'ordre informe le transporteur des particularités non apparentes de la marchandise et de toutes données susceptibles d'avoir une incidence sur la bonne exécution du contrat de transport.
 
@@ -180,9 +180,9 @@ La responsabilité des dommages matériels survenus au cours de ces opérations 
 
 Dans tous les cas, le transporteur :
 
-– met en œuvre les moyens techniques de transfert propres au véhicule. Il est responsable des dommages résultant de leur fait ;
+- met en œuvre les moyens techniques de transfert propres au véhicule. Il est responsable des dommages résultant de leur fait ;
 
-– fournit, à la demande du donneur d'ordre, des sangles en nombre suffisant, en bon état, conformes aux normes requises et adaptées à la nature et au conditionnement de la marchandise, tels qu'ils lui ont été décrits.
+- fournit, à la demande du donneur d'ordre, des sangles en nombre suffisant, en bon état, conformes aux normes requises et adaptées à la nature et au conditionnement de la marchandise, tels qu'ils lui ont été décrits.
 
 7.1. Pour les envois inférieurs à trois tonnes :
 
@@ -356,13 +356,13 @@ Article 17
 
 Il y a empêchement à la livraison chaque fois que l'envoi parvenu au lieu de livraison prévu ne peut être remis au destinataire désigné, notamment en cas :
 
-– d'absence du destinataire ;
+- d'absence du destinataire ;
 
-– d'inaccessibilité du lieu de livraison ;
+- d'inaccessibilité du lieu de livraison ;
 
-– d'immobilisation du véhicule chez le destinataire supérieure aux durées définies à l'article 11 ci-dessus ;
+- d'immobilisation du véhicule chez le destinataire supérieure aux durées définies à l'article 11 ci-dessus ;
 
-– de refus de prendre livraison par le destinataire.
+- de refus de prendre livraison par le destinataire.
 
 Sans préjudice des dispositions de l'article 11.2.2, est également considérée comme un empêchement à la livraison toute immobilisation du véhicule chez le destinataire supérieure à vingt-quatre heures décomptées à partir de la mise à disposition.
 
@@ -384,13 +384,13 @@ Article 18
 
 La rémunération du transporteur comprend :
 
-– le prix du transport stricto sensu ;
+- le prix du transport stricto sensu ;
 
-– le prix des prestations annexes ;
+- le prix des prestations annexes ;
 
-– les frais liés à l'établissement et à la gestion administrative et informatique du contrat de transport ;
+- les frais liés à l'établissement et à la gestion administrative et informatique du contrat de transport ;
 
-– toute taxe liée au transport et/ou tout droit dont la perception est mise à la charge du transporteur.
+- toute taxe liée au transport et/ou tout droit dont la perception est mise à la charge du transporteur.
 
 18.1. Le prix du transport est établi en fonction du type de véhicule utilisé, de ses équipements, de la nature de la marchandise, de son poids, de son volume, du nombre de colis, de la distance du transport, des délais d'acheminement, de la relation assurée, des caractéristiques du trafic, des sujétions particulières de circulation, de la durée de mise à disposition du véhicule et de l'équipage, plus généralement des coûts engendrés par la prestation demandée, conformément aux dispositions du titre II du livre II de la troisième partie du code des transports, ainsi que de la qualité des prestations rendues.
 
@@ -400,33 +400,33 @@ Pour les charges de carburant, la révision est déterminée par les disposition
 
 18.2. Toute prestation annexe est rémunérée au prix convenu. Tel est le cas, notamment :
 
-– des opérations d'encaissement, en particulier dans le cas d'encaissement différé ;
+- des opérations d'encaissement, en particulier dans le cas d'encaissement différé ;
 
-– de la livraison contre-remboursement ;
+- de la livraison contre-remboursement ;
 
-– des déboursés ;
+- des déboursés ;
 
-– de la déclaration de valeur ;
+- de la déclaration de valeur ;
 
-– de la déclaration d'intérêt spécial à la livraison ;
+- de la déclaration d'intérêt spécial à la livraison ;
 
-– du mandat d'assurance ;
+- du mandat d'assurance ;
 
-– des opérations de chargement de calage, d'arrimage, de sanglage et de déchargement (pour les envois égaux ou supérieurs à trois tonnes) ;
+- des opérations de chargement de calage, d'arrimage, de sanglage et de déchargement (pour les envois égaux ou supérieurs à trois tonnes) ;
 
-– la fourniture des cales et des sangles ;
+- la fourniture des cales et des sangles ;
 
-– de toute prestation relative aux supports de charge conformément à l'article 6.6. ci-dessus ;
+- de toute prestation relative aux supports de charge conformément à l'article 6.6. ci-dessus ;
 
-– de la nouvelle présentation au lieu de chargement ou au lieu de déchargement ;
+- de la nouvelle présentation au lieu de chargement ou au lieu de déchargement ;
 
-– des opérations de pesage ;
+- des opérations de pesage ;
 
-– des frais d'immobilisation du véhicule et/ou de l'équipage ;
+- des frais d'immobilisation du véhicule et/ou de l'équipage ;
 
-– du nettoyage, du lavage ou de la désinfection du véhicule en cas de remise d'envois salissants remis en vrac ou en emballages non étanches ;
+- du nettoyage, du lavage ou de la désinfection du véhicule en cas de remise d'envois salissants remis en vrac ou en emballages non étanches ;
 
-– du magasinage.
+- du magasinage.
 
 18.3. Toute modification du contrat de transport initial, notamment tout changement d'itinéraire, toute immobilisation du véhicule et ou de l'équipage, tout retour de marchandises à l'expéditeur, non imputables au transporteur, entraîne un réajustement des conditions de rémunération du transporteur.
 
@@ -484,9 +484,9 @@ Article 22
 
 Le transporteur est tenu de verser une indemnité pour la réparation de tous les dommages justifiés dont il est légalement tenu pour responsable, résultant de la perte totale ou partielle ou de l'avarie de la marchandise. Hors les cas de dol et de faute inexcusable du transporteur, l'indemnisation du préjudice prouvé, direct et prévisible, s'effectue dans les limites suivantes :
 
-– pour les envois inférieurs à trois tonnes, cette indemnité ne peut excéder 33 € par kilogramme de poids brut de marchandises manquantes ou avariées pour chacun des objets compris dans l'envoi, sans pouvoir dépasser 1 000 € par colis perdu, incomplet ou avarié, quels qu'en soient le poids, le volume, les dimensions, la nature ou la valeur ;
+- pour les envois inférieurs à trois tonnes, cette indemnité ne peut excéder 33 € par kilogramme de poids brut de marchandises manquantes ou avariées pour chacun des objets compris dans l'envoi, sans pouvoir dépasser 1 000 € par colis perdu, incomplet ou avarié, quels qu'en soient le poids, le volume, les dimensions, la nature ou la valeur ;
 
-– pour les envois égaux ou supérieurs à trois tonnes, elle ne peut excéder 20 € par kilogramme de poids brut de marchandises manquantes ou avariées pour chacun des objets compris dans l'envoi, sans pouvoir dépasser, par envoi perdu, incomplet ou avarié quels qu'en soient le poids, le volume les dimensions, la nature ou la valeur, une somme supérieure au produit du poids brut de l'envoi exprimé en tonnes multiplié par 3 200 €.
+- pour les envois égaux ou supérieurs à trois tonnes, elle ne peut excéder 20 € par kilogramme de poids brut de marchandises manquantes ou avariées pour chacun des objets compris dans l'envoi, sans pouvoir dépasser, par envoi perdu, incomplet ou avarié quels qu'en soient le poids, le volume les dimensions, la nature ou la valeur, une somme supérieure au produit du poids brut de l'envoi exprimé en tonnes multiplié par 3 200 €.
 
 22.2. Le donneur d'ordre a toujours la faculté de faire une déclaration de valeur qui a pour effet de substituer le montant de cette déclaration au plafond de l'indemnité fixée à l'un ou à l'autre des deux alinéas ci-dessus. La déclaration de valeur doit être formulée par écrit ou par tout moyen électronique de transmission ou de conservation des données, au plus tard au moment de la conclusion du contrat de transport. La validité de la déclaration est subordonnée au paiement d'un prix convenu tel que prévu à l'article 18 ci-dessus.
 

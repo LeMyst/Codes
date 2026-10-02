@@ -11,4 +11,4 @@ II.-Cette amende est fixée selon le barème suivant :
 3° Est puni d'une amende de 3000 euros le non-respect, dans le délai de deux mois suivant la demande, des dispositions des articles L. 3261-4 et L. 3261-5.
 
 NOTA:
-Conformément aux dispositions prévues par l’article 5 de l’ordonnance n°2021-487, ces dispositions entrent en vigueur au 1er janvier 2022 en tant qu'elles sanctionnent la méconnaissance des articles énumérés au 6° du I de cet article.
+Conformément aux dispositions prévues par l’article 5 de l’ordonnance n°2021-487, ces dispositions entrent en vigueur au 1<sup>er</sup> janvier 2022 en tant qu'elles sanctionnent la méconnaissance des articles énumérés au 6° du I de cet article.

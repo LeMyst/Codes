@@ -5,7 +5,7 @@ I. - Sont applicables aux Terres australes et antarctiques françaises, sous ré
 “
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
+| -- | -- |
 | L. 5511-1 (à l'exception du b du 3°) | Résultant de la loi n° 2016-816 du 20 juin 2016 |
 | L. 5511-2 | Résultant de l'ordonnance n° 2010-1307 du 28 octobre 2010 |
 | L. 5511-3 | Résultant de la loi n° 2016-819 du 20 juin 2016 |
@@ -89,7 +89,7 @@ I. - Sont applicables aux Terres australes et antarctiques françaises, sous ré
 “
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
+| -- | -- |
 | L. 5511-1 (à l'exception du b du 3°) | Résultant de la loi n° 2016-816 du 20 juin 2016 |
 | L. 5511-2 | Résultant de l'ordonnance n° 2010-1307 du 28 octobre 2010 |
 | L. 5511-3 | Résultant de la loi n° 2016-819 du 20 juin 2016 |

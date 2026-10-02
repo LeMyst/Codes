@@ -46,25 +46,25 @@ Une photo peut, le cas échéant, être reproduite ;
 
 2. Références administratives de l'ESIP
 
-- rédacteurs de l'ESIP. Si un OSH a contribué à l'établissement de l'ESIP, il est fait mention de l'arrêté ministériel le reconnaissant comme OSH, avec possibilité d'insertion de son logo à ce niveau, ainsi que du ou des arrêtés portant agrément des collaborateurs de l'OSH qui ont contribué à l'établissement de l'ESIP ;
+   - rédacteurs de l'ESIP. Si un OSH a contribué à l'établissement de l'ESIP, il est fait mention de l'arrêté ministériel le reconnaissant comme OSH, avec possibilité d'insertion de son logo à ce niveau, ainsi que du ou des arrêtés portant agrément des collaborateurs de l'OSH qui ont contribué à l'établissement de l'ESIP ;
 
-- date d'approbation de l'ESIP (annexe une copie de l'arrêté préfectoral publié au recueil des actes administratifs du département) ;
+   - date d'approbation de l'ESIP (annexe une copie de l'arrêté préfectoral publié au recueil des actes administratifs du département) ;
 
-- date de fin de validité de l'ESIP.
+   - date de fin de validité de l'ESIP.
 
-3. Description de l'installation portuaire
+1. Description de l'installation portuaire
 
-- exploitant (concessionnaire, titulaire d'un titre d'occupation domanial, etc.) ;
+   - exploitant (concessionnaire, titulaire d'un titre d'occupation domanial, etc.) ;
 
-- noms de l'ASIP titulaire et de ses suppléants, à la date de l'ESIP (le cas échéant) ;
+   - noms de l'ASIP titulaire et de ses suppléants, à la date de l'ESIP (le cas échéant) ;
 
-- type d'installation exploitée (terminal pour navires de croisière, terminal pour navires transbordeurs, terminal pour navires pétroliers, gaziers ou marchandises dangereuses, terminal pour porte-conteneurs, terminal pour navires rouliers, terminal pour navires vraquiers, terminal pour navires de services, autres terminaux) ;
+   - type d'installation exploitée (terminal pour navires de croisière, terminal pour navires transbordeurs, terminal pour navires pétroliers, gaziers ou marchandises dangereuses, terminal pour porte-conteneurs, terminal pour navires rouliers, terminal pour navires vraquiers, terminal pour navires de services, autres terminaux) ;
 
-- composantes : postes d'accostage, emprises des quais et des terre-pleins, zones de manutention et éventuellement de stockage, installations dédiées à la manutention ou à l'accueil des véhicules ou des passagers (notamment portiques à conteneurs, bras de déchargement, passerelles d'accès, gares maritimes), interfaces entre les navires pétroliers et gaziers et les infrastructures de stockage et de transport des produits qu'ils transportent (notamment pipelines, vannes, station de compression et de décompression) ;
+   - composantes : postes d'accostage, emprises des quais et des terre-pleins, zones de manutention et éventuellement de stockage, installations dédiées à la manutention ou à l'accueil des véhicules ou des passagers (notamment portiques à conteneurs, bras de déchargement, passerelles d'accès, gares maritimes), interfaces entre les navires pétroliers et gaziers et les infrastructures de stockage et de transport des produits qu'ils transportent (notamment pipelines, vannes, station de compression et de décompression) ;
 
-- liste de toutes les ZAR avec pour chacune les points d'inspection-filtrage ;
+   - liste de toutes les ZAR avec pour chacune les points d'inspection-filtrage ;
 
-- moyens permanents affectés à la sûreté de l'installation portuaire : effectifs, description des dispositifs et matériels principaux.
+   - moyens permanents affectés à la sûreté de l'installation portuaire : effectifs, description des dispositifs et matériels principaux.
 
 Description complétée la mise en annexe d'un plan de l'installation portuaire faisant apparaître distinctement informations mentionnées les composantes, les ZAR et les points d'inspection-filtrage permettant d'entrer dans ces zones.
 
@@ -154,9 +154,9 @@ L'articulation des mesures de sécurité avec celles de sûreté doit être étu
 
 Définition des contre-mesures dans le tableau ci-après en fonction du calcul des risques par point sensible.
 
-| Tableau des contre-mesures de l'évaluation de sûreté de l'installation portuaire |
-| --- |
-| Classement par ordre de priorité | Point sensible concerné et principale vulnérabilité | Numéro d'ordre et libellé |
-| | | |
+| Tableau des contre-mesures de l'évaluation de sûreté de l'installation portuaire |  |  |
+| -- | -- | -- |
+| Classement par ordre<br>de priorité | Point sensible concerné<br>et principale vulnérabilité | Numéro d'ordre et libellé |
+|  |  |  |
 
 9. Annexe(s)

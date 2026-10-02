@@ -15,4 +15,4 @@ II. - Le plan de sûreté de l'installation portuaire est :
 3° Révisé en cas de révision de l'évaluation de sûreté de l'installation portuaire ou lorsque l'importance des modifications à y apporter le justifie.
 
 NOTA:
-Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1<sup>er</sup> juillet 2026.

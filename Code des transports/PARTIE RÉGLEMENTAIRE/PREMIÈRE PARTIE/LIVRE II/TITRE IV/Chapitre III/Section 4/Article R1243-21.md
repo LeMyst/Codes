@@ -29,4 +29,4 @@ Les ressources de l'autorité organisatrice des mobilités des territoires lyonn
 13° D'une manière générale, toutes les recettes autorisées par les lois et règlements.
 
 NOTA:
-Conformément à l’article 5 du décret n° 2021-766 du 14 juin 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 5 du décret n° 2021-766 du 14 juin 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

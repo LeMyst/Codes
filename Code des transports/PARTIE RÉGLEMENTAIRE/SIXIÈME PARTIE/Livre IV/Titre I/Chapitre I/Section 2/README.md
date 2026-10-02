@@ -1,1 +1,19 @@
-Section 2 : Dispositions générales relatives au capital et aux statuts
+# Section 2 : Dispositions générales relatives au capital et aux statuts
+
+- [Article R6411-1](Article%20R6411-1.md)
+- [Article R6411-2](Article%20R6411-2.md)
+- [Article R6411-3](Article%20R6411-3.md)
+- [Article R6411-4](Article%20R6411-4.md)
+- [Article R6411-5](Article%20R6411-5.md)
+- [Article R6411-6](Article%20R6411-6.md)
+- [Article R6411-7](Article%20R6411-7.md)
+- [Article R6411-8](Article%20R6411-8.md)
+- [Article R6411-9](Article%20R6411-9.md)
+- [Article R6411-10](Article%20R6411-10.md)
+- [Article R6411-11](Article%20R6411-11.md)
+- [Article R6411-12](Article%20R6411-12.md)
+- [Article R6411-13](Article%20R6411-13.md)
+- [Article R6411-14](Article%20R6411-14.md)
+- [Article R6411-15](Article%20R6411-15.md)
+- [Article R6411-16](Article%20R6411-16.md)
+- [Article R6411-17](Article%20R6411-17.md)

@@ -4,7 +4,7 @@ I.-Le calcul des effectifs relevant du collège électoral prévu au 1° du II d
 
 Les effectifs relevant du collège électoral prévu au 2° du II de l'article L. 1241-13-2 sont calculés conformément aux dispositions du troisième alinéa de l'article L. 2311-2 du code du travail.
 
-L'effectif retenu ainsi que la part respective de femmes et d'hommes sont appréciés par collège au 1 er janvier de l'année du scrutin et déterminés par le directeur général d'Ile-de-France Mobilités et mentionné dans le protocole d'accord préélectoral ou, à défaut, une délibération du conseil d'administration d'Ile-de-France Mobilités au moins six mois avant la date de l'élection.
+L'effectif retenu ainsi que la part respective de femmes et d'hommes sont appréciés par collège au 1 <sup>er</sup> janvier de l'année du scrutin et déterminés par le directeur général d'Ile-de-France Mobilités et mentionné dans le protocole d'accord préélectoral ou, à défaut, une délibération du conseil d'administration d'Ile-de-France Mobilités au moins six mois avant la date de l'élection.
 
 Chaque liste comprend un nombre de femmes et d'hommes correspondant à la part respective de femmes et d'hommes relevant du collège concerné. Ce nombre est calculé sur l'ensemble des candidats inscrits sur la liste.
 
@@ -17,4 +17,4 @@ II.-Le protocole d'accord préélectoral ou, à défaut, une délibération du c
 2° Pour le collège électoral prévu au 2° du II de l'article L. 1241-13-2, pour chaque catégorie de personnel prévue par les articles L. 2314-11 et suivants du code du travail.
 
 NOTA:
-Conformément au premier alinéa de l'article 2 du décret n° 2025-1400 du 28 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 1er du décret précité, entrent en vigueur le 1er mars 2026.
+Conformément au premier alinéa de l'article 2 du décret n° 2025-1400 du 28 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 1er du décret précité, entrent en vigueur le 1<sup>er</sup> mars 2026.

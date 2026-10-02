@@ -7,4 +7,4 @@ L'autorité administrative compétente pour décider des mesures prévues par l'
 2° Le préfet maritime ou le délégué de l'action de l'Etat en mer dans les cas mentionnés aux a du 1° et b du 2° de cet article.
 
 NOTA:
-Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1<sup>er</sup> juillet 2026.

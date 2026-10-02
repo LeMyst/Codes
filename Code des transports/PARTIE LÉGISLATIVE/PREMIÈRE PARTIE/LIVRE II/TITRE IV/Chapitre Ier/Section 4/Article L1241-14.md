@@ -31,4 +31,4 @@ Les ressources d'Ile-de-France Mobilités comprennent :
 13° Les produits de l'occupation des espaces à usage de commerces et les recettes publicitaires de toute nature dans les gares constituant le réseau mentionné aux articles 20 et 20-2 de la loi n° 2010-597 du 3 juin 2010 relative au Grand Paris.
 
 NOTA:
-Conformément au IV de l'article 60 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant de l'article précité, entrent en vigueur le 1er mars 2026.
+Conformément au IV de l'article 60 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant de l'article précité, entrent en vigueur le 1<sup>er</sup> mars 2026.

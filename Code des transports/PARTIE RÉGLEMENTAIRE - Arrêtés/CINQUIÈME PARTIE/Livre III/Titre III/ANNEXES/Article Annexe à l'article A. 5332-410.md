@@ -68,10 +68,10 @@ Une photo peut, le cas échéant, être reproduite ;
 
 Reprise du tableau du paragraphe 4.4 de l'évaluation de la sûreté de l'installation portuaire faisant apparaître la date de mise en œuvre programmée des mesures de sûreté répondant aux contre-mesures définies par l'ESIP.
 
-| Tableau des contre-mesures de l'évaluation de sûreté de l'installation portuaire |
-| --- |
-| Classement par ordre de priorité | Point sensible concerné et principale vulnérabilité | Numéro d'ordre et libellé | Date de mise en œuvre programmée des mesures de sûreté |
-| | | | |
+| Tableau des contre-mesures de l'évaluation de sûreté de l'installation portuaire |  |  |  |
+| -- | -- | -- | -- |
+| Classement par ordre<br>de priorité | Point sensible concerné et principale<br>vulnérabilité | Numéro d'ordre et libellé | Date de mise en œuvre<br>programmée des mesures de sûreté |
+|  |  |  |  |
 
 4. Organisation générale de la sûreté de l'installation portuaire
 
@@ -213,29 +213,29 @@ Renseignement de l'annexe 10.5 si l'installation portuaire est désignée point 
 
 7. Alertes, incidents de sûreté et situations de crise
 
-- systèmes d'alerte internes à l'installation portuaire (enregistreur et localisateur d'appels ; moyens d'alerte : téléphone, interphone, réseaux spécialisés, sirènes, etc.) ;
+   - systèmes d'alerte internes à l'installation portuaire (enregistreur et localisateur d'appels ; moyens d'alerte : téléphone, interphone, réseaux spécialisés, sirènes, etc.) ;
 
-- systèmes d'alerte externes à l'installation portuaire (réseau téléphonique public : préfecture, autorité militaire, brigade de gendarmerie, service de police, pompiers) ; éventuellement liaisons d'alerte spécialisées de la force publique ;
+   - systèmes d'alerte externes à l'installation portuaire (réseau téléphonique public : préfecture, autorité militaire, brigade de gendarmerie, service de police, pompiers) ; éventuellement liaisons d'alerte spécialisées de la force publique ;
 
-- mesures (notamment, recherche, détection et localisation des objets, véhicules ou individus suspects, évacuation, alerte des services de police et de secours) prévues à chacun des niveaux de sûreté pour faire face à une menace imminente, une alerte ou une atteinte en cours contre la sûreté dans le port, y compris dans les installations portuaires ou contre la sûreté de navires s'y trouvant, etc.). Les mesures prises au niveau 3 seront plus particulièrement étudiées, en veillant à la rapidité de transmission des consignes et à celles de leur mise en œuvre ;
+   - mesures (notamment, recherche, détection et localisation des objets, véhicules ou individus suspects, évacuation, alerte des services de police et de secours) prévues à chacun des niveaux de sûreté pour faire face à une menace imminente, une alerte ou une atteinte en cours contre la sûreté dans le port, y compris dans les installations portuaires ou contre la sûreté de navires s'y trouvant, etc.). Les mesures prises au niveau 3 seront plus particulièrement étudiées, en veillant à la rapidité de transmission des consignes et à celles de leur mise en œuvre ;
 
-- établissement de fiches réflexes pour chaque type d'incident (exemple : alerte à la bombe, détection d'objet suspect, prise d'otage) ;
+   - établissement de fiches réflexes pour chaque type d'incident (exemple : alerte à la bombe, détection d'objet suspect, prise d'otage) ;
 
-- exigences précises de notification obligatoire de tous les incidents de sûreté à l'ASIP et par celui-ci à l'ASP ;
+   - exigences précises de notification obligatoire de tous les incidents de sûreté à l'ASIP et par celui-ci à l'ASP ;
 
-- mesures prévues pour accueillir un navire faisant l'objet d'une alerte de sûreté ;
+   - mesures prévues pour accueillir un navire faisant l'objet d'une alerte de sûreté ;
 
-- mesures prévues à la suite d'une alerte de sûreté sur un navire se trouvant dans l'installation portuaire ;
+   - mesures prévues à la suite d'une alerte de sûreté sur un navire se trouvant dans l'installation portuaire ;
 
-- dispositions permettant de maintenir les opérations portuaires essentielles.
+   - dispositions permettant de maintenir les opérations portuaires essentielles.
 
-- coordination avec l'ASP ;
+   - coordination avec l'ASP ;
 
-- définition de l'articulation ou, le cas échéant, de l'aménagement des mesures de sûreté, avec les mesures applicables en cas de sinistre (incendie, explosion, pollution de l'air ou du plan d'eau), notamment l'intervention sur les sites de moyens de secours extérieurs ou l'évacuation, en respectant le principe selon lequel les mesures de sûreté ne doivent pas porter atteinte à la sécurité ;
+   - définition de l'articulation ou, le cas échéant, de l'aménagement des mesures de sûreté, avec les mesures applicables en cas de sinistre (incendie, explosion, pollution de l'air ou du plan d'eau), notamment l'intervention sur les sites de moyens de secours extérieurs ou l'évacuation, en respectant le principe selon lequel les mesures de sûreté ne doivent pas porter atteinte à la sécurité ;
 
-- renseignement par ailleurs l'annexe 10.5 si l'installation portuaire est désignée point d'importance vitale.
+   - renseignement par ailleurs l'annexe 10.5 si l'installation portuaire est désignée point d'importance vitale.
 
-8. Audits internes, contrôles internes et mise à jour du plan
+1. Audits internes, contrôles internes et mise à jour du plan
 
 Précision concernant, au minimum, chacun des points suivants :
 
@@ -274,7 +274,7 @@ Identification des personnes ayant accès aux informations de sûreté protégé
 Liste des services à qui le PSIP est notifié, avec mention du numéro de l'exemplaire.
 
 | Service | Exemplaire |
-| --- | --- |
+| -- | -- |
 | Exploitant de l'installation portuaire | 1 sur … |
 | Autorité portuaire | 2 sur … |
 | Ministère chargé des transports | 3 sur … |
@@ -285,11 +285,11 @@ Liste des services à qui le PSIP est notifié, avec mention du numéro de l'exe
 Liste des personnes à qui des extraits du PSIP sont communiqués, avec mention de la référence aux paragraphes 5.1.2 (c et i), 6.2.2,10.3.1 et 10.3.2 desdits extraits.
 
 | Personne | Extraits |
-| --- | --- |
-| X | |
-| X | |
-| X | |
-| X | |
+| -- | -- |
+| X |  |
+| X |  |
+| X |  |
+| X |  |
 
 9.2.3. Informations communicables à des fins d'information du public ou d'exploitation opérationnelle de la sûreté de l'installation portuaire
 
@@ -313,53 +313,53 @@ Mise en annexe, par commodité, de toute carte annoncée dans les parties préc�
 
 10.3.1. ASIP titulaire et suppléant(s)
 
-| ASIP titulaire |
-| --- |
-| NOM Prénom | |
-| Téléphone 24/24 | |
-| Téléphone professionnel fixe | |
-| Téléphone professionnel portable | |
-| Téléphone personnel (le cas échéant) | |
-| Télécopie | |
-| Courriel | |
+| ASIP titulaire |  |
+| -- | -- |
+| NOM Prénom |  |
+| Téléphone 24/24 |  |
+| Téléphone professionnel fixe |  |
+| Téléphone professionnel portable |  |
+| Téléphone personnel (le cas échéant) |  |
+| Télécopie |  |
+| Courriel |  |
 
-| ASP suppléant |
-| --- |
-| NOM Prénom | |
-| Téléphone 24/24 | |
-| Téléphone professionnel fixe | |
-| Téléphone professionnel portable | |
-| Téléphone personnel (le cas échéant) | |
-| Télécopie | |
-| Courriel | |
+| ASP suppléant |  |
+| -- | -- |
+| NOM Prénom |  |
+| Téléphone 24/24 |  |
+| Téléphone professionnel fixe |  |
+| Téléphone professionnel portable |  |
+| Téléphone personnel (le cas échéant) |  |
+| Télécopie |  |
+| Courriel |  |
 
-| ASP suppléant |
-| --- |
-| NOM Prénom | |
-| Téléphone 24/24 | |
-| Téléphone professionnel fixe | |
-| Téléphone professionnel portable | |
-| Téléphone personnel (le cas échéant) | |
-| Télécopie | |
-| Courriel | |
+| ASP suppléant |  |
+| -- | -- |
+| NOM Prénom |  |
+| Téléphone 24/24 |  |
+| Téléphone professionnel fixe |  |
+| Téléphone professionnel portable |  |
+| Téléphone personnel (le cas échéant) |  |
+| Télécopie |  |
+| Courriel |  |
 
 10.3.2. Personnes chargées de la sûreté de l'installation portuaire
 
-| | NOM Prénoms | Téléphone professionnel fixe | Téléphone professionnel mobile | Téléphone personnel | Télécopie | Courriel |
-| --- | --- | --- | --- | --- | --- | --- |
-| Responsable de | | | | | | |
-| PC sûreté | | | | | | |
-| Point d'inspection-filtrage n° 1 | | | | | | |
-| Point d'inspection-filtrage n° 2 | | | | | | |
+|  | NOM Prénoms | Téléphone<br>professionnel<br>fixe | Téléphone<br>professionnel<br>mobile | Téléphone<br>personnel | Télécopie | Courriel |
+| -- | -- | -- | -- | -- | -- | -- |
+| Responsable de |  |  |  |  |  |  |
+| PC sûreté |  |  |  |  |  |  |
+| Point d'inspection-filtrage n° 1 |  |  |  |  |  |  |
+| Point d'inspection-filtrage n° 2 |  |  |  |  |  |  |
 
 10.4. Annexe n° 4 - Autre(s) annexe(s)
 
 10.5. Annexe n° 5 - Tableau d'enregistrement des modifications ou compléments au PSIP, apportés par l'ASIP et approuvés par le préfet
 
-| Numéro de la modification du complément | Date de la modification ou du complément | Dispositions avant modifications ou complément | Dispositions après modification ou complément | Visa de l'ASIP (date et signature) | Visa du préfet et (date et signature) | Décision du préfet de prescrire une nouvelle approbation (date et signature) |
-| --- | --- | --- | --- | --- | --- | --- |
-| . | | | | | | |
-| . | | | | | | |
+| Numéro<br>de la modification<br>du complément | Date<br>de la modification<br>ou du complément | Dispositions<br>avant modifications<br>ou complément | Dispositions<br>après modification<br>ou complément | Visa de l'ASIP<br>(date et<br>signature) | Visa du préfet<br>et (date<br>et signature) | Décision du préfet<br>de prescrire<br>une nouvelle<br>approbation<br>(date et signature) |
+| -- | -- | -- | -- | -- | -- | -- |
+| . |  |  |  |  |  |  |
+| . |  |  |  |  |  |  |
 
 10.6. Annexe n° 6 - Informations classifiées au titre de la protection du secret de la défense nationale
 
@@ -399,10 +399,10 @@ Attention particulière à porter, au titre de la coordination avec les autres i
 
 8. Conduite à tenir en cas d'alerte de sûreté ou d'incident avéré ou de sinistre
 
-- organisation et moyens mis en œuvre en cas d'alerte ;
+   - organisation et moyens mis en œuvre en cas d'alerte ;
 
-- organisation et moyens mis en œuvre en cas d'incident avéré ou de sinistre ;
+   - organisation et moyens mis en œuvre en cas d'incident avéré ou de sinistre ;
 
-- modalités d'assistance à l'intervention éventuelle de la force publique.
+   - modalités d'assistance à l'intervention éventuelle de la force publique.
 
-- dispositions permettant de maintenir les opérations portuaires essentielles dans le cas d'activités d'importance vitale.
+   - dispositions permettant de maintenir les opérations portuaires essentielles dans le cas d'activités d'importance vitale.

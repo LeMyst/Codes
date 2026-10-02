@@ -31,4 +31,4 @@ c) Pour les unités de transport intermodal, les marchandises, les colis et les 
 II. - L'exploitant de l'installation portuaire met également en œuvre les mesures additionnelles et spéciales décrites par le plan de sûreté de l'installation portuaire pour les niveaux de sûreté 2 et 3, notamment en ce qui concerne les contrôles des véhicules, des bagages et des marchandises transportées.
 
 NOTA:
-Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1<sup>er</sup> juillet 2026.

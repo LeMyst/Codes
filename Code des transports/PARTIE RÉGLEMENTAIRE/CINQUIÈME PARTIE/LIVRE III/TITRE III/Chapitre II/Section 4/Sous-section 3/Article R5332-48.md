@@ -7,4 +7,4 @@ L'exploitant de l'installation portuaire est responsable de la mise en œuvre du
 2° Des entraînements de sûreté organisés par l'exploitant de l'installation portuaire selon des modalités précisées par un arrêté du ministre chargé des transports.
 
 NOTA:
-Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1<sup>er</sup> juillet 2026.

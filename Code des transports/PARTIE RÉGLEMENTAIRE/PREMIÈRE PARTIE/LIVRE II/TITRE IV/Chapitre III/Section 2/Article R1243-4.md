@@ -17,4 +17,4 @@ Cette assistance technique consiste à :
 L'assistance technique fait l'objet d'une convention conclue entre l'autorité organisatrice des mobilités territoires lyonnais et le membre concerné. La convention en détermine notamment les modalités, ainsi que les obligations des parties. L'assistance technique peut, lorsque les prestations revêtent une certaine complexité, donner lieu à une rémunération destinée à couvrir les frais correspondants, selon les modalités de calcul déterminées par la convention.
 
 NOTA:
-Conformément à l’article 5 du décret n° 2021-766 du 14 juin 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 5 du décret n° 2021-766 du 14 juin 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

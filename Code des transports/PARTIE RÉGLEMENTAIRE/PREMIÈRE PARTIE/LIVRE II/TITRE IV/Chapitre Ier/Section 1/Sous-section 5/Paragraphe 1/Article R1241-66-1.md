@@ -9,4 +9,4 @@ Ce nombre est fixé en fonction des effectifs respectifs de chaque collège, rap
 Toutefois, le comité social unique comprend au minimum six représentants du personnel titulaires et un nombre égal de représentants du personnel suppléants, dont au moins un représentant titulaire et un représentant suppléant, élus par chacun des deux collèges électoraux prévus aux 1° et 2° du II de l'article L. 1241-13-2.
 
 NOTA:
-Conformément au premier alinéa de l'article 2 du décret n° 2025-1400 du 28 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 1er du décret précité, entrent en vigueur le 1er mars 2026.
+Conformément au premier alinéa de l'article 2 du décret n° 2025-1400 du 28 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 1er du décret précité, entrent en vigueur le 1<sup>er</sup> mars 2026.

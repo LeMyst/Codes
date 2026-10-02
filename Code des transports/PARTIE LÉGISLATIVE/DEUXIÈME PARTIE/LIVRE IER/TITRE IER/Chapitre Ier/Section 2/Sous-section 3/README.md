@@ -1,1 +1,1 @@
-Sous-section 3 : Gestion administrative, financière et comptable
+# Sous-section 3 : Gestion administrative, financière et comptable

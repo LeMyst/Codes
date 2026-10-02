@@ -15,4 +15,4 @@ Est puni de l'amende prévue pour la contravention de la cinquième classe :
 La récidive des contraventions prévues au présent article est réprimée conformément aux articles 132-11 et 132-15 du code pénal.
 
 NOTA:
-Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1<sup>er</sup> juillet 2026.

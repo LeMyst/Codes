@@ -7,4 +7,4 @@ S'agissant des emprises terrestres, l'autorité portuaire s'assure de la cohére
 L'autorité portuaire sensibilise son personnel à la prévention et la détection des menaces pour la sûreté portuaire selon le référentiel national des formations en sûreté portuaire prévu par arrêté du ministre chargé des transports.
 
 NOTA:
-Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1<sup>er</sup> juillet 2026.

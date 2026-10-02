@@ -13,4 +13,4 @@ Il établit à titre conservatoire avec l'agent de sûreté du navire une décla
 Lorsque le navire fait habituellement escale dans l'installation portuaire, notamment parce qu'il assure des lignes régulières, l'agent de sûreté de l'installation peut établir avec l'agent de sûreté de la compagnie une convention permanente.
 
 NOTA:
-Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1<sup>er</sup> juillet 2026.

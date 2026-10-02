@@ -7,4 +7,4 @@ Le capitaine du navire interdit l'accès à bord à toute personne refusant de s
 L'agent chargé des contrôles et vérifications de sûreté et le capitaine du navire en avisent sans délai, selon les cas l'agent de sûreté du port ou l'agent de sûreté de l'installation portuaire, les services de police nationale, de gendarmerie nationale ou des douanes territorialement compétents.
 
 NOTA:
-Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1<sup>er</sup> juillet 2026.

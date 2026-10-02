@@ -1,1 +1,16 @@
-Section 6 : Redevances
+# Section 6 : Redevances
+
+- [Article R6213-29](Article%20R6213-29.md)
+- [Article R6213-30](Article%20R6213-30.md)
+- [Article R6213-31](Article%20R6213-31.md)
+- [Article R6213-32](Article%20R6213-32.md)
+- [Article R6213-33](Article%20R6213-33.md)
+- [Article R6213-34](Article%20R6213-34.md)
+- [Article R6213-35](Article%20R6213-35.md)
+- [Article R6213-36](Article%20R6213-36.md)
+- [Article R6213-37](Article%20R6213-37.md)
+- [Article R6213-38](Article%20R6213-38.md)
+- [Article R6213-39](Article%20R6213-39.md)
+- [Article R6213-40](Article%20R6213-40.md)
+- [Article R6213-41](Article%20R6213-41.md)
+- [Article D6213-42](Article%20D6213-42.md)

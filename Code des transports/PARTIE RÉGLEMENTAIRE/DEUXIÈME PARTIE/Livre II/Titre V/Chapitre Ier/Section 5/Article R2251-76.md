@@ -18,6 +18,6 @@ II.-Dans la limite de leurs attributions respectives et de leur besoin d'en conn
 
 4° Les agents chargés de la formation des personnels des services internes de la SNCF et de la Régie autonome des transports parisiens ;
 
-5° Les personnes spécialement habilitées des services chargés du traitement ou du suivi des procédures administratives, judiciaires ou disciplinaires, notamment les services juridiques de l'exploitant   ;
+5° Les personnes spécialement habilitées des services chargés du traitement ou du suivi des procédures administratives, judiciaires ou disciplinaires, notamment les services juridiques de l'exploitant ;
 
 6° Les personnes spécialement habilitées et désignées par le responsable de traitement pour réaliser des actions de maintenance, nécessaires au traitement ou au suivi des procédures administratives, judiciaires ou disciplinaires.

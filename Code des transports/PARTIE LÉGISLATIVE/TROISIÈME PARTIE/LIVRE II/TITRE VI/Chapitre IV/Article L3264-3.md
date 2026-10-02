@@ -13,4 +13,4 @@ I.-L'autorité administrative, après constatation des faits par l'un des foncti
 II.-Pour fixer le montant de l'amende, l'autorité administrative prend en compte les circonstances et la gravité du manquement ainsi que la situation économique de son auteur.
 
 NOTA:
-Conformément aux dispositions prévues par l’article 5 de l’ordonnance n°2021-487, ces dispositions entrent en vigueur au 1er janvier 2022 en tant qu'elles sanctionnent la méconnaissance des articles énumérés au 6° du I de cet article.
+Conformément aux dispositions prévues par l’article 5 de l’ordonnance n°2021-487, ces dispositions entrent en vigueur au 1<sup>er</sup> janvier 2022 en tant qu'elles sanctionnent la méconnaissance des articles énumérés au 6° du I de cet article.

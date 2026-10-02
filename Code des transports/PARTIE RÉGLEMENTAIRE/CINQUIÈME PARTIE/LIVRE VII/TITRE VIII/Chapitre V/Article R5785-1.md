@@ -3,7 +3,7 @@
 Sont applicables à Wallis-et-Futuna, sous réserve des dispositions d'adaptations prévues au présent chapitre, les dispositions du livre V de la présente partie mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
+| -- | -- |
 | R. 5511-1 | Résultant du décret n° 2015-454 du 21 avril 2015 |
 | R. 5511-2 | Résultant du décret n° 2024-461 du 22 mai 2024 |
 | R. 5511-3 à R. 5511-7 | Résultant du décret n° 2015-454 du 21 avril 2015 |

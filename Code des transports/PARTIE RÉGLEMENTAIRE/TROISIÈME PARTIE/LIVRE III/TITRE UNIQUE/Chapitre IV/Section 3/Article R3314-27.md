@@ -5,4 +5,4 @@ La société nationale mentionnée à l'article 1er de la loi du 31 décembre 19
 Le modèle, les conditions et les modalités de mise à disposition de ce certificat sont fixés par arrêté du ministre chargé des transports.
 
 NOTA:
-Conformément à l’article 3 du décret n° 2021-1482 du 12 novembre 2021, ces dispositions entrent en vigueur le premier jour du troisième mois suivant la publication dudit décret (1er février 2022).
+Conformément à l’article 3 du décret n° 2021-1482 du 12 novembre 2021, ces dispositions entrent en vigueur le premier jour du troisième mois suivant la publication dudit décret (1<sup>er</sup> février 2022).

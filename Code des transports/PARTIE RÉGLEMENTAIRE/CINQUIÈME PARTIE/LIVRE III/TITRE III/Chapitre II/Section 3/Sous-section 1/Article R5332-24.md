@@ -11,4 +11,4 @@ II. - L'agent de sûreté du port référent exerce les fonctions de délégué 
 2° De tout point d'importance vitale identifié au sein des limites portuaires de sûreté hors d'une installation portuaire.
 
 NOTA:
-Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1<sup>er</sup> juillet 2026.

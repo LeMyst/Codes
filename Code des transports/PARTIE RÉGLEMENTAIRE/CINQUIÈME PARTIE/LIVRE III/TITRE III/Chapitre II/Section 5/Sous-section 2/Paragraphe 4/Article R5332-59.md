@@ -19,4 +19,4 @@ b) La détention d'un document donnant droit à une prestation de transport pour
 3° Pour les unités de transport intermodal, marchandises, colis et autres biens, leur justificatif d'accès ou de transit.
 
 NOTA:
-Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1<sup>er</sup> juillet 2026.

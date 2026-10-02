@@ -25,4 +25,4 @@ Dans le cadre de ses missions, Voies navigables de France peut également :
 11° Sur le Rhin, gérer et entretenir pour le compte de l'Etat, en dehors du domaine qui lui est confié en vertu de l'article L. 4314-1 et de son domaine propre, des ouvrages dont la liste est fixée par arrêté conjoint du ministre chargé des transports et du ministre chargé de l'environnement et gérer les informations relatives aux crues et aux pollutions. Une convention entre l'Etat et Voies navigables de France précise les modalités de gestion et les moyens mis à disposition de l'établissement pour l'exercice de ses missions.
 
 NOTA:
-Conformément au I de l’article 21 de la loi n° 2026-554 du 29 juin 2026, ces dispositions, dans leur rédaction résultant de ladite loi, entrent en vigueur à une date fixée par décret, et au plus tard le 1er septembre 2026.
+Conformément au I de l’article 21 de la loi n° 2026-554 du 29 juin 2026, ces dispositions, dans leur rédaction résultant de ladite loi, entrent en vigueur à une date fixée par décret, et au plus tard le 1<sup>er</sup> septembre 2026.

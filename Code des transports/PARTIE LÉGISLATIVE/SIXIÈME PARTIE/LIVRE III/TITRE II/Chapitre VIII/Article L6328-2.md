@@ -2,8 +2,8 @@
 
 Les aérodromes et groupements d'aérodromes sont, pour chaque année, regroupés dans les quatre classes suivantes, déterminées selon leur volume de trafic :
 
-| Classe | Volume de trafic (unités de trafic) |
-| --- | --- |
+| Classe | Volume de trafic<br>(unités de trafic) |
+| -- | -- |
 | 1 | A partir de 20 000 001 |
 | 2 | De 5 000 001 à 20 000 000 |
 | 3 | De 1 000 001 à 5 000 000 |

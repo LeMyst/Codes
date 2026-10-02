@@ -17,4 +17,4 @@ Sans préjudice de la réévaluation annuelle prévue par le présent article, l
 Les participations des membres sont versées à l'autorité organisatrice des mobilités des territoires lyonnais sous la forme de quatre acomptes de même montant, qui sont versés le dernier jour ouvré de chaque trimestre.
 
 NOTA:
-Conformément à l’article 5 du décret n° 2021-766 du 14 juin 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 5 du décret n° 2021-766 du 14 juin 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

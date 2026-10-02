@@ -7,4 +7,4 @@ Sur réquisition des agents mentionnés à l'article L. 3264-1, ils sont tenus d
 Pour le contrôle des opérations faisant appel à l'informatique, en particulier celles mentionnées aux articles L. 3263-11 et L. 3221-1 à L. 3221-4, ils sont tenus de donner accès, sans pouvoir opposer le secret des affaires, aux logiciels, aux données stockées ou aux algorithmes ainsi qu'à la restitution en clair des informations propres à faciliter l'accomplissement des missions de contrôle.
 
 NOTA:
-Conformément aux dispositions prévues par l’article 5 de l’ordonnance n°2021-487, ces dispositions entrent en vigueur au 1er janvier 2022.
+Conformément aux dispositions prévues par l’article 5 de l’ordonnance n°2021-487, ces dispositions entrent en vigueur au 1<sup>er</sup> janvier 2022.

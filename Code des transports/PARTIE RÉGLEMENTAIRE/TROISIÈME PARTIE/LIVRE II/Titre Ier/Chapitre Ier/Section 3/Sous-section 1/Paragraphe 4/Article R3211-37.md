@@ -7,4 +7,4 @@ L'organisation et la gestion de l'examen écrit mentionné au premier alinéa du
 Le paiement de la redevance constitue une formalité préalable à l'inscription à chaque examen.
 
 NOTA:
-Conformément à l’article 3 du décret n° 2022-472 du 1er avril 2022, ces dispositions s'appliquent aux examens de capacité professionnelle organisés à compter du 1er janvier 2022.
+Conformément à l’article 3 du décret n° 2022-472 du 1<sup>er</sup> avril 2022, ces dispositions s'appliquent aux examens de capacité professionnelle organisés à compter du 1er janvier 2022.

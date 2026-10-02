@@ -7,4 +7,4 @@ Les membres qui cessent de faire partie du conseil par décès, par démission o
 Le mandat du membre du conseil qui perd la qualité en vertu de laquelle il a été élu ou désigné expire de droit.
 
 NOTA:
-Conformément à l’article 5 du décret n° 2021-766 du 14 juin 2021, ces dispositions entrent en vigueur le 1er janvier 2022.
+Conformément à l’article 5 du décret n° 2021-766 du 14 juin 2021, ces dispositions entrent en vigueur le 1<sup>er</sup> janvier 2022.

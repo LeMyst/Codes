@@ -62,7 +62,7 @@ E. - Evaluation de la conformité de la production en matière d'émissions gaze
 "k" = le facteur statistique dépendant de "n" (voir tableau ci-dessous) :
 
 | N | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| -- | -- | -- | -- | -- | -- | -- | -- | -- | -- |
 | k | 0,973 | 0,613 | 0,489 | 0,421 | 0,376 | 0,342 | 0,317 | 0,296 | 0,279 |
 | n | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 |
 | k | 0,265 | 0,253 | 0,242 | 0,233 | 0,224 | 0,216 | 0,210 | 0,203 | 0,198 |

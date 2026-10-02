@@ -7,4 +7,4 @@ En cas d'urgence :
 2° L'autorisation, les agréments et les habilitations mentionnées à l'article R. 5332-62 peuvent être suspendus sans délai par le préfet de département pour une durée maximale de deux mois.
 
 NOTA:
-Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1<sup>er</sup> juillet 2026.

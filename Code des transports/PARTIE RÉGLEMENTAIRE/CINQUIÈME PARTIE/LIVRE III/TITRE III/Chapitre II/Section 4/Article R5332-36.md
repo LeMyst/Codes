@@ -5,4 +5,4 @@ Avec l'accord du préfet de département, plusieurs installations portuaires d'u
 Si plusieurs exploitants sont concernés, ils concluent alors entre eux une convention définissant leurs responsabilités respectives.
 
 NOTA:
-Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1<sup>er</sup> juillet 2026.

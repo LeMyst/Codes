@@ -5,4 +5,4 @@ Un arrêté conjoint du ministre chargé des transports, du ministre de l'intér
 Un arrêté du ministre chargé des transports fixe les modalités de délivrance, de gestion et d'utilisation des titres d'accès dans les ports et installations portuaires concernés par l'article R. 5332-69.
 
 NOTA:
-Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1<sup>er</sup> juillet 2026.

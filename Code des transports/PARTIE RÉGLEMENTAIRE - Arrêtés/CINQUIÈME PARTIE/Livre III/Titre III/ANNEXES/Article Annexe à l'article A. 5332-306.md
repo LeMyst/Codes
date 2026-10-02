@@ -129,19 +129,19 @@ A défaut, référence de l'arrêté inter-préfectoral portant détermination d
 Principales activités du port selon la classification suivante :
 
 | Activité | Volumes annuels | Escales annuelles |
-| --- | --- | --- |
-| Croisière | Nombre de passagers | |
-| ROPAX - transbordeurs à passagers ou mixtes | Nombre de passagers Nombre de véhicules | |
-| Gaz | Tonnage | |
-| Pétrole brut | Tonnage | |
-| Produits pétroliers raffinés gazeux, liquéfiés ou comprimés | Tonnage | |
-| Conteneurs | Nombre en équivalent vingt pieds EVP | |
-| Colis lourds / industriels | Tonnage | |
-| Produits métallurgiques | Tonnage | |
-| RO-RO | Nombre de véhicules | |
-| Vracs liquides non dangereux | Tonnage | |
-| Vracs solides non dangereux | Tonnage | |
-| Barges, péniches et autres navires non ISPS | - - - | |
+| -- | -- | -- |
+| Croisière | Nombre de passagers |  |
+| ROPAX - transbordeurs à passagers ou mixtes | Nombre de passagers<br>Nombre de véhicules |  |
+| Gaz | Tonnage |  |
+| Pétrole brut | Tonnage |  |
+| Produits pétroliers raffinés gazeux, liquéfiés ou comprimés | Tonnage |  |
+| Conteneurs | Nombre en équivalent vingt pieds EVP |  |
+| Colis lourds / industriels | Tonnage |  |
+| Produits métallurgiques | Tonnage |  |
+| RO-RO | Nombre de véhicules |  |
+| Vracs liquides non dangereux | Tonnage |  |
+| Vracs solides non dangereux | Tonnage |  |
+| Barges, péniches et autres navires non ISPS | - - - |  |
 
 1.3. Données opérationnelles
 
@@ -171,10 +171,10 @@ Mesures applicables en cas de sinistre, notamment le schéma d'alerte et les moy
 
 Identification des menaces, incluant celles provenant de la mer fournies par le préfet maritime, se fondant sur une aire d'attractivité du port (aspects terrestres et maritimes) et à partir d'une liste des principales menaces pesant sur la sûreté des ports et installations portuaires, établie par l'autorité nationale de sûreté maritime et portuaire compétente pour la sûreté des ports et des installations portuaires sous le régime de confidentialité CONFIDENTIEL SÛRETÉ PORTUAIRE .
 
-| Types de menaces | Mode et moyens d'actions utilisables | Menaces retenues ou écartées |
-| --- | --- | --- |
-| Référence | Intitulé |
-| | | | |
+| Types de menaces |  | Mode et moyens<br>d'actions utilisables | Menaces retenues ou écartées |
+| -- | -- | -- | -- |
+| Référence | Intitulé |  |  |
+|  |  |  |  |
 
 2.2. Identification des points sensibles
 
@@ -192,9 +192,9 @@ Identification des points sensibles physiques, tels que notamment définis au pa
 
 1° Installations portuaires couvertes par un plan de sûreté ou interfaces non couvertes par un plan de sûreté sur lesquels des navires font escale.
 
-| Dénomination du lieu d'interface | Nature des activités (cf. paragraphe 1.2) | Dénomination de l'(ou des) exploitant(s) | Régime applicable (Déclaration de sûreté DoS ou PSIP) | Indicatif international (le cas échéant) |
-| --- | --- | --- | --- | --- |
-| | | | | |
+| Dénomination<br>du lieu d'interface | Nature des activités<br>(cf. paragraphe 1.2) | Dénomination<br>de l'(ou des) exploitant(s) | Régime applicable<br>(Déclaration de sûreté<br>DoS ou PSIP) | Indicatif international<br>(le cas échéant) |
+| -- | -- | -- | -- | -- |
+|  |  |  |  |  |
 
 ;
 
@@ -235,11 +235,11 @@ Identification des points sensibles organisationnels et humains comportant notam
 Analyse de la vulnérabilité des points sensibles se fondant sur toute information et tout renseignement qui peut révéler des vulnérabilités.
 
 | Point sensible n° | Dénomination |
-| --- | --- |
+| -- | -- |
 | Principales caractéristiques | Préciser les principales caractéristiques du point sensible, au besoin à l'aide d'une photo. |
 | Enjeu ou intérêt pour le port | Préciser l'enjeu ou l'intérêt pour le fonctionnement du port. Préciser si le point sensible est un PIV. |
 | Scenarios de menaces identifiées | Rappeler les principaux scenarios de menaces pesant sur le point sensible. |
-| Vulnérabilités identifiées (physique, organisationnelle, saisonnalité, etc.) | |
+| Vulnérabilités identifiées (physique, organisationnelle, saisonnalité, etc.) |  |
 
 2.4. Calcul des risques
 
@@ -259,11 +259,11 @@ Estimation respective et successive, pour chaque point sensible identifié ci-de
 
 Résultats du calcul des risques, présentés sous la forme d'un tableau, permettant de classer les risques par ordre d'importance, selon la typologie précitée.
 
-| Tableau de synthèse du calcul des risques d'un point sensible |
-| --- |
-| Dénomination du point sensible |
-| Rappel des scenariosde menace | Cotation de la probabilité d'occurrence de la menace [O] | Cotation de lavulnérabilité [V] | Cotation de l'impact [I] | Calcul des risques[O x V x I] | Classement par ordrede priorité | Numéro d'ordrede lacontre-mesureassociée |
-| | | | | | | |
+| Tableau de synthèse du calcul des risques d'un point sensible |  |  |  |  |  |  |
+| -- | -- | -- | -- | -- | -- | -- |
+| Dénomination du point sensible |  |  |  |  |  |  |
+| Rappel<br>des scenarios<br>de menace | Cotation de la probabilité<br>d'occurrence de la menace [O] | Cotation<br>de la<br>vulnérabilité [V] | Cotation<br>de l'impact [I] | Calcul<br>des risques<br>[O x V x I] | Classement<br>par ordre<br>de priorité | Numéro<br>d'ordre<br>de la<br>contre-mesure<br>associée |
+|  |  |  |  |  |  |  |
 
 3. Cartographie des limites portuaires de sûreté
 
@@ -295,10 +295,10 @@ Report des points sensibles identifiés au paragraphe 2.2.
 
 Définition des contre-mesures dans le tableau ci-après en fonction du calcul des risques par point sensible.
 
-| Tableau des contre-mesures de l'évaluation de sûreté du port |
-| --- |
-| Classement par ordre de priorité | Point sensible concerné et principale vulnérabilité | Numéro d'ordre et libellé |
-| | | |
+| Tableau des contre-mesures de l'évaluation de sûreté du port |  |  |
+| -- | -- | -- |
+| Classement par ordre<br>de priorité | Point sensible concerné<br>et principale vulnérabilité | Numéro d'ordre et libellé |
+|  |  |  |
 
 4.5. Observations complémentaires
 
@@ -309,7 +309,7 @@ Régime de confidentialité de l'ESP précisant ses modalités de protection, de
 Liste des services à qui l'évaluation de sûreté du port est notifiée, avec mention du numéro de l'exemplaire ; l'exemplaire détenu par le préfet de département correspondant à l'exemplaire n° 1.
 
 | Service | Exemplaire |
-| --- | --- |
+| -- | -- |
 | Autorité portuaire | n° 2 sur 4 |
 | Préfecture maritime | n° 3 sur 4 |
 | Ministère chargé des transports (service en charge de la sûreté portuaire) | n° 4 sur 4 |

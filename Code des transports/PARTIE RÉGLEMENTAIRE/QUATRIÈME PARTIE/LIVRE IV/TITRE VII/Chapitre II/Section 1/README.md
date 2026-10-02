@@ -1,1 +1,4 @@
-Section 1 : Recherche, constatation et poursuite des infractions
+# Section 1 : Recherche, constatation et poursuite des infractions
+
+- [Article R4472-1](Article%20R4472-1.md)
+- [Article R4472-2](Article%20R4472-2.md)

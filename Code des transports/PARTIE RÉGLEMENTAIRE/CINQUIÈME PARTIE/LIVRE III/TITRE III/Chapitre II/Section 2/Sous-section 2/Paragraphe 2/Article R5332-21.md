@@ -23,4 +23,4 @@ II. - Les agents placés sous l'autorité du ministre chargé des transports ré
 III. - A la suite de l'audit national de sûreté portuaire, lorsque des écarts à la réglementation ont été relevés, le préfet de département est rendu destinataire des propositions d'actions correctives émises par l'autorité portuaire ou l'exploitant de l'installation portuaire contrôle leur mise en œuvre.
 
 NOTA:
-Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1er juillet 2026.
+Conformément au I de l'article 19 du décret n° 2026-524 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur au 1<sup>er</sup> juillet 2026.

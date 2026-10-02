@@ -6,8 +6,12 @@ I. - Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations pré
 | --- | --- |
 | L. 511-1 à L. 512-7 | Ordonnance n° 2026-265 du 8 avril 2026 |
 | L. 512-8 | Ordonnance n° 2026-671 du 27 juillet 2026 |
-| L. 512-9 à L. 513-9 | Ordonnance n° 2026-265 du 8 avril 2026 |
-| L. 513-12 à L. 515-2 | Ordonnance n° 2026-265 du 8 avril 2026 |
+| L. 511-1 à L. 512-8 | Ordonnance n° 2026-265 du 8 avril 2026 |
+| L. 513-1 et L. 513-2 | Loi n° 2026-798 du 18 août 2026 visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens |
+| L. 513-3 à L. 513-9 | Ordonnance n° 2026-265 du 8 avril 2026 |
+| L. 513-12 à L. 513-23 | Ordonnance n° 2026-265 du 8 avril 2026 |
+| L. 514-1 | Loi n° 2026-798 du 18 août 2026 visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens |
+| L. 514-2 à L. 515-2 | Ordonnance n° 2026-265 du 8 avril 2026 |
 
 II. - Pour l'application du I :
 

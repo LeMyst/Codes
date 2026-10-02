@@ -3,8 +3,8 @@
 Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues aux articles R. 345-3, R. 345-4 et R. 345-4-1, les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
-| Au titre Ier |
+| -- | -- |
+| Au titre Ier |  |
 | R. 311-1 et R. 311-2 | Résultant du décret n° 2025-894 du 5 septembre 2025 |
 | R. 311-3 | Résultant du décret n° 2024-615 du 27 juin 2024 |
 | R. 311-3-1 | Résultant du décret n° 2018-542 du 29 juin 2018 |
@@ -206,7 +206,7 @@ Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues 
 | R. 317-12-2 à R. 317-12-4 | Résultant du décret n° 2022-144 du 8 février 2022 |
 | R. 317-13 | Résultant du décret n° 2017-909 du 9 mai 2017 |
 | R. 317-14 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
-| Au titre II |
+| Au titre II |  |
 | R. 321-21 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
 | R. 321-21-1 à R. 321-21-4 | Résultant du décret n° 2020-1773 du 21 décembre 2020 |
 | R. 322-18-1 à R. 322-18-4 | Résultant du décret n° 2020-1773 du 21 décembre 2020 |

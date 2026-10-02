@@ -1,1 +1,18 @@
-Sous-paragraphe 3 : Changements de grade
+# Sous-paragraphe 3 : Changements de grade
+
+- [Article R723-17](Article%20R723-17.md)
+- [Article R723-18](Article%20R723-18.md)
+- [Article R723-19](Article%20R723-19.md)
+- [Article R723-20](Article%20R723-20.md)
+- [Article R723-21](Article%20R723-21.md)
+- [Article R723-22](Article%20R723-22.md)
+- [Article R723-23](Article%20R723-23.md)
+- [Article R723-24](Article%20R723-24.md)
+- [Article R723-25](Article%20R723-25.md)
+- [Article R723-26](Article%20R723-26.md)
+- [Article R723-27](Article%20R723-27.md)
+- [Article R723-29](Article%20R723-29.md)
+- [Article R723-30](Article%20R723-30.md)
+- [Article R723-31](Article%20R723-31.md)
+- [Article R723-33](Article%20R723-33.md)
+- [Article R723-34](Article%20R723-34.md)

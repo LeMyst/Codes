@@ -11,4 +11,4 @@ Peuvent consulter tout ou partie des données enregistrées dans le fichier nati
 4° Les agents de l'Office national anti-fraude, individuellement désignés et spécialement habilités par le directeur de l'office ou, le cas échéant, par son représentant.
 
 NOTA:
-Conformément à l’article 10 du décret n° 2024-302 du 2 avril 2024, ces dispositions entrent en vigueur le 1er mai 2024.
+Conformément à l’article 10 du décret n° 2024-302 du 2 avril 2024, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2024.

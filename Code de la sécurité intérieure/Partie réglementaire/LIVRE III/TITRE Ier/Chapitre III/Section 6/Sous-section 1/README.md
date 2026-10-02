@@ -1,1 +1,18 @@
-Sous-section 1 : Autorisation de fabrication, de commerce et d'intermédiation
+# Sous-section 1 : Autorisation de fabrication, de commerce et d'intermédiation
+
+- [Article R313-28](Article%20R313-28.md)
+- [Article R313-28-1](Article%20R313-28-1.md)
+- [Article R313-29](Article%20R313-29.md)
+- [Article R313-29-1](Article%20R313-29-1.md)
+- [Article R313-30](Article%20R313-30.md)
+- [Article R313-31](Article%20R313-31.md)
+- [Article R313-32](Article%20R313-32.md)
+- [Article R313-33](Article%20R313-33.md)
+- [Article R313-33-1](Article%20R313-33-1.md)
+- [Article R313-34](Article%20R313-34.md)
+- [Article R313-35](Article%20R313-35.md)
+- [Article R313-36](Article%20R313-36.md)
+- [Article R313-37](Article%20R313-37.md)
+- [Article R313-38](Article%20R313-38.md)
+- [Article R313-38-1](Article%20R313-38-1.md)
+- [Article R313-38-2](Article%20R313-38-2.md)

@@ -9,4 +9,4 @@ La procédure relative à l'intervention dans le cadre de la sécurisation d'une
 Dans tous les cas, ces procédures s'appliquent de manière à ce que l'agent et son chien n'interviennent jamais seuls.
 
 NOTA:
-Conformément au 1° du I de l’article 11 du décret n° 2023-50 du 1er février 2023, ces dispositions entrent en vigueur deux mois après la publication de l'arrêté mentionné à l'article R. 613-16-14 du code précité et, au plus tard, le 1er mai 2023. Se reporter aux conditions d’application prévues aux II à V dudit article.
+Conformément au 1° du I de l’article 11 du décret n° 2023-50 du 1<sup>er</sup> février 2023, ces dispositions entrent en vigueur deux mois après la publication de l'arrêté mentionné à l'article R. 613-16-14 du code précité et, au plus tard, le 1er mai 2023. Se reporter aux conditions d’application prévues aux II à V dudit article.

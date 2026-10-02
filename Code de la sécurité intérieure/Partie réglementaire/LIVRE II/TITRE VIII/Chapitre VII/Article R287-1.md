@@ -3,8 +3,8 @@
 Sont applicables dans les îles Wallis et Futuna les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
-| Au titre Ier | |
+| -- | -- |
+| Au titre Ier |  |
 | R. 211-2 à R. 211-8 | Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) |
 | R. 211-11 et R. 211-12 | Résultant du décret n° 2021-556 du 5 mai 2021 |
 | R. 211-13 à R. 211-16, R. 211-18 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
@@ -14,7 +14,7 @@ Sont applicables dans les îles Wallis et Futuna les dispositions du présent li
 | R. 211-27 à R. 211-31 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
 | R. 213-2 à R. 213-7 | Résultant du décret n° 2024-221 du 12 mars 2024 |
 | R. 214-1 à R. 214-3 | Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) |
-| Au titre II | |
+| Au titre II |  |
 | R. 222-1 | Résultant du décret n° 2014-1641 du 26 décembre 2014 pris pour l'application des articles 15,18 et 19 de la loi n° 2013-1168 du 18 décembre 2013 relative à la programmation militaire pour les années 2014 à 2019 et portant diverses dispositions concernant la défense et la sécurité nationale |
 | R. 223-2 | Résultant du décret n° 2023-1102 du 27 novembre 2023 |
 | R. 224-1 et R. 224-2 | Résultant du décret n° 2017-1522 du 2 novembre 2017 |
@@ -24,7 +24,7 @@ Sont applicables dans les îles Wallis et Futuna les dispositions du présent li
 | R. 228-3 | décret n° 2022-479 du 30 mars 2022 |
 | R. 228-4 et R. 228-5 | Résultant du décret n° 2018-167 du 7 mars 2018 |
 | R. 228-6 | Résultant du décret n° 2022-479 du 30 mars 2022 |
-| Au titre III | |
+| Au titre III |  |
 | R. 232-1 | Résultant du décret n° 2014-1095 du 26 septembre 2014 |
 | R. 232-1-1 | Résultant du décret n° 2022-751 du 29 avril 2022 portant dispositions règlementaires relatives à l'agence nationale des données de voyage |
 | R. 232-2 à R. 232-5 | Résultant du décret n° 2014-1095 du 26 septembre 2014 |
@@ -69,15 +69,15 @@ Sont applicables dans les îles Wallis et Futuna les dispositions du présent li
 | R. 236-47 à R. 236-49 | Résultant du décret n° 2016-1045 du 29 juillet 2016 |
 | R. 236-50 | Résultant du décret n° 2023-1013 du 2 novembre 2023 |
 | R. 236-51 à R. 236-53 | Résultant du décret n° 2016-1045 du 29 juillet 2016 |
-| Au titre IV | |
+| Au titre IV |  |
 | R. 241-1 à R. 241-7 | Résultant du décret n° 2022-605 du 21 avril 2022 |
 | R. 242-1 à R. 242-7 | Résultant du décret n° 2022-712 du 27 avril 2022 |
 | R. 242-8 à R. 242-14 | Résultant du décret n° 2023-283 du 19 avril 2023 |
 | R. 243-1 à R. 243-8 | Résultant du décret n° 2024-238 du 18 mars 2024 |
-| Au titre V | |
+| Au titre V |  |
 | R. 251-1 à R. 252-9 | Résultant du décret n° 2023-1102 du 27 novembre 2023 |
 | R. 252-10 | Résultant du décret n° 2026-674 du 27 juillet 2026 |
 | R. 252-11 et R. 252-12 | Résultant du décret n° 2023-1102 du 27 novembre 2023 |
 | R. 252-14 à R. 254-2 | Résultant du décret n° 2023-1102 du 27 novembre 2023 |
-| Au titre V bis | |
+| Au titre V bis |  |
 | R. 256-1 à R. 256-7 | Résultant du décret n° 2023-1330 du 28 décembre 2023 |

@@ -1,1 +1,4 @@
-Chapitre II : Organisation des services
+# Chapitre II : Organisation des services
+
+- [Section 1 : Mise en commun des agents de police municipale](Section%201/README.md)
+- [Section 2 : Convention de coordination des interventions de la police municipale et des forces de sécurité de l'Etat](Section%202/README.md)

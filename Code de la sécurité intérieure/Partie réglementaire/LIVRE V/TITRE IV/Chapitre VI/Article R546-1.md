@@ -3,8 +3,8 @@
 Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues aux articles R. 546-2 et R. 546-3, les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
-| Au titre Ier | |
+| -- | -- |
+| Au titre Ier |  |
 | R. 511-1, R. 511-2 et R. 511-11 | Résultant du décret n° 2015-617 du 3 juin 2015 |
 | R. 511-12 | Résultant du décret n° 2020-1775 du 29 décembre 2020 |
 | R. 511-13 à R. 511-17 | Résultant du décret n° 2015-617 du 3 juin 2015 |

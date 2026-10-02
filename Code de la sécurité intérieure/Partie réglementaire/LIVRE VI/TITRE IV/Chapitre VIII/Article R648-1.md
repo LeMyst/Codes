@@ -3,7 +3,7 @@
 Sont applicables dans les Terres australes et antarctiques françaises en tant qu'elles concernent les entreprises participant aux activités mentionnées au 4° de l'article L. 611-1 ainsi que leurs dirigeants, gérants, associés et agents les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS applicables | DANS LEUR RÉDACTION |
-| --- | --- |
+| -- | -- |
 | R. 611-1 (à l'exception du 1°) et R. 611-2 | Résultant du décret n° 2014-1253 du 27 octobre 2014 relatif aux dispositions des livres III, VI et VII de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) |
 | R. 611-2-1 | Résultant du décret n° 2025-1344 du 26 décembre 2025 |
 | R. 612-2 | Résultant du décret n° 2025-1344 du 26 décembre 2025 |
@@ -38,7 +38,7 @@ Sont applicables dans les Terres australes et antarctiques françaises en tant q
 | R. 612-33 | Résultant du décret n° 2024-1116 du 4 décembre 2024 |
 | R. 612-36 | Résultant du décret n° 2025-1344 du 26 décembre 2025 |
 | R. 612-37 | Résultant du |
-| | décret n° 2023-50 du 1er février 2023R. 612-39Résultant du décret n° 2023-50 du 1er février 2023 |
+|  | décret n° 2023-50 du 1er février 2023R. 612-39Résultant du décret n° 2023-50 du 1er février 2023 |
 | R. 612-41 | Résultant du décret n° 2025-70 du 27 janvier 2025 |
 | R. 612-42 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
 | R. 613-16-4 à R. 613-16-14 | Résultant du décret n° 2023-50 du 1er février 2023 |

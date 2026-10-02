@@ -7,4 +7,4 @@ En cas d'urgence, la certification technique peut être suspendue par le ministr
 Un même agent et son chien ne peuvent se présenter à une évaluation s'ils ont déjà échoué trois fois à celle-ci au cours des douze derniers mois.
 
 NOTA:
-Conformément au I de l’article 11 du décret n° 2023-50 du 1er février 2023, ces dispositions entrent en vigueur le 1er mai 2023. Se reporter aux conditions d’application prévues aux II à V dudit article.
+Conformément au I de l’article 11 du décret n° 2023-50 du 1<sup>er</sup> février 2023, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2023. Se reporter aux conditions d’application prévues aux II à V dudit article.

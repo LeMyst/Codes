@@ -2,8 +2,8 @@
 
 A. - Sont applicables dans les Terres australes et antarctiques françaises les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
-| Au titre Ier |
-| --- |
+| Au titre Ier |  |
+| -- | -- |
 | R. 311-2 | Résultant du décret n° 2025-894 du 5 septembre 2025 |
 | R. 312-22 | Résultant du décret n° 2017-909 du 9 mai 2017 |
 | R. 312-23 | Résultant du décret n° 2023-984 du 25 octobre 2023 |

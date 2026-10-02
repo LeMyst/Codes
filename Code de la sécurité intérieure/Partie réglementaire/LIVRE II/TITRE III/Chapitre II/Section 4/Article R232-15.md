@@ -239,4 +239,4 @@ Sont destinataires, selon les modalités prévues au VI et dans le cadre de leur
 - des cellules de ciblage aérien.
 
 NOTA:
-Conformément à l’article 10 du décret n° 2024-302 du 2 avril 2024, ces dispositions entrent en vigueur le 1er mai 2024.
+Conformément à l’article 10 du décret n° 2024-302 du 2 avril 2024, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2024.

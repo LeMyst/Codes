@@ -2,10 +2,9 @@
 
 Sont applicables dans les Terres australes et antarctiques françaises, sous réserve des adaptations prévues à l'article R. 158-4, les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
-| | |
-| --- | --- |
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| Au titre Ier | |
+| -- | -- |
+| Au titre Ier |  |
 | R. 112-1 | Résultant du décret n° 2022-901 du 17 juin 2022 |
 | R. 113-1 | Résultant du décret n° 2025-70 du 27 janvier 2025 |
 | R. 113-2 | Résultant du décret n° 2013-1113 du 4 décembre 2013 |
@@ -23,12 +22,12 @@ Sont applicables dans les Terres australes et antarctiques françaises, sous ré
 | R. 114-8 | Résultant du décret n° 2017-757 du 3 mai 2017 |
 | R. 114-9 | Résultant du décret n° 2026-518 du 18 juin 2026 complétant la liste des décisions pouvant donner lieu à une enquête administrative en application de l'article L. 114-1 du code de la sécurité intérieure |
 | R. 114-10 | Résultant du décret n° 2017-757 du 3 mai 2017 |
-| Au titre II | |
+| Au titre II |  |
 | R. 122-17 à R. 122-23 | Résultant du décret n° 2013-1113 du 4 décembre 2013 |
 | R. 122-24 | Résultant du décret n° 2017-207 du 20 février 2017 |
 | R. 122-25 à R. 122-36 | Résultant du décret n° 2020-1591 du 16 décembre 2020 |
 | R. 122-37 | Résultant du décret n° 2023-1013 du 2 novembre 2023 |
-| Au titre IV | |
+| Au titre IV |  |
 | R. 141-1 | Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) |
 
 NOTA:

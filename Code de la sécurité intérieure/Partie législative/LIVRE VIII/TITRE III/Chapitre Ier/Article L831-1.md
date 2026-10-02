@@ -21,4 +21,4 @@ Le mandat des membres, à l'exception de ceux mentionnés au 1°, est de six ans
 Les membres du Conseil d'Etat ou de la Cour de cassation sont renouvelés par moitié tous les trois ans.
 
 NOTA:
-Conformément au XVI de l’article 60 de la loi n° 2023-1059 du 20 novembre 2023, ces dispositions entrent en vigueur à une date fixée par décret en Conseil d'Etat, et au plus tard le 31 décembre 2025. Conformément à l'article 38 du décret n° 2025-1032 du 31 octobre 2025, ces dispositions entrent en vigueur le 1er décembre 2025.
+Conformément au XVI de l’article 60 de la loi n° 2023-1059 du 20 novembre 2023, ces dispositions entrent en vigueur à une date fixée par décret en Conseil d'Etat, et au plus tard le 31 décembre 2025. Conformément à l'article 38 du décret n° 2025-1032 du 31 octobre 2025, ces dispositions entrent en vigueur le 1<sup>er</sup> décembre 2025.

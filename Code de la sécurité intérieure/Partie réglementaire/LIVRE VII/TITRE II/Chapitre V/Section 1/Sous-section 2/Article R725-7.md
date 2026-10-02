@@ -1,6 +1,7 @@
 # Article R725-7
 
-I.-Peuvent obtenir un agrément national les associations comportant des établissements autres que le principal, les unions d'associations et fédérations d'associations précitées justifiant :\
+I.-Peuvent obtenir un agrément national les associations comportant des établissements autres que le principal, les unions d'associations et fédérations d'associations précitées justifiant :
+
 1° D'une activité régulière dans au moins vingt départements ; pour l'agrément relatif aux dispositifs prévisionnels de secours mentionné à l'article R. 725-1, cette activité est celle relative aux dispositifs prévisionnels de secours au moins de petite envergure.
 
 Cette condition ne s'applique pas aux agréments relatifs aux opérations de secours autres que celles portant sur la protection des personnes, définis par arrêté du ministre chargé de la sécurité civile, pour les associations en capacité d'intervenir sur l'ensemble du territoire national ;

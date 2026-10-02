@@ -43,4 +43,4 @@ III. − Peuvent être destinataires de tout ou partie des données à caractèr
 2° Les agents des agences régionales de santé, individuellement désignés et habilités par le directeur régional.
 
 NOTA:
-Conformément à l’article 10 du décret n° 2024-302 du 2 avril 2024, ces dispositions entrent en vigueur le 1er mai 2024.
+Conformément à l’article 10 du décret n° 2024-302 du 2 avril 2024, ces dispositions entrent en vigueur le 1<sup>er</sup> mai 2024.

@@ -5,11 +5,11 @@ Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations 
 Résultant du décret n° 2017-914 du 9 mai 2017
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
-| Au titre Ier | |
+| -- | -- |
+| Au titre Ier |  |
 | R. 312-23-1 | Résultant du décret n° 2023-984 du 25 octobre 2023 |
 | R. 315-11 | Résultant du décret n° 2023-984 du 25 octobre 2023 |
-| Au titre II | |
+| Au titre II |  |
 | R. 321-1 et R. 321-1-1 | Résultant du décret n° 2020-1773 du 21 décembre 2020 |
 | R. 321-5-1 | Résultant du décret n° 2017-914 du 9 mai 2017 |
 | R. 321-5-2 à R. 321-5-4 | Résultant du décret n° 2020-1773 du 21 décembre 2020 |

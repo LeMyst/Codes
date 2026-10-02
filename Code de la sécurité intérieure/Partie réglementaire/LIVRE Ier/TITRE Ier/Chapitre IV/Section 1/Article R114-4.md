@@ -19,4 +19,4 @@ Peuvent donner lieu aux enquêtes mentionnées à l'article R. 114-1 les autoris
 8° Zones à accès restreint et installations portuaires mentionnées à l'article L. 5332-16 du code des transports dans les conditions prévues à l'article L. 5332-18 du même code.
 
 NOTA:
-Conformément au premier alinéa de l'article 7 du décret n° 2026-518 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le 1er juillet 2026.
+Conformément au premier alinéa de l'article 7 du décret n° 2026-518 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le 1<sup>er</sup> juillet 2026.

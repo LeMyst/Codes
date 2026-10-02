@@ -50,7 +50,7 @@ b) ou qu'un chargeur amovible d'une capacité supérieure à dix cartouches y a 
 
 13° Couteaux, coutelas et machettes, à lame fixe disposant d'un côté tranchant, d'une extrémité pointue, d'un côté dentelé et présentant en complément soit plus d'un trou dans la lame, soit plusieurs pointes acérées ;
 
-14° Armes contondantes dites " coups de poing américains " d'un modèle postérieur au 1erjanvier 1900 qui par leur conception permettent à quatre doigts d'être protégés et de maintenir l'arme tout en accentuant l'efficacité vulnérante de la frappe.
+14° Armes contondantes dites " coups de poing américains " d'un modèle postérieur au 1er janvier 1900 qui par leur conception permettent à quatre doigts d'être protégés et de maintenir l'arme tout en accentuant l'efficacité vulnérante de la frappe.
 
 Sont comprises dans cette catégorie les armes mixtes combinant une arme telle que décrite au précédent alinéa avec toute autre arme définie au R. 311-1, à l'exception de celles classées dans les autres catégories.
 

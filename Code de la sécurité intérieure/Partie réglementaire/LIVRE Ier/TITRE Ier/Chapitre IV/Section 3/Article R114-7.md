@@ -41,4 +41,4 @@ c) Gaz liquéfiés énumérés au chapitre 19 du recueil international de règle
 d) Marchandises dangereuses transportées en colis définies au 1.4.3.1. du code maritime international des marchandises dangereuses.
 
 NOTA:
-Conformément au premier alinéa de l'article 7 du décret n° 2026-518 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le 1er juillet 2026.
+Conformément au premier alinéa de l'article 7 du décret n° 2026-518 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le 1<sup>er</sup> juillet 2026.

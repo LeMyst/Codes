@@ -117,4 +117,4 @@ p) Des agents des services de sécurité des bailleurs d'immeubles mentionnés a
 q) Des personnes physiques exerçant à titre individuel une activité de formation aux activités privées de sécurité ou exerçant les fonctions de dirigeant, de gérant ou d'associé d'une personne morale exerçant cette activité de formation.
 
 NOTA:
-Conformément au premier alinéa de l'article 7 du décret n° 2026-518 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le 1er juillet 2026.
+Conformément au premier alinéa de l'article 7 du décret n° 2026-518 du 18 juin 2026, ces dispositions, dans leur rédaction issue du décret précité, entrent en vigueur le 1<sup>er</sup> juillet 2026.

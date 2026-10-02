@@ -9,4 +9,4 @@ Afin de permettre de vérifier le respect des conditions prévues à l'alinéa p
 Les personnes morales et services internes de sécurité et leurs dirigeants s'assurent en outre de l'adéquation des compétences de leurs agents aux missions qui leur sont confiées.
 
 NOTA:
-Conformément au 2° de l'article 10 du décret n° 2025-1344 du 26 décembre 2025, ces dispositions, dans leur rédaction résultant du 4° de l'article 3 du décret précité, entrent en vigueur à la date de mise en service des fonctionnalités du téléservice mentionnées à ces articles et au plus tard le 1er octobre 2026.
+Conformément au 2° de l'article 10 du décret n° 2025-1344 du 26 décembre 2025, ces dispositions, dans leur rédaction résultant du 4° de l'article 3 du décret précité, entrent en vigueur à la date de mise en service des fonctionnalités du téléservice mentionnées à ces articles et au plus tard le 1<sup>er</sup> octobre 2026.

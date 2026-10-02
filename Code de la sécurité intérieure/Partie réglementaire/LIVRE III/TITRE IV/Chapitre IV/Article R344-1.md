@@ -3,8 +3,8 @@
 Outre celles des sections 1 et 2 du présent chapitre, sont applicables en Polynésie française, sous réserve des adaptations prévues aux articles R. 344-2, R. 344-3 et R. 344-3-1, les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
-| Au titre Ier |
+| -- | -- |
+| Au titre Ier |  |
 | R. 311-1 et R. 311-2 | Résultant du décret n° 2025-894 du 5 septembre 2025 |
 | R. 311-3 | Résultant du décret n° 2024-615 du 27 juin 2024 |
 | R. 311-3-1 | Résultant du décret n° 2018-542 du 29 juin 2018 |
@@ -60,7 +60,7 @@ Outre celles des sections 1 et 2 du présent chapitre, sont applicables en Polyn
 | R. 312-52 | Résultant du décret n° 2023-557 du 3 juillet 2023 |
 | R. 312-53 | Résultant du décret n° 2022-144 du 8 février 2022 |
 | R. 312-54 à R. 312-56 | Résultant du décret n° 2024-615 du 27 juin 2024 |
-| | |
+|  |  |
 | R. 312-57 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
 | R. 312-58 | Résultant du décret n° 2022-144 du 8 février 2022 |
 | R. 312-58-1 | Résultant du décret n° 2024-615 du 27 juin 2024 |
@@ -204,11 +204,11 @@ Outre celles des sections 1 et 2 du présent chapitre, sont applicables en Polyn
 | R. 317-12-2 à R. 317-12-4 | Résultant du décret n° 2022-144 du 8 février 2022 |
 | R. 317-13 | Résultant du décret n° 2017-909 du 9 mai 2017 |
 | R. 317-14 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
-| Au titre II |
+| Au titre II |  |
 | R. 321-21-1 à R. 321-21-4 | Résultant du décret n° 2020-1773 du 21 décembre 2020 |
 | R. 322-18-1 à R. 322-18-4 | Résultant du décret n° 2020-1773 du 21 décembre 2020 |
 | R. 322-22-1 à R. 322-22-4 | Résultant du décret n° 2020-1773 du 21 décembre 2020 |
 | R. 322-22-8 | Résultant du décret n° 2020-1773 du 21 décembre 2020 |
 | R. 324-1 et R. 324-2 | Résultant du décret n° 2020-1773 du 21 décembre 2020 |
-| Au titre III |
+| Au titre III |  |
 | R. 332-1 et R. 333-1 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |

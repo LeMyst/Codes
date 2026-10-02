@@ -6,11 +6,11 @@ Le conseil d'administration comprend :
 
 a) Trois membres de droit :
 
-– le secrétaire général du ministère de l'intérieur ;
+- le secrétaire général du ministère de l'intérieur ;
 
-– le directeur général de la sécurité civile et de la gestion des crises au ministère de l'intérieur ;
+- le directeur général de la sécurité civile et de la gestion des crises au ministère de l'intérieur ;
 
-– le directeur des systèmes d'information et de communication au ministère de l'intérieur ;
+- le directeur des systèmes d'information et de communication au ministère de l'intérieur ;
 
 b) Le préfet de police de Paris ou son représentant ;
 

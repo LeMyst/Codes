@@ -3,8 +3,8 @@
 Sont applicables en Polynésie française, sous réserve des adaptations prévues aux articles R. 645-3 et R. 645-4, les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| --- | --- |
-| Au titre Ier | |
+| -- | -- |
+| Au titre Ier |  |
 | R. 611-1 (à l'exception du 1°) et R. 611-2 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
 | R. 612-2 | Résultant du décret n° 2022-449 du 30 mars 2022 |
 | R. 612-3 | Résultant du décret n° 2024-1116 du 4 décembre 2024 |
@@ -109,13 +109,13 @@ Sont applicables en Polynésie française, sous réserve des adaptations prévue
 | R. 617-2-3 | Résultant du décret n° 2023-50 du 1er février 2023 |
 | R. 617-3 | Résultant du décret n° 2024-1116 du 4 décembre 2024 |
 | R. 617-3-1 à R. 617-5 | Résultant du décret n° 2017-1844 du 29 décembre 2017 |
-| Titre II bis | |
+| Titre II bis |  |
 | R. 625-1 | Résultant du décret n° 2024-311 du 4 avril 2024 |
 | R. 625-2 | Résultant du décret n° 2024-1116 du 4 décembre 2024 |
 | R. 625-3 à R. 625-30 | Résultant du décret n° 2024-311 du 4 avril 2024 |
 | R. 625-31 | Résultant du décret n° 2024-1116 du 4 décembre 2024 |
 | R. 625-32 à R. 625-42 | Résultant du décret n° 2024-311 du 4 avril 2024 |
-| Au titre III | |
+| Au titre III |  |
 | R. 631-1 à R. 631-3 | Résultant du décret n° 2024-311 du 4 avril 2024 |
 | R. 631-4 à R. 631-14 | Résultant du décret n° 2014-1253 du 27 octobre 2014 |
 | R. 631-15 | Résultant du décret n° 2024-311 du 4 avril 2024 |

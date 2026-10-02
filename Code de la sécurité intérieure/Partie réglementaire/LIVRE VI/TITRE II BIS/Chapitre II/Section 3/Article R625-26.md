@@ -25,4 +25,4 @@ L'attestation mentionnée à l'alinéa précédent doit être certifiée ou reco
 Le niveau de connaissance de la langue française peut également être justifié par la production de l'attestation de comparabilité prévue au a du 10° de l'article 14-1 du décret n° 93-1362 du 30 décembre 1993 relatif aux déclarations de nationalité, aux décisions de naturalisation, de réintégration, de perte, de déchéance et de retrait de la nationalité française.
 
 NOTA:
-Conformément au 2° de l'article 10 du décret n° 2025-1344 du 26 décembre 2025, ces dispositions, dans leur rédaction résultant de l'article 2 du décret précité, entrent en vigueur à la date de mise en service des fonctionnalités du téléservice mentionnées à ces articles et au plus tard le 1er octobre 2026.
+Conformément au 2° de l'article 10 du décret n° 2025-1344 du 26 décembre 2025, ces dispositions, dans leur rédaction résultant de l'article 2 du décret précité, entrent en vigueur à la date de mise en service des fonctionnalités du téléservice mentionnées à ces articles et au plus tard le 1<sup>er</sup> octobre 2026.

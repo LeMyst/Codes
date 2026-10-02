@@ -2,10 +2,9 @@
 
 Sont applicables en Polynésie française les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
-| | |
-| --- | --- |
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| Au titre Ier | |
+| -- | -- |
+| Au titre Ier |  |
 | R. 411-1 à R. 411-3 | Résultant du décret n° 2013-1113 du 4 décembre 2013 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) |
 | R. 411-3-1 | Résultant du décret n° 2024-615 du 27 juin 2024 |
 | R. 411-4 à R. 411-12 | Résultant du décret n° 2025-70 du 27 janvier 2025 |
@@ -32,7 +31,7 @@ Sont applicables en Polynésie française les dispositions du présent livre men
 | R. 413-21 | Résultant du décret n° 2023-1013 du 2 novembre 2023 |
 | R. 413-22 à R. 413-26 | Résultant du décret n° 2013-1113 du 4 décembre 2013 |
 | Le titre II | Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) |
-| Au titre III | |
+| Au titre III |  |
 | R. 431-1 et R. 431-2 | Résultant du décret n° 2013-1113 du 4 décembre 2013 |
 | R. 431-3 | Résultant du décret n° 2017-907 du 6 mai 2017 |
 | R. 431-4 à R. 431-7 | Résultant du décret n° 2013-1113 du 4 décembre 2013 |

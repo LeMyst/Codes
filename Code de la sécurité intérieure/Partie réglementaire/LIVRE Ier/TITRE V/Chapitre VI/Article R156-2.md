@@ -2,10 +2,9 @@
 
 Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues aux articles D. 156-4 à R. 156-8, les dispositions du présent livre mentionnées dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
-| | |
-| --- | --- |
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
-| Au titre Ier | |
+| -- | -- |
+| Au titre Ier |  |
 | R. 112-1 | Résultant du décret n° 2022-901 du 17 juin 2022 |
 | R. 113-1 | Résultant du décret n° 2025-70 du 27 janvier 2025 |
 | R. 113-2 | Résultant du décret n° 2013-1113 du 4 décembre 2013 |
@@ -23,7 +22,7 @@ Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues 
 | R. 114-8 | Résultant du décret n° 2017-757 du 3 mai 2017 |
 | R. 114-9 | Résultant du décret n° 2026-518 du 18 juin 2026 complétant la liste des décisions pouvant donner lieu à une enquête administrative en application de l'article L. 114-1 du code de la sécurité intérieure |
 | R. 114-10 | Résultant du décret n° 2017-757 du 3 mai 2017 |
-| Au titre II | |
+| Au titre II |  |
 | R. 122-17 à R. 122-23 | Résultant du décret n° 2013-1113 du 4 décembre 2013 |
 | R. 122-24 | Résultant du décret n° 2017-207 du 20 février 2017 |
 | R. 122-25 à R. 122-29 | Résultant du décret n° 2020-1591 du 16 décembre 2020 |
@@ -31,9 +30,9 @@ Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues 
 | R. 122-31, sauf son 1° et son 3° | Résultant du décret n° 2023-136 du 27 février 2023 |
 | R. 122-32 à R. 122-35 | Résultant du décret n° 2020-1591 du 16 décembre 2020 |
 | R. 122-37 | Résultant du décret n° 2023-1013 du 2 novembre 2023 |
-| R. 123-8, R. 123-10, R. 123-11 et R. 123-31-1 | Résultant du décret n° 2013-1113 du 4 décembre 2013 |
-| Au titre III | |
+| R. 123-8, R. 123-10, R. 123-11 et<br>R. 123-31-1 | Résultant du décret n° 2013-1113 du 4 décembre 2013 |
+| Au titre III |  |
 | R. 132-4-1 à R. 132-4-5 | Résultant du décret n° 2019-1259 du 28 novembre 2019 |
 | R. 132-10-1 | Résultant du décret n° 2019-1259 du 28 novembre 2019 |
-| Au titre IV | |
+| Au titre IV |  |
 | R. 141-1 | Résultant du décret n° 2013-1113 relatif aux dispositions des livres Ier, II, IV et V de la partie réglementaire du code de la sécurité intérieure (Décrets en Conseil d'Etat et décrets simples) |

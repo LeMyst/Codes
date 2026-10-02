@@ -1,8 +1,8 @@
 # Article L521-3
 
-I.-Ne peuvent prétendre à la qualité et à la dénomination de coopérative ou d'union que les sociétés dont les statuts prévoient :
+I. - Ne peuvent prétendre à la qualité et à la dénomination de coopérative ou d'union que les sociétés dont les statuts prévoient :
 
-a) L'obligation pour chaque coopérateur d'utiliser tout ou partie des services de la société pour une durée déterminée, et corrélativement, de souscrire une quote-part du capital en fonction de cet engagement d'activité ;
+a) L'obligation pour chaque coopérateur d'utiliser tout ou partie des services de la société pour une durée déterminée, et corrélativement, de souscrire une quote-part du capital, composée d'une ou de plusieurs parts sociales d'activité, en fonction de cet engagement d'activité ;
 
 b) L'obligation pour la société de ne faire d'opérations qu'avec ses seuls associés coopérateurs et de leur fournir les services correspondant aux activités pour lesquelles ils se sont engagés ;
 
@@ -20,11 +20,8 @@ h) L'obligation pour l'organe chargé de l'administration de la société de met
 
 Toutefois, en ce qui concerne les b, e et f ci-dessus, les coopérateurs peuvent, soit à la fondation, soit en cours de vie sociale, exercer, dans les conditions et limites prévues, les choix qui leur sont couverts par les articles L. 522-5, L. 523-1, L. 523-7 et L. 524-4.
 
-II.-Les statuts peuvent prévoir que la durée d'engagement des nouveaux associés coopérateurs inclut une période probatoire, qui ne peut excéder une année.
+II. - Les statuts peuvent prévoir que la durée d'engagement des nouveaux associés coopérateurs inclut une période probatoire, qui ne peut excéder une année.
 
 Pendant la période probatoire, ces associés coopérateurs ont les mêmes droits et obligations que les autres associés coopérateurs. A l'expiration de cette période, l'admission est définitive, sauf décision contraire de l'associé coopérateur ou décision motivée du conseil d'administration, l'intéressé ayant été entendu et dûment convoqué.
 
 A la fin de la période probatoire et en cas de retrait du nouvel associé, celui-ci bénéficie du remboursement de ses parts sociales.
-
-NOTA:
-Conformément à l’article 17 de la loi n° 2022-298 du 2 mars 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

@@ -30,6 +30,64 @@ II bis. - Il est créé un conseil de surveillance chargé du suivi et du contr�
 
 Le conseil mentionné au premier alinéa du présent II bis se réunit trimestriellement pour assurer le contrôle des avancées et de l'efficacité des tests en matière de recherche et de mise en œuvre d'alternatives aux produits phytopharmaceutiques contenant une ou des substances actives de la famille des néonicotinoïdes ou présentant des modes d'action identiques à ceux de ces substances. Dans le cadre de la procédure de dérogation prévue au même deuxième alinéa, il émet un avis sur les dérogations, dans le respect d'un délai déterminé par décret, et assure le suivi et l'évaluation de leurs conséquences, notamment sur l'environnement, et de leur incidence économique sur la situation de la filière. Le conseil émet un avis et suit l'état d'avancement du plan de prévention proposé par la filière concernée, en veillant à ce que soient prévues les modalités de déploiement des solutions alternatives existantes en conditions réelles d'exploitation.
 
+II ter. - Sans préjudice de la nécessité d'obtenir une autorisation de mise sur le marché ou une autorisation accordée dans les conditions définies à l'article 53 du règlement (CE) n° 1107/2009 du Parlement européen et du Conseil du 21 octobre 2009 concernant la mise sur le marché des produits phytopharmaceutiques et abrogeant les directives 79/117/CEE et 91/414/CEE du Conseil, l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail, saisie par le ministre chargé de l'agriculture, permet, dans un délai de deux mois et à titre exceptionnel, de déroger à l'interdiction de l'utilisation des semences traitées avec des produits phytopharmaceutiques mentionnée au II du présent article, pour un usage limité aux produits contenant la substance flupyradifurone et pour une durée d'un an renouvelable deux fois, lorsque les conditions suivantes sont réunies :
+
+1° La dérogation vise à faire face à une menace grave compromettant la production de betteraves sucrières ;
+
+2° Les solutions alternatives mentionnées à l'article L. 253-1 A à l'utilisation des semences traitées avec ces produits sont inexistantes ou manifestement insuffisantes ;
+
+3° Il existe un plan de recherche sur les solutions alternatives à l'utilisation de ces produits ;
+
+4° En l'état des connaissances scientifiques les plus récentes et eu égard aux modalités d'utilisation de la substance concernée, la dérogation n'est pas susceptible d'engendrer des risques significatifs pour la santé humaine ou d'affecter de manière grave et irréversible l'environnement.
+
+La décision de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail mentionnée au premier alinéa du présent II ter tient compte notamment des risques pour la santé humaine et l'environnement qu'engendrerait la dérogation et les mesures appropriées pour les parer, en particulier par les meilleures conditions d'usage possibles du produit. Elle est prise après avis du conseil de surveillance mentionné au II bis. Cet avis porte notamment sur les conditions mentionnées aux 1° à 3° du présent II ter. Il est actualisé annuellement.
+
+L'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail précise les conditions dans lesquelles la dérogation est mise en œuvre, notamment celles relatives à l'interdiction temporaire de semis, de plantation et de replantation de végétaux attractifs d'insectes pollinisateurs après l'emploi de semences traitées avec la substance flupyradifurone.
+
+La dérogation prend fin lorsque l'une des conditions mentionnées aux 1° à 4° n'est plus remplie.
+
+Le conseil de surveillance remet au Gouvernement et au Parlement, chaque année avant le 15 octobre, un rapport public relatif à l'application de la dérogation, qui décrit ses conséquences, notamment environnementales et économiques, et indique l'état d'avancement du plan de recherche mentionné au 3°. Il recommande des modalités de déploiement des solutions alternatives. Il s'appuie sur les données recueillies par le dispositif de surveillance des effets indésirables des produits phytopharmaceutiques mentionné à l'article L. 253-8-1.
+
+II quater. - Sans préjudice de la nécessité d'obtenir une autorisation de mise sur le marché ou une autorisation accordée dans les conditions définies à l'article 53 du règlement (CE) n° 1107/2009 du Parlement européen et du Conseil du 21 octobre 2009 précité, l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail, saisie par le ministre chargé de l'agriculture, permet, dans un délai de deux mois et à titre exceptionnel, de déroger à l'interdiction de l'utilisation des produits phytopharmaceutiques mentionnée au II du présent article, pour un usage limité aux produits contenant la substance flupyradifurone et pour une durée d'un an renouvelable deux fois, lorsque les conditions suivantes sont réunies :
+
+1° La dérogation vise à faire face à une menace grave compromettant la production de cerises et de pommes ;
+
+2° Les solutions alternatives mentionnées à l'article L. 253-1 A à l'utilisation de ces produits sont inexistantes ou manifestement insuffisantes ;
+
+3° Il existe un plan de recherche sur les solutions alternatives à l'utilisation de ces produits ;
+
+4° L'usage de ces produits respecte l'emploi des meilleures techniques disponibles en matière de réduction ou de suppression de la dérive ;
+
+5° En l'état des connaissances scientifiques les plus récentes et eu égard aux modalités d'utilisation de la substance concernée, la dérogation n'est pas susceptible d'engendrer des risques significatifs pour la santé humaine ou d'affecter de manière grave et irréversible l'environnement.
+
+La décision de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail mentionnée au premier alinéa du présent II quater tient compte notamment des risques pour la santé humaine et l'environnement qu'engendrerait la dérogation et les mesures appropriées pour les parer, en particulier par les meilleures conditions d'usage possibles du produit, qui visent notamment à prévoir des dispositifs de réduction substantielle de la dérive. Elle est prise après avis du conseil de surveillance mentionné au II bis. Cet avis porte notamment sur les conditions mentionnées aux 1° à 3° du présent II quater. Il est actualisé annuellement.
+
+L'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail précise les conditions dans lesquelles la dérogation est mise en œuvre.
+
+La dérogation prend fin lorsque l'une des conditions mentionnées aux 1° à 5° n'est plus remplie.
+
+Le conseil de surveillance remet au Gouvernement et au Parlement, chaque année avant le 15 octobre, un rapport public relatif à l'application de la dérogation, qui décrit ses conséquences, notamment environnementales et économiques, et indique l'état d'avancement du plan de recherche mentionné au 3°. Il recommande des modalités de déploiement des solutions alternatives. Il s'appuie sur les données recueillies par le dispositif de surveillance des effets indésirables des produits phytopharmaceutiques mentionné à l'article L. 253-8-1.
+
+II quinquies. - Sans préjudice de la nécessité d'obtenir une autorisation de mise sur le marché ou une autorisation accordée dans les conditions définies à l'article 53 du règlement (CE) n° 1107/2009 du Parlement européen et du Conseil du 21 octobre 2009 précité, l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail, saisie par le ministre chargé de l'agriculture, permet, dans un délai de deux mois et à titre exceptionnel, de déroger à l'interdiction de l'utilisation des produits phytopharmaceutiques mentionnée au II du présent article, pour un usage limité aux produits contenant la substance acétamipride et pour une durée d'un an renouvelable deux fois, lorsque les conditions suivantes sont réunies :
+
+1° La dérogation vise à faire face à une menace grave compromettant la production de noisettes ;
+
+2° Les solutions alternatives mentionnées à l'article L. 253-1 A à l'utilisation de ces produits sont inexistantes ou manifestement insuffisantes ;
+
+3° Il existe un plan de recherche sur les solutions alternatives à l'utilisation de ces produits ;
+
+4° L'usage de ces produits respecte l'emploi des meilleures techniques disponibles en matière de réduction ou de suppression de la dérive ;
+
+5° En l'état des connaissances scientifiques les plus récentes et eu égard aux modalités d'utilisation de la substance concernée, la dérogation n'est pas susceptible d'engendrer des risques significatifs pour la santé humaine ou d'affecter de manière grave et irréversible l'environnement.
+
+La décision de l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail mentionnée au premier alinéa du présent II quinquies tient compte notamment des risques pour la santé humaine et l'environnement qu'engendrerait la dérogation et les mesures appropriées pour les parer, en particulier par les meilleures conditions d'usage possibles du produit, qui visent notamment à prévoir des dispositifs de réduction substantielle de la dérive. Elle est prise après avis du conseil de surveillance mentionné au II bis. Cet avis porte notamment sur les conditions mentionnées aux 1° à 3° du présent II quinquies. Il est actualisé annuellement.
+
+L'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail précise les conditions dans lesquelles la dérogation est mise en œuvre.
+
+La dérogation prend fin lorsque l'une des conditions mentionnées aux 1° à 5° n'est plus remplie.
+
+Le conseil de surveillance remet au Gouvernement et au Parlement, chaque année avant le 15 octobre, un rapport public relatif à l'application de la dérogation, qui décrit ses conséquences, notamment environnementales et économiques, et indique l'état d'avancement du plan de recherche mentionné au 3°. Il recommande des modalités de déploiement des solutions alternatives. Il s'appuie sur les données recueillies par le dispositif de surveillance des effets indésirables des produits phytopharmaceutiques mentionné à l'article L. 253-8-1.
+
 III. - A l'exclusion des produits de biocontrôle mentionnés au deuxième alinéa de l'article L. 253-6, des produits composés uniquement de substances de base ou de substances à faible risque au sens du règlement (CE) n° 1107/2009 du Parlement européen et du Conseil du 21 octobre 2009 concernant la mise sur le marché des produits phytopharmaceutiques et abrogeant les directives 79/117/ CEE et 91/414/ CEE du Conseil, l'utilisation des produits phytopharmaceutiques à proximité des zones attenantes aux bâtiments habités et aux parties non bâties à usage d'agrément contiguës à ces bâtiments est subordonnée à des mesures de protection des personnes habitant ces lieux. Ces mesures tiennent compte, notamment, des techniques et matériels d'application employés et sont adaptées au contexte topographique, pédoclimatique, environnemental et sanitaire. Les utilisateurs formalisent ces mesures dans une charte d'engagements à l'échelle départementale, après concertation avec les personnes, ou leurs représentants, habitant à proximité des zones susceptibles d'être traitées avec un produit phytopharmaceutique.
 
 Lorsque de telles mesures ne sont pas mises en place, ou dans l'intérêt de la santé publique, l'autorité administrative peut, sans préjudice des missions confiées à l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail, restreindre ou interdire l'utilisation des produits phytopharmaceutiques à proximité des zones définies au premier alinéa du présent III.

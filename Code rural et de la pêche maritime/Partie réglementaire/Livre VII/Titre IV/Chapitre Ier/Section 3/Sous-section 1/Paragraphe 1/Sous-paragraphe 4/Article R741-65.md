@@ -6,4 +6,7 @@ Peuvent seuls, le cas échéant, être considérés comme stagiaires pour l'obte
 
 2° Pendant une durée d'un an au maximum, les stagiaires étrangers occupant chez un tiers un emploi relevant d'une profession agricole ou assimilée et autorisés à exercer une activité professionnelle, en application du chapitre Ier du titre II du livre II de la partie V du code du travail ;
 
-3° Pendant la durée du stage, les jeunes agriculteurs effectuant un stage d'application dans le cadre d'un plan de professionnalisation personnalisé validé par le préfet leur permettant de se préparer au métier de responsable d'exploitation agricole.
+3° Pendant la durée du stage d'application, les personnes engagées dans un projet personnalisé d'installation approuvé par une structure de conseil et d'accompagnement agréée du réseau France services agriculture mentionné à l'article L. 330-4, leur permettant de se préparer au métier de responsable d'exploitation agricole.
+
+NOTA:
+Conformément à l’article 2 du décret n° 2026-855 du 10 septembre 2026, ces dispositions, dans leur rédaction antérieure au présent décret, demeurent applicables à la personne dont le plan de professionnalisation personnalisé a été agréé avant le 1er janvier 2027.

@@ -4,7 +4,7 @@ L'importance et la durée de la participation des associés non coopérateurs so
 
 Le capital social des sociétés coopératives agricoles et des unions ayant des associés non coopérateurs est partagé en deux fractions distinguant les apports de fonds des associés coopérateurs et ceux des associés non coopérateurs.
 
-Les parts des associés non coopérateurs n'ouvrent pas droit aux ristournes annuelles sur les éléments d'activité. Elles donnent droit à un intérêt dont les statuts peuvent fixer le taux à deux points au-dessus de celui des parts des associés coopérateurs. Les statuts peuvent aussi leur accorder une priorité sur les parts des associés coopérateurs pour le service de ces intérêts.
+Les parts des associés non coopérateurs n'ouvrent pas droit aux ristournes annuelles sur les éléments d'activité. Elles donnent droit à un intérêt dont les statuts peuvent fixer le taux à deux points au-dessus de celui des parts sociales d'activité des associés coopérateurs. Les statuts peuvent aussi leur accorder une priorité sur les parts des associés coopérateurs pour le service de ces intérêts.
 
 Les parts des associés non coopérateurs participent à égalité avec les parts des associés coopérateurs aux revalorisations des parts sociales.
 

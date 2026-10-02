@@ -1,12 +1,19 @@
 # Article R254-26-3
 
-Le diagnostic est actualisé au moins tous les six ans.
+I. - Le diagnostic mentionné au II de l'article L. 254-6-4 est établi par écrit en collaboration étroite avec les décideurs de l'entreprise utilisatrice de produits phytopharmaceutiques en tenant compte des informations qu'ils fournissent et de toute information publique utile.
 
-Deux conseils stratégiques au moins sont délivrés par période de cinq ans, à un intervalle de deux à trois ans.
+Il analyse l'incidence, pour la définition de la stratégie de l'entreprise en vue de la protection des végétaux ou à toute autre fin prévue au paragraphe 1 de l'article 2 du règlement (CE) n° 1107/2009 du 21 octobre 2009 :
 
-Un conseil stratégique est dispensé trois mois au plus tard après l'établissement ou l'actualisation d'un diagnostic.
+1° Des principales caractéristiques du système d'exploitation ou d'entreprise, notamment des atouts et contraintes liées aux activités économiques exercées ;
 
-Le deuxième conseil stratégique réalisé par période de cinq ans dresse, pour l'ensemble des points mentionnés à l'article R. 254-26-2, un bilan du déploiement du plan d'actions, identifie les difficultés et les facteurs de réussite et propose les évolutions nécessaires de ce plan, compte tenu du retour d'expérience de sa mise en œuvre ou des évolutions techniques ou réglementaires. Il évalue les réductions de l'utilisation et de l'impact des produits phytosanitaires intervenues et attendues, sur les mêmes bases que celles qui ont servi à l'élaboration du diagnostic et du premier conseil stratégique.
+2° Des spécificités pédo-climatiques, sanitaires et environnementales des espaces concernés.
 
-NOTA:
-Conformément au I de l'article 2 du décret n° 2020-1265 du 16 octobre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.
+Il dresse un bilan des mesures de protection intégrée des cultures mises en place par l'entreprise dans les conditions prévues à l'annexe III de la directive 2009/128/ CE du 21 octobre 2009.
+
+II. - Lorsque le conseil porte sur une exploitation agricole, le diagnostic comprend également, outre les éléments mentionnés au troisième alinéa du I de l'article L. 254-6-2, un bilan de l'utilisation des produits phytopharmaceutiques. Ce bilan inclut notamment :
+
+1° L'évolution des quantités utilisées par type de produits ;
+
+2° Le positionnement de l'exploitation par rapport à des pratiques de référence, lequel peut notamment s'appuyer sur l'indice de fréquence de traitement des principales cultures.
+
+Il identifie les facteurs influençant les décisions de recours aux produits phytopharmaceutiques, notamment les conseils à l'utilisation des produits phytopharmaceutiques mentionnés au I de l'article L. 254-6-4 reçus par l'utilisateur professionnel.

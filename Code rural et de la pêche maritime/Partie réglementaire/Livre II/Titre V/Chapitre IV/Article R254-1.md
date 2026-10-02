@@ -24,7 +24,4 @@ II. - Pour l'application du présent chapitre, on entend par :
 
 " Micro-distributeur " : tout distributeur relevant du régime des micro-entreprises, tel que défini par l'article 50-0 du code général des impôts.
 
-Conseiller à l'utilisation de produits phytopharmaceutiques” : toute personne délivrant à titre professionnel un conseil stratégique mentionné à l'article L. 254-6-2 ou un conseil spécifique mentionné à l'article L. 254-6-3.
-
-NOTA:
-Conformément au I de l'article 2 du décret n° 2020-1265 du 16 octobre 2020, ces dispositions entrent en vigueur le 1er janvier 2021.
+" Conseiller à l'utilisation de produits phytopharmaceutiques ” : toute personne délivrant à titre professionnel un conseil à l'utilisation des produits phytopharmaceutiques mentionné à l'article L. 254-6-4.

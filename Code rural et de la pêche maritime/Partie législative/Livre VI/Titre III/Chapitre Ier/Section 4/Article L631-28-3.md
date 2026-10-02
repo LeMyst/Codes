@@ -1,10 +1,10 @@
 # Article L631-28-3
 
-I.-Pour les litiges relatifs à la conclusion d'un contrat ou d'un accord-cadre, la décision du comité de règlement des différends commerciaux agricoles est motivée et précise les conditions devant être remplies pour assurer la conformité du contrat aux articles L. 631-24 et L. 631-24-2.
+I. - Pour les litiges relatifs à la conclusion d'un contrat ou d'un accord-cadre, la décision du comité de règlement des différends commerciaux agricoles est motivée et précise les conditions devant être remplies pour assurer la conformité du contrat aux articles L. 631-24 et L. 631-24-2.
 
 Pour les litiges relatifs à l'exécution ou à la renégociation d'un contrat ou d'un accord-cadre, la décision du comité est motivée et précise les modifications devant être apportées au contrat ou à l'accord-cadre pour assurer la conformité du contrat aux mêmes articles L. 631-24 et L. 631-24-2.
 
-II.-Le comité peut enjoindre aux parties de se conformer à sa décision. Cette injonction peut être assortie d'une astreinte pour contraindre les parties :
+II. - Le comité peut enjoindre aux parties de se conformer à sa décision. Cette injonction peut être assortie d'une astreinte pour contraindre les parties :
 
 1° Pour les litiges relatifs à la conclusion d'un contrat ou d'un accord-cadre, à conclure un contrat à certaines conditions conformes aux articles L. 631-24 et L. 631-24-2, en application de la décision mentionnée au I du présent article ;
 
@@ -18,7 +18,7 @@ L'astreinte mentionnée au 2° du présent II est prononcée jusqu'à la modific
 
 L'astreinte est liquidée par le comité, qui en fixe le montant définitif, et est recouvrée comme une créance de l'Etat étrangère à l'impôt et au domaine.
 
-III.-Le comité peut, après avoir entendu les parties en cause, prendre les mesures conservatoires qui lui apparaissent nécessaires.
+III. - Le comité peut, après avoir entendu les parties en cause, prendre les mesures conservatoires qui lui apparaissent nécessaires.
 
 Ces mesures ne peuvent intervenir que s'il est porté une atteinte grave et immédiate aux intérêts de l'une des parties au litige.
 
@@ -28,9 +28,6 @@ Pour les litiges relatifs à l'exécution ou à la renégociation d'un contrat o
 
 Les mesures conservatoires doivent rester strictement limitées à ce qui est nécessaire pour faire face à l'urgence.
 
-IV.-La décision est notifiée aux parties.
+IV. - La décision est notifiée aux parties, au médiateur des relations commerciales agricoles et aux autorités administratives définies par décret en Conseil d'Etat.
 
-V.-Si les injonctions ou les mesures prévues aux II et III ne sont pas respectées, le comité peut prononcer une sanction pécuniaire dans les conditions prévues à l'article L. 631-25.
-
-NOTA:
-Conformément au IV de l'article 16 de la loi n° 2021-1357 du 18 octobre 2021., ces dispositions ne sont pas applicables aux médiations en cours à la date de publication de ladite loi.
+V. - Si les injonctions ou les mesures prévues aux II et III ne sont pas respectées, le comité peut prononcer une sanction pécuniaire dans les conditions prévues à l'article L. 631-25.

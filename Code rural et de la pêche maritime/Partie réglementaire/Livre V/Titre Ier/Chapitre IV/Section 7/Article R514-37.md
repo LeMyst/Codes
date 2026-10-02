@@ -1,6 +1,6 @@
 # Article R514-37
 
-Dans les départements, sont habilitées à siéger dans les commissions, comités professionnels ou organismes mentionnés au I de l'article 2 de la loi n° 99-574 du 9 juillet 1999 d'orientation agricole, selon les modalités fixées par les dispositions régissant ces structures, les organisations syndicales à vocation générale d'exploitants agricoles qui satisfont aux conditions suivantes :
+Dans les départements, sont habilitées à siéger dans les commissions, comités professionnels ou organismes mentionnés au I de l'article 2 de la loi n° 99-574 du 9 juillet 1999d'orientation agricole, selon les modalités fixées par les dispositions régissant ces structures, les organisations syndicales à vocation générale d'exploitants agricoles qui satisfont aux conditions suivantes :
 
 1° Justifier d'un fonctionnement indépendant, régulier et effectif depuis cinq ans au moins ;
 

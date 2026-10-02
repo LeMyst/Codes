@@ -4,4 +4,4 @@ Les aides fondées sur la surface, mentionnées au chapitre II du titre III du r
 
 La date limite de dépôt de la demande unique est fixée au 15 mai de la campagne. Si le 15 mai est un jour férié, un samedi ou un dimanche, la date limite de dépôt est reportée au premier jour ouvré suivant.
 
-Un arrêté du ministre chargé de l'agriculture précise les cas dans lesquels le dépôt d'une demande unique est obligatoire pour le contrôle de la conditionnalité, le contenu, les modalités de présentation et les pièces à fournir lorsque la demande concerne des surfaces cultivées en chanvre.
+Un arrêté du ministre chargé de l'agriculture précise les cas dans lesquels le dépôt d'une demande unique est obligatoire pour le contrôle de la conditionnalité, ainsi que le contenu, les modalités de présentation et les pièces à fournir à l'appui de cette demande.

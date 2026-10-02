@@ -2,7 +2,7 @@
 
 Chaque exploitation agricole est dotée d'un conseil d'exploitation, chaque atelier technologique est doté d'un conseil d'atelier.
 
-Le conseil de l'exploitation agricole et le conseil d'atelier sont présidés par le directeur de l'établissement public local.
+Le conseil de l'exploitation agricole et le conseil d'atelier sont présidés par le directeur de l'établissement.
 
 Leur composition est la suivante :
 
@@ -26,10 +26,8 @@ Leur composition est la suivante :
 
 10° Le directeur départemental des territoires ou, le cas échéant, des territoires et de la mer ou son représentant ;
 
-11° Un conseiller municipal de la commune siège.
+11° Un conseiller municipal de la commune siège du centre.
 
 Un arrêté du ministre chargé de l'agriculture précise les modalités de désignation de ces représentants.
 
-Le président peut inviter à participer aux séances, à titre consultatif, toute personne dont le concours paraît utile, notamment le gestionnaire de l'établissement public local, les directeurs des autres centres et l'agent chargé de la mise en oeuvre des règles d'hygiène et de sécurité.
-
-Les représentants de la région au conseil d'administration sont tenus informés des réunions des conseils.
+Le président peut inviter à participer aux séances, à titre consultatif, toute personne dont le concours paraît utile, notamment le secrétaire-général, les directeurs des autres centres et l'assistant de prévention.

@@ -1,6 +1,6 @@
 # Article L181-17
 
-Le préfet met en demeure tout titulaire du droit d'exploitation de parcelles incultes ou manifestement sous-exploitées depuis au moins trois ans et susceptibles d'une remise en état lorsque, dans l'un ou l'autre cas, aucune raison de force majeure ne peut justifier cette situation, soit de les mettre en valeur, soit de renoncer à son droit d'exploitation. Le délai de trois ans mentionné ci-dessus est réduit à deux ans dans les zones de montagne.
+Le préfet met en demeure tout titulaire du droit d'exploitation de parcelles incultes ou manifestement sous-exploitées depuis au moins deux ans et susceptibles d'une remise en état lorsque, dans l'un ou l'autre cas, aucune raison de force majeure ne peut justifier cette situation, soit de les mettre en valeur, soit de renoncer à son droit d'exploitation.
 
 Le préfet met également en demeure le propriétaire de telles terres s'il en est lui-même l'exploitant soit de les mettre en valeur, soit de les donner à bail. Il fixe le délai dans lequel la mise en demeure doit être suivie d'effet ainsi que les conditions de la mise en valeur.
 

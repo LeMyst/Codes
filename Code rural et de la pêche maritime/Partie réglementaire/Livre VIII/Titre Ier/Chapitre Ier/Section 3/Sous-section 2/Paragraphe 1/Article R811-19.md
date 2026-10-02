@@ -1,6 +1,6 @@
 # Article R811-19
 
-Le mandat des membres du conseil d'administration autres que ceux mentionnés aux alinéas 1° f, 2° et 3° de l'article R. 811-12 est de trois ans.
+Le mandat des membres du conseil d'administration autres que ceux mentionnés du f du 1°, du 2° et du 3° du I de l'article R. 811-12 est de trois ans.
 
 Le mandat de ces membres expire le jour de la première réunion qui suit leur renouvellement.
 

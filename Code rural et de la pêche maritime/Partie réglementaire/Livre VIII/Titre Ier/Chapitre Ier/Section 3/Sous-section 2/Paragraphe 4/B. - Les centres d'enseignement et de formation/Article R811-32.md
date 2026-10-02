@@ -18,8 +18,6 @@ g) Un représentant des salariés des exploitations et des groupements professio
 
 h) Un conseiller municipal de la commune siège ;
 
-i) Un agent chargé de la mise en oeuvre des règles d'hygiène et de sécurité.
+i) Un assistant de prévention.
 
-Le directeur adjoint, le directeur de l'exploitation agricole, le gestionnaire, le conseiller principal d'éducation sont membres de plein droit du conseil intérieur. Le président peut inviter à participer aux séances, à titre consultatif, toute personne dont le concours paraît utile, et notamment les directeurs des autres centres.
-
-Les représentants de la région au conseil d'administration de l'établissement public local sont tenus informés des réunions du conseil intérieur.
+Le secrétaire général et tout conseiller principal d'éducation sont membres de plein droit du conseil intérieur. Le président peut inviter à participer aux séances, à titre consultatif, toute personne dont le concours paraît utile, et notamment les directeurs des autres centres.

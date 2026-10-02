@@ -5,3 +5,5 @@ L'autorité administrative prend toutes mesures destinées à prévenir l'appari
 Elle peut prendre, à l'encontre ces maladies, des mesures de lutte supplémentaires dans les conditions fixées aux articles 71 et 170 de ce règlement et à l'article L. 201-4 du présent code.
 
 Elle peut également prendre de telles mesures à l'encontre des maladies mentionnées au 3° de l'article L. 221-1 dans les conditions fixées aux articles 171 et 226 du même règlement et à l'article L. 201-4 du présent code.
+
+Elle veille, en lien et de manière coordonnée avec les autres acteurs et parties prenantes impliqués, à lutter contre la diffusion de fausses informations relatives à la gestion des maladies mentionnées à l'article L. 221-1 et à assurer une information fiable sur les mesures prises en application du présent article.

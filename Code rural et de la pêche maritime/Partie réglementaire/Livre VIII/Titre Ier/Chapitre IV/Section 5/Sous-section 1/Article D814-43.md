@@ -1,6 +1,6 @@
 # Article D814-43
 
-Le Conseil national des délégués des élèves et étudiants de l'enseignement agricole public se réunit au moins une fois par an.
+Le Conseil national des délégués des élèves, étudiants et apprentis de l'enseignement agricole public se réunit au moins une fois par an.
 
 Le conseil adopte un règlement intérieur.
 

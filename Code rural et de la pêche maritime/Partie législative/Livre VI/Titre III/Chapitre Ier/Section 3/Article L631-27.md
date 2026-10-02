@@ -12,7 +12,7 @@ Il peut également émettre un avis sur toute question transversale relative aux
 
 Il peut saisir le ministre chargé de l'économie de toute clause des contrats ou accords-cadres ou de toute pratique liée à ces contrats ou accords-cadres qu'il estime présenter un caractère abusif ou manifestement déséquilibré afin que le ministre puisse, le cas échéant, introduire une action devant la juridiction compétente.
 
-Il peut émettre à la demande d'une organisation membre d'une interprofession tout avis ou recommandation sur les indicateurs mentionnés au quinzième alinéa du III de l'article L. 631-24.
+Il peut émettre à la demande d'une organisation membre d'une interprofession tout avis ou recommandation sur les indicateurs mentionnés au III de l'article L. 631-24.
 
 Sur demande conjointe des ministres chargés de l'économie et de l'agriculture, il peut émettre des recommandations sur les modalités de partage équitable de la valeur ajoutée entre les étapes de production, de transformation, de commercialisation et de distribution des produits agricoles et alimentaires.
 
@@ -23,6 +23,3 @@ Il peut décider de rendre publics ses conclusions, avis ou recommandations, y c
 Il peut également rendre publics les refus des parties de communiquer les éléments nécessaires à la médiation des litiges prévus au même deuxième alinéa.
 
 Il peut saisir la commission d'examen des pratiques commerciales prévue à l'article L. 440-1 du code de commerce.
-
-NOTA:
-Se reporter aux conditions d'application mentionnées au I de l'article 16 de la loi n° 2021-1357 du 18 octobre 2021. Conformément au IV de l'article 16 précité, les dispositions issues de l'article 11 de ladite loi ne sont pas applicables aux médiations en cours à sa date de publication.

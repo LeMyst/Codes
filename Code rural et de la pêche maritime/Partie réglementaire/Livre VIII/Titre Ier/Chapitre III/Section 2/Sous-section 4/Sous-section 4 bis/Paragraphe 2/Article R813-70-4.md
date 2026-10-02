@@ -1,8 +1,8 @@
 # Article R813-70-4
 
-I.-Le certificat d'études fondamentales vétérinaires mentionné à l'article R. 812-58 est un diplôme d'établissement revêtu du visa de l'Etat. Il est au nombre des diplômes éligibles au grade de master.
+I. - Le certificat d'études fondamentales vétérinaires mentionné à l'article R. 812-58 est un diplôme d'établissement revêtu du visa de l'Etat. Il est au nombre des diplômes éligibles au grade de master.
 
-II.-Sur proposition du directeur de l'établissement, le ministre chargé de l'agriculture nomme chaque année le jury du concours d'admission prévu à l'article R. 812-53 et le jury de fin des études fondamentales vétérinaires compétent pour délivrer le certificat de fin d'études fondamentales vétérinaires.
+II. - Sur proposition du directeur de l'établissement, le ministre chargé de l'agriculture nomme chaque année le jury du concours d'admission prévu à l'article R. 812-53 et le jury de fin des études fondamentales vétérinaires compétent pour délivrer le certificat de fin d'études fondamentales vétérinaires.
 
 Le ministre désigne le président et le vice-président de chacun des jurys.
 
@@ -10,7 +10,7 @@ Nul ne peut exercer la fonction de président du jury plus de cinq années cons�
 
 Chacun des jurys comprend :
 
-1° Le président et le vice-président, qui sont respectivement professeur et maître de conférences, en activité ou émérites, de l'enseignement supérieur agricole de l'une des écoles nationales vétérinaires ;
+1° Le président et le vice-président, qui sont respectivement professeur et maître de conférences de l'enseignement supérieur agricole de l'une des écoles nationales vétérinaires ;
 
 2° Deux vétérinaires en exercice extérieurs à l'établissement ;
 
@@ -30,6 +30,6 @@ A la clôture des opérations, le président du jury adresse au ministre chargé
 
 Le secrétariat et le fonctionnement des jurys sont assurés par le directeur de l'établissement agréé sur le fondement de l'article L. 813-11.
 
-III.-Les diplômes du certificat d'études fondamentales vétérinaires sont signés par le président du jury et le directeur de l'établissement ainsi que par le ministre chargé de l'agriculture qui y appose le visa de l'Etat.
+III. - Les diplômes du certificat d'études fondamentales vétérinaires sont signés par le président du jury et le directeur de l'établissement ainsi que par le ministre chargé de l'agriculture qui y appose le visa de l'Etat.
 
-IV.-Seuls les titulaires du certificat d'études fondamentales vétérinaires accèdent à l'année d'approfondissement de leur établissement dont la validation permet la délivrance, après soutenance avec succès d'une thèse d'exercice, du diplôme d'Etat de docteur vétérinaire.
+IV. - Seuls les titulaires du certificat d'études fondamentales vétérinaires accèdent à l'année d'approfondissement de leur établissement dont la validation permet la délivrance, après soutenance avec succès d'une thèse d'exercice, du diplôme d'Etat de docteur vétérinaire.

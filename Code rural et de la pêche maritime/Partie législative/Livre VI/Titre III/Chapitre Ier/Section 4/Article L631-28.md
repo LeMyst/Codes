@@ -6,7 +6,4 @@ Le médiateur des relations commerciales agricoles fixe la durée de la médiati
 
 En cas d'échec de la médiation, dans un délai d'un mois à compter du constat de cet échec, toute partie au litige, après en avoir informé les parties, peut saisir le comité de règlement des différends commerciaux agricoles. Toute partie à un litige relatif à l'exécution d'un contrat peut, le cas échéant, saisir le président du tribunal compétent pour qu'il statue sur le litige selon la procédure accélérée au fond sur la base des recommandations du médiateur des relations commerciales agricoles. La saisine du président du tribunal compétent selon ces modalités est également ouverte au terme du délai prévu au présent alinéa.
 
-Par dérogation au premier alinéa, en cas d'échec de la médiation portant sur un litige mentionné au cinquième alinéa de l'article L. 441-8 du code de commerce, toute partie au litige peut directement saisir le juge compétent.
-
-NOTA:
-Conformément au IV de l'article 16 de la loi n° 2021-1357 du 18 octobre 2021, ces dispositions ne sont pas applicables aux médiations en cours à la date de publication de ladite loi.
+Par dérogation au premier alinéa, en cas d'échec de la médiation portant sur un litige mentionné au cinquième alinéa de l'article L. 441-8 du code de commerce, toute partie au litige peut directement saisir le juge compétent. Si la saisine du médiateur des relations commerciales agricoles intervient pendant la période de préavis de résiliation d'un contrat ou d'un accord-cadre, le délai de préavis est suspendu. Il recommence à courir à compter de l'expiration du délai de saisine du comité de règlement des différends commerciaux agricoles ou de la notification de sa décision, s'il a été saisi.

@@ -18,7 +18,9 @@ Le directeur général :
 
 7° A la faculté de conclure des transactions, dans les conditions prévues par les articles 2044 et suivants du code civil, sous réserve de l'avis préalable du conseil d'administration ;
 
-8° Nomme les membres des commissions thématiques interfilières, décide de la mise en place des comités sectoriels et nomme les membres de ces comités.
+8° Nomme les membres des commissions thématiques interfilières, décide de la mise en place des comités sectoriels et nomme les membres de ces comités ;
+
+9° Nomme les membres professionnels des commissions de cotation mentionnés à l'article D. 654-26.
 
 Les décisions fixant les règles relatives aux dépenses d'intervention économique financées sur crédits non européens sont prises par le directeur général après avis du comité sectoriel intéressé, du conseil spécialisé intéressé ou du conseil d'administration dans les conditions prévues à l'article D. 621-6. Ces décisions peuvent prévoir la possibilité pour le directeur général d'adapter localement le dispositif mis en place.
 

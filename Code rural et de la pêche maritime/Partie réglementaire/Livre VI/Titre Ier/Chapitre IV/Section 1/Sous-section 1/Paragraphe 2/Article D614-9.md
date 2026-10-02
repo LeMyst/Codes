@@ -8,6 +8,8 @@ Sur les terres arables, les stockages temporaires liés à l'activité agricole 
 
 Sur les terres arables ou en cultures permanentes, la surface est admissible si la densité maximale d'arbres d'essence forestière disséminés n'excède pas cent arbres par hectare.
 
+Sont regardées comme hectare admissible les surfaces utilisées pour la production de chanvre dont les variétés sont inscrites au catalogue commun des espèces de plantes avant la date fixée par un arrêté du ministre chargé de l'agriculture. Cette date ne peut être postérieure à la date limite de dépôt mentionnée à l'article D. 614-36.
+
 Est considéré comme étant à la disposition de l'agriculteur tout hectare qu'il exploite comme propriétaire ou avec l'accord de celui-ci.
 
 Un arrêté du ministre chargé de l'agriculture précise les conditions de vérification de l'activité agricole en dehors de la période du 1er janvier au 31 juillet ainsi que les conditions dans lesquelles en cas de doute sur le titre auquel l'agriculteur exploite les terres, il lui est demandé d'en justifier. Le même arrêté fixe les conditions dans lesquelles les parcelles, utilisées pour des activités autres qu'agricoles, peuvent, compte tenu de l'intensité, de la nature, de la période et de la durée de ces activités, être regardées comme utilisées essentiellement aux fins d'activités agricoles.

@@ -6,7 +6,7 @@ Il précise notamment les règles de composition, de représentation et de rempl
 
 Il fixe également :
 
-1° Les critères et modalités de détermination et de révision du prix des apports, comprenant, le cas échéant, les modalités de prise en compte des indicateurs mentionnés à l'avant-dernier alinéa du III de l'article L. 631-24 choisis pour calculer ce prix ;
+1° Les critères et modalités de détermination et de révision du prix des apports, comprenant, le cas échéant, les modalités de prise en compte des indicateurs mentionnés au III de l'article L. 631-24 choisis pour calculer ce prix ;
 
 2° Les modalités de détermination du prix des services ou des cessions d'approvisionnement ;
 
@@ -17,6 +17,3 @@ Il fixe également :
 Il peut fixer les modalités de constitution et de reprise de la provision constituée par la coopérative pour engagement de soutien des coopérateurs face aux aléas agricoles ainsi que, le cas échéant, les modalités de constitution et de fonctionnement des caisses de compensation.
 
 Le règlement intérieur rappelle les conditions dans lesquelles il peut être recouru à la médiation et, le cas échéant, à tout autre mode de règlement des litiges.
-
-NOTA:
-Conformément à l’article 17 de la loi n° 2022-298 du 2 mars 2022, ces dispositions entrent en vigueur le 1er janvier 2023.

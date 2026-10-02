@@ -18,7 +18,7 @@ c) La distribution, le cas échéant, de tout ou partie des dividendes reçus au
 
 d) La répartition de ristournes entre les associés coopérateurs proportionnellement aux opérations réalisées avec la coopérative ou l'union et suivant les modalités prévues par les statuts ;
 
-e) La répartition de ristournes sous forme d'attribution de parts sociales entre les associés coopérateurs proportionnellement aux opérations réalisées avec la coopérative ou l'union et suivant les modalités prévues par les statuts d'au moins 10 % des excédents annuels disponibles à l'issue des délibérations précédentes ;
+e) La répartition de ristournes sous forme d'attribution de parts sociales d'épargne entre les associés coopérateurs proportionnellement aux opérations réalisées avec la coopérative ou l'union et suivant les modalités prévues par les statuts ;
 
 f) La constitution d'une provision pour parfaire l'intérêt servi aux parts sociales ;
 
@@ -27,8 +27,3 @@ g) La constitution d'une provision pour ristournes éventuelles ;
 h) La dotation des réserves facultatives.
 
 Ces décisions font l'objet de résolutions particulières.
-
-NOTA:
-Conformément au I de l’article 33 de l’ordonnance n° 2023-1142 du 6 décembre 2023, ces dispositions entrent en vigueur le 1er janvier 2025.
-
-Se reporter aux modalités d’application prévues aux II et III de l’article 33 de l'ordonnance n° 2023-1142 du 6 décembre 2023.

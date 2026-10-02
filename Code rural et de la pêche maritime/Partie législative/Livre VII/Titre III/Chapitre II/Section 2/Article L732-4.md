@@ -18,7 +18,7 @@ b) De constat d'une incapacité de travail faisant suite à une interruption spo
 
 En cas d'interruption de travail, l'assuré envoie au service du contrôle médical de la caisse de mutualité sociale agricole, dans un délai déterminé par décret, un avis d'arrêt de travail qui comporte la signature du médecin. En cas de non-respect de ce délai, le directeur de la caisse de mutualité sociale agricole peut mettre en œuvre une sanction. Un décret fixe le niveau de cette sanction, dans la limite de sept jours de suspension d'indemnités à compter de la réception de l'arrêt de travail par la caisse, ainsi que les conditions dans lesquelles elle est prononcée.
 
-L'article L. 323-3 ainsi que les articles L. 323-3-1 , L. 323-5 , L. 323-6 et L. 323-7 du code de la sécurité sociale sont applicables au service des prestations prévues au présent article. Dans ce cas, les caisses de mutualité sociale agricole exercent les fonctions dévolues aux caisses primaires d'assurance maladie.
+L'article L. 323-3 ainsi que les articles L. 323-3-1, L. 323-5, L. 323-6et L. 323-7 du code de la sécurité sociale sont applicables au service des prestations prévues au présent article. Dans ce cas, les caisses de mutualité sociale agricole exercent les fonctions dévolues aux caisses primaires d'assurance maladie.
 
 Les modalités d'application du présent article sont fixées par décret.
 

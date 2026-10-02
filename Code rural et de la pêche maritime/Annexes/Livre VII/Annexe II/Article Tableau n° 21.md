@@ -11,12 +11,15 @@ Affections professionnelles provoquées par les hydrocarbures aliphatiques halog
 | - C - | - C - | - C - |
 | Néphropathies tubulaires régressant après l'arrêt de l'exposition. | 30 jours | Préparation, emploi, manipulation des agents nocifs limitativement énumérés ci-après : trichlorométhane, tétrachlorométhane, tétrabromométhane, 1,2-dichloroéthane, 1,2-dibromoéthane, 1,1,2,2-tétrachloroéthane, pentachloroéthane, 1,2-dichloropropane. |
 | - D - | - D - | - D- |
-| Polyneuropathies des membres (après exclusion de la polyneuropathie alcoolique) ou neuropathie trigéminale, confirmées par des examens électrophysiologiques. | 30 jours | Préparation, emploi, manipulation des agents nocifs limitativement énumérés ci-après : 1-bromopropane, 2-bromopropane, dichloroacétylène (notamment en tant que contaminant du trichloroéthylène). |
+| Polyneuropathies des membres (après exclusion de la polyneuropathie alcoolique) ou neuropathie trigéminale. | 30 jours | Préparation, emploi, manipulation des agents nocifs limitativement énumérés ci-après : 1-bromopropane, 2-bromopropane, dichloroacétylène (notamment en tant que contaminant du trichloroéthylène). |
 | - E - | - E - | - E - |
-| Neuropathie optique rétrobulbaire bilatérale confirmée par des examens complémentaires, après exclusion de la neuropathie alcoolique. | 30 jours | Préparation, emploi, manipulation des agents nocifs limitativement énumérés ci-après : dichloroacétylène, notamment en tant que contaminant du trichloroéthylène. |
+| Neuropathie optique rétrobulbaire bilatérale, après exclusion de la neuropathie alcoolique. | 30 jours | Préparation, emploi, manipulation des agents nocifs limitativement énumérés ci-après : dichloroacétylène, notamment en tant que contaminant du trichloroéthylène. |
 | - F - | - F - | - F - |
 | Anémie hémolytique de survenue brutale. | 7 jours | Préparation, emploi, manipulation des agents nocifs limitativement énumérés ci-après : 1,2-dichloropropane. |
 | - G - | - G - | - G - |
-| Aplasie ou hypoplasie médullaire entraînant : - anémie ;- leucopénie ;- ou thrombopénie.Lymphopénie | 30 jours | Préparation, emploi, manipulation des agents nocifs limitativement énumérés ci-après : 2-bromopropane. |
+| Aplasie ou hypoplasie médullaire entraînant :- anémie ;- leucopénie ;- ou thrombopénie.Lymphopénie | 30 jours | Préparation, emploi, manipulation des agents nocifs limitativement énumérés ci-après : 2-bromopropane. |
 | - H - | - H - | - H - |
 | Manifestations d'intoxication oxycarbonée résultant du métabolisme du dichlorométhane, avec une oxycarbonémie supérieure à 15 ml/litre de sang, ou une carboxyhémoglobine supérieure à 10 %. | 3 jours | Préparation, emploi, manipulation des agents nocifs limitativement énumérés ci-après : dibromométhane, dichlorométhane, bromochlorométhane, diiodométhane. |
+
+NOTA:
+Conformément à l'article 2 du décret n°2026-902 dy 24 septembre 2026, ces dispositions, dans leur rédaction résultant dudit décret, entrent en vigueur le 30 septembre 2026. Elles sont applicables aux procédures de reconnaissance de maladies professionnelles pour lesquelles le certificat médical initial est établi à compter de leur entrée en vigueur.

@@ -1,16 +1,16 @@
 # Article R811-12
 
-Le conseil d'administration de l'établissement public local comprend trente membres ainsi répartis :
+I. - Le conseil d'administration comprend trente membres ainsi répartis :
 
 1° Au titre des dix représentants de l'Etat, des collectivités territoriales et des établissements publics intéressés à la formation :
 
-a) Le directeur départemental des territoires ou, le cas échéant, des territoires et de la mer ou son représentant ;
+a) Le directeur régional de l'alimentation, de l'agriculture et de la forêt ou son représentant ;
 
-b) Le directeur régional des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ou son représentant ;
+b) Le directeur départemental des territoires ou, le cas échéant, des territoires et de la mer ou son représentant ;
 
 c) Le directeur académique des services de l'éducation nationale agissant sur délégation du recteur d'académie ou son représentant ;
 
-d) Le directeur du centre d'information et d'orientation ou son représentant ;
+d) Le directeur départemental de la protection des populations ou, le cas échéant, de la cohésion sociale et de la protection des populations ou son représentant ;
 
 e) Le président ou un membre élu de la chambre d'agriculture ;
 
@@ -36,10 +36,12 @@ b) Deux représentants élus des parents d'élèves, étudiants ou apprentis ;
 
 c) Un représentant des associations d'anciens élèves, étudiants, apprentis ou stagiaires, le cas échéant ;
 
-d) Cinq représentants des organisations professionnelles et syndicales représentatives des employeurs, des exploitants et des salariés des professions agricoles et des professions para-agricoles concernées par les missions de l'établissement public local.
+d) Cinq représentants des organisations professionnelles et syndicales représentatives des employeurs, des exploitants et des salariés des professions concernées par les formations dispensées par l'établissement.
 
-Pour l'ensemble des membres titulaires, désignés ou élus et en nombre égal à ceux-ci, des suppléants sont désignés ou élus dans les mêmes conditions que les titulaires. Le représentant suppléant siège au conseil d'administration en cas d'empêchement du titulaire.
+II. - Pour chaque membre titulaire désigné ou élu du conseil d'administration, à l'exception de ceux mentionnés aux a à d du 1° du I, un suppléant est désigné ou élu dans les mêmes conditions. Le représentant suppléant siège au conseil d'administration en cas d'empêchement du titulaire.
 
-Le directeur de l'établissement public local, son adjoint, le gestionnaire, l'agent comptable et les directeurs des centres assistent avec voix consultative aux séances du conseil d'administration. Le directeur régional de l'alimentation, de l'agriculture et de la forêt ou son représentant peut assister avec voix consultative aux réunions du conseil d'administration.
+En cas d'absence ou d'empêchement du titulaire et du suppléant, le membre titulaire du conseil d'administration avec voix délibérative peut donner mandat à un autre membre au sein du même collège. Nul ne peut détenir plus d'un mandat.
 
-Dans l'hypothèse où l'établissement public local assure principalement des formations professionnelles continues, la représentation des élèves et des parents est respectivement remplacée, en tout ou partie, par celle des stagiaires et des anciens stagiaires.
+III. - Le directeur de l'établissement, ses adjoints, le secrétaire général, l'agent comptable et les directeurs des centres assistent avec voix consultative aux séances du conseil d'administration.
+
+IV. - Dans l'hypothèse où l'établissement assure principalement des formations professionnelles continues, la représentation des élèves et des parents est respectivement remplacée, en tout ou partie, par celle des stagiaires et des anciens stagiaires.

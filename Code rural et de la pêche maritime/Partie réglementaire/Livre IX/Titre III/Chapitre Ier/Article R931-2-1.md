@@ -4,6 +4,11 @@ Les sociétés coopératives maritimes et leurs unions sont tenues de se soumett
 
 1° Trois pour le nombre moyen de salariés employés au cours de chacun des exercices ; le nombre moyen de salariés employés au cours de l'exercice est égal à la moyenne arithmétique des effectifs à la fin de chaque trimestre de l'année civile ou de l'exercice comptable lorsque celui-ci ne coïncide pas avec l'année civile, liés à l'entreprise par un contrat de travail ;
 
-2° 75 000 euros pour le montant hors taxes du chiffre d'affaires ;
+2° 88 000 euros pour le montant hors taxes du chiffre d'affaires ;
 
-3° 100 000 euros pour le total du bilan ; celui-ci est égal à la somme des montants nets des éléments d'actif.
+3° 150 000 euros pour le total du bilan ; celui-ci est égal à la somme des montants nets des éléments d'actif.
+
+NOTA:
+Conformément au premier alinéa de l’article 4 du décret n° 2026-661 du 23 juillet 2026, ces dispositions, dans leur rédaction résultant dudit décret, est applicable à compter du 1er septembre 2026.
+
+Conformément au deuxième alinéa de l’article 4 du décret n° 2026-661 du 23 juillet 2026, les nouveaux seuils qu'il définit ne sont pas applicables aux révisions coopératives en cours ou qui auraient dû être engagées à cette date.

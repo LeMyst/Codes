@@ -6,11 +6,11 @@ Le conseil des délégués donne son avis et formule des propositions sur les qu
 
 2° Les modalités générales de l'organisation du travail personnel et du soutien des élèves ;
 
-3° L'information liée à l'orientation et portant sur les études scolaires et universitaires, sur les carrières professionnelles ;
+3° L'information liée à l'orientation et portant sur l'apprentissage, les études scolaires et universitaires ainsi que les carrières professionnelles ;
 
 4° La santé, l'hygiène et la sécurité ;
 
-5° L'information des élèves sur le rôle des délégués et la formation à la fonction de délégué des élèves, en collaboration avec les conseillers principaux d'éducation.
+5° L'information des apprenants sur le rôle des délégués et la formation à la fonction de délégué, en collaboration avec les conseillers principaux d'éducation.
 
 Le conseil des délégués donne son avis sur le programme des associations qui ont leur siège dans l'établissement scolaire.
 

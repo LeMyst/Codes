@@ -8,7 +8,7 @@ III.-Une substance naturelle à usage biostimulant est autorisée par son inscri
 
 Cette inscription peut comporter des prescriptions particulières d'utilisation.
 
-Elle est subordonnée, à l'exception des cas où la substance est mentionnée à l' article D. 4211-11 du code de la santé publique , à une évaluation par l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail qui révèle son absence d'effet nocif sur la santé humaine, sur la santé animale et sur l'environnement.
+Elle est subordonnée, à l'exception des cas où la substance est mentionnée à l'article D. 4211-11 du code de la santé publique, à une évaluation par l'Agence nationale de sécurité sanitaire de l'alimentation, de l'environnement et du travail qui révèle son absence d'effet nocif sur la santé humaine, sur la santé animale et sur l'environnement.
 
 IV.-Par dérogation au III, les substances naturelles à usage biostimulant issues de parties consommables de plantes utilisées en alimentation animale ou humaine sont dispensées de l'évaluation prévue au troisième alinéa du III lorsqu'elles entrent dans la composition d'une préparation naturelle peu préoccupante conforme à un cahier des charges approuvé en application du 3° de l'article L. 255-5.
 

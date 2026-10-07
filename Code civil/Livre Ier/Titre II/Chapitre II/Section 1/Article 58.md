@@ -10,4 +10,4 @@ Pareil acte doit être établi, sur déclaration des services de l'assistance à
 
 Les copies et extraits du procès-verbal de découverte ou de l'acte provisoire de naissance sont délivrés dans les conditions et selon les distinctions faites à l'article 57 du présent code.
 
-Si l'acte de naissance de l'enfant vient à être retrouvé ou si sa naissance est judiciairement déclarée, le procès-verbal de la découverte et l'acte provisoire de naissance sont annulés à la requête du procureur de la République ou des parties intéressées.
+Si l'acte de naissance de l'enfant vient à être retrouvé ou si sa naissance est judiciairement déclarée, le procès-verbal de découverte et l'acte provisoire de naissance sont annulés à la requête du procureur de la République ou des parties intéressées.

@@ -1,0 +1,5 @@
+# Article D6112-3
+
+La liste des compétences correspondant à l'exercice d'un mandat électif local mentionnée à l'article L. 6112-5 est établie par le ministre chargé de la formation professionnelle. Ces compétences font l'objet d'une certification déposée par le même ministre auprès de France compétences pour enregistrement, après avis de la commission de France compétences chargée de la certification professionnelle, dans le répertoire spécifique mentionné à l'article L. 6113-6.
+
+Les actions de formation certifiantes nécessaires à l'obtention de la certification relative aux compétences acquises dans l'exercice d'un mandat électif local, notamment les actions de positionnement, d'accompagnement et d'évaluation des compétences, constituent un temps de travail effectif et donnent lieu pendant leur déroulement au maintien par l'entreprise de la rémunération, conformément aux dispositions de l'article L. 6321-6, dès lors qu'elles ne relèvent pas des exceptions prévues aux 1° et 2° de ce même article.

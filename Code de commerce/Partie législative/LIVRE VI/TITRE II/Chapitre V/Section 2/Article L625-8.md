@@ -5,3 +5,10 @@ Nonobstant l'existence de toute autre créance, les créances que garantit le pr
 Toutefois, avant tout établissement du montant de ces créances, le débiteur ou l'administrateur s'il a une mission d'assistance doit, avec l'autorisation du juge-commissaire et dans la mesure des fonds disponibles, verser immédiatement aux salariés, à titre provisionnel, une somme égale à un mois de salaire impayé, sur la base du dernier bulletin de salaire, et sans pouvoir dépasser le plafond visé à l'article L. 143-10 du code du travail.
 
 A défaut de disponibilités, les sommes dues en vertu des deux alinéas précédents doivent être acquittées sur les premières rentrées de fonds.
+
+NOTA:
+Conformément à l'article 3 de l'ordonnance n°2007-329 du 12 mars 2007, la référence à l'article L. 143-10 du code du travail est remplacée par des références aux articles L3253-2 et L3253-3 du code du travail.
+
+Conformément au même article, la référence à l'article L. 143-11 du code du travail est remplacée par la référence à l'article L. 3253-4 du code du travail.
+
+Vous pouvez consulter depuis ce lien les tables de concordance du Code du travail.

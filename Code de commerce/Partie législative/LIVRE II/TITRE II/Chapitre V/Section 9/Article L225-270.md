@@ -25,3 +25,8 @@ Après dissolution de la société coopérative de main-d'oeuvre, et dans un dé
 Les dispositions du troisième alinéa de l'article L. 225-269 sont applicables dans le cas visé au présent V.
 
 VI.-L'indemnisation visée au II ou, le cas échéant, la valeur des actions attribuées à ce titre n'ont pas le caractère d'éléments de salaires pour l'application de la législation du travail et de la sécurité sociale. Elles ne sont pas retenues pour le calcul de l'assiette de tous impôts, taxes et prélèvements assis sur les salaires ou les revenus, sous réserve des dispositions de l'article 94A du code général des impôts.
+
+NOTA:
+Conformément à l'article 3 de l'ordonnance n°2007-329 du 12 mars 2007, la référence à l'article L. 132-2 du code du travail est remplacée par des références aux articles L. 2231-3 et L. 2231-1 du code du travail.
+
+Vous pouvez consulter depuis ce lien les tables de concordance du Code du travail.

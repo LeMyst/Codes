@@ -7,3 +7,8 @@ Dans ce cadre, les administrations financières peuvent remettre l'ensemble des 
 Les conditions de la remise de la dette sont fixées par décret.
 
 Les créanciers visés au premier alinéa peuvent également décider des cessions de rang de privilège ou d'hypothèque ou de l'abandon de ces sûretés.
+
+NOTA:
+Conformément à l'article 3 de l'ordonnance n°2007-329 du 12 mars 2007, la référence à l'article L351-3 du code du travail est remplacée par des références aux articles L5422-1, L5422-3 et L5422-2 du code du travail.
+
+Vous pouvez consulter depuis ce lien les tables de concordance du Code du travail.

@@ -11,3 +11,8 @@ Chaque membre du conseil de surveillance peut se faire communiquer par le prési
 La société européenne est dirigée par un directoire composé de sept membres au plus.
 
 Les statuts doivent prévoir des règles similaires à celles énoncées aux articles L. 225-38 à L. 225-42 et L. 225-86 à L. 225-90. Toutefois, lorsqu'il s'agit d'une société visée à l'article L. 229-6, la mention au registre des délibérations vaut approbation de la convention.
+
+NOTA:
+Conformément à l'article 3 de l'ordonnance n°2007-329 du 12 mars 2007, la référence à l'article L439-25 du code du travail est remplacée par des références aux articles L2351-1, L2351-3, L2351-4, L2351-5 et L2351-6 du code du travail.
+
+Vous pouvez consulter depuis ce lien les tables de concordance du Code du travail.

@@ -12,3 +12,7 @@ NOTA:
 Ordonnance 2007-329 du 12 mars 2007 art. 14 : Les dispositions de la présente ordonnance entrent en vigueur en même temps que la partie réglementaire du code du travail et au plus tard le 1er mars 2008.
 
 La loi n° 2008-67 du 21 janvier 2008 dans son article 2 X a fixé la date d'entrée en vigueur de la partie législative du code du travail au 1er mai 2008.
+
+Conformément à l'article 3 de l'ordonnance n°2007-329 du 12 mars 2007, la référence à l'article L. 122-2 du code du travail est remplacée par des références aux articles L. 1242-3, L. 1242-7, L. 1243-13, L. 1242-8 et L. 1244-4 du code du travail.
+
+Vous pouvez consulter depuis ce lien les tables de concordance du Code du travail.

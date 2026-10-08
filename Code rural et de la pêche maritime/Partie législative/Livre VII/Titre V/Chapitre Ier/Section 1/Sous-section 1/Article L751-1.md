@@ -36,3 +36,17 @@ NOTA:
 Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.
 
 Conformément au VI de l'article 81 de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction issue de l'article 81 précité, s'appliquent aux victimes dont le sinistre est intervenu à compter du 1<sup>er</sup> janvier 2027.
+
+Conformément à l'article 3 de l'ordonnance n°2007-329 du 12 mars 2007, la référence à l'article L. 992-8 du code du travail est remplacée par des références aux articles L. 3142-3, L. 3142-4, L. 3142-5 et L. 3142-6 du code du travail.
+
+Conformément au même article, la référence à l'article L. 236-10 du code du travail est remplacée par des références aux articles L. 4614-14, L. 4614-15, L. 4523-10 et L. 4614-16 du code du travail.
+
+Conformément au même article, la référence à l'article L. 434-10 du code du travail est remplacée par des références aux articles L. 2325-44 et R. 2325-8 du code du travail.
+
+Conformément au même article, la référence à l'article L. 451-1 du code du travail est remplacée par des références aux articles L. 3142-7, L. 3142-8, L. 2145-1, L. 3142-9, L. 3142-10, L. 3142-11 et R. 3142-1 du code du travail.
+
+Conformément au même article, la référence à l'article L. 322-4 du code du travail est remplacée par des références aux articles L. 5123-1, L. 5123-2, L. 5123-3, L. 5123-4 et L. 5123-5 du code du travail.
+
+Conformément au même article, la référence à l'article L. 225-8 du code du travail est remplacée par des références aux articles L. 3142-51, L. 3142-52, L. 3142-53, L. 3142-54, L. 3142-55 et R. 3142-29 du code du travail.
+
+Vous pouvez consulter depuis ce lien les tables de concordance du Code du travail.

@@ -4,3 +4,7 @@ Sont dispensés de l'obligation d'exploiter pendant la durée de leur stage les 
 
 NOTA:
 Conformément à l’article 47 de l'ordonnance n° 2021-1189 du 15 septembre 2021, ces dispositions entrent en vigueur le 1er janvier 2023.
+
+Conformément à l'article 3 de l'ordonnance n°2007-329 du 12 mars 2007, la référence à l'article L961-3 du code du travail est remplacée par des références aux articles L6341-4 et R6341-2 du code du travail.
+
+Vous pouvez consulter depuis ce lien les tables de concordance du Code du travail.

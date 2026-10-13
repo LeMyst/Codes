@@ -6,3 +6,4 @@
 - [Section 4 : Le diplôme supérieur d'arts appliqués](Section%204/README.md)
 - [Section 5 : Diplôme national des métiers d'art et du design](Section%205/README.md)
 - [Section 6 : Licence professionnelle “bachelor universitaire de technologie”](Section%206/README.md)
+- [Section 7 : Diplôme d'expertise automobile](Section%207/README.md)

@@ -14,7 +14,7 @@ Les dispositions relatives aux diplômes sanctionnant des formations professionn
 
 6° Comptable : articles 45 à 83 du décret n° 2012-432 du 30 mars 2012 relatif à l'exercice de l'activité d'expertise comptable ;
 
-7° Expert en automobile : décret n° 95-493 du 25 avril 1993 portant création et règlement général du diplôme d'expert en automobile ;
+7° Expert en automobile : articles D. 642-68 à R. 642-105 du présent code ;
 
 8° Géomètre-expert : décret n° 2010-1406 du 10 novembre 2010 relatif au diplôme de géomètre-expert foncier délivré par le Gouvernement ;
 
@@ -27,3 +27,6 @@ Les dispositions relatives aux diplômes sanctionnant des formations professionn
 12° Œnologue : arrêté du 5 juin 2007 portant organisation des études en vue de l'obtention du diplôme national d'œnologue ;
 
 13° Psychologue : décret n° 90-255 du 22 mars 1990 fixant la liste des diplômes permettant de faire usage professionnel du titre de psychologue, décret n° 2003-1073 du 14 novembre 2003 relatif aux conditions de délivrance de l'autorisation de faire usage professionnel du titre de psychologue prévue à l'article 44-II de la loi n° 85-772 du 25 juillet 1985 modifiée.
+
+NOTA:
+Conformément au II de l'article 5 du décret n° 2026-947 du 9 octobre 2026, ces dispositions, dans leur rédaction issue de l'article 1 dudit décret, sont applicables aux personnes autorisées à s'inscrire en formation conduisant au diplôme d'expertise automobile à compter de l'année scolaire 2027-2028.

@@ -1,6 +1,6 @@
 # Article R685-1
 
-I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
+I. - Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
 | -- | -- |
@@ -66,10 +66,12 @@ I.-Sont applicables dans les îles Wallis et Futuna, sous réserve des adaptatio
 | R. 642-16 | Résultant du décret n° 2020-56 du 28 janvier 2020 |
 | R. 642-40 | Résultant du décret n° 2020-56 du 28 janvier 2020 |
 | R. 642-65 | Résultant du décret n° 2022-1559 du 12 décembre 2022 |
+| R. 642-70 | Résultant du décret n° 2026-946 du 9 octobre 2026 |
+| R. 642-105 | Résultant du décret n° 2026-946 du 9 octobre 2026 |
 | R. 643-32-11 | Résultant du décret n° 2020-651 du 28 mai 2020 |
 | R. 672-1 à R. 672-14 | Résultant du décret n° 2013-756 du 19 août 2013 |
 
-II.-Pour l'application du I :
+II. - Pour l'application du I :
 
 1° Dans toutes les dispositions mentionnées dans le tableau figurant au I, les compétences dévolues au recteur de région académique, au recteur d'académie et au recteur sont exercées par le vice-recteur de Wallis et Futuna ;
 

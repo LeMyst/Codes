@@ -80,6 +80,7 @@ I. - Sont applicables dans les Îles Wallis et Futuna, sous réserve des adaptat
 | D. 613-26 à D. 613-27-2 | Résultant du décret n° 2021-1480 du 12 novembre 2021 |
 | D. 613-28 à D. 613-30 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 613-30-1 et D. 613-30-2 | Résultant du décret n° 2024-788 du 8 juillet 2024 |
+| D. 613-31 | Résultant du décret n° 2026-947 du 9 octobre 2026 relatif au diplôme d'expertise automobile et modifiant le code de l'éducation |
 | D. 613-38 à D. 613-44 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 613-45 | Résultant du décret n° 2015-652 du 10 juin 2015 |
 | D. 613-46 à D. 613-50<br>D. 614-1 | Résultant du décret n° 2013-756 du 19 août 2013 |
@@ -133,7 +134,8 @@ I. - Sont applicables dans les Îles Wallis et Futuna, sous réserve des adaptat
 | D. 642-54 | Résultant du décret n° 2018-367 du 18 mai 2018 |
 | D. 642-55 à D. 642-64 | Résultant du décret n° 2022-1376 du 28 octobre 2022 |
 | D. 642-66 et D. 642-67 | Résultant du décret n° 2023-469 du 15 juin 2023 |
-| D. 643-1 | Résultant du décret n° 2013-756 du 19 août 2013 |
+| D. 642-68 à D. 642-104 | Résultant du décret n° 2026-947 du 9 octobre 2026 relatif au diplôme d'expertise automobile et modifiant le code de l'éducation |
+| D. 643-1 | Résultant du décret n° 2026-947 du 9 octobre 2026 relatif au diplôme d'expertise automobile et modifiant le code de l'éducation |
 | D. 643-2 | Résultant du décret n° 2024-788 du 8 juillet 2024 |
 | D. 643-3 | Résultant du décret n° 2024-788 du 8 juillet 2024 |
 | D. 643-4 à D. 643-5 | Résultant du décret n° 2013-756 du 19 août 2013 |
@@ -286,4 +288,4 @@ b) Au 5°, la phrase : " Celui-ci est désigné sur proposition du conseil acad�
 28° Au premier alinéa de l'article D. 672-17, les mots : " de haut niveau, mentionnés aux articles L. 221-3 et L. 221-5 du code du sport " sont remplacés par les mots : " inscrits sur la liste nationale des sportifs, entraîneurs, arbitres et juges sportifs de haut niveau ou y ayant figuré pendant trois ans au moins ".
 
 NOTA:
-Conformément à l'article 4 du décret n° 2025-788 du 7 août 2025, ces dispositions, dans leur rédaction résultant de l'article 2 dudit décret, entrent en vigueur le 31 août 2026.
+Conformément au II de l'article 5 du décret n° 2026-947 du 9 octobre 2026, ces dispositions, dans leur rédaction issue de l'article 4 dudit décret, sont applicables aux personnes autorisées à s'inscrire en formation conduisant au diplôme d'expertise automobile à compter de l'année scolaire 2027-2028.

@@ -6,7 +6,7 @@ Toute personne souhaitant être inscrite sur la liste des experts en automobile,
 
 2° La copie, suivant le cas :
 
--soit du brevet professionnel d'expert en automobile ou de la reconnaissance de la qualité d'expert en automobile prévus par le décret n° 74-472 du 17 mai 1974 relatif aux experts en automobile ou du diplôme d'expert en automobile prévu par le décret n° 95-493 du 25 avril 1995 portant création et règlement général du diplôme d'expert en automobile, ou du relevé de notes du diplôme d'expert en automobile délivré par le recteur d'académie ;
+- soit du brevet professionnel d'expert en automobile, de la reconnaissance de la qualité d'expert en automobile prévus par le décret n° 74-472 du 17 mai 1974 relatif aux experts en automobile, du diplôme d'expert en automobile prévu par le décret n° 95-493 du 25 avril 1995 portant création et règlement général du diplôme d'expert en automobile, du diplôme d'expertise automobile prévu par la section 7 du chapitre II du titre IV du livre VI de la partie réglementaire du code de l'éducation ou du relevé de notes de l'un de ces diplômes délivré par le recteur de région académique ;
 
 -soit d'un titre délivré par un autre Etat membre de l'Union européenne ou un autre Etat partie à l'accord sur l'Espace économique européen ou d'un titre reconnu par l'un de ces Etats, équivalents aux titres mentionnés à l'alinéa précédent ;
 

@@ -1,6 +1,6 @@
 # Article R4451-136
 
-Sont habilités à accéder au traitement “ SISERI ”, à raison de leurs attributions respectives et dans la limite du besoin d'en connaître :
+Sont habilités à accéder au traitement "SISERI", à raison de leurs attributions respectives et dans la limite du besoin d'en connaître :
 
 1° Les personnes mentionnées aux articles R. 4451-67, R. 4451-68, R. 4451-69 et R. 4451-71, dans les conditions prévues par ces mêmes articles ;
 

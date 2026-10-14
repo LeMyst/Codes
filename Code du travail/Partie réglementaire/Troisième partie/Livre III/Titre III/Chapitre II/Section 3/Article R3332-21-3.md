@@ -1,6 +1,6 @@
 # Article R3332-21-3
 
-I.-L'agrément " entreprise solidaire d'utilité sociale " prévu à l'article L. 3332-17-1 est délivré par le préfet du département où l'entreprise a son siège social ou, par exception, par le préfet de région pour les régions désignées par arrêté du ministre chargé de l'économie sociale et solidaire et du ministre chargé de l'emploi.
+I.-L'agrément "entreprise solidaire d'utilité sociale" prévu à l'article L. 3332-17-1 est délivré par le préfet du département où l'entreprise a son siège social ou, par exception, par le préfet de région pour les régions désignées par arrêté du ministre chargé de l'économie sociale et solidaire et du ministre chargé de l'emploi.
 
 Lorsque l'entreprise a son siège social dans un autre Etat membre de l'Union européenne, elle présente sa demande d'agrément au préfet mentionné au premier alinéa du département ou de la région où se trouve son principal établissement en France.
 

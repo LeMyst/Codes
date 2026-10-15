@@ -6,4 +6,9 @@ Pour les établissements qui cotisent sur la base d'un taux mixte ou d'un taux i
 
 2° Soit en diminution de plus de 20 % si le taux net notifié de l'année précédente est supérieur à 4, ou de plus de 0,8 point si le taux net notifié de l'année précédente est inférieur ou égal à 4.
 
-Dans le cas où l'entreprise opte pour l'application d'un taux unique ou en cas de regroupement de catégories de risque, ces variations s'apprécient la première année par rapport à un taux net unique correspondant à la moyenne des taux nets notifiés de ses établissements appartenant à la même catégorie de risque de l'année précédente pondérée par la masse salariale de la dernière année connue des mêmes établissements.
+En cas de regroupement de catégories de risque, ces variations s'apprécient la première année par rapport à un taux net unique correspondant à la moyenne des taux nets notifiés de ses établissements appartenant à la même catégorie de risque de l'année précédente pondérée par la masse salariale de la dernière année connue des mêmes établissements.
+
+NOTA:
+Conformément au premier alinéa de l’article 5 du décret n° 2026-951 du 13 octobre 2026, ces dispositions, dans leur rédaction résultant dudit décret s'appliquent pour la détermination des cotisations relatives aux accidents du travail et aux maladies professionnelles dues à compter de l'année 2027.
+
+Conformément au deuxième alinéa du même article, les variations de taux s'apprécient en 2027 par rapport à un taux net correspondant à la moyenne des taux nets notifiés de ses établissements appartenant à la même catégorie de risque de l'année précédente pondérée par la masse salariale de la dernière année connue des mêmes établissements.

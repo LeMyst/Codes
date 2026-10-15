@@ -1,7 +1,10 @@
 # Article D242-6-17
 
-Les taux nets collectifs sont applicables aux établissements nouvellement créés durant l'année de leur création et les deux années civiles suivantes, quel que soit leur effectif ou celui de l'entreprise dont ils relèvent. Toutefois, le taux unique est applicable pour les établissements nouvellement créés appartenant à la même catégorie de risque que ceux des entreprises bénéficiant d'un taux unique.
+Le taux déterminé d'après les dispositions du deuxième alinéa de l'article D. 242-6-1 est applicable à l'établissement ou aux établissements nouvellement créés appartenant à une catégorie de risque préexistante au sein de l'entreprise en tarification individuelle ou mixte.
 
-A l'expiration de ce délai, les taux nets collectif, mixte ou individuel sont applicables à ces établissements en fonction de leur effectif ou de l'effectif de l'entreprise dont ils relèvent. Pour les taux individuel ou mixte, il est tenu compte des résultats propres à ces établissements et afférents aux années civiles, complètes ou non, écoulées depuis leur création.
+Lorsque la catégorie de risque de l'établissement ou des établissements nouvellement créés n'est pas préexistante au sein de l'entreprise en tarification individuelle ou mixte et pour les entreprises en tarification collective, les taux nets collectifs sont applicables durant l'année de leur création et les deux années civiles suivantes.
 
 Ne peut être considéré comme un établissement nouvellement créé celui issu d'un précédent établissement dans lequel a été exercée une activité similaire, avec les mêmes moyens de production et ayant repris au moins la moitié du personnel.
+
+NOTA:
+Conformément au premier alinéa de l’article 5 du décret n° 2026-951 du 13 octobre 2026, ces dispositions, dans leur rédaction résultant dudit décret s'appliquent pour la détermination des cotisations relatives aux accidents du travail et aux maladies professionnelles dues à compter de l'année 2027.

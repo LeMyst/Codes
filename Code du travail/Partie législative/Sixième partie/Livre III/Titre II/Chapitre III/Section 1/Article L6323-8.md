@@ -2,7 +2,7 @@
 
 I. – Chaque titulaire d'un compte a connaissance du montant des droits inscrits sur son compte et des abondements dont il peut bénéficier en accédant à un service dématérialisé gratuit. Ce service dématérialisé donne également les informations sur les formations éligibles. Il assure la prise en charge des actions de formation de l'inscription du titulaire du compte aux formations jusqu'au paiement des prestataires mentionnés à l'article L. 6351-1.
 
-II. – Un traitement automatisé de données à caractère personnel, dénommé " système d'information du compte personnel de formation ", dont les modalités de mise en œuvre sont fixées par décret en Conseil d'Etat, permet la gestion et l'utilisation des droits inscrits sur le compte personnel de formation.
+II. – Un traitement automatisé de données à caractère personnel, dénommé "système d'information du compte personnel de formation", dont les modalités de mise en œuvre sont fixées par décret en Conseil d'Etat, permet la gestion et l'utilisation des droits inscrits sur le compte personnel de formation.
 
 III. – Un passeport d'orientation, de formation et de compétences recense, pour chaque titulaire, les éléments relatifs à la formation initiale ou continue, au parcours professionnel et aux activités mentionnées à l'article L. 5151-9 qui sont susceptibles de faciliter le maintien ou l'insertion des personnes dans l'emploi.
 

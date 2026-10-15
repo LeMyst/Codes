@@ -1,6 +1,6 @@
 # Article L6332-1
 
-I. - Les organismes paritaires agréés sont dénommés “ opérateurs de compétences ”. Ils ont pour mission :
+I. - Les organismes paritaires agréés sont dénommés "opérateurs de compétences". Ils ont pour mission :
 
 1° D'assurer le financement des contrats d'apprentissage et de professionnalisation, selon les niveaux de prise en charge fixés par les branches ;
 

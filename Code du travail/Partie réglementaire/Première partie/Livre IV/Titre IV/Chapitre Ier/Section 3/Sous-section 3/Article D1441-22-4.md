@@ -46,7 +46,7 @@ III. – Sont également enregistrés :
 
 4° En cas de dépôt du dossier de candidature par le mandataire, le mandat dématérialisé que le candidat confère à celui-ci pour la désignation des conseillers prud'hommes, ainsi que l'attestation que le candidat n'est l'objet d'aucune interdiction, déchéance ou incapacité relative à ses droits civiques et qu'il n'exerce pas d'activité incompatible avec les fonctions de conseiller prud'homme ;
 
-5° Le fichier de réponse à la demande de consultation du casier judiciaire national, avec la mention de l'information " 0 " pour le candidat dont le bulletin n° 2 porte la mention " néant " et de l'information " 1 " pour le candidat dont le bulletin n° 2 porte la mention d'une condamnation, ou l'indication " Aucune identité applicable " ou " Identité non vérifiable par le service " en application des articles R. 77 et R. 80-1 du code de procédure pénale ;
+5° Le fichier de réponse à la demande de consultation du casier judiciaire national, avec la mention de l'information "0" pour le candidat dont le bulletin n° 2 porte la mention "néant" et de l'information "1" pour le candidat dont le bulletin n° 2 porte la mention d'une condamnation, ou l'indication "Aucune identité applicable" ou " Identité non vérifiable par le service" en application des articles R. 77 et R. 80-1 du code de procédure pénale ;
 
 6° Les statuts du dossier du candidat et les commentaires portés dans le cadre des contrôles de recevabilité de la candidature.
 
@@ -54,7 +54,7 @@ IV. – Lorsque le candidat se présente en tant que conjoint collaborateur, son
 
 1° Le titre d'identité dématérialisé du mandant ; si ce titre ne comporte pas la mention de la nationalité, un autre titre dématérialisé justifiant de sa nationalité ;
 
-2° Le fichier de réponse concernant le mandant à la demande de consultation du casier judiciaire national, avec la mention de l'information " 0 " pour le candidat dont le bulletin n° 2 porte la mention " néant " et de l'information " 1 " pour le candidat dont le bulletin n° 2 porte la mention d'une condamnation, ou l'indication " Aucune identité applicable " ou " Identité non vérifiable par le service " en application des articles R. 77 et R. 80-1 du code de procédure pénale ;
+2° Le fichier de réponse concernant le mandant à la demande de consultation du casier judiciaire national, avec la mention de l'information "0" pour le candidat dont le bulletin n° 2 porte la mention "néant" et de l'information "1" pour le candidat dont le bulletin n° 2 porte la mention d'une condamnation, ou l'indication "Aucune identité applicable" ou "Identité non vérifiable par le service" en application des articles R. 77 et R. 80-1 du code de procédure pénale ;
 
 3° Le mandat que le mandant confère à son conjoint collaborateur ;
 

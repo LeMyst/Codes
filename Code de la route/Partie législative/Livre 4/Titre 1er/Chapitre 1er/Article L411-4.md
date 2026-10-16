@@ -8,7 +8,7 @@ La voirie classée en route nationale est transférée dans le patrimoine de la 
 
 Sur le territoire de la Corse, par dérogation à l'article L. 110-3 du code de la route, la liste des routes à grande circulation est fixée par délibération de l'Assemblée de Corse. "
 
-" Art. L. 4422-25.-Le président du conseil exécutif prépare et exécute les délibérations de l'Assemblée.
+" Art. L. 4422425.-Le président du conseil exécutif prépare et exécute les délibérations de l'Assemblée.
 
 Il est l'ordonnateur des dépenses et prescrit l'exécution des recettes de la collectivité territoriale de Corse, sous réserve des dispositions particulières du code général des impôts relatives au recouvrement des recettes fiscales des collectivités locales.
 

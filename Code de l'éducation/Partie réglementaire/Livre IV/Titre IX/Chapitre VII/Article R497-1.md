@@ -1,6 +1,6 @@
 # Article R497-1
 
-I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
+I. - Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévues au II, les dispositions des articles mentionnés dans la colonne de gauche du tableau ci-après, dans leur rédaction indiquée dans la colonne de droite du même tableau :
 
 | DISPOSITIONS APPLICABLES | DANS LEUR RÉDACTION |
 | -- | -- |
@@ -8,7 +8,7 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | R. 426-2, 1er, 2e et 3e alinéas | Résultant du décret n° 2009-238 du 27 février 2009 |
 | R. 426-3 | Résultant du décret n° 2008-263 du 14 mars 2008 |
 | R. 426-4 | Résultant du |
-|  | décret n° 2023-267 du 12 avril 2023 R. 426-5 Résultant du décret n° 2023-267 du 12 avril 2023 |
+|  | décret n° 2023-267 du 12 avril 2023R. 426-5Résultant du décret n° 2023-267 du 12 avril 2023 |
 | R. 426-6 | Résultant du décret n° 2023-267 du 12 avril 2023 |
 | R. 426-7 | Résultant du décret n° 2008-263 du 14 mars 2008 |
 | R. 426-8 | Résultant du décret n° 2023-267 du 12 avril 2023 |
@@ -22,7 +22,7 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | R. 426-20 | Résultant du décret n° 2023-267 du 12 avril 2023 |
 | R. 426-21 | Résultant du décret n° 2012-1247 du 7 novembre 2012 |
 | R. 426-22 | Résultant du décret n° 2019-798 du 26 juillet 2019 |
-| R. 442-6-1 et R. 442-6-2 | Résultant du décret n° 2025-542 du 16 juin 2025 |
+| R. 442-6-1 | Résultant du décret n° 2025-542 du 16 juin 2025 |
 | R. 442-9 | Résultant du décret n° 2012-16 du 5 janvier 2012 |
 | R. 442-10 | Résultant du décret n° 2008-263 du 14 mars 2008 |
 | R. 442-11 | Résultant du décret n° 2014-551 du 27 mai 2014 |
@@ -39,11 +39,13 @@ I.-Sont applicables en Nouvelle-Calédonie, sous réserve des adaptations prévu
 | R. 444-12 | Résultant du décret n° 2020-1734 du 16 décembre 2020 |
 | R. 444-13 à R. 444-16, 2e alinéa | Résultant du décret n° 2008-263 du 14 mars 2008 |
 | R. 444-17, 1er alinéa | Résultant du décret n° 2015-856 du 13 juillet 2015 |
-| R. 444-18 à R. 444-28<br>R. 471-1 à R. 471-4 | Résultant du décret n° 2008-263 du 14 mars 2008 |
+| R. 444-18 à R. 444-28 | Résultant du décret n° 2008-263 du 14 mars 2008 |
+| R. 470-1 à R. 470-4 | Résultant du décret n° 2026-954 du 14 octobre 2026 |
+| R. 471-1 à R. 471-4 | Résultant du décret n° 2008-263 du 14 mars 2008 |
 | R. 471-5 | Résultant du décret n° 2018-407 du 29 mai 2018 |
 | R. 471-6 à R. 472-1 | Résultant du décret n° 2008-263 du 14 mars 2008 |
 
-II.-Pour l'application du I :
+II. - Pour l'application du I :
 
 1° A moins qu'il en soit disposé autrement :
 

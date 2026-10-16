@@ -68,9 +68,9 @@ Une photo peut, le cas échéant, être reproduite ;
 
 Reprise du tableau du paragraphe 4.4 de l'évaluation de la sûreté de l'installation portuaire faisant apparaître la date de mise en œuvre programmée des mesures de sûreté répondant aux contre-mesures définies par l'ESIP.
 
-| Tableau des contre-mesures de l'évaluation de sûreté de l'installation portuaire |  |  |  |
+| Tableau des contre-mesures de l'évaluation de sûreté du port |  |  |  |
 | -- | -- | -- | -- |
-| Classement par ordre<br>de priorité | Point sensible concerné et principale<br>vulnérabilité | Numéro d'ordre et libellé | Date de mise en œuvre<br>programmée des mesures de sûreté |
+| Numéro d'ordre et libellé | Point sensible concerné | Classement par ordre de priorité | Date de mise en œuvre programmée des mesures de sûreté |
 |  |  |  |  |
 
 4. Organisation générale de la sûreté de l'installation portuaire
@@ -121,7 +121,7 @@ Précision sur l'articulation du PSIP avec d'autres plans : plan de sûreté de 
 
 5. Accès et circulation dans l'installation portuaire
 
-Description des procédures pour l'accès et la circulation dans chaque ZAR de l'installation portuaire et dans les ZNLAP.
+Description des procédures pour l'accès et la circulation dans chaque ZAR de l'installation portuaire et dans les ZPAC.
 
 5.1. Dispositions spécifiques aux ZAR
 
@@ -137,7 +137,7 @@ Identification de chaque ZAR avec les informations suivantes :
 
 - catégories de personnels et d'activités concernés ;
 
-- flux d'entrée et nombre de titres de titres de circulation permanents et temporaires selon les catégories de personnes habilitées à pénétrer dans la ZAR ;
+- flux d'entrée et nombre de titres d'accès “permanents” et “temporaires” selon les catégories de personnes habilitées à pénétrer dans la ZAR ;
 
 - schéma de circulation, avec une attention particulière portée aux circulations entre les ZAR extérieures aux installations portuaires et les ZAR situées dans une installation portuaire auxquelles elles donnent, le cas échéant, accès.
 
@@ -165,25 +165,25 @@ i) Procédures appliquées en cas d'incident de sûreté (pénétration irrégul
 
 j) Procédure visant à aider l'agent de sûreté du navire à confirmer, sur demande, l'identité des personnes cherchant à monter à bord du navire.
 
-5.1.3. Gestion des titres de circulation
+5.1.3. Gestion des titres d'accès
 
-a) Procédures de délivrance et restitution des titres de circulation ;
+a) Procédures de délivrance et restitution des titres d'accès ;
 
-b) Méthodes d'information et sensibilisation aux règles de sûreté pour les personnes recevant des titres de circulation ;
+b) Méthodes d'information et sensibilisation aux règles de sûreté pour les personnes recevant des titres d'accès ;
 
 c) Procédures de coordination, le cas échéant, entre les ZAR situées en dehors d'une installation portuaire et les ZAR situées dans une installation portuaire ;
 
-d) Protection des systèmes d'information et des équipements de fabrication des titres ;
+d) Protection des systèmes d'information et des équipements de fabrication des titres d'accès ;
 
-e) Procédures de désactivation des titres inutilisés ;
+e) Procédures de désactivation des titres d'accès inutilisés ;
 
-f) Détail de la répartition des tâches avec les exploitants d'installation portuaire en cas de mutualisation de la délivrance des titres de circulation avec mention de la référence précise des parties du plan de sûreté des installations portuaires concernées dans lesquelles se trouve la procédure de délivrance.
+f) Détail de la répartition des tâches avec les exploitants d'installation portuaire en cas de mutualisation de la délivrance des titres d'accès avec mention de la référence précise des parties du plan de sûreté des installations portuaires concernées dans lesquelles se trouve la procédure de délivrance.
 
-5.2. Dispositions spécifiques aux ZNLAP
+5.2. Dispositions spécifiques aux ZPAC
 
-Description (plan, clôtures, accès) des ZNLAP qui ne sont pas des ZAR telles que définies aux articles R. 5332-30 et R. 5332-31 et où ne sont pas applicables les articles R. 5332-32 à R. 5332-44 et détail de leurs règles de fonctionnement (contrôles d'accès, circulation) et les articulations avec les règles de sûreté des ZAR adjacentes, en démontrant que la sûreté de l'installation portuaire dans son ensemble et de chaque installation portuaire adjacente n'est pas dégradée, quel que soit le niveau de sûreté.
+Description (plan, clôtures, accès) des ZPAC qui ne sont pas des ZAR telles que définies aux articles R. 5332-56 et R. 5332-57 et où ne sont pas applicables les articles R. 5332-58 à R. 5332-61 et détail de leurs règles de fonctionnement (contrôles d'accès, circulation) et les articulations avec les règles de sûreté des ZAR adjacentes, en démontrant que la sûreté de l'installation portuaire dans son ensemble et de chaque installation portuaire adjacente n'est pas dégradée, quel que soit le niveau de sûreté.
 
-5.3. Dispositions communes aux ZAR et aux ZNLAP dans si l'installation portuaire est désignée point d'importance vitale
+5.3. Dispositions communes aux ZAR et aux ZPAC dans si l'installation portuaire est désignée point d'importance vitale
 
 Renseignement de l'annexe 10.5 si l'installation portuaire est désignée point d'importance vitale.
 
@@ -387,7 +387,7 @@ ANNEXE À RENSEIGNER SI L'INSTALLATION PORTUAIRE EST DÉSIGNÉE POINT D'IMPORTAN
 
 Attention particulière à porter, au titre de la coordination avec les autres installations portuaires, à l'articulation du PSIP avec le PSIP de toute installation portuaire adjacente.
 
-5.1. Dispositions communes aux ZAR et aux ZNLAP dans une installation portuaire comprenant un ou des points d'importance vitale
+5.1. Dispositions communes aux ZAR et aux ZPAC dans une installation portuaire comprenant un ou des points d'importance vitale
 
 - équipes de protection et de gardiennage (effectif et formation des personnels, organisation du gardiennage et des rondes, postes tenus et moyens complémentaires (dénomination sociale du prestataire en cas de sous-traitance) ;
 

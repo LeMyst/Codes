@@ -1,6 +1,6 @@
 # Section 5 : Contrôles de sûreté
 
-- [Sous-section 1 : Formation aux contrôles de sûreté](Sous-section%201/README.md)
+- [Sous-section 1 : Agents chargés des contrôles et vérifications de sûreté](Sous-section%201/README.md)
 - [Sous-section 2 : Obligations liées aux contrôles de sûreté](Sous-section%202/README.md)
 - [Sous-section 3 : Réalisation des contrôles de sûreté](Sous-section%203/README.md)
 - [Sous-section 4 : Sous-traitance des contrôles de sûreté](Sous-section%204/README.md)

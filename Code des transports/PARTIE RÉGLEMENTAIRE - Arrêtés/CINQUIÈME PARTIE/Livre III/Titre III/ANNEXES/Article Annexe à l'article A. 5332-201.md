@@ -48,7 +48,7 @@ Avertissement concernant la durée de la sensibilisation :
 | Navire | Connaissances élémentaires permettant la compréhension des finalités de chaque zonage et leur articulation entre eux. |  |
 | Installation portuaire |  |  |
 | Zone à accès restreint (ZAR) |  |  |
-| Zone non librement accessible au public (ZNLAP) |  |  |
+| Zone portuaire à accès contrôlés (ZPAC) |  |  |
 | Autres zones (zones intégrées de sûreté portuaire, quais publics, etc.) |  |  |
 | Limites portuaires de sûreté |  |  |
 | Sous-module C4 - Contrôles de sûreté |  | Durée : 10 minutes |

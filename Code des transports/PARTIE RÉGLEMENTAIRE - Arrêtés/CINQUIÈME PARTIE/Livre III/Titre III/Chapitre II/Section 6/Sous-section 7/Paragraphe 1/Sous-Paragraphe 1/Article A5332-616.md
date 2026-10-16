@@ -38,7 +38,7 @@ Il cesse d'être valable à compter de la fin des missions ou fonctions de son t
 
 La carte professionnelle des fonctionnaires de la police nationale et des militaires de la gendarmerie nationale, la carte de commission d'emploi des agents de l'administration des douanes, la carte de commissionnement des contrôleurs des transports terrestres, la carte professionnelle des agents de l'inspection du travail et la carte de commissionnement des inspecteurs de la santé publique vétérinaire est reconnue comme titre d'accès “permanent” ;
 
-3° Le titre d'accès temporaire , délivré à toute personne qui a besoin d'y accéder au titre de ses missions ou fonctions plusieurs fois par jour, semaine ou mois, sur une période de douze mois glissants, pour une durée comprise entre huit jours et trois mois maximum, ainsi que dans le cas d'une escale occasionnelle d'un navire et si la durée de celle-ci le justifie.
+3° Le titre d'accès “temporaire”, délivré à toute personne qui a besoin d'y accéder au titre de ses missions ou fonctions plusieurs fois par jour, semaine ou mois, sur une période de douze mois glissants, pour une durée comprise entre huit jours et trois mois maximum, ainsi que dans le cas d'une escale occasionnelle d'un navire et si la durée de celle-ci le justifie.
 
 Le titre d'accès “temporaire” a une durée de validité qui, en tout état de cause, ne peut dépasser la date de fin de validité de l'autorisation mentionnée à l'article R. 5332-62.
 
@@ -54,7 +54,7 @@ Il cesse d'être valable à compter de la fin des missions ou fonctions de son t
 
 Le titre d'accès “provisoire” a une durée de validité d'un mois, renouvelable cinq fois dans la limite de six mois consécutifs.
 
-Il cesse d'être valable dès la délivrance d'un titre d'accès “permanent” ou “temporaire” ;
+Il cesse d'être valable dès la délivrance d'un titre d'accès “permanent” ou “temporaire” ou en cas de refus de délivrance par le préfet de département de l'autorisation, de l'un des agréments ou de l'une des habilitations mentionnés à l'article R. 5332-62 ;
 
 5° Le titre d'accès “intervention urgente”, délivré à toute personne qui a besoin d'y accéder pour une intervention urgente liée à l'exploitation de la zone à accès restreint, de l'installation portuaire ou d'un navire en escale (panne, incident technique, opération d'entretien réglementaire, etc.), pour une durée de vingt-quatre heures au maximum, renouvelable six fois dans la limite de sept jours consécutifs. Aucun nouveau titre d'accès de ce type ne peut plus être délivré au même bénéficiaire passé la période précitée.
 

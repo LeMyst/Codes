@@ -159,7 +159,7 @@ Moyens opérationnels (nautiques, terrestres, aériens) disponibles à date pour
 
 1.3.2. Modalités de coordination et d'intervention des moyens opérationnels mobilisables
 
-Modalités de coordination et d'intervention des moyens opérationnels mobilisables en indiquant notamment s'il existe, le cas échéant, un protocole d'accord entre le préfet maritime et le préfet de département fixant les conditions de surveillance et d'intervention du peloton de sûreté maritime et portuaire prévu à l'article R. 5332-12.
+Modalités de coordination et d'intervention des moyens opérationnels mobilisables en indiquant notamment s'il existe, le cas échéant, un protocole d'accord entre le préfet maritime et le préfet de département fixant les conditions de surveillance et d'intervention du peloton de sûreté maritime et portuaire prévu à l'article R. 5332-13.
 
 1.3.3. Mesures applicables en cas de sinistre
 

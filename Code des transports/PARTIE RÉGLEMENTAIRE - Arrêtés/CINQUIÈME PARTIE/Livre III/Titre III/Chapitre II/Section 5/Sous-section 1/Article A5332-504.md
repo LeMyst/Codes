@@ -27,3 +27,5 @@ L'attestation de formation, établie en langue française, comporte les mentions
 -à " civilité, nom, prénom ", né le " date " à " lieu de naissance " qui a satisfait aux obligations de la formation délivrée le " date " à " lieu " par " civilité, nom, prénom ", responsable de la formation ;
 
 -le " date ", à " lieu d'établissement de l'attestation de formation ", " signature de l'employeur " ou, le cas échéant, " signature du responsable de l'organisme de formation en sûreté portuaire agréé ".
+
+Dans le cadre des audits mentionnés à l'article R. 5332-21, l'employeur d'agents chargés des contrôles et vérifications de sûreté (“ACVS”) doit être en mesure de produire leurs attestations de formation.

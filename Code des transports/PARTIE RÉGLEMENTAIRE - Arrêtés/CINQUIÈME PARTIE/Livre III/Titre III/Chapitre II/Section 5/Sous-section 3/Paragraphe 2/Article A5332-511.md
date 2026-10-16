@@ -14,7 +14,7 @@ Le contrôle d'accès est réalisé, éventuellement de manière systématique, 
 
 Lorsque l'évaluation de sûreté de l'installation portuaire conclut que les dispositions précédentes sont disproportionnées au regard des risques ou inadaptées au regard des circonstances locales, elle peut prévoir que le contrôle d'accès soit réalisé à l'intérieur de l'installation portuaire, notamment par le personnel présent sur les terre-pleins. Ce personnel est alors formé au risque d'intrusion et doit être capable de détecter toute personne suspecte ou non autorisée. En cas de doute, ce personnel peut vérifier le besoin de toute personne de pénétrer dans l'installation portuaire ou à bord du navire et, le cas échéant, lui empêcher l'accès au navire. Des tests d'intrusion sont régulièrement réalisés afin de maintenir vigilance du personnel et mettre à l'épreuve les procédures d'alerte et de réaction. Sauf dispositions contraires justifiées par l'évaluation de sûreté de l'installation portuaire, ces mesures particulières ne s'appliquent qu'au niveau de sûreté 1.
 
-II. - Contrôle d'accès dans les installations portuaires présentant des risques faibles à modérés et situées dans une zone portuaire à accès contrôlé.
+II. - Contrôle d'accès dans les installations portuaires présentant des risques faibles à modérés et situées dans une zone portuaire à accès contrôlés.
 
 Le contrôle d'accès peut être réalisé au niveau de la zone portuaire à accès contrôlés et être éventuellement mutualisé avec d'autres installations portuaires présentant également des risques faibles à modérés.
 

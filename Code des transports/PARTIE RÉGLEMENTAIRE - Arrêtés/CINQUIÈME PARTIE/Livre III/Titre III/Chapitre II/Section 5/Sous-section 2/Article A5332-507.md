@@ -22,4 +22,4 @@ Certaines catégories de personnes, en raison de leurs missions ou fonctions ou 
 
 - être soumises à des obligations ou règles complémentaires ou différentes prévues par le présent code ou, au regard des risques identifiés ou des circonstances locales, par l'évaluation de sûreté du port ou l'évaluation de sûreté de l'installation portuaire.
 
-Toute personne pénétrant ou se trouvant dans une zone portuaire à accès contrôlé, une zone à accès restreint ou installation portuaire mentionnées à l'article L. 5332-16 ne respectant pas les obligations précitées s'expose à un refus d'accès, voire au retrait de son titre d'accès, ainsi qu'aux sanctions prévues à l'article R. 5336-1 et aux 1° et 2° de l'article R. 5336-6.
+Toute personne pénétrant ou se trouvant dans une zone portuaire à accès contrôlés, une zone à accès restreint ou installation portuaire mentionnées à l'article L. 5332-16 ne respectant pas les obligations précitées s'expose à un refus d'accès, voire au retrait de son titre d'accès, ainsi qu'aux sanctions prévues à l'article R. 5336-1 et aux 1° et 2° de l'article R. 5336-6.

@@ -22,7 +22,7 @@ L'évaluation de sûreté de l'installation portuaire (ESIP) comprend les partie
 
 1. Annexe(s)
 
-Sauf si l'ESIP est classifiée « SECRET » au titre de la protection du secret de la défense nationale, chacune de ses pages comporte, centrée en gras et rouge, en haut et pas de page, la mention « CONFIDENTIEL SÛRETÉ PORTUAIRE ».
+Sauf si l'ESIP est classifiée "SECRET" au titre de la protection du secret de la défense nationale, chacune de ses pages comporte, centrée en gras et rouge, en haut et pas de page, la mention "CONFIDENTIEL SÛRETÉ PORTUAIRE".
 
 1. Identification de l'installation portuaire
 
@@ -32,9 +32,9 @@ Cette partie correspond à la page de garde et comporte les éléments suivants 
 
 2° En partie centrale, les mentions suivantes :
 
-- l'intitulé « Evaluation de sûreté de l'installation portuaire » ;
+- l'intitulé "Evaluation de sûreté de l'installation portuaire" ;
 
-- la dénomination sociale de l'installation portuaire « [EN MAJUSCULES] » ;
+- la dénomination sociale de l'installation portuaire "[EN MAJUSCULES]" ;
 
 - l'indicatif international composé des cinq lettres [XXXXX] du code UN/LOCODE et des quatre chiffres [-0000] générés par la base GISIS de l'Organisation maritime internationale ;
 
@@ -42,7 +42,7 @@ Cette partie correspond à la page de garde et comporte les éléments suivants 
 
 Une photo peut, le cas échéant, être reproduite ;
 
-3° En partie basse, la mention « Version du [date du denier réexamen intégral] ».
+3° En partie basse, la mention "Version du [date du denier réexamen intégral]".
 
 2. Références administratives de l'ESIP
 
@@ -92,7 +92,7 @@ Etablissement d'une analyse de la vulnérabilité de ces points névralgiques en
 
 Attention particulière à porter aux vulnérabilités des éléments suivants :
 
-- systèmes d'informations utilisés dans les procédures de sûreté, notamment interface avec les navires, gestion des arrivées du fret dans l'installation portuaire, base de données des titres de circulation ;
+- systèmes d'informations utilisés dans les procédures de sûreté, notamment interface avec les navires, gestion des arrivées du fret dans l'installation portuaire, système de gestion des titres d'accès ;
 
 - interfaces avec les autres installations portuaires, soumises au code ISPS ou non ;
 

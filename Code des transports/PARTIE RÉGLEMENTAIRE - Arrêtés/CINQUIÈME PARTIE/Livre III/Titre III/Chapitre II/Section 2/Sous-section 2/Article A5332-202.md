@@ -22,4 +22,4 @@ L'attestation de formation, établie en langue française, comporte les mentions
 
 -le date, à lieu d'établissement de l'attestation de formation, signature de l'exploitant de l'installation portuaire ou, de l'autorité portuaire ou, le cas échéant, signature du responsable de l'organisme de formation en sûreté portuaire agréé.
 
-Dans le cadre des audits mentionnés aux articles R. 5332-20 et R. 5332-26, l'exploitant d'une installation portuaire doit être en mesure de produire la présente attestation de formation.
+Dans le cadre des audits mentionnés à l'article R. 5332-21, l'exploitant d'une installation portuaire doit être en mesure de produire la présente attestation de formation.

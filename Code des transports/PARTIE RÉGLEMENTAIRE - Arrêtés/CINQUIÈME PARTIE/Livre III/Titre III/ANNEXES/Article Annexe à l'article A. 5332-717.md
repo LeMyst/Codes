@@ -6,7 +6,7 @@ Le dossier est rédigé en langue française.
 
 La transmission du dossier au secrétariat de la commission peut s'effectuer :
 
-- soit sous format dématérialisé, à l'adresse électronique suivante : osh@developpement-durable.gouv.fr ;
+- soit sous format dématérialisé, à l'adresse électronique suivante : ofspa-osh@developpement-durable.gouv.fr ;
 
 - soit sous format papier, par dépôt auprès du secrétariat de la commission ou par envoi postal à ce dernier, à l'adresse suivante (\*) : ministère chargé des transports, secrétariat de la commission d'habilitation des organismes de sûreté, 92055 La Défense Cedex.
 
@@ -43,17 +43,17 @@ Partie n° 2. - Information relatives aux volets de compétences sollicités
 
 Volets de compétences pour lesquels la société demandeuse sollicite l'habilitation :
 
-1. Volet « ports et toutes installations portuaires » ;
+1. Volet "ports et toutes installations portuaires" ;
 
-1. Volet « tous navires ».
+1. Volet "tous navires".
 
 Partie n° 3. - Informations relatives aux collaborateurs de la société
 
-3.1. Liste exhaustive et nominative des collaborateurs, titulaires d'un agrément individuel au titre de l'article R. 5332-64 ou pour lesquels une demande d'agrément individuel a été déposée, appelés à participer à la réalisation des évaluations et des plans de sûreté des navires, ports et installations portuaires, avec mention du lien juridique les unissant à la société (salarié, consultant, auto-entrepreneur, etc.) ;
+3.1. Liste exhaustive et nominative des collaborateurs, titulaires d'un agrément individuel au titre du 8° de l'article R. 5332-62 ou pour lesquels une demande d'agrément individuel a été déposée, appelés à participer à la réalisation des évaluations et des plans de sûreté des navires, ports et installations portuaires, avec mention du lien juridique les unissant à la société (salarié, consultant, auto-entrepreneur, etc.) ;
 
 3.2. Curriculum-vitae détaillé de chacun des collaborateurs, précisant notamment les formations initiales et continues suivies ainsi que l'expérience professionnelle acquise ;
 
-3.3. Copie de l'agrément individuel délivré au titre de l'article R. 5332-64 ou attestation de dépôt en préfecture de la demande dudit agrément, pour chacun des collaborateurs.
+3.3. Copie de l'agrément individuel délivré au titre du 8° de l'article R. 5332-62 ou attestation de dépôt en préfecture de la demande dudit agrément, pour chacun des collaborateurs.
 
 Partie n° 4. - Informations relatives aux compétences de la société
 
@@ -91,28 +91,28 @@ Partie n° 5. - Engagements de la société
 
 Lettre d'engagements conforme au modèle ci-dessous, dûment remplie et signée par le gérant de la société.
 
-« Lettre d'engagements de la société
+"Lettre d'engagements de la société
 
-« “Raison sociale et adresse de la société demandeuse :
+"“Raison sociale et adresse de la société demandeuse :
 
-« “Nom, prénom, qualité de la personne qui présente la demande :
+"“Nom, prénom, qualité de la personne qui présente la demande :
 
-« “Je soussigné(e) :
+"“Je soussigné(e) :
 
-« “- déclare être pleinement conscient(e) des responsabilités de la société que je représente, en ce qui concerne la mise en œuvre de dispositions renforçant la sûreté dans les ports, installations portuaires et à bord des navires ;
+"“- déclare être pleinement conscient(e) des responsabilités de la société que je représente, en ce qui concerne la mise en œuvre de dispositions renforçant la sûreté dans les ports, installations portuaires et à bord des navires ;
 
-« “- m'engage, en conséquence, au nom de la société :
+"“- m'engage, en conséquence, au nom de la société :
 
-« “1. A ne confier l'exécution des missions prévues à l'article R. 5332-60 du code des transports qu'à des personnes agréées en application de l'article R. 5332-64 du code des transports ;
+"“1. A ne confier l'exécution des missions prévues à l'article R. 5332-77 du code des transports qu'à des personnes agréées en application du 8° de l'article R. 5332-62 du code des transports ;
 
-« “2. A fournir toutes les informations, pièces et justificatifs requis en application des dispositions législatives et réglementaires applicables aux organismes de sûreté habilités ;
+"“2. A fournir toutes les informations, pièces et justificatifs requis en application des dispositions législatives et réglementaires applicables aux organismes de sûreté habilités ;
 
-« “3. A autoriser les membres de la commission d'habilitation des organismes de sûreté et les personnes désignées à cet effet par le ministre chargé des transports à accéder aux locaux de la société et à y procéder aux audits et contrôles portant sur ses activités en lien avec la sûreté portuaire et maritime en application de l'article R. 5332-58 du code des transports ;
+"“3. A autoriser les membres de la commission d'habilitation des organismes de sûreté et les personnes désignées à cet effet par le ministre chargé des transports à accéder aux locaux de la société et à y procéder aux audits et contrôles portant sur ses activités en lien avec la sûreté portuaire et maritime en application de l'article R. 5332-21 du code des transports ;
 
-« “4. A garantir la confidentialité des faits, informations et documents dont la société aurait à connaître dans l'exercice de ses missions ;
+"“4. A garantir la confidentialité des faits, informations et documents dont la société aurait à connaître dans l'exercice de ses missions ;
 
-« “5. A ne pas divulguer lesdits faits, informations et documents même après cessation de mes fonctions et à m'assurer que les agents du personnel de l'organisme exerçant des missions de sûreté souscrivent au même engagement.
+"“5. A ne pas divulguer lesdits faits, informations et documents même après cessation de mes fonctions et à m'assurer que les agents du personnel de l'organisme exerçant des missions de sûreté souscrivent au même engagement.
 
-« “A , le .
+"“A , le .
 
-« “Signature de l'intéressé(e)” ».
+"“Signature de l'intéressé(e)”".

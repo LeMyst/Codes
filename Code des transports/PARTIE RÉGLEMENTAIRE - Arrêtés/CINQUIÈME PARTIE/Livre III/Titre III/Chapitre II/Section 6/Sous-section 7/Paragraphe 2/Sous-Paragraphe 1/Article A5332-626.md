@@ -14,4 +14,4 @@ La gestion des titres d'accès de personnes et des titres d'accès de véhicules
 
 - la mise en opposition des titres d'accès non valables, déclarés volés ou perdus, ou non restitués.
 
-A l'exception des titres d'accès “audit & inspection” délivrés par les services des administrations centrales ou déconcentrées des ministères et de l'autorité de sûreté nucléaire et de radioprotection mentionnés au 1° de l'article A. 5332-615 dont dépend le détenteur, la gestion des titres d'accès des personnes et des véhicules est de la responsabilité de l'exploitant.
+A l'exception des titres d'accès “audit - inspection” délivrés par les services des administrations centrales ou déconcentrées des ministères et de l'autorité de sûreté nucléaire et de radioprotection mentionnés au 1° de l'article A. 5332-615 dont dépend le détenteur, la gestion des titres d'accès des personnes et des véhicules est de la responsabilité de l'exploitant.

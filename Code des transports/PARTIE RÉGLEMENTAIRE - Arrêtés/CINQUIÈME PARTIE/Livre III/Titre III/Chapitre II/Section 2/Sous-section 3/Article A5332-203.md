@@ -1,6 +1,6 @@
 # Article A5332-203
 
-Les équipements et systèmes intéressant la sûreté portuaire qui peuvent être utilisés pour l'application de l'article R. 5332-14 du code des transports et la réalisation des contrôles de sûreté dans les ports et installations portuaires sont les suivants :
+Les équipements et systèmes intéressant la sûreté portuaire qui peuvent être utilisés pour l'application de l'article R. 5332-15 du code des transports et la réalisation des contrôles de sûreté dans les ports et installations portuaires sont les suivants :
 
 I. - Les équipements et systèmes concourant à la protection physique périmétrique et au contrôle d'accès, incluant notamment :
 

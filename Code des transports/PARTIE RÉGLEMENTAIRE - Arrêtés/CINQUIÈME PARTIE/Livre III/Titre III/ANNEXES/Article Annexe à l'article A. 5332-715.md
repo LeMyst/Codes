@@ -1,6 +1,6 @@
 # Article Annexe à l'article A. 5332-715
 
-COMPOSITION DU RAPPORT D'ACTIVITÉ ANNUEL PRÉVU À L'ARTICLE R. 5332-54
+COMPOSITION DU RAPPORT D'ACTIVITÉ ANNUEL PRÉVU À L'ARTICLE R. 5332-76
 
 Le rapport d'activité annuel d'un organisme de formation en sûreté portuaire est conforme au modèle suivant :
 

@@ -74,7 +74,7 @@ Reprise du tableau du paragraphe 4.4 de l'ESP faisant apparaître la date de mis
 
 | Tableau des contre-mesures de l'évaluation de sûreté du port |  |  |  |
 | -- | -- | -- | -- |
-| Classement par ordre<br>de priorité | Point sensible concerné et principale<br>vulnérabilité | Numéro d'ordre et libellé | Date de mise en œuvre programmée des mesures de sûreté |
+| Numéro d'ordre et libellé | Point sensible concerné | Classement par ordre de priorité | Date de mise en œuvre programmée des mesures de sûreté |
 |  |  |  |  |
 
 4. Organisation générale de la sûreté du port
@@ -127,7 +127,7 @@ Précision sur l'articulation du PSP avec d'autres plans : plans de prévention 
 
 4.4. Protection des plans d'eau
 
--coordination des mesures opérationnelles de protection des plans d'eau entre le préfet de département et le préfet maritime, avec ajout, en annexe, de tout protocole fixant les conditions de surveillance et d'intervention des pelotons de sûreté maritime et portuaire prévus à l'article R. 5332-12 ;
+-coordination des mesures opérationnelles de protection des plans d'eau entre le préfet de département et le préfet maritime, avec ajout, en annexe, de tout protocole fixant les conditions de surveillance et d'intervention des pelotons de sûreté maritime et portuaire prévus à l'article R. 5332-13 ;
 
 -limitations des circulations sur les plans d'eau, lorsqu'elles existent, en fonction des niveaux de sûreté ;
 
@@ -137,7 +137,7 @@ Précision sur l'articulation du PSP avec d'autres plans : plans de prévention 
 
 5. Accès et circulation dans le port
 
-Description des procédures pour l'accès et la circulation dans le port dans les ZAR portuaires et dans les ZNLAP.
+Description des procédures pour l'accès et la circulation dans le port dans les ZAR portuaires et dans les ZPAC.
 
 5.1. Dispositions spécifiques aux ZAR portuaires
 
@@ -151,7 +151,7 @@ Identification de chaque ZAR avec les informations suivantes :
 
 -catégories de personnel et d'activités concernés ;
 
--flux d'entrée et nombre de titres de titres de circulation permanents et temporaires selon les catégories de personnes habilitées à pénétrer dans la ZAR ;
+-flux d'entrée et nombre de titres d'accès “permanents” et “temporaires” selon les catégories de personnes habilitées à pénétrer dans la ZAR ;
 
 -schéma de circulation, avec une attention particulière portée aux circulations entre les ZAR extérieures aux installations portuaires et les ZAR situées dans une installation portuaire auxquelles elles donnent, le cas échéant, accès.
 
@@ -177,11 +177,11 @@ h) Procédures d'entretien des clôtures, points d'accès, équipements d'inspec
 
 i) Procédures appliquées en cas d'incident de sûreté (pénétration irrégulière, panne des équipements d'inspection-filtrage, détérioration de clôtures, etc.).
 
-5.1.3. Gestion des titres de circulation
+5.1.3. Gestion des titres d'accès
 
--procédures de délivrance et restitution des titres de circulation ;
+-procédures de délivrance et restitution des titres d'accès ;
 
--méthodes d'information et de sensibilisation aux règles de sûreté pour les personnes recevant des titres de circulation permanents et temporaires ;
+-méthodes d'information et de sensibilisation aux règles de sûreté pour les personnes recevant des titres d'accès “permanents” et “temporaires” ;
 
 -procédures de coordination, le cas échéant, entre les ZAR situées en dehors d'une installation portuaire et les ZAR situées dans une installation portuaire ;
 
@@ -189,13 +189,13 @@ i) Procédures appliquées en cas d'incident de sûreté (pénétration irrégul
 
 -procédures de désactivation des titres permanents inutilisés ;
 
--détail de la répartition des tâches avec les exploitants d'installation portuaire en cas de mutualisation de la délivrance des titres de circulation avec mention de la référence précise des parties du PSIP concernées dans lesquelles figure la procédure de délivrance.
+-détail de la répartition des tâches avec les exploitants d'installation portuaire en cas de mutualisation de la délivrance des titres d'accès avec mention de la référence précise des parties du PSIP concernées dans lesquelles figure la procédure de délivrance.
 
-5.2. Dispositions spécifiques aux ZNLAP
+5.2. Dispositions spécifiques aux ZPAC
 
-Description (plan, clôtures, accès) des ZNLAP qui ne sont pas des ZAR telles que définies aux articles R. 5332-30 et R. 5332-31 et où ne sont pas applicables les articles R. 5332-32 à R. 5332-44 et détail de leurs règles de fonctionnement (contrôles d'accès, circulation) et des articulations avec les règles de sûreté du port et des ZAR adjacentes, en démontrant que la sûreté du port dans son ensemble et de chaque installation portuaire adjacente n'est pas dégradée, quel que soit le niveau de sûreté.
+Description (plan, clôtures, accès) des ZPAC qui ne sont pas des ZAR telles que définies aux articles R. 5332-56 et R. 5332-57 et où ne sont pas applicables les articles R. 5332-58 à R. 5332-61 et détail de leurs règles de fonctionnement (contrôles d'accès, circulation) et des articulations avec les règles de sûreté du port et des ZAR adjacentes, en démontrant que la sûreté du port dans son ensemble et de chaque installation portuaire adjacente n'est pas dégradée, quel que soit le niveau de sûreté.
 
-5.3. Dispositions communes aux ZAR et aux ZNLAP dans un port comprenant un ou des points d'importance vitale
+5.3. Dispositions communes aux ZAR et aux ZPAC dans un port comprenant un ou des points d'importance vitale
 
 Renseignement de l'annexe 10.5 si le port ou une partie du port est désigné point d'importance vitale au titre du code de la défense et de la réglementation relative aux secteurs d'activité d'importance vitale.
 
@@ -479,7 +479,7 @@ ANNEXE À RENSEIGNER SI LE PORT OU UNE PARTIE DU PORT EST DÉSIGNÉ(E) POINT D'I
 
 - effectif des personnels (employés et des sous-traitants) travaillant dans le point d'importance vitale (personnel d'exécution, cadres, nombre d'étrangers de l'Union européenne et hors Union européenne).
 
-5.1. Dispositions communes aux ZAR et aux ZNLAP dans un port comprenant un ou des points d'importance vitale
+5.1. Dispositions communes aux ZAR et aux ZPAC dans un port comprenant un ou des points d'importance vitale
 
 - équipes de protection et de gardiennage (effectif et formation des personnels, organisation du gardiennage et des rondes, postes tenus et moyens complémentaires (dénomination sociale du prestataire en cas de sous-traitance) ;
 

@@ -1,6 +1,6 @@
 # Article Annexe à l'article A. 5332-500
 
-RÉFÉRENTIEL NATIONALE DE FORMATION EN SÛRETÉ PORTUAIRE - FORMATION « AGENT CHARGÉ DES CONTRÔLES ET VÉRIFICATIONS DE SÛRETÉ (ACVS) »
+RÉFÉRENTIEL NATIONALE DE FORMATION EN SÛRETÉ PORTUAIRE - FORMATION "AGENT CHARGÉ DES CONTRÔLES ET VÉRIFICATIONS DE SÛRETÉ (ACVS)"
 
 Avertissement concernant la durée de la formation :
 
@@ -16,7 +16,7 @@ Avertissement concernant la durée de la formation :
 | -- | -- | -- |
 | L'objectif de ce module est l'acquisition de connaissances concernant la réglementation relative à la sûreté portuaire et, notamment, la réglementation nationale relative aux contrôles de sûreté, en référence aux textes mentionnés ci-après. |  |  |
 | Sous-module A1 - Réglementation internationale relative à la sûreté portuaire |  | Durée : 15 à 30 minutes |
-| Convention internationale pour la sauvegarde de la vie humaine en mer « SOLAS » conclue à LONDRES le 1er novembre 1974 et amendements à l'annexe à cette convention, ensemble un code international pour la sûreté des navires et des installations portuaires (code ISPS), adoptés à Londres le 12 décembre 2002. | Connaissances générales permettant la compréhension des objectifs et principes du système international de sûreté portuaire. |  |
+| Convention internationale pour la sauvegarde de la vie humaine en mer "SOLAS" conclue à LONDRES le 1er novembre 1974 et amendements à l'annexe à cette convention, ensemble un code international pour la sûreté des navires et des installations portuaires (code ISPS), adoptés à Londres le 12 décembre 2002. | Connaissances générales permettant la compréhension des objectifs et principes du système international de sûreté portuaire. |  |
 | Sous-module A2 - Réglementation européenne relative à la sûreté portuaire |  | Durée : 30 à 45 minutes |
 | Règlement (CE) n° 725/2004 du Parlement européen et du Conseil du 31 mars 2004 (modifié) relatif à l'amélioration de la sûreté des navires et des installations portuaires | Connaissances générales permettant la compréhension des objectifs et principes du système européen de sûreté portuaire. |  |
 | Règlement (CE) n° 324/2008 de la Commission du 9 avril 2008 (modifié) établissant les procédures révisées pour la conduite des inspections effectuées par la Commission dans le domaine de la sûreté maritime | Connaissances générales permettant la compréhension des objectifs et principes de l'inspection d'un port, d'une installation portuaire et d'un navire. |  |
@@ -35,7 +35,7 @@ Avertissement concernant la durée de la formation :
 | Sous-module B1 - Acteurs institutionnels nationaux centraux |  | Durée : 15 à 30 minutes |
 | Services de l'Etat centraux en charge notamment des contrôles de sûreté, des contrôles aux frontières, des audits nationaux de sûreté portuaire, des enquêtes administratives de sécurité, de la prévention et de la lutte contre la corruption. | Connaissances générales permettant la compréhension de l'environnement professionnel des agents chargés des vérifications et contrôles de sûreté en articulation avec leurs missions. |  |
 | Sous-module B2 - Acteurs institutionnels nationaux locaux |  | Durée : 45 minutes à 1 heure |
-| Services de l'Etat territoriaux : préfet de département et référent départemental pour la sûreté portuaire ; préfet maritime et gendarmerie maritime (notamment pelotons de sûreté maritime et portuaire « PSMP ») ; forces de sécurité intérieure (police aux frontières, sécurité publique, gendarmerie nationale, douanes). | Connaissances générales permettant la compréhension de l'environnement professionnel des agents chargés des vérifications et contrôles de sûreté en articulation avec leurs missions. |  |
+| Services de l'Etat territoriaux : préfet de département et référent départemental pour la sûreté portuaire ; préfet maritime et gendarmerie maritime (notamment pelotons de sûreté maritime et portuaire "PSMP") ; forces de sécurité intérieure (police aux frontières, sécurité publique, gendarmerie nationale, douanes). | Connaissances générales permettant la compréhension de l'environnement professionnel des agents chargés des vérifications et contrôles de sûreté en articulation avec leurs missions. |  |
 | Sous-module B3 - Acteurs non institutionnels |  | Durée : 30 à 45 minutes |
 | Compagnies maritimes (ASC, ASN, capitaines de navires) | Connaissances générales permettant la compréhension de l'environnement professionnel des agents chargés des vérifications et contrôles de sûreté en articulation avec leurs missions. |  |
 | Autorités portuaires |  |  |
@@ -59,7 +59,7 @@ Avertissement concernant la durée de la formation :
 | Navire | Connaissances générales permettant la compréhension des finalités de chaque zonage et leur articulation entre eux. |  |
 | Installation portuaire |  |  |
 | Zone à accès restreint (ZAR) |  |  |
-| Zone non librement accessible au public (ZNLAP) |  |  |
+| Zone portuaire à accès contrôlés (ZPAC) |  |  |
 | Autres zones (zones intégrées de sûreté portuaire, quais publics, etc.) |  |  |
 | Limites portuaires de sûreté |  |  |
 | Sous-module C4 - Contrôles de sûreté |  | Durée : 15 à 30 minutes |

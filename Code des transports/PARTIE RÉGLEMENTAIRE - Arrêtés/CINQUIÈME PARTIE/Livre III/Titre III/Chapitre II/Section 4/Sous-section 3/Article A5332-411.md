@@ -1,6 +1,6 @@
 # Article A5332-411
 
-Le plan de sûreté de l'installation portuaire, après avoir été approuvé dans les conditions prévues à l'article R. 5332-25, est notifié à l'exploitant de l'installation portuaire, à l'autorité portuaire, au ministre chargé des transports et à tout service territorial des forces de sécurité intérieure ayant à en connaître sous le régime de confidentialité CONFIDENTIEL SÛRETÉ PORTUAIRE
+Le plan de sûreté de l'installation portuaire, après avoir été approuvé dans les conditions prévues au I. de l'article R. 5332-46, est notifié à l'exploitant de l'installation portuaire, à l'autorité portuaire, au ministre chargé des transports et à tout service territorial des forces de sécurité intérieure ayant à en connaître sous le régime de confidentialité CONFIDENTIEL SÛRETÉ PORTUAIRE
 
 Lorsque le plan de sûreté de l'installation portuaire comporte des informations relevant de la protection du secret de la défense nationale, celles-ci font l'objet d'une annexe distincte, classifiée SECRET et communiquée aux seules personnes habilitées pour en connaître au titre de la protection du secret de la défense nationale.
 

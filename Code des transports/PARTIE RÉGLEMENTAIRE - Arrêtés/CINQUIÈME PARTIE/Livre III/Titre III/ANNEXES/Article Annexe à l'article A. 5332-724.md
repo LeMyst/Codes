@@ -1,6 +1,6 @@
 # Article Annexe à l'article A. 5332-724
 
-COMPOSITION DU RAPPORT D'ACTIVITÉ PRÉVU À L'ARTICLE R. 5332-63
+COMPOSITION DU RAPPORT D'ACTIVITÉ PRÉVU À L'ARTICLE R. 5332-83
 
 Le rapport annuel d'activité d'un organisme de sûreté habilité est conforme au modèle suivant :
 
@@ -16,7 +16,7 @@ Montant du chiffre d'affaires global figurant aux trois derniers bilans annuels 
 
 Partie n° 2. - Informations relatives aux collaborateurs de l'organisme
 
-2.1. Liste exhaustive et nominative des collaborateurs, titulaires d'un agrément individuel au titre de l'article R. 5332-64, appelés à participer à la réalisation des évaluations et des plans de sûreté des navires, ports et installations portuaires, avec mention du lien juridique les unissant à la société (salarié, consultant, auto-entrepreneur, etc.) ;
+2.1. Liste exhaustive et nominative des collaborateurs, titulaires d'un agrément individuel au titre du 8° de l'article R. 5332-62, appelés à participer à la réalisation des évaluations et des plans de sûreté des navires, ports et installations portuaires, avec mention du lien juridique les unissant à la société (salarié, consultant, auto-entrepreneur, etc.) ;
 
 2.2. Dates de délivrance et d'échéance des agréments individuels ;
 

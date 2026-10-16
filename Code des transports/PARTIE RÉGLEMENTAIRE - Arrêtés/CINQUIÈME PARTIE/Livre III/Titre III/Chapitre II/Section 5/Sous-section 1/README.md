@@ -1,4 +1,4 @@
-# Sous-section 1 : Formation aux contrôles de sûreté
+# Sous-section 1 : Agents chargés des contrôles et vérifications de sûreté
 
 - [Article A5332-500](Article%20A5332-500.md)
 - [Article A5332-501](Article%20A5332-501.md)

@@ -28,7 +28,7 @@ Il cesse d'être valable dès la survenance d'un événement suivant :
 
 Le titre d'accès “provisoire” a une durée de validité d'un mois, renouvelable cinq fois dans la limite de six mois consécutifs.
 
-Il cesse d'être valable dès la délivrance d'un titre d'accès “permanent” ou “temporaire” ;
+Il cesse d'être valable dès la délivrance d'un titre d'accès “permanent” ou “temporaire” ou en cas de refus de délivrance par le préfet de département de l'autorisation, des agréments ou des habilitations mentionnés à l'article R. 5332-62 ;
 
 II. - Les documents ou supports suivants matérialisent également l'autorisation d'accès des véhicules aux zones à accès restreint, installations portuaires et, le cas échéant, zones portuaires à accès contrôlés, mentionnées à l'article A. 5332-615, ainsi qu'à bord des navires qui y sont accueillis :
 

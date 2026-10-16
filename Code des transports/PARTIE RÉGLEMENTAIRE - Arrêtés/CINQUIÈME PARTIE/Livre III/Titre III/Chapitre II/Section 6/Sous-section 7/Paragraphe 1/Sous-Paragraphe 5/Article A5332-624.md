@@ -10,7 +10,7 @@ L'exploitant ou le service désigné pour l'instruction de la demande vérifie l
 
 1° Pour les demandes de titres d'accès “permanent” ou “temporaire” de personnes soumises aux modalités spécifiques du I de l'article R. 5332-69, dépose une demande d'autorisation dans le traitement de données à caractère personnel mentionné à l'article A. 5332-600.
 
-2° Pour les demandes de titres d'accès “permanent” ou “temporaire” de véhicules sollicitées par une personne dont l'accès est soumis aux modalités spécifiques du I de l'article R. 5332-69, vérifie dans le traitement de données à caractère personnel mentionné à l'article A. 5332-600 l'existence et la validité de l'autorisation dont bénéficie le conducteur du véhicule pour lequel est effectuée la demande l'article A. 5332-600.
+2° Pour les demandes de titres d'accès “permanent” ou “temporaire” de véhicules sollicitées par une personne dont l'accès est soumis aux modalités spécifiques du I de l'article R. 5332-69, vérifie dans le traitement de données à caractère personnel mentionné à l'article A. 5332-600 l'existence et la validité de l'autorisation dont bénéficie le conducteur du véhicule pour lequel est sollicitée la demande.
 
 En cas de demande commune à plusieurs zones à accès restreint ou à plusieurs installations portuaires susmentionnées, le service désigné assurant l'instruction recueille, pour chaque exploitant d'installation portuaire concerné, son accord formel écrit. Cette demande d'accord est formulée dans un délai maximum de huit jours après la réception de la demande.
 

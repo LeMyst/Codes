@@ -2,7 +2,7 @@
 
 Pour l'application du premier alinéa de l'article D. 461-30 du code de la sécurité sociale, le dossier est rapporté devant le comité par le médecin-conseil qui a examiné la victime ou qui a statué sur son taux d'incapacité permanente, ou par le médecin-conseil qu'il a désigné pour le représenter.
 
-Pour l'application du deuxième alinéa de l'article D. 461-30 du code de la sécurité sociale, le comité peut prendre l'avis d'un conseiller en prévention ou et d'un médecin du travail de la caisse de mutualité sociale agricole territorialement compétente.
+Pour l'application du deuxième alinéa de l'article D. 461-30 du code de la sécurité sociale, le comité peut prendre l'avis d'un conseiller en prévention ou d'un médecin du travail de la caisse de mutualité sociale agricole territorialement compétente.
 
 Le comité peut entendre la victime ou ses représentants s'il l'estime nécessaire.
 

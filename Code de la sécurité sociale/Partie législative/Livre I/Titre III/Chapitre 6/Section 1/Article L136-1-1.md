@@ -1,10 +1,10 @@
 # Article L136-1-1
 
-I.-La contribution prévue à l'article L. 136-1 est due sur toutes les sommes, ainsi que les avantages et accessoires en nature ou en argent qui y sont associés, dus en contrepartie ou à l'occasion d'un travail, d'une activité ou de l'exercice d'un mandat ou d'une fonction élective, quelles qu'en soient la dénomination ainsi que la qualité de celui qui les attribue, que cette attribution soit directe ou indirecte.
+I. - La contribution prévue à l'article L. 136-1 est due sur toutes les sommes, ainsi que les avantages et accessoires en nature ou en argent qui y sont associés, dus en contrepartie ou à l'occasion d'un travail, d'une activité ou de l'exercice d'un mandat ou d'une fonction élective, quelles qu'en soient la dénomination ainsi que la qualité de celui qui les attribue, que cette attribution soit directe ou indirecte.
 
 Ne constituent pas un revenu d'activité les remboursements effectués au titre de frais professionnels correspondant dans les conditions et limites fixées par arrêté des ministres chargés de la sécurité sociale et du budget à des charges de caractère spécial inhérentes à la fonction ou à l'emploi des travailleurs salariés ou assimilés que ceux-ci supportent lors de l'accomplissement de leurs missions.
 
-II.-L'assiette de la contribution inclut notamment :
+II. - L'assiette de la contribution inclut notamment :
 
 1° Les revenus professionnels des travailleurs indépendants, dans les conditions définies par les articles L. 136-3 et L. 136-4 ;
 
@@ -28,7 +28,7 @@ e) Les allocations versées à l'issue des mandats locaux par le fonds mentionn�
 
 7° La rémunération des apprentis mentionnée à l'article L. 6221-1 du code du travail pour la part excédant 50 % du salaire minimum de croissance.
 
-III.-Par dérogation au I, sont exclus de l'assiette de la contribution mentionnée à l'article L. 136-1 les revenus suivants :
+III. - Par dérogation au I, sont exclus de l'assiette de la contribution mentionnée à l'article L. 136-1 les revenus suivants :
 
 1° a) (Abrogé).
 
@@ -78,7 +78,7 @@ c) L'aide financière du comité social et économique de l'entreprise ou celle 
 
 d) L'avantage résultant de la prise en charge obligatoire par l'employeur des frais de transports publics dans les conditions prévues à l'article L. 3261-2 du même code ;
 
-e) L'avantage résultant de la prise en charge par l'employeur des frais de carburant ou des frais exposés pour l'alimentation de véhicules électriques engagés par les salariés dans les conditions prévues à l'article L. 3261-3 du même code et des frais mentionnés à l'article L. 3261-3-1 du même code, dans les limites prévues au b du 19° ter de l'article 81 du code général des impôts, ainsi que l'avantage mentionné au c du même 19° ter, dans la limite prévue au même c ;
+e) L'avantage résultant de la prise en charge par l'employeur des frais de carburant ou des frais exposés pour l'alimentation de véhicules électriques engagés par les salariés dans les conditions prévues à l'article L. 3261-3 du même code et des frais mentionnés à l'article L. 3261-3-1 du même code, dans les limites fixées par décret ainsi que l'avantage mentionné au c du même 19° ter, dans la limite fixée par décret ;
 
 f) Afin de favoriser le développement du sport en entreprise, les avantages que représentent pour ses salariés la mise à disposition par l'employeur d'équipements sportifs à usage collectif et le financement de prestations sportives à destination de l'ensemble de ses salariés, dans des conditions et limites prévues par décret ;
 

@@ -152,3 +152,13 @@ NOTA:
 Conformément au A du II de l'article 22 de la loi n° 2026-103 du 19 février 2026, ces dispositions, dans leur rédaction résultant du I du même article, s'appliquent aux versements effectués à compter du lendemain de la publication de la présente loi.
 
 Conformément au B du II de l'article 22 de la loi n° 2026-103 du 19 février 2026, par dérogation au A du présent II, le 1° du A du I, en ce qui concerne les souscriptions soit de parts de fonds d'investissement de proximité prévues au présent VI, soit au capital d'entreprises d'utilité sociale dans les conditions prévues à l'article 199 terdecies-0 AA du du code général des impôts, soit de parts de fonds communs de placement dans l'innovation dans les conditions prévues au dernier alinéa du I de l'article 199 terdecies-0 A bis dudit code, le dernier alinéa du c du 2° du A et le B du I du présent article s'appliquent aux versements effectués à compter d'une date fixée par décret, qui ne peut être postérieure de plus de deux mois à la date de la décision de la Commission européenne permettant de considérer la disposition lui ayant été notifiée comme étant conforme au droit de l'Union européenne.
+
+Conformément à l'article 26 de la loi n° 2026-103 du 19 février 2026 :
+
+II. - Par dérogation au I de l'article 199 terdecies-0 A du code général des impôts, le taux de la réduction d'impôt sur le revenu en raison des versements effectués jusqu'au 31 décembre 2027 au titre des souscriptions réalisées en application de l'article 199 terdecies-0 AA du même code est fixé à 25 %.
+
+III. - A. - Sous la réserve mentionnée au B du présent III, les I et II s'appliquent aux versements effectués à compter du 1er janvier 2026.
+
+B. - Pour les versements effectués à compter du 1er octobre 2026, le II s'applique à compter d'une date fixée par décret, qui ne peut être postérieure de plus de deux mois à la date de la décision de la Commission européenne permettant de considérer la disposition lui ayant été notifiée comme étant conforme au droit de l'Union européenne en matière d'aides d'Etat.
+
+Conformément au premier alinéa, au 1°, au 2° et au 4° de l'article 1<sup>er</sup> du décret n° 2026-968 du 20 octobre 2026, la date prévue par les B du II de l'article 22 et II et III de l'article 26 de la loi n° 2026-103 du 19 février 2026 est celle du lendemain de la publication du décret précité, à savoir le 22 octobre 2026.

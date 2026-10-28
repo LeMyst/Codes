@@ -64,3 +64,7 @@ En ce qui concerne les personnes mentionnées aux 1°, 2° et 3° du présent ar
 
 NOTA:
 Conformément à la formule exécutoire de la loi n° 2025-1403 du 30 décembre 2025, ces dispositions, dans leur rédaction résultant de la loi précitée, entrent en vigueur immédiatement.
+
+Conformément à l'article 3 de l'ordonnance n° 2016-301 du 14 mars 2016, la référence à l'article L. 932-1 du code du travail est remplacée par des références aux articles L. 6321-2, L. 6321-3, L. 6321-4, L. 6321-5, L. 6321-6, L. 6321-10, L. 6321-12, L. 6331-5, L. 6331-26, L. 6321-11,L. 6321-7, L. 6321-12, L. 6321-8, L. 6321-9, L. 6321-11, R. 6321-4, D. 6321-5 et D. 6321-8 du code du travail.
+
+Vous pouvez consulter depuis ce lien les tables de concordance du Code du travail.

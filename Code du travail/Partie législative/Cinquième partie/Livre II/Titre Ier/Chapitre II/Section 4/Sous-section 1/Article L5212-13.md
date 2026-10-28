@@ -20,6 +20,6 @@ Bénéficient de l'obligation d'emploi instituée par l'article L. 5212-2 :
 
 9° Les titulaires d'une allocation ou d'une rente d'invalidité attribuée dans les conditions définies par la loi n° 91-1389 du 31 décembre 1991 relative à la protection sociale des sapeurs-pompiers volontaires en cas d'accident survenu ou de maladie contractée en service ;
 
-10° Les titulaires de la carte “ mobilité inclusion ” portant la mention “ invalidité ” définie à l'article L. 241-3 du code de l'action sociale et des familles ;
+10° Les titulaires de la carte "mobilité inclusion" portant la mention "invalidité" définie à l'article L. 241-3 du code de l'action sociale et des familles ;
 
 11° Les titulaires de l'allocation aux adultes handicapés.

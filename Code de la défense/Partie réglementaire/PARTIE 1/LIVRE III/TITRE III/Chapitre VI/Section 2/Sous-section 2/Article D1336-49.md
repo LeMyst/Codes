@@ -2,7 +2,7 @@
 
 I.-L'obligation totale de stockage stratégique à la charge de chaque opérateur mentionné aux II et III du présent article est la somme des obligations élémentaires résultant des opérations prévues à l'article L. 642-2 du code de l'énergie, qu'il a réalisées au cours de l'année civile précédente. La nouvelle obligation entre en vigueur le 1er juillet de l'année suivant l'année de référence.
 
-II.-Les opérateurs pétroliers agréés mentionnés à l'article L. 642-7 du code de l'énergie s'acquittent de l'obligation définie au 1° du même article, au choix, à raison de 44 % ou 10 % de leur obligation de stockage.
+II.-Les opérateurs pétroliers agréés mentionnés à l'article L. 642-7 du code de l'énergie s'acquittent de l'obligation définie au 1° du même article, au choix, à raison de 48,1 % ou 10,9 % de leur obligation de stockage.
 
 Les opérateurs pétroliers agréés qui optent pour un taux le font pour une durée qui ne peut être inférieure à deux ans, et en observant un préavis de six mois.
 

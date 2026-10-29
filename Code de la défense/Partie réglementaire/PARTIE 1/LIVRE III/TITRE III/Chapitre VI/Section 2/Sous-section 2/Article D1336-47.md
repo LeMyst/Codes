@@ -4,7 +4,7 @@ Les quantités de produits pétroliers qui font l'objet de l'obligation de stock
 
 1° Le volume des stocks stratégiques que chaque opérateur est tenu de constituer et de conserver en proportion des quantités de produits ayant fait l'objet des opérations mentionnées à l'article L. 642-2 du code de l'énergie est fixé :
 
-a) Pour la France métropolitaine à 29,5 % ;
+a) Pour la France métropolitaine à 27 % ;
 
 b) En Guadeloupe, en Guyane, en Martinique, à La Réunion et à Mayotte, par arrêté ministériel ;
 

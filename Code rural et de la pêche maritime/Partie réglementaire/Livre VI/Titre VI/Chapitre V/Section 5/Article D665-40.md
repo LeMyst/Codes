@@ -10,4 +10,6 @@ Pour le secteur du vin, sont mises en œuvre les types d'interventions suivants 
 
 4° Types d'interventions relatifs à l'information dans les Etats membres de l'Union européenne ;
 
-5° Types d'interventions relatifs à la promotion dans les pays tiers.
+5° Types d'interventions relatifs à la promotion dans les pays tiers ;
+
+6° Types d'interventions relatifs à la promotion de l'œnotourisme dans les régions de production.

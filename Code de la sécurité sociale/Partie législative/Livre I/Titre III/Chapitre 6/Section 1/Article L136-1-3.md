@@ -42,4 +42,6 @@ II.-Ne sont pas non plus assujettis :
 
 5° Les mesures de réparation instaurées en faveur des victimes de persécutions ou d'actes de barbarie durant la Deuxième Guerre mondiale ou de leurs ayants droit ;
 
-6° La somme forfaitaire valant réparation prévue à l'article 3 de la loi n° 2022-229 du 23 février 2022 portant reconnaissance de la Nation envers les harkis et les autres personnes rapatriées d'Algérie anciennement de statut civil de droit local et réparation des préjudices subis par ceux-ci et leurs familles du fait de l'indignité de leurs conditions d'accueil et de vie dans certaines structures sur le territoire français.
+6° La somme forfaitaire valant réparation prévue à l'article 3 de la loi n° 2022-229 du 23 février 2022 portant reconnaissance de la Nation envers les harkis et les autres personnes rapatriées d'Algérie anciennement de statut civil de droit local et réparation des préjudices subis par ceux-ci et leurs familles du fait de l'indignité de leurs conditions d'accueil et de vie dans certaines structures sur le territoire français ;
+
+8° La somme forfaitaire valant réparation prévue à l'article 3 de la loi n° 2026-1008 du 29 octobre 2026 portant reconnaissance de la Nation envers les rapatriés d'Indochine et réparation des préjudices subis par ceux-ci et leurs familles du fait de l'indignité de leurs conditions d'accueil et de vie dans certaines structures sur le territoire français.

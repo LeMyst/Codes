@@ -26,6 +26,8 @@ c. L'allocation prévue à l'article 133 de la loi n° 2015-1785 du 29 décembre
 
 d. La somme forfaitaire valant réparation prévue à l'article 3 de la loi n° 2022-229 du 23 février 2022 portant reconnaissance de la Nation envers les harkis et les autres personnes rapatriées d'Algérie anciennement de statut civil de droit local et réparation des préjudices subis par ceux-ci et leurs familles du fait de l'indignité de leurs conditions d'accueil et de vie dans certaines structures sur le territoire français ;
 
+d bis. La somme forfaitaire valant réparation prévue à l'article 3 de la loi n° 2026-1008 du 29 octobre 2026 portant reconnaissance de la Nation envers les rapatriés d'Indochine et réparation des préjudices subis par ceux-ci et leurs familles du fait de l'indignité de leurs conditions d'accueil et de vie dans certaines structures sur le territoire français ;
+
 e. Les rentes ou capitaux versés en application du décret n° 2000-657 du 13 juillet 2000 instituant une mesure de réparation pour les orphelins dont les parents ont été victimes de persécutions antisémites ou du décret n° 2004-751 du 27 juillet 2004 instituant une aide financière en reconnaissance des souffrances endurées par les orphelins dont les parents ont été victimes d'actes de barbarie durant la Deuxième Guerre mondiale ;
 
 4° bis Les prestations de retraite versées sous forme de capital :

@@ -106,7 +106,9 @@ I. - Sont applicables en Polynésie française, sous réserve des adaptations pr
 | D. 636-78 à D. 636-81 | Résultant du décret n° 2018-633 du 18 juillet 2018 |
 | D. 636-85 à D. 636-87, à l'exception du 7° et du dernier alinéa | Résultant du décret n° 2026-130 du 20 février 2026 |
 | D. 642-1 à D. 642-4<br>D. 642-11 à D. 642-13 | Résultant du décret n° 2013-756 du 19 août 2013 |
-| D. 642-14 et D. 642-15<br>D. 642-17 à D. 642-31 | Résultant du décret n° 2025-144 du 17 février 2025 |
+| D. 642-14 et D. 642-15<br>D. 642-17 à D. 642-28 | Résultant du décret n° 2025-144 du 17 février 2025 |
+| D. 642-29 | Résultant du décret n° 2026-1012 du 28 octobre 2026 |
+| D. 642-30 et D. 642-31 | Résultant du décret n° 2025-144 du 17 février 2025 |
 | D. 642-33 | Résultant du décret n° 2013-756 du 19 août 2013 |
 | D. 642-34 | Résultant du décret n° 2020-1692 du 22 décembre 2020 |
 | D. 642-35 à D. 642-39 | Résultant du décret n° 2018-367 du 18 mai 2018 |

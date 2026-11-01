@@ -4,7 +4,7 @@ La valeur du risque telle que mentionnée à l'article D. 242-6-4 pour le calcul
 
 1° Le produit du nombre total d'accidents du travail ou de maladies professionnelles déclarés pendant la période triennale de référence ayant donné lieu à des soins ou ayant entraîné un arrêt de travail par le coût moyen de la catégorie dans laquelle est rattaché chaque accident ou chaque maladie ;
 
-2° Le produit du nombre total d'accidents du travail ou de maladies professionnelles ayant donné lieu à la notification, pendant la période triennale de référence, soit de la reconnaissance du caractère professionnel du décès de la victime, soit d'un taux d'incapacité permanente par le coût moyen de la catégorie dans laquelle est rattaché chaque accident ou chaque maladie.
+2° Le produit du nombre total d'accidents du travail ou de maladies professionnelles ayant donné lieu à la notification, pendant la période triennale de référence, soit de la reconnaissance du caractère professionnel du décès de la victime, soit d'un taux d'incapacité permanente professionnelle par le coût moyen de la catégorie dans laquelle est rattaché chaque accident ou chaque maladie.
 
 Les accidents du travail et maladies professionnelles sont classés en six catégories d'incapacité temporaire et en quatre catégories d'incapacité permanente pour lesquelles sont calculés des coûts moyens.
 
@@ -39,3 +39,6 @@ Pour les entreprises de bâtiment et de travaux publics, les catégories d'incap
 -incapacité permanente ou décès pour les activités de second œuvre ;
 
 -incapacité permanente ou décès pour les activités de bureaux.
+
+NOTA:
+Conformément à l'article 3 du décret n° 2026-355 du 7 mai 2026, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur le 1er novembre 2026.

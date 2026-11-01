@@ -52,7 +52,7 @@ k) Les périodes de stage suivantes, mentionnées au 9° de l'article L. 351-3 :
 
 -les stages d'initiation à la vie professionnelle, prévus à l'article L. 980-9 du code du travail, dans sa rédaction antérieure à la loi n° 91-1405 du 31 décembre 1991 relative à la formation professionnelle et à l'emploi :
 
-5°) pour les bénéficiaires de la législation sur les accidents du travail, les dispositions des 1° ou 3° ci-dessus sont applicables selon que l'assuré a perçu des indemnités journalières au titre de l'incapacité temporaire ou une rente pour une incapacité permanente au moins égale à 66 % ;
+5°) pour les bénéficiaires de la législation sur les accidents du travail, les dispositions des 1° ou 3° ci-dessus sont applicables selon que l'assuré a perçu des indemnités journalières au titre de l'incapacité temporaire ou une rente pour une incapacité permanente professionnelle au moins égale à 66 % ;
 
 6°) les périodes pendant lesquelles l'assuré a été présent sous les drapeaux pour son service militaire légal, par suite de mobilisation ou comme volontaire en temps de guerre, sont retenues de date à date, le nombre de trimestres valables correspondant étant, éventuellement, arrondi au chiffre immédiatement supérieur.
 
@@ -79,4 +79,4 @@ Toutefois, les périodes prévues aux 1°, 2° et 3° ne peuvent être comptées
 L'application des dispositions du présent article ne peut avoir pour effet de porter à un chiffre supérieur à quatre le nombre de trimestres d'assurance valable au titre d'une même année civile.
 
 NOTA:
-Conformément au premier alinéa de l’article 5 du décret n°2026-425 du 30 mars 2026, ces dispositions, dans leur rédaction résultant dudit décret, entrent en vigueur le 1er juillet 2026.
+Conformément à l'article 3 du décret n° 2026-354 du 7 mai 2026, ces dispositions, dans leur rédaction issue dudit décret, entrent en vigueur le 1er novembre 2026 dans les conditions prévues à l'article 90 de la loi n° 2025-199 du 28 février 2025.

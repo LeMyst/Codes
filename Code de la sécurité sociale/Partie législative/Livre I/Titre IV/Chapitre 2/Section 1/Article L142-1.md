@@ -10,7 +10,7 @@ Le contentieux de la sécurité sociale comprend les litiges relatifs :
 
 4° A l'état ou au degré d'invalidité, en cas d'accident ou de maladie non régie par le livre IV du présent code, et à l'état d'inaptitude au travail ;
 
-5° A l'état d'incapacité permanente de travail, notamment au taux de cette incapacité, en cas d'accident du travail ou de maladie professionnelle ;
+5° A l'état d'incapacité permanente, notamment aux taux de cette incapacité, en cas d'accident du travail ou de maladie professionnelle ;
 
 6° A l'état ou au degré d'invalidité, en cas d'accidents ou de maladies régies par les titres III, IV et VI du livre VII du code rural et de la pêche maritime, à l'état d'inaptitude au travail ainsi que, en cas d'accidents du travail ou de maladies professionnelles régies par les titres V et VI du même livre VII, à l'état d'incapacité permanente de travail, notamment au taux de cette incapacité ;
 
@@ -21,4 +21,4 @@ Le contentieux de la sécurité sociale comprend les litiges relatifs :
 9° Aux décisions du président du conseil départemental mentionnées à l'article L. 241-3 du même code relatives aux mentions “ invalidité ” et “ priorité ”.
 
 NOTA:
-Conformément à l’article 96, VII de la loi n° 2019-222 du 23 mars 2019, ces dispositions sont applicables aux recours préalables et aux recours juridictionnels introduits à compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 1er janvier 2020.
+Conformément au V de l'article 90 de la loi n° 2025-199 du 28 février 2025, dans sa rédaction résultant du I de l'article 95 de la loi n° 2025-1403 du 30 décembre 2025, le I de l'article précité entre en vigueur à une date fixée par décret, et au plus tard le 1<sup>er</sup> novembre 2026. Il s'applique aux victimes dont l'état est consolidé à compter de cette date.

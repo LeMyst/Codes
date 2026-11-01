@@ -12,13 +12,11 @@ Est présumée d'origine professionnelle toute maladie désignée dans un tablea
 
 Si une ou plusieurs conditions tenant au délai de prise en charge, à la durée d'exposition ou à la liste limitative des travaux ne sont pas remplies, la maladie telle qu'elle est désignée dans un tableau de maladies professionnelles peut être reconnue d'origine professionnelle lorsqu'il est établi qu'elle est directement causée par le travail habituel de la victime.
 
-Peut être également reconnue d'origine professionnelle une maladie caractérisée non désignée dans un tableau de maladies professionnelles lorsqu'il est établi qu'elle est essentiellement et directement causée par le travail habituel de la victime et qu'elle entraîne le décès de celle-ci ou une incapacité permanente d'un taux évalué dans les conditions mentionnées à l'article L. 434-2 et au moins égal à un pourcentage déterminé.
+Peut être également reconnue d'origine professionnelle une maladie caractérisée non désignée dans un tableau de maladies professionnelles lorsqu'il est établi qu'elle est essentiellement et directement causée par le travail habituel de la victime et qu'elle entraîne le décès de celle-ci ou une incapacité permanente professionnelle d'un taux évalué dans les conditions mentionnées au deuxième alinéa de l'article L. 434-1 A et au moins égal à un pourcentage déterminé.
 
 Dans les cas mentionnés aux deux alinéas précédents, la caisse primaire reconnaît l'origine professionnelle de la maladie après avis motivé d'un comité régional de reconnaissance des maladies professionnelles. La composition, le fonctionnement et le ressort territorial de ce comité ainsi que les éléments du dossier au vu duquel il rend son avis sont fixés par décret. L'avis du comité s'impose à la caisse dans les mêmes conditions que celles fixées à l'article L. 315-1.
 
 Les pathologies psychiques peuvent être reconnues comme maladies d'origine professionnelle, dans les conditions prévues aux septième et avant-dernier alinéas du présent article. Les modalités spécifiques de traitement de ces dossiers sont fixées par voie réglementaire.
 
 NOTA:
-Conformément au II de l'article 95 de la loi n° 2025-1403 du 31 décembre 2025, ces dispositions, dans leur rédaction résultant du 1° du I dudit article, entrent en vigueur à une date fixée par décret, et au plus tard le 30 septembre 2026.
-
-Conformément à l'article 3 du décret n° 2026-901 du 24 septembre 2026, la date mentionnée à la première phrase du II de l'article 95 de la loi n° 2025-1403 du 31 décembre 2025 est fixée au 30 septembre 2026.
+Conformément au II de l'article 95 de la loi n° 2025-1403 du 31 décembre 2025, ces dispositions, dans leur rédaction résultant du 4° du I dudit article, entrent en vigueur à la date fixée en application du V de l'article 90 de la loi n° 2025-199 du 28 février 2025 de financement de la sécurité sociale pour 2025, dans sa rédaction résultant de l'article 96 de loi n° 2025-1403 du 31 décembre 2025.

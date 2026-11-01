@@ -18,8 +18,11 @@ Le comité économique des produits de santé institué par l'article L. 162-17-
 
 Pour chaque représentant titulaire désigné au titre du 6° et du 7°, deux représentants suppléants peuvent être désignés dans les mêmes conditions que les représentants titulaires. En cas d'empêchement, chaque membre mentionné au 6° peut donner mandat à un autre membre, désigné au titre du même 6°, pour le représenter ; nul ne peut être porteur de plus de deux mandats par séance.
 
-Assistent aux réunions du comité, avec voix consultative, le directeur général de l'offre de soins ou son représentant et un représentant du ministre chargé de la recherche.
+Assistent aux réunions du comité, avec voix consultative, le directeur général de la recherche, de l'innovation et du numérique en santé ou son représentant et un représentant du ministre chargé de la recherche.
 
 En fonction de l'ordre du jour, le président peut associer le directeur général de la cohésion sociale ou son représentant, un représentant du ministre chargé du budget, un représentant du ministre chargé de l'agriculture, un représentant du ministre chargé des petites et moyennes entreprises ou un représentant du ministre chargé des anciens combattants aux travaux du comité et de ses sections, avec voix consultative.
 
 Lorsque l'ordre du jour comporte l'examen de produits ou prestations relevant de l'article L. 165-1 et contribuant à la prise en charge d'une perte d'autonomie, le président peut associer aux travaux du comité et de ses sections, pour le produit ou la prestation concernée, un représentant de la Caisse nationale de solidarité pour l'autonomie, avec voix consultative.
+
+NOTA:
+Conformément à l'article 7 du décret n° 2026-1010 du 28 octobre 2026, ces dispositions, dans leur rédaction résultant dudit décret, entrent en vigueur à compter du 1<sup>er</sup> novembre 2026.

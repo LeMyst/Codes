@@ -20,7 +20,7 @@ II. - L'opérateur de détaxe agréé :
 
 4° Porte à la connaissance de l'autorité administrative, dans un délai d'un mois, toute modification de ses statuts ou tout changement l'empêchant de satisfaire aux critères mentionnés au I ;
 
-5° Justifie de l'exportation des marchandises pour lesquelles le remboursement de la taxe sur la valeur ajoutée est sollicité. ;
+5° Justifie de l'exportation des marchandises pour lesquelles le remboursement de la taxe sur la valeur ajoutée est sollicité.
 
 III. - A. - L'autorité administrative peut, après application de la procédure prévue aux articles L. 122-1 et L. 122-2 du code des relations entre le public et l'administration, prononcer les sanctions prévues aux B à D du présent III.
 

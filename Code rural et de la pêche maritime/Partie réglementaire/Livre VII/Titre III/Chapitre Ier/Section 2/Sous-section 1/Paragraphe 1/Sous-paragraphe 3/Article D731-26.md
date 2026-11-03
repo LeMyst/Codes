@@ -1,6 +1,6 @@
 # Article D731-26
 
-Pour bénéficier de l'option prévue au II de à l'article L. 731-15, les chefs d'exploitation ou d'entreprise agricole doivent déposer une demande d'option auprès de la caisse de mutualité sociale agricole dont ils relèvent, au plus tard le 30 juin. L'option prend effet à compter de l'année au cours de laquelle est intervenue la demande. Ce délai n'est toutefois pas opposable aux personnes mentionnées à l'article D. 731-28 qui sollicitent l'option au moment de leur affiliation au régime de protection sociale des personnes non salariées agricoles.
+Pour bénéficier de l'option prévue au II de l'article L. 731-15, les chefs d'exploitation ou d'entreprise agricole doivent déposer une demande d'option auprès de la caisse de mutualité sociale agricole dont ils relèvent, au plus tard le 30 juin. L'option prend effet à compter de l'année au cours de laquelle est intervenue la demande. Ce délai n'est toutefois pas opposable aux personnes mentionnées à l'article D. 731-28 qui sollicitent l'option au moment de leur affiliation au régime de protection sociale des personnes non salariées agricoles.
 
 L'assuré exerce l'option pour l'ensemble de ses activités non salariées.
 

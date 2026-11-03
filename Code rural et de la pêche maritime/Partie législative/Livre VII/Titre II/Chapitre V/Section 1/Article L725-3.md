@@ -40,8 +40,6 @@ Sans préjudice des dispositions particulières prévoyant d'autres règles d'af
 
 Le solde résultant, pour la caisse centrale de la mutualité sociale agricole, de l'application du présent III, déduction faite des frais de gestion, est affecté aux branches mentionnées aux articles L. 722-8 et L. 722-27, selon une répartition fixée par arrêté des ministres chargés du budget, de la sécurité sociale et de l'agriculture en fonction des soldes prévisionnels de ces branches.
 
-La caisse centrale de la mutualité sociale agricole assure la notification et le versement à chaque attributaire des sommes recouvrées qui lui reviennent.
-
 Par dérogation au onzième alinéa du présent article, le versement est effectué à hauteur du montant des sommes dues par les redevables, après application d'un taux forfaitaire fixé au regard du risque de non-recouvrement d'une partie de ces sommes :
 
 - pour les versements, cotisations et contributions mentionnés aux a, b, c et e du 5° de l'article L. 225-1-1 du code de la sécurité sociale ;
